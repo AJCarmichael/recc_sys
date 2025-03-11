@@ -1,0 +1,581 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+USD,US19PONZ9985598136,Canada,Phillips 66,Energy supply charge,2024-06-01,6665.72,Professional,45
+USD,US19PONZ9985598136,Canada,Johnson & Johnson,Medication purchase,2024-06-01,6691.91,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 51957ef7-3400-4e30-8096-50aaa500c590,2024-06-01,6715.88,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a6f7ac4e-ade4-4251-8b78-0e85c4167ce8,2024-06-01,10624.88,Professional,45
+USD,US19PONZ9985598136,Austria,General Electric,Conglomerate product order,2024-06-01,10667.68,Professional,45
+USD,US19PONZ9985598136,NL,Meta Platforms,Software license fee payment,2024-06-01,10670.46,Professional,45
+USD,US19PONZ9985598136,NL,Gilead Sciences,Clinical trial payment,2024-06-01,10686.96,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 84663f1c-ae63-47b1-b65c-8c13e377b1e8,2024-06-01,14595.96,Professional,45
+USD,US19PONZ9985598136,Germany,Berat Strijker,Family loan repayment,2024-06-01,14672.07,Professional,45
+USD,US19PONZ9985598136,NL,PepsiCo,Food delivery,2024-06-01,14730.75,Professional,45
+USD,US19PONZ9985598136,Great Britain,BMW,Car purchase,2024-06-01,14736.53,Professional,45
+USD,US19PONZ9985598136,Italy,Yasmine Stichter,Reimbursement for groceries,2024-06-01,14778.62,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 044d188c-6d6c-457b-8c3f-3f910ef0f3fc,2024-06-01,18687.62,Professional,45
+USD,US19PONZ9985598136,NL,Nadine Eerden,Rent assistance,2024-06-01,18696.49,Professional,45
+USD,US19PONZ9985598136,Belgium,Vajèn Lelijveld,Personal loan,2024-06-01,18714.98,Professional,45
+USD,US19PONZ9985598136,NL,Honeywell,Business unit invoice,2024-06-01,18771.89,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: f0e2a442-e4ba-4e8b-9b1d-17f5b2903beb,2024-06-01,22680.89,Professional,45
+USD,US19PONZ9985598136,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,22691.67,Professional,45
+USD,US19PONZ9985598136,NL,GlaxoSmithKline,Drug order payment,2024-06-01,22702.12,Professional,45
+USD,US19PONZ9985598136,Great Britain,Kate van der Maes,Child support,2024-06-01,22707.0,Professional,45
+USD,US19PONZ9985598136,NL,Novartis,Drug order payment,2024-06-01,22754.4,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 7a28a2d7-7d25-43cf-8cfc-1e22674d0e4f,2024-06-01,26663.4,Professional,45
+USD,US19PONZ9985598136,Japan,Amazon,Subscription service,2024-06-01,26677.09,Professional,45
+USD,US19PONZ9985598136,United States,Ford Motor,Car parts order,2024-06-01,26743.46,Professional,45
+USD,US19PONZ9985598136,NL,Bram Kuijpers,Housewarming gift,2024-06-01,26788.49,Professional,45
+USD,US19PONZ9985598136,United States,Ayoub van Enschot,Support money,2024-06-01,26791.56,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 5e134f42-783b-42f7-95ba-45f96ac20c7a,2024-06-01,30700.56,Professional,45
+USD,US19PONZ9985598136,NL,Roche,Healthcare prescription,2024-06-01,30728.77,Professional,45
+USD,US19PONZ9985598136,NL,Toyota,Car purchase,2024-06-01,30747.58,Professional,45
+USD,US19PONZ9985598136,NL,Renault,Vehicle service charge,2024-06-01,30758.83,Professional,45
+USD,US19PONZ9985598136,Great Britain,Gilead Sciences,Genetic testing kit,2024-06-01,30768.17,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6d20d86f-41d0-4cad-a578-2f919205a4c2,2024-06-01,34677.17,Professional,45
+USD,US19PONZ9985598136,NL,Microsoft,Software license fee payment,2024-06-01,34696.38,Professional,45
+USD,US19PONZ9985598136,NL,IBM,Software license fee payment,2024-06-01,34749.59,Professional,45
+USD,US19PONZ9985598136,NL,Cisco Systems,Technology services invoice payment,2024-06-01,34800.94,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 53117e6e-33b8-4e3e-aa1f-da04aab6b9e1,2024-06-01,38709.94,Professional,45
+USD,US19PONZ9985598136,Great Britain,Verizon,Data plan payment,2024-06-01,38773.72,Professional,45
+USD,US19PONZ9985598136,NL,Microsoft,Cloud storage subscription,2024-06-01,38778.64,Professional,45
+USD,US19PONZ9985598136,Hungary,Pfizer,Pharmacy bill,2024-06-01,38804.93,Professional,45
+USD,US19PONZ9985598136,NL,PepsiCo,Beverage order,2024-06-01,38814.23,Professional,45
+USD,US19PONZ9985598136,NL,General Electric,Conglomerate product order,2024-06-01,38850.04,Professional,45
+USD,US19PONZ9985598136,Canada,Facebook,Ad campaign funding,2024-06-01,38860.94,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a3ca8a78-b860-4ec0-902b-8c559fbbb61f,2024-06-01,42769.94,Professional,45
+USD,US19PONZ9985598136,NL,Novartis,Drug order payment,2024-06-01,42849.48,Professional,45
+USD,US19PONZ9985598136,United States,Novartis,Drug order payment,2024-06-01,42922.69,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ccb0239c-443c-4e1c-acbb-afe961c9e5ac,2024-06-01,46831.69,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Corporate services payment,2024-06-01,46846.17,Professional,45
+USD,US19PONZ9985598136,Belgium,LVMH,Luxury item purchase,2024-06-01,46890.74,Professional,45
+USD,US19PONZ9985598136,NL,Nike,Fashion brand order,2024-06-01,46905.64,Professional,45
+USD,US19PONZ9985598136,NL,Tygo van Boulogne,Funeral expenses,2024-06-01,46934.36,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 102a0973-bdb2-455c-8c15-4bc0598df68a,2024-06-01,50843.36,Professional,45
+USD,US19PONZ9985598136,Great Britain,DuPont,Business unit invoice,2024-06-01,50891.63,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 2f018f14-a37e-476f-9dde-2bdf655162a7,2024-06-01,54800.63,Professional,45
+USD,US19PONZ9985598136,Great Britain,Oscar Langevoort,Baby shower gift,2024-06-01,54837.72,Professional,45
+USD,US19PONZ9985598136,NL,Roche,Drug order payment,2024-06-01,54863.9,Professional,45
+USD,US19PONZ9985598136,NL,Gilead Sciences,Biotech research fee,2024-06-01,54901.2,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c724b707-19e6-48eb-ad9a-e899ec0176a4,2024-06-01,58810.2,Professional,45
+USD,US19PONZ9985598136,NL,Nike,Apparel shopping,2024-06-01,58836.73,Professional,45
+USD,US19PONZ9985598136,NL,Ford Motor,Auto repair bill,2024-06-01,58854.07,Professional,45
+USD,US19PONZ9985598136,Belgium,Florian Linschoten,Loan to family,2024-06-01,58881.73,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: e138b8e6-fd0b-4b8b-92ce-d7714cb32108,2024-06-01,62790.73,Professional,45
+USD,US19PONZ9985598136,NL,Volkswagen,Car purchase,2024-06-01,62810.33,Professional,45
+USD,US19PONZ9985598136,Japan,Allianz,Policy renewal fee,2024-06-01,62832.51,Professional,45
+USD,US19PONZ9985598136,NL,3M,Conglomerate product order,2024-06-01,62864.62,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 20b2fbc8-9f6a-4d79-abec-e1b1a73b4683,2024-06-01,66773.62,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Premium account upgrade,2024-06-01,66830.38,Professional,45
+USD,US19PONZ9985598136,NL,Duke Energy,Utility bill,2024-06-01,66840.17,Professional,45
+USD,US19PONZ9985598136,NL,Nick Zeemans-Cammel,Grocery money,2024-06-01,66845.5,Professional,45
+USD,US19PONZ9985598136,NL,Duke Energy,Electricity payment,2024-06-01,66876.81,Professional,45
+USD,US19PONZ9985598136,NL,Roche,Drug order payment,2024-06-01,66890.74,Professional,45
+USD,US19PONZ9985598136,France,Guus Verda,Graduation gift,2024-06-01,66898.04,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 42555b48-726e-4cd8-8ac7-e72eb4df1f02,2024-06-01,70807.04,Professional,45
+USD,US19PONZ9985598136,Germany,GlaxoSmithKline,Drug order payment,2024-06-01,70816.38,Professional,45
+USD,US19PONZ9985598136,Great Britain,Kay Lage,Rent assistance,2024-06-01,70822.43,Professional,45
+USD,US19PONZ9985598136,NL,Honeywell,Business unit invoice,2024-06-01,70845.13,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Premium account upgrade,2024-06-01,71236.35,Professional,45
+USD,US19PONZ9985598136,NL,GlaxoSmithKline,Medication purchase,2024-06-01,71271.26,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: f9e2b48b-5d4f-40f4-a910-599872f5ab57,2024-06-01,75180.26,Professional,45
+USD,US19PONZ9985598136,NL,Tess Bloemendaal,Graduation gift,2024-06-01,75183.99,Professional,45
+USD,US19PONZ9985598136,NL,Cisco Systems,Cloud storage subscription,2024-06-01,75190.75,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Energy supply charge,2024-06-01,75232.83,Professional,45
+USD,US19PONZ9985598136,NL,Tata Consultancy Services,System upgrade fee,2024-06-01,75250.49,Professional,45
+USD,US19PONZ9985598136,Spain,Ford Motor,Car purchase,2024-06-01,75258.77,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: bf6885eb-180d-4a25-8657-0ce1f7411aef,2024-06-01,79167.77,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Influencer collaboration fee,2024-06-01,79250.17,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c104791b-1692-4a6f-a59c-0b1478ff8903,2024-06-01,83159.17,Professional,45
+USD,US19PONZ9985598136,NL,Microsoft,Software license fee payment,2024-06-01,83163.45,Professional,45
+USD,US19PONZ9985598136,NL,IBM,Technology services invoice payment,2024-06-01,83188.68,Professional,45
+USD,US19PONZ9985598136,NL,Alibaba,E-commerce order,2024-06-01,83191.93,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Premium account upgrade,2024-06-01,83196.38,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: adacf80e-c2f4-4bc3-b165-660a98091623,2024-06-01,87105.38,Professional,45
+USD,US19PONZ9985598136,Hungary,Kyan Gerrits,Friend loan repayment,2024-06-01,87147.31,Professional,45
+USD,US19PONZ9985598136,NL,Accenture,Professional service invoice,2024-06-01,87154.43,Professional,45
+USD,US19PONZ9985598136,NL,Renault,Car purchase,2024-06-01,87475.82,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 5f5dd420-7bf0-494e-a62b-308abc03365d,2024-06-01,91384.82,Professional,45
+USD,US19PONZ9985598136,Great Britain,Noah Rietveld,Baby shower gift,2024-06-01,91411.78,Professional,45
+USD,US19PONZ9985598136,NL,DuPont,Diversified company fee,2024-06-01,91444.61,Professional,45
+USD,US19PONZ9985598136,NL,Bryan Françoise,Debt settlement,2024-06-01,91453.19,Professional,45
+USD,US19PONZ9985598136,United States,Oracle,Cloud storage subscription,2024-06-01,91460.79,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 02c374b7-9851-443d-ba0f-5ae9e6e8b58f,2024-06-01,95369.79,Professional,45
+USD,US19PONZ9985598136,NL,"Noah Martel-West-Francië, van",Dinner reimbursement,2024-06-01,95421.58,Professional,45
+USD,US19PONZ9985598136,NL,Volkswagen,Car purchase,2024-06-01,95485.72,Professional,45
+USD,US19PONZ9985598136,Spain,Aimée Boetet,Graduation gift,2024-06-01,95506.79,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 0120e03e-11ed-43dd-9985-475b1ae17f4c,2024-06-01,99415.79,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c14e9a72-8e47-4c65-ae82-4324b03898e6,2024-06-01,99498.54,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6f8caec2-3710-4dd9-af72-cd07233c9f71,2024-06-01,103407.54,Professional,45
+USD,US19PONZ9985598136,NL,Arthur Dachgelt-van den Brink,Support for a family member,2024-06-01,103414.02,Professional,45
+USD,US19PONZ9985598136,NL,Pien Gruijl,Personal loan,2024-06-01,103433.05,Professional,45
+USD,US19PONZ9985598136,NL,Tata Consultancy Services,Technical service charge,2024-06-01,103444.62,Professional,45
+USD,US19PONZ9985598136,NL,Maarten van de Brink-van Hulten,Party contribution,2024-06-01,103478.9,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Medication purchase,2024-06-01,103491.05,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: d7a32b64-43df-41f3-9e59-2d8581bf5165,2024-06-01,107400.05,Professional,45
+USD,US19PONZ9985598136,NL,Microsoft,Cloud storage subscription,2024-06-01,107432.48,Professional,45
+USD,US19PONZ9985598136,NL,Tata Consultancy Services,IT support fee,2024-06-01,107437.58,Professional,45
+USD,US19PONZ9985598136,Germany,Matthijs Wijland-Tillmanno,Christmas gift,2024-06-01,107444.05,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Electricity payment,2024-06-01,107511.8,Professional,45
+USD,US19PONZ9985598136,United States,Jonas van Arkel,Baby shower gift,2024-06-01,107518.88,Professional,45
+USD,US19PONZ9985598136,NL,Volkswagen,Vehicle service charge,2024-06-01,107558.18,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a906b904-d8a8-4f27-802c-627fd8a8db89,2024-06-01,111467.18,Professional,45
+USD,US19PONZ9985598136,Germany,Cornelis Mathol,Reimbursement for bills,2024-06-01,111471.74,Professional,45
+USD,US19PONZ9985598136,NL,Jelle Saxo,Graduation gift,2024-06-01,111475.41,Professional,45
+USD,US19PONZ9985598136,Canada,Huawei,Web hosting fee,2024-06-01,111534.85,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 4c29ed87-d5a3-49af-adfb-1b10b73c7167,2024-06-01,115443.85,Professional,45
+USD,US19PONZ9985598136,Belgium,Apple Inc.,Cloud storage subscription,2024-06-01,115519.13,Professional,45
+USD,US19PONZ9985598136,France,Apple Inc.,Cloud storage subscription,2024-06-01,115548.69,Professional,45
+USD,US19PONZ9985598136,Great Britain,Luc van Nus,Loan repayment,2024-06-01,115552.54,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 7b604ef2-f0bb-4b8b-977b-ef5502a6afa8,2024-06-01,119461.54,Professional,45
+USD,US19PONZ9985598136,NL,Verizon,Cable service subscription,2024-06-01,119483.49,Professional,45
+USD,US19PONZ9985598136,NL,Renault,Auto repair bill,2024-06-01,119494.75,Professional,45
+USD,US19PONZ9985598136,NL,BASF,Industrial chemicals purchase,2024-06-01,119510.64,Professional,45
+USD,US19PONZ9985598136,France,Morgan Stanley,Capital markets service,2024-06-01,119525.76,Professional,45
+USD,US19PONZ9985598136,Austria,Duke Energy,Utility bill,2024-06-01,119534.95,Professional,45
+USD,US19PONZ9985598136,NL,Alphabet Inc.,Web hosting fee,2024-06-01,119545.46,Professional,45
+USD,US19PONZ9985598136,United States,Fenna Loreal,Christmas gift,2024-06-01,119612.28,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: f7c58194-e6b1-44db-bfcd-fed521bbc848,2024-06-01,123521.28,Professional,45
+USD,US19PONZ9985598136,NL,Guus Pieters van der Maes,Rent deposit,2024-06-01,123524.88,Professional,45
+USD,US19PONZ9985598136,NL,Honeywell,Diversified company fee,2024-06-01,123536.51,Professional,45
+USD,US19PONZ9985598136,United States,Unilever,Product purchase,2024-06-01,123633.31,Professional,45
+USD,US19PONZ9985598136,United States,Nike,Fashion brand order,2024-06-01,123650.08,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 5792b76e-c0c2-4a9c-8cf4-eb2a7ae679c4,2024-06-01,127559.08,Professional,45
+USD,US19PONZ9985598136,United States,Accenture,Professional service invoice,2024-07-01,127595.5,Professional,45
+USD,US19PONZ9985598136,NL,Alphabet Inc.,Software license fee payment,2024-07-01,127631.78,Professional,45
+USD,US19PONZ9985598136,NL,Renault,Car purchase,2024-07-01,127638.31,Professional,45
+USD,US19PONZ9985598136,NL,Pieter van Voorhout,Support money,2024-07-01,127643.7,Professional,45
+USD,US19PONZ9985598136,Denmark,AT&T,Data plan payment,2024-07-01,127649.19,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 696ebbe6-bb61-487e-bcbb-e30fbbd7c50f,2024-07-01,131558.19,Professional,45
+USD,US19PONZ9985598136,Canada,General Electric,Corporate services payment,2024-07-01,131563.59,Professional,45
+USD,US19PONZ9985598136,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,131568.32,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 85684e72-0469-4f5c-bdc2-61205048b237,2024-07-01,135477.32,Professional,45
+USD,US19PONZ9985598136,France,BASF,Chemical supply order,2024-07-01,135514.44,Professional,45
+USD,US19PONZ9985598136,Belgium,BASF,Cleaning products order,2024-07-01,135553.23,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Healthcare prescription,2024-07-01,135562.5,Professional,45
+USD,US19PONZ9985598136,NL,Luuk Groenestein,Party contribution,2024-07-01,135567.29,Professional,45
+USD,US19PONZ9985598136,NL,Verizon,Telecom invoice,2024-07-01,135570.86,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: b52bd692-5efb-4dfa-9c6e-f79714cdd5c6,2024-07-01,139479.86,Professional,45
+USD,US19PONZ9985598136,United States,Apple Inc.,Web hosting fee,2024-07-01,139554.17,Professional,45
+USD,US19PONZ9985598136,NL,Adam de Vos-van Emmelen,Reimbursement for dinner,2024-07-01,139574.52,Professional,45
+USD,US19PONZ9985598136,NL,Bristol-Myers Squibb,Pharmacy bill,2024-07-01,139696.28,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: d36f9eb1-0e6a-4591-9af2-7c030ded537d,2024-07-01,139713.09,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 91e2aa0e-ee97-46e4-8326-b38368bdafe9,2024-07-01,143622.09,Professional,45
+USD,US19PONZ9985598136,United States,Oracle,Technology services invoice payment,2024-07-01,143636.37,Professional,45
+USD,US19PONZ9985598136,NL,Toyota,Car parts order,2024-07-01,143654.2,Professional,45
+USD,US19PONZ9985598136,NL,Duke Energy,Energy supply charge,2024-07-01,143717.3,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ff214bf5-7d75-4eea-80fe-44cd30db35b1,2024-07-01,147626.3,Professional,45
+USD,US19PONZ9985598136,NL,Toyota,Car parts order,2024-07-01,147699.98,Professional,45
+USD,US19PONZ9985598136,NL,BMW,Auto repair bill,2024-07-01,147706.69,Professional,45
+USD,US19PONZ9985598136,NL,BMW,Car purchase,2024-07-01,147733.61,Professional,45
+USD,US19PONZ9985598136,NL,Fem le Floch,Reimbursement for medical expenses,2024-07-01,147739.16,Professional,45
+USD,US19PONZ9985598136,NL,ByteDance,Technology services invoice payment,2024-07-01,147790.43,Professional,45
+USD,US19PONZ9985598136,NL,Lisa Symons,Baby shower gift,2024-07-01,147792.26,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6afe53f4-7526-4c06-a1e2-2dc15a25e335,2024-07-01,151701.26,Professional,45
+USD,US19PONZ9985598136,Italy,Honeywell,Diversified company fee,2024-07-01,151706.79,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Drug order payment,2024-07-01,151746.16,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Premium account upgrade,2024-07-01,151779.22,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 3fd2f155-0476-4a3e-bd2e-c727df8c807c,2024-07-01,155688.22,Professional,45
+USD,US19PONZ9985598136,NL,BASF,Cleaning products order,2024-07-01,155705.39,Professional,45
+USD,US19PONZ9985598136,NL,AstraZeneca,Pharmacy bill,2024-07-01,155712.18,Professional,45
+USD,US19PONZ9985598136,Hungary,Oracle,Technology services invoice payment,2024-07-01,155812.47,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 723877a2-995d-486c-9a0b-747c5e5b9181,2024-07-01,159721.47,Professional,45
+USD,US19PONZ9985598136,United States,Airbus,Aviation technology fee,2024-07-01,159785.78,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 36cf37dc-9c77-449f-8e04-f1f9dacf1f23,2024-07-01,163694.78,Professional,45
+USD,US19PONZ9985598136,NL,Boeing,Aircraft maintenance,2024-07-01,163754.19,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Electricity payment,2024-07-01,163766.48,Professional,45
+USD,US19PONZ9985598136,United States,GlaxoSmithKline,Pharmacy bill,2024-07-01,163821.24,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 8f10adf8-8e0e-43ea-9604-21fa55e8cd3b,2024-07-01,167730.24,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Business unit invoice,2024-07-01,167784.16,Professional,45
+USD,US19PONZ9985598136,NL,Mia Elbertse,Shared meal cost,2024-07-01,167841.07,Professional,45
+USD,US19PONZ9985598136,NL,Melissa Groenestein,Reimbursement for medical expenses,2024-07-01,167865.83,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 2441e86a-a29e-41de-b056-6c47f7d291fb,2024-07-01,171774.83,Professional,45
+USD,US19PONZ9985598136,Hungary,Siem Lage-Weylant,Funeral expenses,2024-07-01,171818.48,Professional,45
+USD,US19PONZ9985598136,Canada,GlaxoSmithKline,Drug order payment,2024-07-01,171822.12,Professional,45
+USD,US19PONZ9985598136,NL,BASF,Industrial chemicals purchase,2024-07-01,171826.3,Professional,45
+USD,US19PONZ9985598136,Great Britain,Lizzy Wildschut-Niermann,Funeral expenses,2024-07-01,171854.61,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: e989624d-ba62-472f-b655-41790ee63299,2024-07-01,175763.61,Professional,45
+USD,US19PONZ9985598136,NL,Unilever,Order payment,2024-07-01,175765.84,Professional,45
+USD,US19PONZ9985598136,Hungary,Lisa Bouwhuisen-Spiker,Reimbursement for travel,2024-07-01,175815.21,Professional,45
+USD,US19PONZ9985598136,NL,General Electric,Business unit invoice,2024-07-01,175829.3,Professional,45
+USD,US19PONZ9985598136,United States,Mads Kuiper,Support for a friend,2024-07-01,175907.62,Professional,45
+USD,US19PONZ9985598136,NL,Janne van Cuijck,Personal loan,2024-07-01,175915.17,Professional,45
+USD,US19PONZ9985598136,Canada,Bristol-Myers Squibb,Pharmacy bill,2024-07-01,175918.62,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ebb8883f-db11-4a8d-8892-50e37b23ad0e,2024-07-01,179827.62,Professional,45
+USD,US19PONZ9985598136,NL,Tata Consultancy Services,Software development bill,2024-07-01,179831.53,Professional,45
+USD,US19PONZ9985598136,Italy,Morgan Stanley,Brokerage fee,2024-07-01,179834.08,Professional,45
+USD,US19PONZ9985598136,NL,Meta Platforms,Cloud storage subscription,2024-07-01,179859.49,Professional,45
+USD,US19PONZ9985598136,NL,GlaxoSmithKline,Drug order payment,2024-07-01,179901.81,Professional,45
+USD,US19PONZ9985598136,NL,Allianz,Policy renewal fee,2024-07-01,179913.78,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 707740f0-a1b3-4757-8aa7-e10ba2d8488f,2024-07-01,183822.78,Professional,45
+USD,US19PONZ9985598136,Spain,Alphabet Inc.,Web hosting fee,2024-07-01,183848.82,Professional,45
+USD,US19PONZ9985598136,Austria,Alphabet Inc.,Software license fee payment,2024-07-01,183859.36,Professional,45
+USD,US19PONZ9985598136,NL,3M,Business unit invoice,2024-07-01,183904.31,Professional,45
+USD,US19PONZ9985598136,NL,3M,Business unit invoice,2024-07-01,183924.11,Professional,45
+USD,US19PONZ9985598136,Great Britain,Airbus,Space exploration fee,2024-07-01,184000.41,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 9975f26c-74e2-47c5-8520-fbec71031705,2024-07-01,187909.41,Professional,45
+USD,US19PONZ9985598136,NL,Huawei,Technology services invoice payment,2024-07-01,187915.84,Professional,45
+USD,US19PONZ9985598136,NL,Pippa van Grinsven,Party contribution,2024-07-01,188040.07,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ed8d46f2-a161-4b6e-9d49-0db91d20308f,2024-07-01,191949.07,Professional,45
+USD,US19PONZ9985598136,Canada,Toyota,Car purchase,2024-07-01,191972.47,Professional,45
+USD,US19PONZ9985598136,NL,Maya Heymans-van Dam,Personal loan,2024-07-01,191975.22,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: af9bdeaa-860f-4c35-96af-b510ca4b12b8,2024-07-01,195884.22,Professional,45
+USD,US19PONZ9985598136,NL,Ceylin Recers,Shared meal cost,2024-07-01,196005.95,Professional,45
+USD,US19PONZ9985598136,NL,Accenture,Professional service invoice,2024-07-01,196059.04,Professional,45
+USD,US19PONZ9985598136,NL,Merck & Co.,Healthcare prescription,2024-07-01,196062.33,Professional,45
+USD,US19PONZ9985598136,NL,Joris van der Zijl-Rotteveel,Gift,2024-07-01,196067.88,Professional,45
+USD,US19PONZ9985598136,NL,Ian van 't Wel-de Jode Vastraedsd,Friend loan repayment,2024-07-01,196165.04,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6fcf06cd-5c3a-4153-bc4b-d02bcfa3ea50,2024-07-01,200074.04,Professional,45
+USD,US19PONZ9985598136,NL,Josephine Estey,Christmas gift,2024-07-01,200108.09,Professional,45
+USD,US19PONZ9985598136,Canada,Phillips 66,Renewable energy subscription,2024-07-01,200126.16,Professional,45
+USD,US19PONZ9985598136,NL,Felix Woutersz,Support for a friend,2024-07-01,200155.55,Professional,45
+USD,US19PONZ9985598136,Great Britain,Merle Zwijsen,School fees,2024-07-01,200204.17,Professional,45
+USD,US19PONZ9985598136,NL,Cisco Systems,Web hosting fee,2024-07-01,200266.62,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 05879e24-8ce1-4aad-a0d1-3a178b1b1dbf,2024-07-01,204175.62,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 24f7f91b-19a7-44f8-92fb-96a519541805,2024-07-01,208084.62,Professional,45
+USD,US19PONZ9985598136,United States,Oracle,Web hosting fee,2024-07-01,208102.0,Professional,45
+USD,US19PONZ9985598136,Canada,IBM,Web hosting fee,2024-07-01,208167.66,Professional,45
+USD,US19PONZ9985598136,NL,Sanofi,Pharmacy bill,2024-07-01,208215.15,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c0292847-d5a0-4455-8597-6d846c06b575,2024-07-01,212124.15,Professional,45
+USD,US19PONZ9985598136,NL,Volkswagen,Car purchase,2024-07-01,212180.68,Professional,45
+USD,US19PONZ9985598136,United States,Phillips 66,Electricity payment,2024-07-01,212182.84,Professional,45
+USD,US19PONZ9985598136,NL,Huawei,Technology services invoice payment,2024-07-01,212199.0,Professional,45
+USD,US19PONZ9985598136,NL,Zoey Opmans-van Maaren,Wedding gift,2024-07-01,212206.4,Professional,45
+USD,US19PONZ9985598136,NL,Yfke van der Horst,Debt settlement,2024-07-01,212242.82,Professional,45
+USD,US19PONZ9985598136,France,Novartis,Medication purchase,2024-07-01,212307.64,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 90e64dc3-38e8-419c-9972-0d0ab88160d9,2024-07-01,216216.64,Professional,45
+USD,US19PONZ9985598136,NL,Mitsubishi,Corporate services payment,2024-07-01,216235.59,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: deb2228e-dfa7-4c55-9a02-647d4c1dc023,2024-07-01,220144.59,Professional,45
+USD,US19PONZ9985598136,NL,Amazon,Online shopping,2024-07-01,220155.09,Professional,45
+USD,US19PONZ9985598136,NL,Huawei,Software license fee payment,2024-07-01,220193.2,Professional,45
+USD,US19PONZ9985598136,NL,Toyota,Car parts order,2024-07-01,220216.31,Professional,45
+USD,US19PONZ9985598136,Great Britain,Geldmaat ATM,Geldmaat: b4b57a6e-1f6d-40cd-805e-575d35de66ff,2024-07-01,220384.85,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 75ccc51e-5deb-47c5-a706-b30ec064e2a0,2024-07-01,224293.85,Professional,45
+USD,US19PONZ9985598136,NL,Sep Uphus,Shared meal cost,2024-07-01,224307.26,Professional,45
+USD,US19PONZ9985598136,NL,Huawei,Technology services invoice payment,2024-07-01,224355.27,Professional,45
+USD,US19PONZ9985598136,NL,ByteDance,Technology services invoice payment,2024-07-01,224378.38,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Renewable energy subscription,2024-07-01,224380.28,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 82a3b225-bda2-4e3a-8b7f-636a3ca89b2d,2024-07-01,228289.28,Professional,45
+USD,US19PONZ9985598136,NL,3M,Corporate services payment,2024-07-01,228340.71,Professional,45
+USD,US19PONZ9985598136,NL,Gilead Sciences,Laboratory service charge,2024-07-01,228461.37,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 9f490640-b526-471f-860c-b6b073043b5b,2024-07-01,232370.37,Professional,45
+USD,US19PONZ9985598136,NL,BASF,Chemical supply order,2024-07-01,232624.11,Professional,45
+USD,US19PONZ9985598136,Italy,Ford Motor,Auto repair bill,2024-07-01,232636.82,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6d24abad-5006-43f6-a642-e3551b210ea4,2024-07-01,236545.82,Professional,45
+USD,US19PONZ9985598136,Italy,Daimler,Car purchase,2024-07-01,236548.97,Professional,45
+USD,US19PONZ9985598136,NL,Accenture,Expert consultation fee,2024-07-01,236550.08,Professional,45
+USD,US19PONZ9985598136,Great Britain,Gilead Sciences,Laboratory service charge,2024-07-01,236591.7,Professional,45
+USD,US19PONZ9985598136,NL,Sanofi,Drug order payment,2024-07-01,236645.58,Professional,45
+USD,US19PONZ9985598136,Germany,Aaron de Keijser,Birthday party expenses,2024-07-01,236658.53,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 16e03838-b400-4dcd-a2c3-5cee5ef6317e,2024-07-01,240567.53,Professional,45
+USD,US19PONZ9985598136,NL,Sanofi,Drug order payment,2024-07-01,240623.88,Professional,45
+USD,US19PONZ9985598136,Spain,ByteDance,Web hosting fee,2024-07-01,240627.64,Professional,45
+USD,US19PONZ9985598136,NL,ByteDance,Software license fee payment,2024-07-01,240634.72,Professional,45
+USD,US19PONZ9985598136,NL,PepsiCo,Restaurant bill,2024-07-01,240639.86,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: d8c3e657-e57c-4dd6-ac2a-251115991f8a,2024-07-01,244548.86,Professional,45
+USD,US19PONZ9985598136,NL,IBM,Technology services invoice payment,2024-07-01,244564.27,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 53bf8fb7-51a4-4485-84b3-74175e5cdba0,2024-07-01,248473.27,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Corporate services payment,2024-07-01,248535.0,Professional,45
+USD,US19PONZ9985598136,NL,3M,Diversified company fee,2024-07-01,248556.64,Professional,45
+USD,US19PONZ9985598136,Denmark,Microsoft,Technology services invoice payment,2024-07-01,248572.26,Professional,45
+USD,US19PONZ9985598136,Spain,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,248619.5,Professional,45
+USD,US19PONZ9985598136,Belgium,Aya van der Lede,Shared hotel room cost,2024-07-01,248629.15,Professional,45
+USD,US19PONZ9985598136,Hungary,Selena Hoppenbrouwer-Lathrope,Reimbursement for dinner,2024-07-01,248650.07,Professional,45
+USD,US19PONZ9985598136,Great Britain,PepsiCo,Food delivery,2024-07-01,248676.07,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: aae85a65-57f2-451e-b375-4aaaf8d776d4,2024-07-01,252585.07,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,252590.85,Professional,45
+USD,US19PONZ9985598136,Germany,Ise Westerbeek,Shared subscription,2024-07-01,252591.75,Professional,45
+USD,US19PONZ9985598136,NL,Unilever,Retail goods payment,2024-08-01,252596.71,Professional,45
+USD,US19PONZ9985598136,Great Britain,3M,Business unit invoice,2024-08-01,252647.6,Professional,45
+USD,US19PONZ9985598136,NL,Daimler,Car purchase,2024-08-01,252674.81,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 952327b3-ef8e-4dc2-9528-babf9b2fa34a,2024-08-01,256583.81,Professional,45
+USD,US19PONZ9985598136,NL,Ninthe van Haspengouw Hesbaye,Personal loan,2024-08-01,256618.63,Professional,45
+USD,US19PONZ9985598136,NL,Amira Cammel,Support money,2024-08-01,256642.32,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c684d2e6-3039-43af-8f5d-4659e0ffdf2a,2024-08-01,260551.32,Professional,45
+USD,US19PONZ9985598136,Germany,Romy van Arkel,Party contribution,2024-08-01,260582.83,Professional,45
+USD,US19PONZ9985598136,Belgium,Senna Berends,Reimbursement for dinner,2024-08-01,260601.26,Professional,45
+USD,US19PONZ9985598136,NL,Accenture,Consulting fee,2024-08-01,260605.96,Professional,45
+USD,US19PONZ9985598136,Japan,Julian van Santen,Birthday party expenses,2024-08-01,260663.45,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 852625ce-5494-4b64-9acf-870a5e497829,2024-08-01,264572.45,Professional,45
+USD,US19PONZ9985598136,NL,Pfizer,Drug order payment,2024-08-01,264609.09,Professional,45
+USD,US19PONZ9985598136,Great Britain,Dell Technologies,Web hosting fee,2024-08-01,264649.81,Professional,45
+USD,US19PONZ9985598136,Belgium,Gilead Sciences,Clinical trial payment,2024-08-01,264731.69,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: dffaf01a-03ec-41f7-9eea-ff60f3c82677,2024-08-01,268640.69,Professional,45
+USD,US19PONZ9985598136,NL,DuPont,Business unit invoice,2024-08-01,268741.71,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: cf5876fd-b9eb-4c01-ad1b-a900bd3ccf97,2024-08-01,272650.71,Professional,45
+USD,US19PONZ9985598136,Spain,Procter & Gamble,Product purchase,2024-08-01,272655.3,Professional,45
+USD,US19PONZ9985598136,United States,Valerie de Jonge-Bosch,Support money,2024-08-01,272660.78,Professional,45
+USD,US19PONZ9985598136,NL,Berend Ketel,Party contribution,2024-08-01,272679.56,Professional,45
+USD,US19PONZ9985598136,Great Britain,Accenture,Professional service invoice,2024-08-01,272716.42,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 83caaab7-0f86-4f67-8ff7-7123db72c47f,2024-08-01,276625.42,Professional,45
+USD,US19PONZ9985598136,United States,Unilever,Subscription box service,2024-08-01,276665.81,Professional,45
+USD,US19PONZ9985598136,NL,IBM,Web hosting fee,2024-08-01,276672.24,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: b39aa4c0-cd3c-4e01-ac8c-aad0f4c514c9,2024-08-01,280581.24,Professional,45
+USD,US19PONZ9985598136,United States,Amazon,Subscription service,2024-08-01,280629.04,Professional,45
+USD,US19PONZ9985598136,NL,Duke Energy,Energy supply charge,2024-08-01,280643.84,Professional,45
+USD,US19PONZ9985598136,NL,Unilever,Product purchase,2024-08-01,280654.8,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 62123697-7b5e-4307-842c-1dda6c8eeefd,2024-08-01,284563.8,Professional,45
+USD,US19PONZ9985598136,United States,Duke Energy,Utility bill,2024-08-01,284575.27,Professional,45
+USD,US19PONZ9985598136,France,Honeywell,Diversified company fee,2024-08-01,284666.64,Professional,45
+USD,US19PONZ9985598136,Spain,Seth Leguit,Personal loan,2024-08-01,284798.91,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 9935b3b9-ed84-4fd3-ab4d-5c59d1782282,2024-08-01,288707.91,Professional,45
+USD,US19PONZ9985598136,NL,Goldman Sachs,Investment fund entry,2024-08-01,288795.68,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: d7d200c8-692e-48af-ab88-08bdc4d36b94,2024-08-01,292704.68,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: fcfe6436-d587-48c0-a004-591912562007,2024-08-01,296613.68,Professional,45
+USD,US19PONZ9985598136,Great Britain,Accenture,Expert consultation fee,2024-08-01,296708.68,Professional,45
+USD,US19PONZ9985598136,NL,Renault,Vehicle service charge,2024-08-01,296823.93,Professional,45
+USD,US19PONZ9985598136,Germany,Isa Jansen,Gift,2024-08-01,296827.46,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 1186da70-699a-40cf-973b-861fac1ecd84,2024-08-01,300736.46,Professional,45
+USD,US19PONZ9985598136,United States,IBM,Web hosting fee,2024-08-01,300778.01,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 0f95b3fe-3eb9-479c-9479-5b7ff1691f94,2024-08-01,304687.01,Professional,45
+USD,US19PONZ9985598136,Denmark,Alexander Robbrechts Bruijne,Travel expenses,2024-08-01,304695.0,Professional,45
+USD,US19PONZ9985598136,Spain,Duke Energy,Electricity payment,2024-08-01,304704.44,Professional,45
+USD,US19PONZ9985598136,United States,Microsoft,Technology services invoice payment,2024-08-01,304746.45,Professional,45
+USD,US19PONZ9985598136,NL,BASF,Cleaning products order,2024-08-01,304814.3,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 93d4bc1f-e52a-4ec2-94b2-4635fcbbfd5c,2024-08-01,308723.3,Professional,45
+USD,US19PONZ9985598136,Great Britain,Unilever,Order payment,2024-08-01,308729.71,Professional,45
+USD,US19PONZ9985598136,NL,Amazon,Subscription service,2024-08-01,308757.2,Professional,45
+USD,US19PONZ9985598136,Canada,3M,Conglomerate product order,2024-08-01,308807.91,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 5c21935b-55d7-4933-970d-a19c97eb274c,2024-08-01,312716.91,Professional,45
+USD,US19PONZ9985598136,NL,Elena Bastiaanse,Vacation expenses,2024-08-01,312776.3,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 3499c233-9c54-47e7-814c-f7976d49c941,2024-08-01,316685.3,Professional,45
+USD,US19PONZ9985598136,United States,Matthias Bruijne van der Veen,Dinner reimbursement,2024-08-01,316788.53,Professional,45
+USD,US19PONZ9985598136,NL,Accenture,Expert consultation fee,2024-08-01,316888.57,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 39ed682b-888b-4c80-9eac-2b262b0a7e5a,2024-08-01,320797.57,Professional,45
+USD,US19PONZ9985598136,Italy,General Electric,Diversified company fee,2024-08-01,320804.51,Professional,45
+USD,US19PONZ9985598136,Austria,Amazon,Online shopping,2024-08-01,320853.49,Professional,45
+USD,US19PONZ9985598136,NL,Gilead Sciences,Clinical trial payment,2024-08-01,320877.79,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 82b16cc3-d099-45bb-9d6b-224fa9e39d0f,2024-08-01,324786.79,Professional,45
+USD,US19PONZ9985598136,Canada,Nike,Sportswear buy,2024-08-01,324846.34,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Utility bill,2024-08-01,324851.12,Professional,45
+USD,US19PONZ9985598136,NL,Dell Technologies,Web hosting fee,2024-08-01,324869.1,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 86661671-d032-4034-9ede-7ed6d1070dc2,2024-08-01,328778.1,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Corporate services payment,2024-08-01,328782.28,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 4f93a33e-5292-4e01-9ae5-8fbd3d557287,2024-08-01,332691.28,Professional,45
+USD,US19PONZ9985598136,NL,Volkswagen,Car purchase,2024-08-01,332790.96,Professional,45
+USD,US19PONZ9985598136,United States,Ties van Lucel,Support money,2024-08-01,332795.69,Professional,45
+USD,US19PONZ9985598136,NL,Honeywell,Diversified company fee,2024-08-01,332817.37,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: afde33fd-4c25-4e82-b3ad-c78bba353f28,2024-08-01,332862.43,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 70a78166-405c-494a-94c8-2e1f07b4f9fd,2024-08-01,336771.43,Professional,45
+USD,US19PONZ9985598136,NL,Alphabet Inc.,Technology services invoice payment,2024-08-01,336851.61,Professional,45
+USD,US19PONZ9985598136,NL,Bayer,Medication purchase,2024-08-01,336895.76,Professional,45
+USD,US19PONZ9985598136,Great Britain,Nike,Clothing purchase,2024-08-01,336981.4,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: de0ad50f-d8cc-4cd5-be91-1508d0dce864,2024-08-01,340890.4,Professional,45
+USD,US19PONZ9985598136,Canada,Goldman Sachs,Stock purchase,2024-08-01,340909.37,Professional,45
+USD,US19PONZ9985598136,Denmark,Novartis,Healthcare prescription,2024-08-01,340925.58,Professional,45
+USD,US19PONZ9985598136,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,340968.72,Professional,45
+USD,US19PONZ9985598136,NL,Evelien Wouters van Eijndhoven,Rent assistance,2024-08-01,340969.93,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 28ebd6f7-bf11-412d-a469-6010c03a4e12,2024-08-01,344878.93,Professional,45
+USD,US19PONZ9985598136,NL,Honeywell,Corporate services payment,2024-08-01,344910.64,Professional,45
+USD,US19PONZ9985598136,United States,BASF,Chemical supply order,2024-08-01,344916.55,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Pharmacy bill,2024-08-01,344962.63,Professional,45
+USD,US19PONZ9985598136,NL,Alibaba,Online shopping,2024-08-01,344969.71,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: fca35c76-f36c-4ae8-aef3-2c845312c608,2024-08-01,348878.71,Professional,45
+USD,US19PONZ9985598136,Austria,Goldman Sachs,Brokerage fee,2024-08-01,348948.22,Professional,45
+USD,US19PONZ9985598136,NL,Cisco Systems,Software license fee payment,2024-08-01,348968.15,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c8170520-4ce4-41ab-b791-63b615816c98,2024-08-01,352877.15,Professional,45
+USD,US19PONZ9985598136,NL,General Electric,Conglomerate product order,2024-08-01,352927.59,Professional,45
+USD,US19PONZ9985598136,NL,Hidde Bijlsma,Dinner reimbursement,2024-08-01,352935.05,Professional,45
+USD,US19PONZ9985598136,NL,Morgan Stanley,Investment fund entry,2024-08-01,352951.82,Professional,45
+USD,US19PONZ9985598136,NL,Pfizer,Healthcare prescription,2024-08-01,352958.91,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: fb6893d9-ded0-4c62-9298-448cca184d11,2024-08-01,356867.91,Professional,45
+USD,US19PONZ9985598136,NL,Cisco Systems,Technology services invoice payment,2024-08-01,356915.2,Professional,45
+USD,US19PONZ9985598136,Spain,SoftBank,Diversified company fee,2024-08-01,356921.32,Professional,45
+USD,US19PONZ9985598136,NL,Novartis,Pharmacy bill,2024-08-01,356966.17,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: cb2ad3b2-79b8-4c5e-b196-6c1384570f27,2024-08-01,360875.17,Professional,45
+USD,US19PONZ9985598136,NL,Allianz,Policy renewal fee,2024-08-01,360944.02,Professional,45
+USD,US19PONZ9985598136,NL,Alphabet Inc.,Web hosting fee,2024-08-01,360977.99,Professional,45
+USD,US19PONZ9985598136,United States,Johnson & Johnson,Pharmacy bill,2024-08-01,360987.62,Professional,45
+USD,US19PONZ9985598136,NL,Ford Motor,Car purchase,2024-08-01,361020.79,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: da6445d9-d14d-48af-8d29-bc744ffecc7d,2024-08-01,364929.79,Professional,45
+USD,US19PONZ9985598136,Germany,Morgan Stanley,Stock purchase,2024-08-01,364986.97,Professional,45
+USD,US19PONZ9985598136,Spain,Gilead Sciences,Clinical trial payment,2024-08-01,365017.58,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 909d29c3-94e3-47a9-b794-2e163e70c219,2024-08-01,368926.58,Professional,45
+USD,US19PONZ9985598136,NL,Sanofi,Drug order payment,2024-08-01,368979.17,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Conglomerate product order,2024-08-01,369049.3,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 9e7c8f4f-d7b1-476e-b7a7-1f43bf41fd3d,2024-08-01,372958.3,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: d91c1e78-3402-4786-b239-1b325f7fd21e,2024-08-01,376867.3,Professional,45
+USD,US19PONZ9985598136,NL,Huawei,Technology services invoice payment,2024-08-01,376974.75,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 288537a1-311f-4cf6-929f-fee921c7906e,2024-09-01,380883.75,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Influencer collaboration fee,2024-09-01,380986.13,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Drug order payment,2024-09-01,380992.26,Professional,45
+USD,US19PONZ9985598136,NL,Alphabet Inc.,Technology services invoice payment,2024-09-01,381006.94,Professional,45
+USD,US19PONZ9985598136,NL,BASF,Chemical supply order,2024-09-01,381012.37,Professional,45
+USD,US19PONZ9985598136,NL,Amelia van der Leek-Höning,Party contribution,2024-09-01,381045.04,Professional,45
+USD,US19PONZ9985598136,NL,Julia Huisman-Kriens,Split restaurant bill,2024-09-01,381059.26,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 341824be-7de9-4daf-927b-2e9a599e5933,2024-09-01,384968.26,Professional,45
+USD,US19PONZ9985598136,NL,"Maarten West-Francië, van",Reimbursement for dinner,2024-09-01,384985.28,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6b22428a-89c9-40f2-b5e5-3279c426fa81,2024-09-01,388894.28,Professional,45
+USD,US19PONZ9985598136,NL,Britt van Maaren,Shared subscription,2024-09-01,388960.71,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Drug order payment,2024-09-01,388991.95,Professional,45
+USD,US19PONZ9985598136,NL,Mitsubishi,Corporate services payment,2024-09-01,389090.54,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 549ceb09-4361-4c31-9b62-f950c87aa0da,2024-09-01,392999.54,Professional,45
+USD,US19PONZ9985598136,NL,Airbus,Aviation technology fee,2024-09-01,393015.54,Professional,45
+USD,US19PONZ9985598136,NL,Selena Melet,Reimbursement for groceries,2024-09-01,393076.94,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a3a4adb9-91fb-49a3-aabc-9d7df8a36c27,2024-09-01,396985.94,Professional,45
+USD,US19PONZ9985598136,NL,Brent Broeckx-van Grinsven,Medical bills,2024-09-01,397008.0,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 52f06cf9-4605-4087-9e60-2341d43ce991,2024-09-01,400917.0,Professional,45
+USD,US19PONZ9985598136,NL,Nike,Apparel shopping,2024-09-01,401032.74,Professional,45
+USD,US19PONZ9985598136,Canada,Alphabet Inc.,Cloud storage subscription,2024-09-01,401037.36,Professional,45
+USD,US19PONZ9985598136,Hungary,AstraZeneca,Pharmacy bill,2024-09-01,401062.9,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 12a174dc-79b1-4b1f-8959-7c8ea8a99865,2024-09-01,401114.13,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: cda4cfcb-d110-4693-a057-c9b041b5c997,2024-09-01,405023.13,Professional,45
+USD,US19PONZ9985598136,NL,Jente van Dooren-van Hulten,Loan repayment,2024-09-01,405058.28,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Corporate services payment,2024-09-01,405114.12,Professional,45
+USD,US19PONZ9985598136,NL,Linde Kramer,Shared meal cost,2024-09-01,405119.36,Professional,45
+USD,US19PONZ9985598136,NL,LVMH,High-end product buy,2024-09-01,405168.64,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: e4077999-ab85-46b8-ba4e-3ae43e962daa,2024-09-01,409077.64,Professional,45
+USD,US19PONZ9985598136,NL,Jonas de Gruijl,Graduation gift,2024-09-01,409083.5,Professional,45
+USD,US19PONZ9985598136,United States,Elin Lage,Anniversary gift,2024-09-01,409109.12,Professional,45
+USD,US19PONZ9985598136,NL,Ford Motor,Car parts order,2024-09-01,409129.22,Professional,45
+USD,US19PONZ9985598136,NL,Max Jones,Loan repayment,2024-09-01,409135.81,Professional,45
+USD,US19PONZ9985598136,NL,Verizon,Telecom invoice,2024-09-01,409154.94,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: bcb2d8e7-5bc6-4a43-b048-7190f98883f2,2024-09-01,413063.94,Professional,45
+USD,US19PONZ9985598136,NL,General Electric,Business unit invoice,2024-09-01,413137.96,Professional,45
+USD,US19PONZ9985598136,Hungary,Nike,Apparel shopping,2024-09-01,413497.05,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 9f0b063e-f035-4f06-a4d4-3bc4fc5ec3cc,2024-09-01,417406.05,Professional,45
+USD,US19PONZ9985598136,NL,AstraZeneca,Medication purchase,2024-09-01,417416.93,Professional,45
+USD,US19PONZ9985598136,NL,Oracle,Technology services invoice payment,2024-09-01,417429.16,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c95ae1a5-7fee-42d3-8628-76f2af707f0e,2024-09-01,421338.16,Professional,45
+USD,US19PONZ9985598136,NL,Alibaba,E-commerce order,2024-09-01,421381.61,Professional,45
+USD,US19PONZ9985598136,Great Britain,Robin Drysdale,Reimbursement for bills,2024-09-01,421383.46,Professional,45
+USD,US19PONZ9985598136,NL,Apple Inc.,Web hosting fee,2024-09-01,421441.47,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Corporate services payment,2024-09-01,421509.67,Professional,45
+USD,US19PONZ9985598136,Canada,AstraZeneca,Pharmacy bill,2024-09-01,421539.22,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ed4b5321-2ebb-4f32-b046-62c2415ccd40,2024-09-01,425448.22,Professional,45
+USD,US19PONZ9985598136,Canada,Microsoft,Technology services invoice payment,2024-09-01,425472.18,Professional,45
+USD,US19PONZ9985598136,NL,Airbus,Aerospace parts purchase,2024-09-01,425492.75,Professional,45
+USD,US19PONZ9985598136,NL,Apple Inc.,Cloud storage subscription,2024-09-01,425497.65,Professional,45
+USD,US19PONZ9985598136,NL,Cornelis de Reede,Party contribution,2024-09-01,425518.63,Professional,45
+USD,US19PONZ9985598136,United States,Dell Technologies,Web hosting fee,2024-09-01,425548.07,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: c789aa58-1328-4a69-b5e2-68be1f133a17,2024-09-01,429457.07,Professional,45
+USD,US19PONZ9985598136,United States,Jinthe van 't Erve,Support for a friend,2024-09-01,429459.54,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 0088304e-112f-43d2-a707-aaba383a7038,2024-09-01,433368.54,Professional,45
+USD,US19PONZ9985598136,NL,Procter & Gamble,Product purchase,2024-09-01,433410.87,Professional,45
+USD,US19PONZ9985598136,Canada,IBM,Cloud storage subscription,2024-09-01,433464.12,Professional,45
+USD,US19PONZ9985598136,Italy,Anna Mulders,Support for a family member,2024-09-01,433465.56,Professional,45
+USD,US19PONZ9985598136,Great Britain,Huawei,Technology services invoice payment,2024-09-01,433467.28,Professional,45
+USD,US19PONZ9985598136,Great Britain,General Electric,Diversified company fee,2024-09-01,433538.08,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a28f98d2-84c3-4ffa-9d96-2585918625fb,2024-09-01,437447.08,Professional,45
+USD,US19PONZ9985598136,NL,Boeing,Space exploration fee,2024-09-01,437461.71,Professional,45
+USD,US19PONZ9985598136,Spain,Geldmaat ATM,Geldmaat: 17f26c53-3552-4c2d-b463-6b7cc8b0d833,2024-09-01,437601.44,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 552bd4ef-b147-4bd6-813f-e06f83cddd6a,2024-09-01,441510.44,Professional,45
+USD,US19PONZ9985598136,Belgium,Goldman Sachs,Stock purchase,2024-09-01,441568.34,Professional,45
+USD,US19PONZ9985598136,NL,Apple Inc.,Software license fee payment,2024-09-01,441580.28,Professional,45
+USD,US19PONZ9985598136,United States,Kim van der Wal,Baby shower gift,2024-09-01,441609.52,Professional,45
+USD,US19PONZ9985598136,NL,Tata Consultancy Services,IT support fee,2024-09-01,441630.18,Professional,45
+USD,US19PONZ9985598136,NL,Stijn Tamsma,Christmas gift,2024-09-01,441673.69,Professional,45
+USD,US19PONZ9985598136,NL,Microsoft,Web hosting fee,2024-09-01,441675.37,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 1f702732-c37d-4e67-85d9-34a44bc809a8,2024-09-01,445584.37,Professional,45
+USD,US19PONZ9985598136,Germany,Toyota,Car parts order,2024-09-01,445620.47,Professional,45
+USD,US19PONZ9985598136,Canada,Jip de Kale,Shared meal cost,2024-09-01,445622.12,Professional,45
+USD,US19PONZ9985598136,NL,Feline Zeemans,Emergency funds,2024-09-01,445643.89,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 961ad42e-335a-4723-8d47-41f90b1077d6,2024-09-01,449552.89,Professional,45
+USD,US19PONZ9985598136,NL,Mirte Schakelaar,Child support,2024-09-01,449577.05,Professional,45
+USD,US19PONZ9985598136,Great Britain,Roan Kof,Wedding gift,2024-09-01,449661.39,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 22948500-63a9-411d-860c-67b56a640b22,2024-09-01,453570.39,Professional,45
+USD,US19PONZ9985598136,NL,Fay van Velthoven,Anniversary gift,2024-09-01,453576.77,Professional,45
+USD,US19PONZ9985598136,NL,Yassin van Hostaden,Support for a family member,2024-09-01,453630.74,Professional,45
+USD,US19PONZ9985598136,Germany,Tata Consultancy Services,Software development bill,2024-09-01,453657.77,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a5d5713e-bff9-4a53-81f9-95bc380e68ff,2024-09-01,457566.77,Professional,45
+USD,US19PONZ9985598136,NL,AstraZeneca,Healthcare prescription,2024-09-01,457619.4,Professional,45
+USD,US19PONZ9985598136,Denmark,Novartis,Drug order payment,2024-09-01,457658.37,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 828a258e-6205-4060-8c76-45625b073d8e,2024-09-01,461567.37,Professional,45
+USD,US19PONZ9985598136,NL,Rayan Symons-Dries,New baby gift,2024-09-01,461624.48,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Medication purchase,2024-09-01,461664.87,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 255f3086-8373-4662-9a75-bf67c3ee36c2,2024-09-01,465573.87,Professional,45
+USD,US19PONZ9985598136,NL,Bilal Bronder,School fees,2024-09-01,465578.68,Professional,45
+USD,US19PONZ9985598136,United States,Feline Krabbe-van Geffen,Shared meal cost,2024-09-01,465594.78,Professional,45
+USD,US19PONZ9985598136,NL,Huawei,Technology services invoice payment,2024-09-01,465615.34,Professional,45
+USD,US19PONZ9985598136,NL,Toyota,Car parts order,2024-09-01,465622.19,Professional,45
+USD,US19PONZ9985598136,Italy,Amber Jansse,Baby shower gift,2024-09-01,465629.18,Professional,45
+USD,US19PONZ9985598136,NL,LVMH,Luxury item purchase,2024-09-01,465706.18,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 9f091985-c138-4936-ba4a-5a0a9e9b173d,2024-09-01,469615.18,Professional,45
+USD,US19PONZ9985598136,NL,Esmée Konings,Reimbursement for medical expenses,2024-09-01,469675.18,Professional,45
+USD,US19PONZ9985598136,Germany,Brian Kremer,Child support,2024-09-01,469679.36,Professional,45
+USD,US19PONZ9985598136,Canada,Boeing,Aircraft maintenance,2024-09-01,469725.09,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a9bbdf65-56b6-4c6e-8f0f-a984c0a9997f,2024-09-01,473634.09,Professional,45
+USD,US19PONZ9985598136,NL,Facebook,Social media service subscription,2024-09-01,473660.9,Professional,45
+USD,US19PONZ9985598136,Hungary,Joy Ketting-Ponci,Support for a friend,2024-09-01,473706.94,Professional,45
+USD,US19PONZ9985598136,NL,Oracle,Technology services invoice payment,2024-09-01,473787.8,Professional,45
+USD,US19PONZ9985598136,NL,Rafael Schouten,Housewarming gift,2024-09-01,473868.44,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 19d3270c-0068-4e34-8666-bada534add0a,2024-09-01,477777.44,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a7add12c-e7cf-43cd-9ea7-66fd728866bf,2024-09-01,481686.44,Professional,45
+USD,US19PONZ9985598136,NL,Merck & Co.,Drug order payment,2024-09-01,481785.89,Professional,45
+USD,US19PONZ9985598136,NL,Lukas Jaceps-Kof,Vacation expenses,2024-09-01,481834.44,Professional,45
+USD,US19PONZ9985598136,NL,Bristol-Myers Squibb,Medication purchase,2024-09-01,481838.35,Professional,45
+USD,US19PONZ9985598136,Great Britain,Lisa van de Velde-Schipper,Shared meal cost,2024-09-01,481850.96,Professional,45
+USD,US19PONZ9985598136,NL,Dex Dachgelder,Child support,2024-09-01,481868.03,Professional,45
+USD,US19PONZ9985598136,Canada,Alphabet Inc.,Technology services invoice payment,2024-09-01,481881.33,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 66e0c45e-fd98-4aa6-9637-f74ba3a18ee8,2024-09-01,485790.33,Professional,45
+USD,US19PONZ9985598136,Germany,Mitsubishi,Diversified company fee,2024-09-01,485843.9,Professional,45
+USD,US19PONZ9985598136,NL,LVMH,Exclusive brand fee,2024-09-01,485847.27,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: f5c246d6-29c8-464b-966a-820ae23a18a2,2024-09-01,489756.27,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Utility bill,2024-09-01,489821.82,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 089837ba-e77f-49a9-985e-28363333cc2a,2024-09-01,493730.82,Professional,45
+USD,US19PONZ9985598136,Spain,Geldmaat ATM,Geldmaat: a3caaa69-8d2f-47e3-bb09-906c68e2d46a,2024-09-01,493817.97,Professional,45
+USD,US19PONZ9985598136,NL,Morgan Stanley,Brokerage fee,2024-09-01,493873.05,Professional,45
+USD,US19PONZ9985598136,Germany,Puck Verbeeck-Hoelen,Reimbursement for bills,2024-09-01,493874.77,Professional,45
+USD,US19PONZ9985598136,NL,Honeywell,Conglomerate product order,2024-09-01,493881.76,Professional,45
+USD,US19PONZ9985598136,NL,Boeing,Aircraft maintenance,2024-09-01,493883.41,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 11db7c74-a3d4-430e-8e13-a5687e212b91,2024-09-01,497792.41,Professional,45
+USD,US19PONZ9985598136,Spain,Mitsubishi,Corporate services payment,2024-09-01,497796.48,Professional,45
+USD,US19PONZ9985598136,NL,Mitsubishi,Conglomerate product order,2024-09-01,497809.63,Professional,45
+USD,US19PONZ9985598136,NL,IBM,Software license fee payment,2024-09-01,497825.23,Professional,45
+USD,US19PONZ9985598136,Denmark,Cisco Systems,Web hosting fee,2024-10-01,497839.06,Professional,45
+USD,US19PONZ9985598136,Great Britain,Verizon,Telecom invoice,2024-10-01,497855.89,Professional,45
+USD,US19PONZ9985598136,France,3M,Corporate services payment,2024-10-01,497859.38,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 80ea84e6-b1dd-4e13-9798-f4edde9e0c74,2024-10-01,501768.38,Professional,45
+USD,US19PONZ9985598136,NL,SoftBank,Conglomerate product order,2024-10-01,501824.56,Professional,45
+USD,US19PONZ9985598136,NL,Renault,Vehicle service charge,2024-10-01,501884.82,Professional,45
+USD,US19PONZ9985598136,Great Britain,Accenture,Advisory session charge,2024-10-01,501904.39,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ddd45b0b-2fe5-4dfc-95b3-35d0a7b64047,2024-10-01,505813.39,Professional,45
+USD,US19PONZ9985598136,NL,Accenture,Professional service invoice,2024-10-01,505887.23,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 6465946a-b8b6-4dc2-b179-786c499a06c6,2024-10-01,509796.23,Professional,45
+USD,US19PONZ9985598136,NL,Berkshire Hathaway,Corporate services payment,2024-10-01,509798.75,Professional,45
+USD,US19PONZ9985598136,Germany,Lars François-Doornhem,Wedding gift,2024-10-01,509803.09,Professional,45
+USD,US19PONZ9985598136,Great Britain,Facebook,Influencer collaboration fee,2024-10-01,509804.46,Professional,45
+USD,US19PONZ9985598136,Great Britain,Geldmaat ATM,Geldmaat: e09486fd-4553-4c5b-801d-7288898577a0,2024-10-01,509805.19,Professional,45
+USD,US19PONZ9985598136,Great Britain,Geldmaat ATM,Geldmaat: bbe9bc1d-e06a-4bc8-ad63-62734b0e4ce0,2024-10-01,509881.49,Professional,45
+USD,US19PONZ9985598136,United States,Novartis,Drug order payment,2024-10-01,509914.38,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 3f438d9b-76f1-42b3-9e40-4dd5533d9f36,2024-10-01,513823.38,Professional,45
+USD,US19PONZ9985598136,Japan,BMW,Car parts order,2024-10-01,513825.79,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: d5018c50-ccb2-4c3f-8918-43e57e116794,2024-10-01,517734.79,Professional,45
+USD,US19PONZ9985598136,NL,Merck & Co.,Pharmacy bill,2024-10-01,517761.02,Professional,45
+USD,US19PONZ9985598136,NL,Stefan Kalman,School fees,2024-10-01,517776.53,Professional,45
+USD,US19PONZ9985598136,Germany,Duke Energy,Renewable energy subscription,2024-10-01,517814.19,Professional,45
+USD,US19PONZ9985598136,NL,Toyota,Car purchase,2024-10-01,517817.97,Professional,45
+USD,US19PONZ9985598136,NL,Zara Simonis-van den Eijssel,Reimbursement for groceries,2024-10-01,517837.12,Professional,45
+USD,US19PONZ9985598136,NL,Johnson & Johnson,Pharmacy bill,2024-10-01,517891.37,Professional,45
+USD,US19PONZ9985598136,Great Britain,Vigo Roessink,Grocery money,2024-10-01,517892.49,Professional,45
+USD,US19PONZ9985598136,Italy,Phillips 66,Energy supply charge,2024-10-01,517894.3,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: b3d39462-64e5-4f17-a2f8-8af0c4139413,2024-10-01,521803.3,Professional,45
+USD,US19PONZ9985598136,NL,Daimler,Car purchase,2024-10-01,521822.08,Professional,45
+USD,US19PONZ9985598136,Spain,Bristol-Myers Squibb,Drug order payment,2024-10-01,521837.42,Professional,45
+USD,US19PONZ9985598136,NL,Robin van Noort,Shared meal cost,2024-10-01,521850.56,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: f538ebd7-bebf-49e4-95b5-9073948e155f,2024-10-01,525759.56,Professional,45
+USD,US19PONZ9985598136,NL,Marinus Kuiper-Latier,Travel expenses,2024-10-01,525813.05,Professional,45
+USD,US19PONZ9985598136,Canada,Alphabet Inc.,Web hosting fee,2024-10-01,525891.39,Professional,45
+USD,US19PONZ9985598136,United States,Oracle,Software license fee payment,2024-10-01,525941.99,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 99cb63fd-6cf2-4055-a14b-589bbae34ebd,2024-10-01,525988.55,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: f7c95fe0-b97a-41e3-bbdc-23968410c4f4,2024-10-01,529897.55,Professional,45
+USD,US19PONZ9985598136,NL,Ford Motor,Car parts order,2024-10-01,529942.22,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: a4d6c8e2-3296-46e5-9a9b-2770d98e7427,2024-10-01,533851.22,Professional,45
+USD,US19PONZ9985598136,NL,Bibi van Wel,School fees,2024-10-01,533897.75,Professional,45
+USD,US19PONZ9985598136,NL,Goldman Sachs,Capital markets service,2024-10-01,533929.83,Professional,45
+USD,US19PONZ9985598136,Great Britain,Johnson & Johnson,Healthcare prescription,2024-10-01,533980.16,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: fb774cda-dc7d-4798-9e09-b8d24e7ae313,2024-10-01,537889.16,Professional,45
+USD,US19PONZ9985598136,Spain,Airbus,Aviation technology fee,2024-10-01,537918.99,Professional,45
+USD,US19PONZ9985598136,Germany,Apple Inc.,Technology services invoice payment,2024-10-01,537956.91,Professional,45
+USD,US19PONZ9985598136,NL,Volkswagen,Auto repair bill,2024-10-01,537986.56,Professional,45
+USD,US19PONZ9985598136,Great Britain,Facebook,Premium account upgrade,2024-10-01,537992.84,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ca60d6aa-87e2-4ce7-85ec-1a23119a9d9f,2024-10-01,541901.84,Professional,45
+USD,US19PONZ9985598136,NL,LVMH,Exclusive brand fee,2024-10-01,541916.57,Professional,45
+USD,US19PONZ9985598136,NL,Boeing,Aviation technology fee,2024-10-01,541949.4,Professional,45
+USD,US19PONZ9985598136,NL,PepsiCo,Beverage order,2024-10-01,541976.26,Professional,45
+USD,US19PONZ9985598136,Italy,Gilead Sciences,Genetic testing kit,2024-10-01,542043.67,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: 468152a4-b50e-433e-a6bd-e0760bcf3f7b,2024-10-01,545952.67,Professional,45
+USD,US19PONZ9985598136,NL,Alibaba,Online shopping,2024-10-01,545968.47,Professional,45
+USD,US19PONZ9985598136,NL,General Electric,Business unit invoice,2024-10-01,545987.37,Professional,45
+USD,US19PONZ9985598136,NL,Geldmaat ATM,Geldmaat: ebe8ac4c-42ee-48dd-b312-8ce0f50d4e45,2024-10-01,549896.37,Professional,45
+USD,US19PONZ9985598136,Belgium,Ford Motor,Car parts order,2024-10-01,549940.7,Professional,45
+USD,US19PONZ9985598136,NL,Nike,Sportswear buy,2024-10-01,549959.28,Professional,45
+USD,US19PONZ9985598136,NL,Phillips 66,Electricity payment,2024-10-01,549976.78,Professional,45

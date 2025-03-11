@@ -1,0 +1,343 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+CAD,CA81VANC6843912723,Canada,Verizon,Telecom invoice,2024-06-01,2441.5,Student,20
+CAD,CA81VANC6843912723,Denmark,SoftBank,Business unit invoice,2024-06-01,2446.59,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: fdc1121a-a39c-47e2-a63f-f806755adc0c,2024-06-01,2981.59,Student,20
+CAD,CA81VANC6843912723,NL,Renault,Car parts order,2024-06-01,2983.95,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: 928b2d76-b3f2-445b-b054-65cec1421ab1,2024-06-01,3009.52,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ef173bea-70ef-4b46-9a23-a327645bf930,2024-06-01,3544.52,Student,20
+CAD,CA81VANC6843912723,NL,Roche,Healthcare prescription,2024-06-01,3567.56,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 746a69dd-fef3-4ebe-b7ca-eab0d2fec6b2,2024-06-01,4102.56,Student,20
+CAD,CA81VANC6843912723,NL,Unilever,Retail goods payment,2024-06-01,4127.03,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: d601df0f-a943-4ed0-b4ca-e58253b7cc2d,2024-06-01,4662.03,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 197e1019-9153-4f85-875a-05e4add16d87,2024-06-01,5197.03,Student,20
+CAD,CA81VANC6843912723,Belgium,BASF,Cleaning products order,2024-06-01,5212.72,Student,20
+CAD,CA81VANC6843912723,Canada,LVMH,Luxury item purchase,2024-06-01,5231.67,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 9c5321b1-22fe-4831-af97-e7042e28c4f3,2024-06-01,5766.67,Student,20
+CAD,CA81VANC6843912723,NL,Duke Energy,Electricity payment,2024-06-01,5796.5,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: cc0eae83-fb22-4a7d-a9ee-aa90474b3f9b,2024-06-01,6331.5,Student,20
+CAD,CA81VANC6843912723,NL,Tata Consultancy Services,IT support fee,2024-06-01,6350.04,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 166f8a1a-47e7-4c8c-b7e6-130a920d75fa,2024-06-01,6885.04,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: df024cfe-7d9b-46e2-8476-bfe53c99be6d,2024-06-01,7420.04,Student,20
+CAD,CA81VANC6843912723,NL,Tata Consultancy Services,IT support fee,2024-06-01,7464.44,Student,20
+CAD,CA81VANC6843912723,Belgium,PepsiCo,Beverage order,2024-06-01,7495.7,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 9cf2017f-231b-49e9-914e-6357530915de,2024-06-01,8030.7,Student,20
+CAD,CA81VANC6843912723,NL,DuPont,Corporate services payment,2024-06-01,8031.48,Student,20
+CAD,CA81VANC6843912723,NL,AstraZeneca,Pharmacy bill,2024-06-01,8043.9,Student,20
+CAD,CA81VANC6843912723,Canada,Airbus,Aerospace parts purchase,2024-06-01,8052.17,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 5c7a6eb9-5131-4868-b924-99f355a033df,2024-06-01,8587.17,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 277e6c89-cbd6-4a53-b64d-ea66355c6fa4,2024-06-01,9122.17,Student,20
+CAD,CA81VANC6843912723,NL,Morgan Stanley,Brokerage fee,2024-06-01,9146.41,Student,20
+CAD,CA81VANC6843912723,NL,Daimler,Car parts order,2024-06-01,9154.73,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 51282354-3ba9-44b5-8c33-7a07e766262d,2024-06-01,9689.73,Student,20
+CAD,CA81VANC6843912723,NL,Apple Inc.,Technology services invoice payment,2024-06-01,9692.58,Student,20
+CAD,CA81VANC6843912723,NL,Merijn Fechant,Emergency funds,2024-06-01,9694.46,Student,20
+CAD,CA81VANC6843912723,NL,Jente Scholten,Gift,2024-06-01,9699.98,Student,20
+CAD,CA81VANC6843912723,NL,Oracle,Cloud storage subscription,2024-06-01,9708.13,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 55db2291-82c4-43ae-8ecd-cb2ca492f84c,2024-06-01,10243.13,Student,20
+CAD,CA81VANC6843912723,United States,Allianz,Claim settlement,2024-06-01,10257.63,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: d21c4c29-6705-4881-9b6a-635bd89216e2,2024-06-01,10792.63,Student,20
+CAD,CA81VANC6843912723,NL,Alibaba,Online shopping,2024-06-01,10805.71,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 9fce69f3-99d7-4da3-bb71-87f6226b1345,2024-06-01,11340.71,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: 37d9ac2e-d86a-45d8-a7db-37549d844b3d,2024-06-01,11351.02,Student,20
+CAD,CA81VANC6843912723,United States,AstraZeneca,Healthcare prescription,2024-06-01,11359.27,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 9ef25ace-9b86-4910-9d91-a8c729136d21,2024-06-01,11894.27,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 7078f53b-b0f0-4fcb-aa1a-fe727bfa5ace,2024-06-01,12429.27,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: 5d045c76-8be4-4460-9778-fe56836cd140,2024-06-01,12464.3,Student,20
+CAD,CA81VANC6843912723,NL,Gilead Sciences,Clinical trial payment,2024-06-01,12534.25,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: b89b1be4-dad8-4ea0-b2e4-b1187045a87c,2024-06-01,13069.25,Student,20
+CAD,CA81VANC6843912723,Great Britain,IBM,Software license fee payment,2024-06-01,13101.2,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: d2d6b7fa-1d47-4a27-ab0e-f388f988a70a,2024-06-01,13636.2,Student,20
+CAD,CA81VANC6843912723,NL,Boeing,Aircraft maintenance,2024-06-01,13642.48,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ccb24af2-5931-4067-bebc-d8c0f43155bd,2024-06-01,14177.48,Student,20
+CAD,CA81VANC6843912723,Hungary,BMW,Vehicle service charge,2024-06-01,14195.21,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: cfe44957-6252-49da-a59f-6d52e3a4762c,2024-06-01,14217.87,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 2d834792-cfb3-4f08-911c-10b0459ecabb,2024-06-01,14752.87,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 1e8767d0-9146-409a-8563-df217eaa54bf,2024-06-01,15287.87,Student,20
+CAD,CA81VANC6843912723,NL,Karlijn Maas-Weeldenburg,Support for a friend,2024-06-01,15304.01,Student,20
+CAD,CA81VANC6843912723,NL,Toyota,Car purchase,2024-06-01,15325.54,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: fc0e40c0-d4df-4683-8551-24524a414cc8,2024-06-01,15860.54,Student,20
+CAD,CA81VANC6843912723,United States,Alphabet Inc.,Web hosting fee,2024-06-01,15877.41,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: e2732964-ef89-4015-83b2-4a2b8a810e5d,2024-06-01,16412.41,Student,20
+CAD,CA81VANC6843912723,NL,Kick Kremer,Child support,2024-06-01,16425.21,Student,20
+CAD,CA81VANC6843912723,NL,Volkswagen,Car parts order,2024-06-01,16435.76,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ea9edcd0-98a3-4f91-9e64-4d5aadb95f5b,2024-06-01,16970.76,Student,20
+CAD,CA81VANC6843912723,United States,Duke Energy,Renewable energy subscription,2024-06-01,16984.82,Student,20
+CAD,CA81VANC6843912723,Germany,IBM,Cloud storage subscription,2024-06-01,16991.3,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 739ef1d1-2740-45c7-bf49-87930f8b5144,2024-06-01,17526.3,Student,20
+CAD,CA81VANC6843912723,NL,Pfizer,Medication purchase,2024-06-01,17659.14,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 18e89f14-363e-41b2-960f-1ea342270746,2024-06-01,18194.14,Student,20
+CAD,CA81VANC6843912723,United States,Fien Soos,Dinner reimbursement,2024-06-01,18196.98,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 46bdc263-2298-4add-93bc-01bcd1d90321,2024-06-01,18731.98,Student,20
+CAD,CA81VANC6843912723,Spain,Alphabet Inc.,Cloud storage subscription,2024-06-01,18742.08,Student,20
+CAD,CA81VANC6843912723,NL,Fem Weijland-Kok,Shared ride expenses,2024-06-01,18749.08,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 4dfa7741-4773-4d44-a35b-3a4477a7e982,2024-06-01,19284.08,Student,20
+CAD,CA81VANC6843912723,Great Britain,Boeing,Space exploration fee,2024-06-01,19293.98,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 94e65d9a-6fe2-4233-b7ef-d08e7ec80ade,2024-07-01,19828.98,Student,20
+CAD,CA81VANC6843912723,NL,Microsoft,Cloud storage subscription,2024-07-01,19855.52,Student,20
+CAD,CA81VANC6843912723,NL,IBM,Cloud storage subscription,2024-07-01,19857.28,Student,20
+CAD,CA81VANC6843912723,Great Britain,Huawei,Cloud storage subscription,2024-07-01,19860.95,Student,20
+CAD,CA81VANC6843912723,NL,Alibaba,Marketplace seller fee,2024-07-01,19879.03,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: cbe0bb2d-d2af-4aa7-bb7c-126d3fbbec2f,2024-07-01,20414.03,Student,20
+CAD,CA81VANC6843912723,NL,Duke Energy,Electricity payment,2024-07-01,20429.23,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 32a542a0-b6c1-4368-b368-5d6f2ca47e66,2024-07-01,20964.23,Student,20
+CAD,CA81VANC6843912723,Great Britain,Lucas Cadefau,Gas money,2024-07-01,20971.33,Student,20
+CAD,CA81VANC6843912723,NL,Mark van Gelder-Thatcher,Rent payment,2024-07-01,20973.51,Student,20
+CAD,CA81VANC6843912723,NL,Meta Platforms,Technology services invoice payment,2024-07-01,20978.95,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c8c3a80f-52a5-4986-8f2d-ae1f6cd542c4,2024-07-01,21513.95,Student,20
+CAD,CA81VANC6843912723,Italy,Ryan le Matelot,Wedding gift,2024-07-01,21531.1,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 2bec26be-3d25-4137-8199-38d55b875c2c,2024-07-01,22066.1,Student,20
+CAD,CA81VANC6843912723,NL,Luke van Zwaben,Support money,2024-07-01,22079.86,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 5bd07e89-6bee-41dc-ab7c-bf078ffa7772,2024-07-01,22614.86,Student,20
+CAD,CA81VANC6843912723,NL,Roche,Drug order payment,2024-07-01,22621.87,Student,20
+CAD,CA81VANC6843912723,NL,Microsoft,Software license fee payment,2024-07-01,22626.59,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 79fd76b3-f14f-4899-babd-ad56a1bf6d5c,2024-07-01,23161.59,Student,20
+CAD,CA81VANC6843912723,NL,Niels Kleijse,Reimbursement for shopping,2024-07-01,23167.31,Student,20
+CAD,CA81VANC6843912723,United States,Procter & Gamble,Subscription box service,2024-07-01,23180.56,Student,20
+CAD,CA81VANC6843912723,Italy,Brent Françoise,Reimbursement for medical expenses,2024-07-01,23190.19,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 6fe06867-0c26-4dd6-8019-a6c1ab905457,2024-07-01,23725.19,Student,20
+CAD,CA81VANC6843912723,United States,Nike,Clothing purchase,2024-07-01,23755.32,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 54880ad0-ab8c-4d65-a434-ad2aec7ff4b3,2024-07-01,24290.32,Student,20
+CAD,CA81VANC6843912723,NL,Honeywell,Business unit invoice,2024-07-01,24302.46,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c57e63fb-3542-453f-bcfe-35b15faa36fb,2024-07-01,24837.46,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 8e7d0250-ef2b-44d8-827d-0c2361226ad0,2024-07-01,25372.46,Student,20
+CAD,CA81VANC6843912723,NL,Elizabeth de Swart,Party contribution,2024-07-01,25382.84,Student,20
+CAD,CA81VANC6843912723,NL,Duke Energy,Energy supply charge,2024-07-01,25393.91,Student,20
+CAD,CA81VANC6843912723,NL,Mitsubishi,Conglomerate product order,2024-07-01,25395.33,Student,20
+CAD,CA81VANC6843912723,Canada,Volkswagen,Auto repair bill,2024-07-01,25410.56,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: f13184fc-5956-4968-a80e-8ec3d3a0b92c,2024-07-01,25945.56,Student,20
+CAD,CA81VANC6843912723,NL,Berkshire Hathaway,Diversified company fee,2024-07-01,25976.03,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c40a6128-6a4f-4adc-92fc-6288e202cea4,2024-07-01,26511.03,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: a3d2ec0e-7774-4e24-bbb5-1e5d63c90aa0,2024-07-01,27046.03,Student,20
+CAD,CA81VANC6843912723,NL,Alphabet Inc.,Software license fee payment,2024-07-01,27060.12,Student,20
+CAD,CA81VANC6843912723,Hungary,Vera de Beer,Emergency funds,2024-07-01,27065.79,Student,20
+CAD,CA81VANC6843912723,Spain,Accenture,Expert consultation fee,2024-07-01,27071.93,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c240a04e-9358-421f-a888-5a56f2de9604,2024-07-01,27606.93,Student,20
+CAD,CA81VANC6843912723,United States,Hendrik Wooning,Baby shower gift,2024-07-01,27626.93,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 0c935d85-c198-4311-8a3c-af453fedbb26,2024-07-01,28161.93,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ec086032-ec0b-41d8-9ad9-ee3bf432fe33,2024-07-01,28696.93,Student,20
+CAD,CA81VANC6843912723,Japan,Facebook,Social media service subscription,2024-07-01,28719.23,Student,20
+CAD,CA81VANC6843912723,NL,Ford Motor,Auto repair bill,2024-07-01,28723.49,Student,20
+CAD,CA81VANC6843912723,Denmark,Geldmaat ATM,Geldmaat: 8bc051a6-1b81-4a3b-aebf-d9a34d93fc86,2024-07-01,28733.55,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 6214125b-7088-4b04-833c-2032ee5fffcb,2024-07-01,29268.55,Student,20
+CAD,CA81VANC6843912723,NL,Daimler,Vehicle service charge,2024-07-01,29297.78,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: d1d92e6a-0fd3-4ba2-b2c3-6f8b7f83fc20,2024-07-01,29832.78,Student,20
+CAD,CA81VANC6843912723,Great Britain,Lex Sarneel,Rent payment,2024-07-01,29843.71,Student,20
+CAD,CA81VANC6843912723,NL,Pfizer,Pharmacy bill,2024-07-01,29889.66,Student,20
+CAD,CA81VANC6843912723,United States,AstraZeneca,Medication purchase,2024-07-01,29894.65,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 7a3a6801-f145-4b6d-91e2-71f0fa9cf757,2024-07-01,30429.65,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 15a317b2-a7ad-4a3b-89c2-3ed627d7c52f,2024-07-01,30964.65,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: 47ed87a3-5eee-4667-87f9-820dd791d34b,2024-07-01,30984.52,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: cc58d6f0-ccaa-4b1f-8494-7fd98f150746,2024-07-01,31519.52,Student,20
+CAD,CA81VANC6843912723,NL,Cisco Systems,Web hosting fee,2024-07-01,31528.5,Student,20
+CAD,CA81VANC6843912723,NL,Allianz,Policy renewal fee,2024-07-01,31536.65,Student,20
+CAD,CA81VANC6843912723,Canada,Luc Peterse,Shared meal cost,2024-07-01,31539.59,Student,20
+CAD,CA81VANC6843912723,NL,Nike,Clothing purchase,2024-07-01,31558.51,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 923ed1fb-878a-4c75-a9de-1bf8ded6a7f4,2024-07-01,32093.51,Student,20
+CAD,CA81VANC6843912723,NL,Daimler,Car parts order,2024-07-01,32094.52,Student,20
+CAD,CA81VANC6843912723,Japan,Quinten van Bunschoten,Loan repayment,2024-07-01,32098.17,Student,20
+CAD,CA81VANC6843912723,NL,Zeynep Hendricks-de Jong,Personal loan,2024-07-01,32101.13,Student,20
+CAD,CA81VANC6843912723,NL,Unilever,Product purchase,2024-07-01,32106.21,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 6b5f7fce-e547-45bb-81e8-f4a4de04cc2c,2024-07-01,32641.21,Student,20
+CAD,CA81VANC6843912723,NL,Selena Huurdeman,Loan repayment,2024-07-01,32647.29,Student,20
+CAD,CA81VANC6843912723,NL,Alibaba,Marketplace seller fee,2024-07-01,32665.21,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 406ec6d9-9ebb-4042-82af-2bb2f54a92b4,2024-07-01,33200.21,Student,20
+CAD,CA81VANC6843912723,NL,Jayson van Duvenvoirde,Shared subscription,2024-07-01,33216.51,Student,20
+CAD,CA81VANC6843912723,United States,Sanofi,Pharmacy bill,2024-07-01,33245.68,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ad370434-d7d6-4d02-b19b-586bccd04737,2024-07-01,33780.68,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c5a2e6ae-1992-4e22-abe9-a6e2ecdcd3a5,2024-07-01,34315.68,Student,20
+CAD,CA81VANC6843912723,NL,Kyan Opmans,Christmas gift,2024-07-01,34338.98,Student,20
+CAD,CA81VANC6843912723,Germany,General Electric,Corporate services payment,2024-07-01,34347.43,Student,20
+CAD,CA81VANC6843912723,NL,Facebook,Influencer collaboration fee,2024-07-01,34353.15,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 4b2ec0e4-620f-4e66-babe-a5735ca8e5ab,2024-07-01,34888.15,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: be730975-8d9c-41d2-8505-fc16c88e0524,2024-07-01,35423.15,Student,20
+CAD,CA81VANC6843912723,NL,Mitsubishi,Diversified company fee,2024-07-01,35458.16,Student,20
+CAD,CA81VANC6843912723,NL,SoftBank,Diversified company fee,2024-07-01,35472.98,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 1ff97d55-4a9f-4e60-bd50-773665753712,2024-07-01,36007.98,Student,20
+CAD,CA81VANC6843912723,NL,Duke Energy,Renewable energy subscription,2024-07-01,36013.43,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 6253190c-d76f-4a93-94dd-84cf0e4ccccc,2024-07-01,36548.43,Student,20
+CAD,CA81VANC6843912723,Japan,Honeywell,Business unit invoice,2024-07-01,36557.8,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 4849cb26-13d0-4683-a60c-0fc11b57970e,2024-08-01,37092.8,Student,20
+CAD,CA81VANC6843912723,NL,Iris Pison,Party contribution,2024-08-01,37116.47,Student,20
+CAD,CA81VANC6843912723,Spain,Geldmaat ATM,Geldmaat: eb0a9364-0104-4582-8b16-5de2941f367d,2024-08-01,37141.99,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c7c14bed-a0ca-4f0f-bcf2-3b42e3910be2,2024-08-01,37676.99,Student,20
+CAD,CA81VANC6843912723,NL,Verizon,Telecom invoice,2024-08-01,37680.31,Student,20
+CAD,CA81VANC6843912723,NL,Frederique van den Berg-Boudewijns,Vacation expenses,2024-08-01,37760.1,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c0293f1b-1aa4-4a39-812f-e14e5bd21cf4,2024-08-01,38295.1,Student,20
+CAD,CA81VANC6843912723,Great Britain,Daimler,Auto repair bill,2024-08-01,38336.85,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 552bc2b7-7aac-4741-8bbd-01d2dc13c188,2024-08-01,38871.85,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 436bda74-1778-49e3-a7b3-1e1d911e17a0,2024-08-01,39406.85,Student,20
+CAD,CA81VANC6843912723,Austria,Oracle,Web hosting fee,2024-08-01,39420.88,Student,20
+CAD,CA81VANC6843912723,United States,Cornelis Schouten,Gas money,2024-08-01,39438.39,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 66ac2e39-0b4c-4660-82fb-140fa3dc2f29,2024-08-01,39973.39,Student,20
+CAD,CA81VANC6843912723,NL,Matthias Gellemeyer,Loan repayment,2024-08-01,39986.63,Student,20
+CAD,CA81VANC6843912723,NL,Adam van Wel,School fees,2024-08-01,39994.71,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 1a72320a-1fa1-4e63-9edf-2dce5120643d,2024-08-01,40529.71,Student,20
+CAD,CA81VANC6843912723,Italy,Renault,Car purchase,2024-08-01,40542.38,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 40a386b4-f3f1-4546-a40f-477d2507a387,2024-08-01,41077.38,Student,20
+CAD,CA81VANC6843912723,Canada,Procter & Gamble,Retail goods payment,2024-08-01,41094.67,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 4c6ca850-1647-4a3d-acfb-83c584cf8315,2024-08-01,41629.67,Student,20
+CAD,CA81VANC6843912723,NL,Lois Merckx,Loan repayment,2024-08-01,41637.3,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: f1873f1b-4a58-44bc-a7f6-e5399b075746,2024-08-01,42172.3,Student,20
+CAD,CA81VANC6843912723,NL,Juul van der Loo-de Kale,Reimbursement for bills,2024-08-01,42186.19,Student,20
+CAD,CA81VANC6843912723,Japan,Mohammed van der Ploeg,Rent deposit,2024-08-01,42203.46,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: dd9b9d97-debb-4def-bae8-c963bca73f80,2024-08-01,42738.46,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: a5dc445b-3b69-4fd4-b4cf-6baaca648634,2024-08-01,43273.46,Student,20
+CAD,CA81VANC6843912723,NL,Jayda de Wit,Shared ride expenses,2024-08-01,43279.19,Student,20
+CAD,CA81VANC6843912723,NL,AstraZeneca,Drug order payment,2024-08-01,43290.37,Student,20
+CAD,CA81VANC6843912723,Great Britain,Kaylee Post,Vacation expenses,2024-08-01,43296.99,Student,20
+CAD,CA81VANC6843912723,NL,Loïs Neuteboom,Rent assistance,2024-08-01,43302.11,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 6d638760-f646-46d7-9e5d-8536cd5c002c,2024-08-01,43837.11,Student,20
+CAD,CA81VANC6843912723,NL,Alibaba,Marketplace seller fee,2024-08-01,43864.14,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 1b0a27bc-ca0b-4b03-aadc-9d7bbc0f609b,2024-08-01,44399.14,Student,20
+CAD,CA81VANC6843912723,NL,Roche,Medication purchase,2024-08-01,44402.58,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 2a2b7871-77e1-4f1c-aa8b-910ad30c5b31,2024-08-01,44937.58,Student,20
+CAD,CA81VANC6843912723,Hungary,Geldmaat ATM,Geldmaat: 2d545c56-d568-47a7-85d1-3ebba5cc4f04,2024-08-01,44945.03,Student,20
+CAD,CA81VANC6843912723,NL,Mehmet Rijntjes,Gas money,2024-08-01,44949.64,Student,20
+CAD,CA81VANC6843912723,NL,Joost Meeres,Baby shower gift,2024-08-01,44962.52,Student,20
+CAD,CA81VANC6843912723,Canada,Sanofi,Healthcare prescription,2024-08-01,44971.62,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 4f772c4d-f7b7-4a48-8438-f4f3bcf29338,2024-08-01,45506.62,Student,20
+CAD,CA81VANC6843912723,NL,Pfizer,Healthcare prescription,2024-08-01,45508.66,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: d9d91e22-93d4-40f2-9e7f-f2d853a89bfb,2024-08-01,46043.66,Student,20
+CAD,CA81VANC6843912723,Great Britain,Vajèn van Laon,Shared meal cost,2024-08-01,46120.51,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 3cfc7c7a-aa83-423f-b058-0a84cbbb8125,2024-08-01,46655.51,Student,20
+CAD,CA81VANC6843912723,NL,ByteDance,Software license fee payment,2024-08-01,46682.24,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 0883fff4-3680-4d08-b688-fa91ecf6f8d6,2024-08-01,47217.24,Student,20
+CAD,CA81VANC6843912723,NL,Ian Hoekstra,Loan to family,2024-08-01,47229.42,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 18d94dfb-5231-4f6c-85b2-c5e5cafa21c2,2024-08-01,47764.42,Student,20
+CAD,CA81VANC6843912723,Canada,Amazon,Subscription service,2024-08-01,47777.25,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 528c8861-6526-4af0-bf7e-d2bc2014a9b2,2024-08-01,48312.25,Student,20
+CAD,CA81VANC6843912723,NL,Renault,Vehicle service charge,2024-08-01,48315.99,Student,20
+CAD,CA81VANC6843912723,NL,Sven Oda-Texier,Reimbursement for dinner,2024-08-01,48328.93,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 5b3b1133-8a84-4701-878a-5efd3a921179,2024-08-01,48863.93,Student,20
+CAD,CA81VANC6843912723,Belgium,Microsoft,Cloud storage subscription,2024-08-01,48894.41,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: f764d5e0-4393-4c1a-9d8c-f0bed8b7c283,2024-08-01,49429.41,Student,20
+CAD,CA81VANC6843912723,Spain,Victoria Post,Reimbursement for medical expenses,2024-08-01,49443.25,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: befec963-e5d9-41cb-beb5-a661c5c2ca7a,2024-08-01,49978.25,Student,20
+CAD,CA81VANC6843912723,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,50095.94,Student,20
+CAD,CA81VANC6843912723,NL,Airbus,Aircraft maintenance,2024-08-01,50111.75,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 9a206146-b036-4139-879e-97ccd683f353,2024-08-01,50646.75,Student,20
+CAD,CA81VANC6843912723,NL,Dell Technologies,Web hosting fee,2024-08-01,50648.14,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 360033d2-a169-4cce-8fb8-7ddea1d547c7,2024-08-01,51183.14,Student,20
+CAD,CA81VANC6843912723,NL,Amazon,E-commerce order,2024-08-01,51193.63,Student,20
+CAD,CA81VANC6843912723,Canada,Sanofi,Drug order payment,2024-08-01,51198.31,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: c417ffca-8fe7-4c0f-afb1-7168c621aa5b,2024-08-01,51733.31,Student,20
+CAD,CA81VANC6843912723,NL,Honeywell,Diversified company fee,2024-08-01,51742.26,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 11ac87f5-9bb5-44f0-87bf-4692b94ca047,2024-08-01,52277.26,Student,20
+CAD,CA81VANC6843912723,United States,Meike van Es-Schokman,Reimbursement for shopping,2024-08-01,52291.59,Student,20
+CAD,CA81VANC6843912723,NL,Allianz,Claim settlement,2024-08-01,52293.81,Student,20
+CAD,CA81VANC6843912723,NL,Mitsubishi,Corporate services payment,2024-08-01,52315.76,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 15da7514-89b9-4b05-9925-2b4fb552555e,2024-08-01,52850.76,Student,20
+CAD,CA81VANC6843912723,Japan,Adriana de Leeuw,Gas money,2024-08-01,52851.67,Student,20
+CAD,CA81VANC6843912723,United States,Phillips 66,Utility bill,2024-08-01,52864.62,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: a307afd5-675d-4f70-a4ae-5314e3798efd,2024-08-01,53399.62,Student,20
+CAD,CA81VANC6843912723,NL,Huawei,Technology services invoice payment,2024-08-01,53419.96,Student,20
+CAD,CA81VANC6843912723,Germany,Accenture,Consulting fee,2024-08-01,53430.01,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 0fb83d9e-e151-416f-9576-6d71c66d2e4e,2024-08-01,53965.01,Student,20
+CAD,CA81VANC6843912723,NL,Verizon,Data plan payment,2024-09-01,53975.61,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 5edaf900-85b3-4948-8ce3-c7689ddc294d,2024-09-01,54510.61,Student,20
+CAD,CA81VANC6843912723,Great Britain,Daimler,Auto repair bill,2024-09-01,54520.25,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ee797d0f-0faa-44ee-806e-4d6e2dc4ca5b,2024-09-01,55055.25,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: f075c20c-4822-4eee-b30a-4526269f10ef,2024-09-01,55590.25,Student,20
+CAD,CA81VANC6843912723,Germany,Nora Ramaker,Reimbursement for medical expenses,2024-09-01,55608.06,Student,20
+CAD,CA81VANC6843912723,NL,Novartis,Healthcare prescription,2024-09-01,55649.52,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: fc4382fc-6dec-41fc-9766-189b60e7b5b0,2024-09-01,56184.52,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: be193be3-63e7-4248-8af9-8ca12865188c,2024-09-01,56192.72,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 1335c7ff-4b0b-49d1-9422-25d85083cc50,2024-09-01,56727.72,Student,20
+CAD,CA81VANC6843912723,NL,Cisco Systems,Software license fee payment,2024-09-01,56841.41,Student,20
+CAD,CA81VANC6843912723,Italy,Robin van Munster,Graduation gift,2024-09-01,56863.64,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: a9e2ffc8-643f-4fb2-b854-65073f795da4,2024-09-01,57398.64,Student,20
+CAD,CA81VANC6843912723,United States,Roche,Healthcare prescription,2024-09-01,57414.46,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 0fd09b76-cb9b-4ad4-a327-993f6a87670d,2024-09-01,57949.46,Student,20
+CAD,CA81VANC6843912723,NL,Phillips 66,Renewable energy subscription,2024-09-01,57953.39,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 6650be56-b795-46be-be91-7b933abd9453,2024-09-01,58488.39,Student,20
+CAD,CA81VANC6843912723,Great Britain,Airbus,Aviation technology fee,2024-09-01,58502.02,Student,20
+CAD,CA81VANC6843912723,NL,Dana Robbrechts Bruijne,Baby shower gift,2024-09-01,58518.77,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ea93439b-4829-483f-8caa-ec52c10ad6b3,2024-09-01,59053.77,Student,20
+CAD,CA81VANC6843912723,NL,Renault,Vehicle service charge,2024-09-01,59064.7,Student,20
+CAD,CA81VANC6843912723,NL,Cisco Systems,Software license fee payment,2024-09-01,59132.24,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 45e2089e-ad31-45d2-90b2-ee24b15911fe,2024-09-01,59667.24,Student,20
+CAD,CA81VANC6843912723,NL,Gilead Sciences,Clinical trial payment,2024-09-01,59673.25,Student,20
+CAD,CA81VANC6843912723,NL,Berend Mangel-Vandenbergh,Child support,2024-09-01,59674.66,Student,20
+CAD,CA81VANC6843912723,NL,Phillips 66,Utility bill,2024-09-01,59678.4,Student,20
+CAD,CA81VANC6843912723,Great Britain,BASF,Chemical supply order,2024-09-01,59692.02,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 5f4adf5f-15c4-4b06-81ce-bc21608a7ebd,2024-09-01,60227.02,Student,20
+CAD,CA81VANC6843912723,NL,Facebook,Social media service subscription,2024-09-01,60784.76,Student,20
+CAD,CA81VANC6843912723,Canada,Procter & Gamble,Order payment,2024-09-01,60788.61,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ab11f308-4c23-4da8-8cf4-52f1a46e2a29,2024-09-01,61323.61,Student,20
+CAD,CA81VANC6843912723,NL,Stella Labado-Louws,Grocery money,2024-09-01,61360.78,Student,20
+CAD,CA81VANC6843912723,Great Britain,Microsoft,Technology services invoice payment,2024-09-01,61371.81,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 49c22720-fbef-4836-bca1-5f0661a17011,2024-09-01,61906.81,Student,20
+CAD,CA81VANC6843912723,NL,SoftBank,Conglomerate product order,2024-09-01,61958.19,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: aec6148f-7fa8-4592-b1f2-cc26b61216b4,2024-09-01,62493.19,Student,20
+CAD,CA81VANC6843912723,United States,Meta Platforms,Technology services invoice payment,2024-09-01,62509.37,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: d9556069-de6f-4b36-b51c-6a062062fc33,2024-09-01,63044.37,Student,20
+CAD,CA81VANC6843912723,NL,Alibaba,Subscription service,2024-09-01,63050.71,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 99f1a5fe-f03a-4bfe-a003-5adb2ea7321d,2024-09-01,63585.71,Student,20
+CAD,CA81VANC6843912723,NL,Nike,Sportswear buy,2024-09-01,63590.62,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 42518f88-f98d-44fe-b0d9-0d420a7ffd42,2024-09-01,64125.62,Student,20
+CAD,CA81VANC6843912723,Denmark,Bristol-Myers Squibb,Pharmacy bill,2024-09-01,64136.21,Student,20
+CAD,CA81VANC6843912723,Canada,DuPont,Corporate services payment,2024-09-01,64138.95,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: f681dde5-dfe2-4be8-88c9-f5dcf0f8334d,2024-09-01,64673.95,Student,20
+CAD,CA81VANC6843912723,NL,Vajèn Niermann,Christmas gift,2024-09-01,64693.01,Student,20
+CAD,CA81VANC6843912723,NL,Dell Technologies,Web hosting fee,2024-09-01,64709.22,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 177a76e0-bd62-49a0-8273-5ed5253c11ee,2024-09-01,65244.22,Student,20
+CAD,CA81VANC6843912723,NL,Amazon,Subscription service,2024-09-01,65262.55,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 5aef4c01-28e2-4be7-9ab3-e86d5de0c4ef,2024-09-01,65797.55,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: cb9701bc-3621-45b9-a17e-5e5d55cdf399,2024-09-01,66332.55,Student,20
+CAD,CA81VANC6843912723,NL,Airbus,Space exploration fee,2024-09-01,66359.76,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 46603ccb-0770-4725-82c8-cdd56ca2d735,2024-09-01,66894.76,Student,20
+CAD,CA81VANC6843912723,NL,Geldmaat ATM,Geldmaat: b49e88d9-be59-490c-bd82-f3aa6663825d,2024-09-01,66915.74,Student,20
+CAD,CA81VANC6843912723,NL,Milan Mol,Loan to friend,2024-09-01,66917.72,Student,20
+CAD,CA81VANC6843912723,NL,Guusje Keltenie,Split restaurant bill,2024-09-01,66933.76,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 86e0549d-0b5d-468d-a307-6874f772d3be,2024-09-01,67468.76,Student,20
+CAD,CA81VANC6843912723,NL,Alyssa Willems,Support for a friend,2024-09-01,67478.54,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: edf07f95-eb09-4825-8b7b-40eb1815bf56,2024-09-01,68013.54,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 77e392b8-99a4-4901-ab2f-9d64c490f89c,2024-09-01,68548.54,Student,20
+CAD,CA81VANC6843912723,Great Britain,3M,Conglomerate product order,2024-09-01,68581.54,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 1f9a69a3-1d8e-4c23-8b87-51b5a8c32dc1,2024-09-01,69116.54,Student,20
+CAD,CA81VANC6843912723,NL,Boris Brouwer,Emergency funds,2024-09-01,69136.37,Student,20
+CAD,CA81VANC6843912723,United States,Meta Platforms,Cloud storage subscription,2024-09-01,69205.47,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: f8f700de-e1c0-4c3e-88f5-afc8261312b2,2024-09-01,69740.47,Student,20
+CAD,CA81VANC6843912723,NL,Nike,Apparel shopping,2024-09-01,69744.01,Student,20
+CAD,CA81VANC6843912723,Belgium,Geldmaat ATM,Geldmaat: d083925d-2412-47bf-848d-a98ce7661a72,2024-09-01,69751.21,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 22f1403f-a47c-454b-9cde-7e1082db5954,2024-09-01,70286.21,Student,20
+CAD,CA81VANC6843912723,NL,Jill Beekman,Split vacation cost,2024-09-01,70295.14,Student,20
+CAD,CA81VANC6843912723,NL,Cisco Systems,Technology services invoice payment,2024-09-01,70300.95,Student,20
+CAD,CA81VANC6843912723,Canada,Colin Chrodtrud,Loan to family,2024-09-01,70307.39,Student,20
+CAD,CA81VANC6843912723,NL,Airbus,Aviation technology fee,2024-09-01,70324.7,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: ef701f6f-7664-41b4-9ecd-c4f3e9da596e,2024-09-01,70859.7,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 7b1a3b0c-64fa-40d7-8075-eda0cc78dcc5,2024-09-01,71394.7,Student,20
+CAD,CA81VANC6843912723,Great Britain,Volkswagen,Car parts order,2024-09-01,71419.24,Student,20
+CAD,CA81VANC6843912723,Hungary,Nike,Clothing purchase,2024-10-01,71421.5,Student,20
+CAD,CA81VANC6843912723,NL,Bayer,Medication purchase,2024-10-01,71427.77,Student,20
+CAD,CA81VANC6843912723,NL,BASF,Industrial chemicals purchase,2024-10-01,71431.65,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 89041930-6286-45c4-b52e-974aa7a1e00d,2024-10-01,71966.65,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 11ba6b5d-fb5f-4d61-8392-5e0769fd330c,2024-10-01,72501.65,Student,20
+CAD,CA81VANC6843912723,NL,Yfke der Kijnder,Family loan repayment,2024-10-01,72522.07,Student,20
+CAD,CA81VANC6843912723,NL,Sanofi,Medication purchase,2024-10-01,72525.93,Student,20
+CAD,CA81VANC6843912723,Germany,Mitsubishi,Business unit invoice,2024-10-01,72534.01,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: b15ac823-6043-4ec7-bc35-c6f65eb7fb2b,2024-10-01,73069.01,Student,20
+CAD,CA81VANC6843912723,United States,Apple Inc.,Technology services invoice payment,2024-10-01,73099.34,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 8a6353f5-21b4-4b79-b56e-5abb78f33050,2024-10-01,73634.34,Student,20
+CAD,CA81VANC6843912723,NL,Alibaba,E-commerce order,2024-10-01,73636.13,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 568f9b9f-e105-4702-8ddc-5d5842ae8b1c,2024-10-01,74171.13,Student,20
+CAD,CA81VANC6843912723,NL,Boeing,Aircraft maintenance,2024-10-01,74183.4,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 3fe7b9bd-426c-4bce-9405-676e60f1276e,2024-10-01,74718.4,Student,20
+CAD,CA81VANC6843912723,NL,Allianz,Claim settlement,2024-10-01,74730.64,Student,20
+CAD,CA81VANC6843912723,NL,LVMH,Designer goods order,2024-10-01,74760.39,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 8b5dccc2-dc73-461e-8ef7-bcd3559c1b29,2024-10-01,75295.39,Student,20
+CAD,CA81VANC6843912723,Spain,Johnson & Johnson,Healthcare prescription,2024-10-01,75351.47,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 19a31179-fa3c-4a44-81d7-2b2376fb5395,2024-10-01,75886.47,Student,20
+CAD,CA81VANC6843912723,NL,Facebook,Ad campaign funding,2024-10-01,75899.51,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 53c6ebcb-fa2c-4d79-abad-286358856ebd,2024-10-01,76434.51,Student,20
+CAD,CA81VANC6843912723,Canada,Unilever,Product purchase,2024-10-01,76444.28,Student,20
+CAD,CA81VANC6843912723,Great Britain,Bristol-Myers Squibb,Pharmacy bill,2024-10-01,76454.99,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: dee5c3e4-135c-4c18-a98b-e6ce4b70e32a,2024-10-01,76989.99,Student,20
+CAD,CA81VANC6843912723,NL,Mitsubishi,Diversified company fee,2024-10-01,77002.09,Student,20
+CAD,CA81VANC6843912723,Great Britain,Alibaba,Marketplace seller fee,2024-10-01,77007.05,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 406900cf-5b45-4144-aea7-c63c5def1de5,2024-10-01,77542.05,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: 908ae330-1618-42a5-b6c0-36fdf12d94ba,2024-10-01,78077.05,Student,20
+CAD,CA81VANC6843912723,NL,Evie van Susa,Rent deposit,2024-10-01,78090.53,Student,20
+CAD,CA81VANC6843912723,Japan,Cisco Systems,Software license fee payment,2024-10-01,78094.12,Student,20
+CAD,CA81VANC6843912723,Great Britain,Geldmaat ATM,Geldmaat: cc7d7d97-a16e-4b03-9616-264a61e1ee53,2024-10-01,78629.12,Student,20
+CAD,CA81VANC6843912723,United States,Volkswagen,Car parts order,2024-10-01,78646.85,Student,20

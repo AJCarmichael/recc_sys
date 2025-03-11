@@ -1,0 +1,416 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+USD,US19PONZ1160572954,Canada,Alphabet Inc.,Software license fee payment,2024-06-01,1578.04,Retail worker,28
+USD,US19PONZ1160572954,United States,Luka van Rossum,Shared utilities,2024-06-01,1592.22,Retail worker,28
+USD,US19PONZ1160572954,Italy,Finn Schwartsbach-van der Horst,Reimbursement for shopping,2024-06-01,1621.56,Retail worker,28
+USD,US19PONZ1160572954,NL,Novartis,Pharmacy bill,2024-06-01,1623.98,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 7dca2a9e-e5ff-4d7b-8255-6ff763a7912b,2024-06-01,3990.98,Retail worker,28
+USD,US19PONZ1160572954,NL,GlaxoSmithKline,Pharmacy bill,2024-06-01,4037.35,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e9d6623a-ac1c-4c2f-a85a-b14248871584,2024-06-01,6404.35,Retail worker,28
+USD,US19PONZ1160572954,Canada,Toyota,Car parts order,2024-06-01,6465.02,Retail worker,28
+USD,US19PONZ1160572954,NL,Jolie Rouwenhorst-de Vos,Vacation expenses,2024-06-01,6466.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c71b141d-b7d9-42be-b293-f0bd7318257f,2024-06-01,8833.74,Retail worker,28
+USD,US19PONZ1160572954,Canada,Oracle,Web hosting fee,2024-06-01,9107.35,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 3449022d-e8ee-4c4c-8ad6-5bde9b00729e,2024-06-01,11474.35,Retail worker,28
+USD,US19PONZ1160572954,NL,Kate van Breukelveen,Reimbursement for dinner,2024-06-01,11583.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 35b69f1d-77c0-4677-8da1-9b1fad01fd1d,2024-06-01,13950.74,Retail worker,28
+USD,US19PONZ1160572954,Canada,Daimler,Car purchase,2024-06-01,14044.1,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e5ca640e-4560-40f8-8c5c-11fc626e6fe4,2024-06-01,16411.1,Retail worker,28
+USD,US19PONZ1160572954,NL,Phillips 66,Electricity payment,2024-06-01,16450.41,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 5ce903b0-1916-4400-a6cf-70200cf1f592,2024-06-01,18817.41,Retail worker,28
+USD,US19PONZ1160572954,NL,AT&T,Phone bill,2024-06-01,18826.17,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 184925be-38f7-4127-8b30-724be42f34a0,2024-06-01,21193.17,Retail worker,28
+USD,US19PONZ1160572954,NL,Microsoft,Software license fee payment,2024-06-01,21272.44,Retail worker,28
+USD,US19PONZ1160572954,NL,SoftBank,Corporate services payment,2024-06-01,21275.83,Retail worker,28
+USD,US19PONZ1160572954,NL,Goldman Sachs,Capital markets service,2024-06-01,21292.14,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c2a05f17-8b46-487c-a206-0be533500301,2024-06-01,23659.14,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 58f88f55-af2d-47ce-8aee-613caf171d1f,2024-06-01,23692.57,Retail worker,28
+USD,US19PONZ1160572954,NL,Sven Schokman-van Limburg,Gift,2024-06-01,23738.56,Retail worker,28
+USD,US19PONZ1160572954,NL,Berkshire Hathaway,Corporate services payment,2024-06-01,23740.73,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a940ff9c-3fbe-4b31-8201-7f7f43a39dd7,2024-06-01,26107.73,Retail worker,28
+USD,US19PONZ1160572954,NL,Dion Merckx,Support money,2024-06-01,26149.86,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e62f70ab-654d-42ea-b25b-c6ee0d8ba1f1,2024-06-01,28516.86,Retail worker,28
+USD,US19PONZ1160572954,NL,Goldman Sachs,Stock purchase,2024-06-01,28540.29,Retail worker,28
+USD,US19PONZ1160572954,Canada,Procter & Gamble,Retail goods payment,2024-06-01,28602.5,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: d4e05ee8-d8a3-4622-a3fb-7129f0d3ba22,2024-06-01,30969.5,Retail worker,28
+USD,US19PONZ1160572954,NL,Johnson & Johnson,Medication purchase,2024-06-01,30974.6,Retail worker,28
+USD,US19PONZ1160572954,NL,Cisco Systems,Technology services invoice payment,2024-06-01,31003.78,Retail worker,28
+USD,US19PONZ1160572954,NL,AstraZeneca,Medication purchase,2024-06-01,31012.44,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 2978d600-f94f-4717-b473-176a790d4402,2024-06-01,33379.44,Retail worker,28
+USD,US19PONZ1160572954,NL,DuPont,Business unit invoice,2024-06-01,33426.57,Retail worker,28
+USD,US19PONZ1160572954,Canada,Cisco Systems,Software license fee payment,2024-06-01,33429.67,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 7e8d23e2-f52f-4e3b-b043-df36c6805508,2024-06-01,35796.67,Retail worker,28
+USD,US19PONZ1160572954,Canada,Honeywell,Conglomerate product order,2024-06-01,35854.26,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 158d0d84-4417-41f9-a151-8a0dbccc9c3d,2024-06-01,38221.26,Retail worker,28
+USD,US19PONZ1160572954,NL,Maarten van Es,Birthday gift,2024-06-01,38245.42,Retail worker,28
+USD,US19PONZ1160572954,Canada,Isabel van Asten,Rent assistance,2024-06-01,38291.54,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 2ac2bec5-da60-4e88-85a2-9a78b2735025,2024-06-01,40658.54,Retail worker,28
+USD,US19PONZ1160572954,NL,Huawei,Software license fee payment,2024-06-01,40669.53,Retail worker,28
+USD,US19PONZ1160572954,NL,Renault,Auto repair bill,2024-06-01,40671.64,Retail worker,28
+USD,US19PONZ1160572954,NL,Verizon,Cable service subscription,2024-06-01,40676.06,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 07d983b3-8b61-4726-af76-7291b4f166b5,2024-06-01,43043.06,Retail worker,28
+USD,US19PONZ1160572954,United States,Ella Scheer-Arnold,Birthday gift,2024-06-01,43079.96,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: b886c780-a008-43e0-9353-810e42e10748,2024-06-01,45446.96,Retail worker,28
+USD,US19PONZ1160572954,NL,Apple Inc.,Software license fee payment,2024-06-01,45487.37,Retail worker,28
+USD,US19PONZ1160572954,NL,Allianz,Claim settlement,2024-06-01,45524.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f99c3762-b378-4bd6-9976-33ac832eea47,2024-06-01,47891.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Ford Motor,Car purchase,2024-06-01,47896.83,Retail worker,28
+USD,US19PONZ1160572954,NL,SoftBank,Business unit invoice,2024-06-01,47923.19,Retail worker,28
+USD,US19PONZ1160572954,NL,Pfizer,Pharmacy bill,2024-06-01,47929.57,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a3ace403-1ccd-4e1c-80e7-5478cd4ee118,2024-06-01,50296.57,Retail worker,28
+USD,US19PONZ1160572954,NL,Meta Platforms,Software license fee payment,2024-06-01,50350.46,Retail worker,28
+USD,US19PONZ1160572954,NL,Toyota,Car purchase,2024-06-01,50379.23,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f3b5f0d3-d7ee-428d-aaf2-c07a5ef44287,2024-06-01,52746.23,Retail worker,28
+USD,US19PONZ1160572954,NL,Milan van Spreuwel,Shared hotel room cost,2024-06-01,52776.62,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Morgan Stanley,Brokerage fee,2024-06-01,52781.86,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 213723db-9536-4369-af3d-1c19abd0b2ab,2024-06-01,55148.86,Retail worker,28
+USD,US19PONZ1160572954,Hungary,Berkshire Hathaway,Business unit invoice,2024-06-01,55165.44,Retail worker,28
+USD,US19PONZ1160572954,NL,Bristol-Myers Squibb,Drug order payment,2024-06-01,55173.82,Retail worker,28
+USD,US19PONZ1160572954,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,55197.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c8e56301-0a8a-43f6-9d12-8eff41ee549a,2024-06-01,57564.33,Retail worker,28
+USD,US19PONZ1160572954,NL,ByteDance,Web hosting fee,2024-06-01,57583.56,Retail worker,28
+USD,US19PONZ1160572954,United States,Verizon,Phone bill,2024-06-01,57626.44,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c8bad207-a761-41aa-a9f9-01d78352819e,2024-06-01,59993.44,Retail worker,28
+USD,US19PONZ1160572954,NL,Accenture,Advisory session charge,2024-06-01,60006.96,Retail worker,28
+USD,US19PONZ1160572954,NL,Gilead Sciences,Genetic testing kit,2024-06-01,60009.28,Retail worker,28
+USD,US19PONZ1160572954,NL,Tata Consultancy Services,System upgrade fee,2024-06-01,60023.6,Retail worker,28
+USD,US19PONZ1160572954,Italy,Collin van Velthoven,Reimbursement for shopping,2024-06-01,60037.4,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 6cefe28a-1e9d-43d1-8d7b-6d8816633e27,2024-06-01,62404.4,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Stijn van den Oever-Honing,Reimbursement for travel,2024-06-01,62453.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8ac314b4-95e1-4c8c-8cc9-710e64c58eed,2024-06-01,64820.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Gilead Sciences,Clinical trial payment,2024-06-01,64841.54,Retail worker,28
+USD,US19PONZ1160572954,NL,SoftBank,Conglomerate product order,2024-06-01,64845.9,Retail worker,28
+USD,US19PONZ1160572954,Germany,Benjamin Lensen,Support for a friend,2024-06-01,64852.51,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 21459284-2878-497d-8337-9b6fdcb44c32,2024-06-01,67219.51,Retail worker,28
+USD,US19PONZ1160572954,Italy,Phillips 66,Energy supply charge,2024-06-01,67224.05,Retail worker,28
+USD,US19PONZ1160572954,NL,Meta Platforms,Web hosting fee,2024-06-01,67249.87,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 4b814af4-9dc7-42ab-879f-30e5fe7e8b29,2024-06-01,69616.87,Retail worker,28
+USD,US19PONZ1160572954,NL,SoftBank,Diversified company fee,2024-06-01,69624.66,Retail worker,28
+USD,US19PONZ1160572954,Denmark,Goldman Sachs,Investment fund entry,2024-06-01,69689.19,Retail worker,28
+USD,US19PONZ1160572954,NL,Alibaba,Online shopping,2024-06-01,69691.49,Retail worker,28
+USD,US19PONZ1160572954,NL,Duke Energy,Energy supply charge,2024-06-01,69719.22,Retail worker,28
+USD,US19PONZ1160572954,Germany,Olivier Mansvelt,Loan to family,2024-06-01,69722.58,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 51d94f11-9485-40c3-b464-0eb5f80a4bdc,2024-06-01,72089.58,Retail worker,28
+USD,US19PONZ1160572954,Canada,Jet Gemen-Ehlert,Debt settlement,2024-06-01,72095.71,Retail worker,28
+USD,US19PONZ1160572954,Spain,Sanofi,Drug order payment,2024-06-01,72150.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f3881719-be73-46e0-a973-914affb2e4c2,2024-06-01,74517.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Wout Lips-Moet,Debt settlement,2024-07-01,74530.78,Retail worker,28
+USD,US19PONZ1160572954,NL,ByteDance,Cloud storage subscription,2024-07-01,74535.85,Retail worker,28
+USD,US19PONZ1160572954,France,Toyota,Auto repair bill,2024-07-01,74551.32,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a8fd65ca-c1ea-41ea-8620-e12e862329f5,2024-07-01,76918.32,Retail worker,28
+USD,US19PONZ1160572954,NL,Procter & Gamble,Subscription box service,2024-07-01,76921.67,Retail worker,28
+USD,US19PONZ1160572954,NL,Sara Robbrechts Bruijne,Vacation expenses,2024-07-01,76936.7,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: fdb9f93f-49d9-4ec6-b164-ef3910bad741,2024-07-01,79303.7,Retail worker,28
+USD,US19PONZ1160572954,NL,General Electric,Diversified company fee,2024-07-01,79315.34,Retail worker,28
+USD,US19PONZ1160572954,Canada,Ford Motor,Auto repair bill,2024-07-01,79321.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 95c9c85d-9f29-4336-a7ee-41064ec93f6e,2024-07-01,81688.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Bibi de Leeuw-van der Smeede,Grocery money,2024-07-01,81733.26,Retail worker,28
+USD,US19PONZ1160572954,NL,AT&T,Data plan payment,2024-07-01,81771.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e9620d12-4820-401c-a07d-d9ba102ce099,2024-07-01,84138.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 220e6826-2da3-495a-b86e-35852ad4deea,2024-07-01,86505.16,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,General Electric,Business unit invoice,2024-07-01,86531.02,Retail worker,28
+USD,US19PONZ1160572954,NL,Phillips 66,Energy supply charge,2024-07-01,86549.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 4fca21da-9bb9-4ad7-93d3-0a395ad44103,2024-07-01,88916.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Benthe Winnrich,Shared meal cost,2024-07-01,88932.89,Retail worker,28
+USD,US19PONZ1160572954,NL,General Electric,Business unit invoice,2024-07-01,88971.19,Retail worker,28
+USD,US19PONZ1160572954,NL,Mark Bekbergen,Anniversary gift,2024-07-01,89016.91,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 23870fa1-191c-441d-b946-b8ecdcc34931,2024-07-01,91383.91,Retail worker,28
+USD,US19PONZ1160572954,NL,Imke Huls,Baby shower gift,2024-07-01,91399.84,Retail worker,28
+USD,US19PONZ1160572954,NL,BMW,Car parts order,2024-07-01,91418.75,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 83839903-ed48-428d-87fc-c617263be48a,2024-07-01,93785.75,Retail worker,28
+USD,US19PONZ1160572954,NL,Accenture,Consulting fee,2024-07-01,93814.05,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 893e1d33-59a3-4b0c-b186-aaff0ec96f0a,2024-07-01,96181.05,Retail worker,28
+USD,US19PONZ1160572954,NL,Dina Steenbakkers,Wedding gift,2024-07-01,96219.96,Retail worker,28
+USD,US19PONZ1160572954,United States,DuPont,Conglomerate product order,2024-07-01,96248.02,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 29c8c377-735d-40a1-947d-f88f3da2753c,2024-07-01,98615.02,Retail worker,28
+USD,US19PONZ1160572954,Denmark,Nout van den Berg,School fees,2024-07-01,98635.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: ef3935eb-1f15-4eae-b35b-93596eb28013,2024-07-01,101002.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Morgan Stanley,Investment fund entry,2024-07-01,101069.02,Retail worker,28
+USD,US19PONZ1160572954,NL,Berkshire Hathaway,Diversified company fee,2024-07-01,101125.22,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8f6794dc-1a7e-48b4-a2d4-7dcb9b7431ae,2024-07-01,103492.22,Retail worker,28
+USD,US19PONZ1160572954,Germany,Honeywell,Business unit invoice,2024-07-01,103494.68,Retail worker,28
+USD,US19PONZ1160572954,NL,Tata Consultancy Services,Technical service charge,2024-07-01,103508.96,Retail worker,28
+USD,US19PONZ1160572954,Belgium,PepsiCo,Food delivery,2024-07-01,103514.39,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: be435148-b170-46ee-a036-ad8bfe87667c,2024-07-01,105881.39,Retail worker,28
+USD,US19PONZ1160572954,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,105892.91,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: acc75cd3-bcfb-4e92-9f4e-3075e8dc09f7,2024-07-01,108259.91,Retail worker,28
+USD,US19PONZ1160572954,NL,Kim Gervais-Höning,Shared utilities,2024-07-01,108315.73,Retail worker,28
+USD,US19PONZ1160572954,NL,Verizon,Phone bill,2024-07-01,108350.82,Retail worker,28
+USD,US19PONZ1160572954,Italy,Mitsubishi,Corporate services payment,2024-07-01,108353.06,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 9a72e8b9-b328-42f1-b1eb-b8847eb794c0,2024-07-01,110720.06,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c427f588-8235-4a26-a788-e80f64565bca,2024-07-01,113087.06,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Bayer,Healthcare prescription,2024-07-01,113145.8,Retail worker,28
+USD,US19PONZ1160572954,Italy,Oracle,Web hosting fee,2024-07-01,113152.18,Retail worker,28
+USD,US19PONZ1160572954,NL,Mitsubishi,Business unit invoice,2024-07-01,113178.55,Retail worker,28
+USD,US19PONZ1160572954,NL,BASF,Chemical supply order,2024-07-01,113182.82,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8be85fc3-17cd-484c-983c-35f18cae279b,2024-07-01,115549.82,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f6d3ca19-4ff9-46dc-8ac4-798ce38f4677,2024-07-01,117916.82,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,SoftBank,Corporate services payment,2024-07-01,118014.51,Retail worker,28
+USD,US19PONZ1160572954,NL,Microsoft,Technology services invoice payment,2024-07-01,118043.43,Retail worker,28
+USD,US19PONZ1160572954,NL,SoftBank,Corporate services payment,2024-07-01,118043.97,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 7572e14f-d97c-4767-a78d-cf1d7fdc05b1,2024-07-01,120410.97,Retail worker,28
+USD,US19PONZ1160572954,Japan,Verizon,Phone bill,2024-07-01,120428.45,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f1027e1f-e520-46c0-b736-fa7c8b42a2b3,2024-07-01,122795.45,Retail worker,28
+USD,US19PONZ1160572954,United States,Volkswagen,Car purchase,2024-07-01,122854.35,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 7771bb2a-faff-41ea-b973-80e303e3b5b3,2024-07-01,125221.35,Retail worker,28
+USD,US19PONZ1160572954,NL,BMW,Auto repair bill,2024-07-01,125325.46,Retail worker,28
+USD,US19PONZ1160572954,NL,Procter & Gamble,Retail goods payment,2024-07-01,125328.83,Retail worker,28
+USD,US19PONZ1160572954,NL,Huawei,Software license fee payment,2024-07-01,125353.46,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: cf91d280-ba3d-4eb1-8372-7c6d5e8bdc1c,2024-07-01,127720.46,Retail worker,28
+USD,US19PONZ1160572954,NL,AstraZeneca,Medication purchase,2024-07-01,127746.0,Retail worker,28
+USD,US19PONZ1160572954,NL,Robin Spaan-van Breugel,Support for a family member,2024-07-01,127750.75,Retail worker,28
+USD,US19PONZ1160572954,NL,Sienna Blewanus-Molenaar,Wedding gift,2024-07-01,127809.57,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: ebf57fcf-03b2-4006-a13d-87aa87bf30f9,2024-07-01,130176.57,Retail worker,28
+USD,US19PONZ1160572954,NL,AstraZeneca,Pharmacy bill,2024-07-01,130178.69,Retail worker,28
+USD,US19PONZ1160572954,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,130198.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: bb1b1bc2-d1c8-45d8-86a2-8e4e240181d5,2024-07-01,132565.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Accenture,Professional service invoice,2024-07-01,132586.95,Retail worker,28
+USD,US19PONZ1160572954,NL,AstraZeneca,Medication purchase,2024-07-01,132616.15,Retail worker,28
+USD,US19PONZ1160572954,NL,Kevin Uit de Willigen-Ligtvoet,Housewarming gift,2024-07-01,132637.55,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 551b1ce2-26a7-4a80-a7fa-21fadc82f645,2024-07-01,135004.55,Retail worker,28
+USD,US19PONZ1160572954,NL,Tijs Stettyn,Family loan repayment,2024-07-01,135016.6,Retail worker,28
+USD,US19PONZ1160572954,Spain,Ford Motor,Car purchase,2024-07-01,135020.54,Retail worker,28
+USD,US19PONZ1160572954,NL,Airbus,Aviation technology fee,2024-07-01,135048.83,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 32137441-9987-4ca6-91bb-bbdf91eed029,2024-07-01,137415.83,Retail worker,28
+USD,US19PONZ1160572954,NL,Ibrahim Welf-van Hemert,Christmas gift,2024-07-01,137438.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 4a819d11-cc60-40c3-a25f-3bc597e56caa,2024-07-01,139805.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Catharina Huijzing,School fees,2024-07-01,139905.08,Retail worker,28
+USD,US19PONZ1160572954,NL,Mees de Haas,Split vacation cost,2024-07-01,139918.29,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 6d3d602d-b582-48e6-b152-023c99d37836,2024-07-01,142285.29,Retail worker,28
+USD,US19PONZ1160572954,United States,Volkswagen,Car purchase,2024-07-01,142304.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 85e9a8a3-3a62-4217-b3d2-dc983c5c45f8,2024-07-01,142549.81,Retail worker,28
+USD,US19PONZ1160572954,NL,Apple Inc.,Cloud storage subscription,2024-07-01,142579.88,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 716d116c-0abd-421b-b244-8137651d76d3,2024-07-01,144946.88,Retail worker,28
+USD,US19PONZ1160572954,NL,Morgan Stanley,Investment fund entry,2024-07-01,144953.65,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 5db8948a-30ad-4efd-9602-e412298d2473,2024-07-01,147320.65,Retail worker,28
+USD,US19PONZ1160572954,Japan,Puck Wolfsdr,Funeral expenses,2024-07-01,147440.45,Retail worker,28
+USD,US19PONZ1160572954,Italy,Johnson & Johnson,Medication purchase,2024-07-01,147476.39,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: fa487ade-ce4e-4f92-8e7a-ae8f7490ad18,2024-07-01,149843.39,Retail worker,28
+USD,US19PONZ1160572954,Denmark,Colin Elberts,Loan to family,2024-07-01,149864.26,Retail worker,28
+USD,US19PONZ1160572954,NL,Morgan Stanley,Investment fund entry,2024-08-01,149886.37,Retail worker,28
+USD,US19PONZ1160572954,NL,Berkshire Hathaway,Corporate services payment,2024-08-01,149904.9,Retail worker,28
+USD,US19PONZ1160572954,NL,Roche,Healthcare prescription,2024-08-01,149908.18,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 9ae2522e-3d32-4e94-9602-6a89f5b21b8d,2024-08-01,152275.18,Retail worker,28
+USD,US19PONZ1160572954,United States,Ford Motor,Car parts order,2024-08-01,152279.06,Retail worker,28
+USD,US19PONZ1160572954,United States,PepsiCo,Beverage order,2024-08-01,152303.14,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8782ee49-6725-4a12-b368-5ef02cbf67ed,2024-08-01,154670.14,Retail worker,28
+USD,US19PONZ1160572954,NL,BASF,Chemical supply order,2024-08-01,154696.51,Retail worker,28
+USD,US19PONZ1160572954,NL,Airbus,Aerospace parts purchase,2024-08-01,154724.88,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 6e94ba60-9305-46b5-b6a5-c7c3934a3dfe,2024-08-01,157091.88,Retail worker,28
+USD,US19PONZ1160572954,Canada,Naomi van Gent,Shared meal cost,2024-08-01,157127.47,Retail worker,28
+USD,US19PONZ1160572954,Germany,Duke Energy,Electricity payment,2024-08-01,157134.16,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Phillips 66,Energy supply charge,2024-08-01,157140.66,Retail worker,28
+USD,US19PONZ1160572954,Italy,LVMH,Luxury item purchase,2024-08-01,157147.14,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 09d08115-f67d-4fc5-9e46-5dc628209ef8,2024-08-01,159514.14,Retail worker,28
+USD,US19PONZ1160572954,NL,Sanofi,Medication purchase,2024-08-01,159532.91,Retail worker,28
+USD,US19PONZ1160572954,Denmark,"Jinthe Bourgondië, van",Loan to family,2024-08-01,159536.13,Retail worker,28
+USD,US19PONZ1160572954,NL,Johnson & Johnson,Healthcare prescription,2024-08-01,159659.26,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 625f78ed-d9d2-4cbb-a3f7-6a24eef40e4c,2024-08-01,162026.26,Retail worker,28
+USD,US19PONZ1160572954,Canada,Zoë Bos-Loreal,Support money,2024-08-01,162032.6,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: d9f7ac18-59ed-4720-910a-d1762f0420a8,2024-08-01,164399.6,Retail worker,28
+USD,US19PONZ1160572954,NL,AT&T,Telecom invoice,2024-08-01,164417.11,Retail worker,28
+USD,US19PONZ1160572954,United States,Ford Motor,Car purchase,2024-08-01,164438.95,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f0e60f7a-e9da-4418-9a98-a8b97bed65b6,2024-08-01,166805.95,Retail worker,28
+USD,US19PONZ1160572954,NL,Ford Motor,Auto repair bill,2024-08-01,166845.21,Retail worker,28
+USD,US19PONZ1160572954,NL,Tata Consultancy Services,System upgrade fee,2024-08-01,166969.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 847c66ee-563e-4379-8b06-4898169a1b37,2024-08-01,169336.42,Retail worker,28
+USD,US19PONZ1160572954,Denmark,Toyota,Car purchase,2024-08-01,169341.81,Retail worker,28
+USD,US19PONZ1160572954,NL,Jacob Jacobi-van Mare,Support money,2024-08-01,169360.64,Retail worker,28
+USD,US19PONZ1160572954,Denmark,Hannah van Veen,Housewarming gift,2024-08-01,169361.6,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: d92db388-6641-4efa-8fe2-8c12569e60f4,2024-08-01,171728.6,Retail worker,28
+USD,US19PONZ1160572954,NL,Berkshire Hathaway,Diversified company fee,2024-08-01,171748.64,Retail worker,28
+USD,US19PONZ1160572954,NL,Gilead Sciences,Biotech research fee,2024-08-01,171754.79,Retail worker,28
+USD,US19PONZ1160572954,NL,Dell Technologies,Software license fee payment,2024-08-01,171756.3,Retail worker,28
+USD,US19PONZ1160572954,NL,Yassin Zuijdveld,Reimbursement for groceries,2024-08-01,171858.84,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 76c2f481-3ac8-4132-8a37-ccbb8f1bc4d9,2024-08-01,174225.84,Retail worker,28
+USD,US19PONZ1160572954,France,Geldmaat ATM,Geldmaat: 78115640-9565-418f-bfa7-00859b004fee,2024-08-01,174420.43,Retail worker,28
+USD,US19PONZ1160572954,NL,GlaxoSmithKline,Pharmacy bill,2024-08-01,174453.15,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 1e978615-1dd1-4692-897f-59173efa5ab1,2024-08-01,176820.15,Retail worker,28
+USD,US19PONZ1160572954,France,Johnson & Johnson,Pharmacy bill,2024-08-01,176853.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c56d99d8-9498-4154-a26f-e8e61cc39e64,2024-08-01,179220.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Meta Platforms,Web hosting fee,2024-08-01,179310.63,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 6b29d082-ad70-4d93-8b27-f03691883465,2024-08-01,181677.63,Retail worker,28
+USD,US19PONZ1160572954,NL,Dewi van Mil-van Jumiège,School fees,2024-08-01,181683.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8f044fbe-d49d-4118-87c2-8c3dd9e6f297,2024-08-01,184050.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Daimler,Auto repair bill,2024-08-01,184079.36,Retail worker,28
+USD,US19PONZ1160572954,France,Roche,Medication purchase,2024-08-01,184104.27,Retail worker,28
+USD,US19PONZ1160572954,NL,IBM,Web hosting fee,2024-08-01,184135.46,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 4eddf3c3-96e2-496e-8f87-1338c3227b02,2024-08-01,186502.46,Retail worker,28
+USD,US19PONZ1160572954,Canada,Daimler,Car parts order,2024-08-01,186511.84,Retail worker,28
+USD,US19PONZ1160572954,NL,Airbus,Aviation technology fee,2024-08-01,186560.8,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 94bb22fa-6e80-4cea-9243-e50328a411b5,2024-08-01,188927.8,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a9348588-cedb-4882-bb7e-aa8b5e7e98cf,2024-08-01,191294.8,Retail worker,28
+USD,US19PONZ1160572954,NL,Verizon,Telecom invoice,2024-08-01,191346.86,Retail worker,28
+USD,US19PONZ1160572954,NL,Morgan Stanley,Stock purchase,2024-08-01,191352.83,Retail worker,28
+USD,US19PONZ1160572954,NL,Dex Willems van Lier,Medical bills,2024-08-01,191462.04,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: ddc13a37-7406-4623-b735-267ae217aa8f,2024-08-01,193829.04,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Geldmaat ATM,Geldmaat: 08c838c1-f026-40d6-85a1-a17f603564db,2024-08-01,193883.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: fe934043-b2b9-48a9-b6ab-4ea4a6696a32,2024-08-01,196250.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Amelia Zuidweg,Support money,2024-08-01,196263.69,Retail worker,28
+USD,US19PONZ1160572954,NL,Boeing,Aviation technology fee,2024-08-01,196274.59,Retail worker,28
+USD,US19PONZ1160572954,NL,PepsiCo,Restaurant bill,2024-08-01,196287.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8645252a-89a4-4a34-b0f6-4a59e81b8d36,2024-08-01,198654.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 5e17552a-947b-4b09-a27f-446339848d5c,2024-08-01,201021.16,Retail worker,28
+USD,US19PONZ1160572954,United States,Toyota,Car parts order,2024-08-01,201025.54,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Luc Vegt,Travel expenses,2024-08-01,201137.44,Retail worker,28
+USD,US19PONZ1160572954,United States,Rafael van Wassenaar-Scheffers,Travel expenses,2024-08-01,201155.22,Retail worker,28
+USD,US19PONZ1160572954,NL,Oracle,Technology services invoice payment,2024-08-01,201179.37,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 1d6a382e-add0-4c60-ad30-31db9e54b78c,2024-08-01,203546.37,Retail worker,28
+USD,US19PONZ1160572954,Canada,Microsoft,Web hosting fee,2024-08-01,203551.01,Retail worker,28
+USD,US19PONZ1160572954,Italy,Renault,Car parts order,2024-08-01,203553.65,Retail worker,28
+USD,US19PONZ1160572954,NL,Unilever,Product purchase,2024-08-01,203564.26,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 4521cf9c-e50c-46d9-9baa-c56d827a41d2,2024-08-01,205931.26,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Merck & Co.,Pharmacy bill,2024-08-01,206005.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Merck & Co.,Pharmacy bill,2024-08-01,206009.68,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 979b12eb-42b6-44a1-97a5-a25baf493116,2024-08-01,208376.68,Retail worker,28
+USD,US19PONZ1160572954,NL,Alphabet Inc.,Cloud storage subscription,2024-08-01,208391.12,Retail worker,28
+USD,US19PONZ1160572954,NL,Elisabeth van Baalen,Birthday gift,2024-08-01,208424.96,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e3ac692c-e682-4e77-8122-8e20b13a7d7d,2024-08-01,210791.96,Retail worker,28
+USD,US19PONZ1160572954,NL,Duke Energy,Electricity payment,2024-08-01,210796.72,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Berend van Dijk-van Geest,Grocery money,2024-08-01,210849.48,Retail worker,28
+USD,US19PONZ1160572954,NL,Duke Energy,Energy supply charge,2024-08-01,210901.31,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: f9b46492-2f91-48b2-bd8c-a5649ff9053c,2024-08-01,213268.31,Retail worker,28
+USD,US19PONZ1160572954,France,Morgan Stanley,Brokerage fee,2024-08-01,213305.71,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 38de4cad-9ba4-4f30-b12a-910b7f4f6235,2024-08-01,215672.71,Retail worker,28
+USD,US19PONZ1160572954,NL,Microsoft,Software license fee payment,2024-08-01,215688.23,Retail worker,28
+USD,US19PONZ1160572954,NL,Meta Platforms,Software license fee payment,2024-08-01,215705.94,Retail worker,28
+USD,US19PONZ1160572954,Canada,Daimler,Auto repair bill,2024-08-01,215710.1,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 13efbe7e-dd54-42a2-8f82-65941ce520a7,2024-08-01,218077.1,Retail worker,28
+USD,US19PONZ1160572954,NL,Huawei,Software license fee payment,2024-08-01,218094.94,Retail worker,28
+USD,US19PONZ1160572954,Italy,Phillips 66,Electricity payment,2024-08-01,218106.34,Retail worker,28
+USD,US19PONZ1160572954,Spain,Huawei,Web hosting fee,2024-08-01,218117.86,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 3a3153e2-4ef3-4353-bd9d-4168b27eff9e,2024-08-01,220484.86,Retail worker,28
+USD,US19PONZ1160572954,NL,AstraZeneca,Medication purchase,2024-08-01,220493.99,Retail worker,28
+USD,US19PONZ1160572954,Denmark,Zoey Lankle,Medical bills,2024-08-01,220504.88,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 3c4af19b-863e-412c-b537-294db06bbcfa,2024-08-01,222871.88,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Allianz,Insurance premium,2024-08-01,222887.69,Retail worker,28
+USD,US19PONZ1160572954,United States,Morgan Stanley,Investment fund entry,2024-08-01,222961.19,Retail worker,28
+USD,US19PONZ1160572954,NL,IBM,Software license fee payment,2024-08-01,223005.52,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 521ba5d9-236c-4a5a-88df-fcd911c221c6,2024-08-01,225372.52,Retail worker,28
+USD,US19PONZ1160572954,Italy,Milo Oude Heer-van Soest,Funeral expenses,2024-09-01,225380.96,Retail worker,28
+USD,US19PONZ1160572954,NL,Kyara van Hamaland,Personal loan,2024-09-01,225427.16,Retail worker,28
+USD,US19PONZ1160572954,NL,Victoria Stook-de Gratie,Shared ride expenses,2024-09-01,225435.72,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 26d0f42a-de28-431a-b07d-ee678732b2cc,2024-09-01,227802.72,Retail worker,28
+USD,US19PONZ1160572954,NL,PepsiCo,Beverage order,2024-09-01,227818.02,Retail worker,28
+USD,US19PONZ1160572954,Italy,Huawei,Software license fee payment,2024-09-01,227822.77,Retail worker,28
+USD,US19PONZ1160572954,NL,Luna van Dongen,Rent payment,2024-09-01,227858.17,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c3985d1f-aed6-470d-8b5a-366526f9fffb,2024-09-01,230225.17,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Apple Inc.,Cloud storage subscription,2024-09-01,230244.66,Retail worker,28
+USD,US19PONZ1160572954,NL,Duke Energy,Electricity payment,2024-09-01,230256.8,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Meta Platforms,Cloud storage subscription,2024-09-01,230266.3,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 95338313-4969-42f4-8d3d-2938b6cb7eab,2024-09-01,232633.3,Retail worker,28
+USD,US19PONZ1160572954,Canada,Accenture,Expert consultation fee,2024-09-01,232645.46,Retail worker,28
+USD,US19PONZ1160572954,NL,Apple Inc.,Technology services invoice payment,2024-09-01,232650.91,Retail worker,28
+USD,US19PONZ1160572954,NL,Alphabet Inc.,Cloud storage subscription,2024-09-01,232755.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e6578a75-ee36-4b13-be19-4a533080d317,2024-09-01,235122.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: b8ccb6c8-1bb0-4613-8120-59397765e970,2024-09-01,237489.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Ford Motor,Car parts order,2024-09-01,237589.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c45b5ad9-b387-4256-851c-fd0e6efdcf62,2024-09-01,239956.09,Retail worker,28
+USD,US19PONZ1160572954,United States,IBM,Software license fee payment,2024-09-01,239993.24,Retail worker,28
+USD,US19PONZ1160572954,NL,Phillips 66,Energy supply charge,2024-09-01,240104.37,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a2dbe052-55b1-434f-abd8-d216b324eac0,2024-09-01,242471.37,Retail worker,28
+USD,US19PONZ1160572954,NL,Bayer,Drug order payment,2024-09-01,242514.15,Retail worker,28
+USD,US19PONZ1160572954,NL,Zoë van der Laarse,Birthday gift,2024-09-01,242516.94,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 8cdb9aab-9948-43ee-bcf5-6dbbdba5ab8f,2024-09-01,244883.94,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e264ecb6-e148-4b3f-b736-e1a98f7d2166,2024-09-01,247250.94,Retail worker,28
+USD,US19PONZ1160572954,NL,Accenture,Advisory session charge,2024-09-01,247279.89,Retail worker,28
+USD,US19PONZ1160572954,Japan,Daimler,Car parts order,2024-09-01,247294.03,Retail worker,28
+USD,US19PONZ1160572954,NL,AstraZeneca,Drug order payment,2024-09-01,247309.79,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 6b7c2bf9-8a42-408f-8e56-fbb91b0b094f,2024-09-01,249676.79,Retail worker,28
+USD,US19PONZ1160572954,Canada,Geldmaat ATM,Geldmaat: 138c6a1f-3e9e-4201-987c-fcd65ac34357,2024-09-01,249759.29,Retail worker,28
+USD,US19PONZ1160572954,NL,Sanofi,Medication purchase,2024-09-01,249793.7,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 69097f30-2665-4658-86c7-e9cff0305604,2024-09-01,252160.7,Retail worker,28
+USD,US19PONZ1160572954,Canada,AstraZeneca,Healthcare prescription,2024-09-01,252164.24,Retail worker,28
+USD,US19PONZ1160572954,NL,Facebook,Influencer collaboration fee,2024-09-01,252180.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a20da831-89e1-4ba5-9e1e-f05fd65733fb,2024-09-01,254547.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Thijs Stettyn,Family loan repayment,2024-09-01,254654.1,Retail worker,28
+USD,US19PONZ1160572954,NL,Nike,Sportswear buy,2024-09-01,254673.28,Retail worker,28
+USD,US19PONZ1160572954,Hungary,LVMH,Exclusive brand fee,2024-09-01,254713.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 9e6a3799-d41c-4882-af73-a57c58b02940,2024-09-01,257080.09,Retail worker,28
+USD,US19PONZ1160572954,NL,3M,Corporate services payment,2024-09-01,257156.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a8afd2fa-568c-4aa6-a5ea-2b7484ab805b,2024-09-01,259523.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Mitsubishi,Corporate services payment,2024-09-01,259608.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 1f5014aa-e542-48ab-a664-e9653bd4631d,2024-09-01,261975.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: ec19df56-ea85-4a62-8ec0-32e54fba771b,2024-09-01,264342.42,Retail worker,28
+USD,US19PONZ1160572954,NL,Pfizer,Pharmacy bill,2024-09-01,264374.34,Retail worker,28
+USD,US19PONZ1160572954,NL,Ford Motor,Car purchase,2024-09-01,264392.04,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: a15cb158-9959-4864-9030-2cbc86315782,2024-09-01,266759.04,Retail worker,28
+USD,US19PONZ1160572954,NL,Alphabet Inc.,Cloud storage subscription,2024-09-01,266798.75,Retail worker,28
+USD,US19PONZ1160572954,NL,Procter & Gamble,Subscription box service,2024-09-01,266838.93,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: bebdf2ed-7fea-4178-b286-ee72924455d4,2024-09-01,269205.93,Retail worker,28
+USD,US19PONZ1160572954,NL,Dell Technologies,Cloud storage subscription,2024-09-01,269219.58,Retail worker,28
+USD,US19PONZ1160572954,NL,Sanofi,Healthcare prescription,2024-09-01,269224.98,Retail worker,28
+USD,US19PONZ1160572954,France,Joris Poncelet,Housewarming gift,2024-09-01,269248.74,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 4e0f3cb3-4635-401c-8729-16890def8f1b,2024-09-01,269257.85,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 5b056aa9-b40c-40b5-b48b-c4e154d87c4f,2024-09-01,271624.85,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: b69b1295-4a83-4e60-b973-4e942d69e711,2024-09-01,273991.85,Retail worker,28
+USD,US19PONZ1160572954,NL,Airbus,Aviation technology fee,2024-09-01,274054.31,Retail worker,28
+USD,US19PONZ1160572954,NL,Nike,Clothing purchase,2024-09-01,274061.19,Retail worker,28
+USD,US19PONZ1160572954,NL,IBM,Software license fee payment,2024-09-01,274150.12,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 3606fe20-134a-46eb-aa88-7b0ddb87dfe2,2024-09-01,276517.12,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 72431181-1bc9-42bd-97f6-88b06e5024be,2024-09-01,278884.12,Retail worker,28
+USD,US19PONZ1160572954,NL,Renske van der Heyden,Shared meal cost,2024-09-01,278885.94,Retail worker,28
+USD,US19PONZ1160572954,France,Luna Jeggij,Loan to friend,2024-09-01,278934.35,Retail worker,28
+USD,US19PONZ1160572954,Italy,Goldman Sachs,Brokerage fee,2024-09-01,278965.11,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 1d6a9b62-510a-4078-b33a-17bd7e9ca159,2024-09-01,281332.11,Retail worker,28
+USD,US19PONZ1160572954,NL,Phillips 66,Energy supply charge,2024-09-01,281367.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Sil van Vermandois-van Parijs,Shared utilities,2024-09-01,281405.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 3562df3d-0e8b-4feb-b64a-6aa260e294e6,2024-09-01,283772.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Accenture,Expert consultation fee,2024-09-01,283811.2,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 25ef4b40-a011-4310-8d56-855194631e1d,2024-09-01,286178.2,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 9b4bc83f-fbfd-46e8-85ca-1e0e33cf6e2e,2024-09-01,288545.2,Retail worker,28
+USD,US19PONZ1160572954,Italy,IBM,Cloud storage subscription,2024-09-01,288550.6,Retail worker,28
+USD,US19PONZ1160572954,Japan,Apple Inc.,Technology services invoice payment,2024-09-01,288554.41,Retail worker,28
+USD,US19PONZ1160572954,NL,Bayer,Drug order payment,2024-09-01,288600.22,Retail worker,28
+USD,US19PONZ1160572954,United States,Johnson & Johnson,Medication purchase,2024-09-01,288601.32,Retail worker,28
+USD,US19PONZ1160572954,NL,Jake le Luc,Reimbursement for shopping,2024-09-01,288615.57,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 50367c8a-b727-4f19-8ddd-5c2c36d2f9d3,2024-09-01,290982.57,Retail worker,28
+USD,US19PONZ1160572954,NL,Merck & Co.,Pharmacy bill,2024-09-01,291020.85,Retail worker,28
+USD,US19PONZ1160572954,NL,Verizon,Data plan payment,2024-09-01,291087.97,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: c7934404-fadf-42cf-853e-0b5e7a43edc4,2024-09-01,293454.97,Retail worker,28
+USD,US19PONZ1160572954,NL,SoftBank,Conglomerate product order,2024-09-01,293479.87,Retail worker,28
+USD,US19PONZ1160572954,United States,Isabella van Tours,Rent payment,2024-09-01,293533.87,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: ea9e27a5-c736-4c03-be8d-037dab269257,2024-09-01,295900.87,Retail worker,28
+USD,US19PONZ1160572954,NL,Daimler,Car parts order,2024-09-01,295938.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 6a502e01-ccd2-4d08-a0d6-0ef7e92a2315,2024-09-01,298305.62,Retail worker,28
+USD,US19PONZ1160572954,NL,Unilever,Retail goods payment,2024-10-01,298357.45,Retail worker,28
+USD,US19PONZ1160572954,NL,Jente Kuit-Spanhaak,Loan to family,2024-10-01,298373.02,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 2418b4f6-1b94-46f6-8b3c-fc33b75a2a9f,2024-10-01,300740.02,Retail worker,28
+USD,US19PONZ1160572954,NL,Facebook,Social media service subscription,2024-10-01,300755.19,Retail worker,28
+USD,US19PONZ1160572954,Spain,Mitsubishi,Conglomerate product order,2024-10-01,300759.44,Retail worker,28
+USD,US19PONZ1160572954,NL,Phillips 66,Electricity payment,2024-10-01,300760.66,Retail worker,28
+USD,US19PONZ1160572954,NL,Daimler,Auto repair bill,2024-10-01,300761.81,Retail worker,28
+USD,US19PONZ1160572954,NL,Alibaba,Subscription service,2024-10-01,300828.33,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: d88e2df1-d4b3-4324-a13a-97b640569c1c,2024-10-01,303195.33,Retail worker,28
+USD,US19PONZ1160572954,Germany,AT&T,Phone bill,2024-10-01,303200.14,Retail worker,28
+USD,US19PONZ1160572954,Belgium,Daimler,Car purchase,2024-10-01,303232.37,Retail worker,28
+USD,US19PONZ1160572954,Canada,Geldmaat ATM,Geldmaat: db71a66e-7520-429c-b55b-3d17e0271e3b,2024-10-01,303249.52,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 1cec3607-d092-4a54-80cc-dc5b210bd9cd,2024-10-01,305616.52,Retail worker,28
+USD,US19PONZ1160572954,NL,Kick van Zwaben,Mortgage help,2024-10-01,305630.23,Retail worker,28
+USD,US19PONZ1160572954,Germany,Jill van Arnsberg-van Voorst,Travel expenses,2024-10-01,305633.65,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 7d2ff6db-063a-47e5-a29e-f3076042e7e3,2024-10-01,308000.65,Retail worker,28
+USD,US19PONZ1160572954,Italy,Dewi Eijkelboom-Lankle,Shared subscription,2024-10-01,308055.39,Retail worker,28
+USD,US19PONZ1160572954,France,SoftBank,Business unit invoice,2024-10-01,308086.55,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: e3017256-222b-4ccb-a204-d732146712bd,2024-10-01,310453.55,Retail worker,28
+USD,US19PONZ1160572954,NL,Mats van de Elzas-Rouwenhorst,Emergency funds,2024-10-01,310483.69,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 38fb782a-d856-49c8-bcec-aa81870e46b9,2024-10-01,312850.69,Retail worker,28
+USD,US19PONZ1160572954,Canada,Daimler,Auto repair bill,2024-10-01,312890.01,Retail worker,28
+USD,US19PONZ1160572954,NL,Airbus,Aerospace parts purchase,2024-10-01,312891.3,Retail worker,28
+USD,US19PONZ1160572954,Canada,Joëlle Haselaar,Personal loan,2024-10-01,312922.64,Retail worker,28
+USD,US19PONZ1160572954,NL,Florian Velderman,Birthday gift,2024-10-01,312930.04,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: de0c317f-37a6-47ed-a95f-ef073a1c9367,2024-10-01,315297.04,Retail worker,28
+USD,US19PONZ1160572954,Great Britain,Amazon,Marketplace seller fee,2024-10-01,315338.77,Retail worker,28
+USD,US19PONZ1160572954,NL,Brian Corstiaens,School fees,2024-10-01,315340.82,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: fcf54a2c-295e-4ad2-93e2-ee0945c86e96,2024-10-01,317707.82,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 623d772e-155a-4dbe-af28-df504cbe5057,2024-10-01,317822.61,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 743425d7-b4ec-4fcc-8440-9723cf5c8485,2024-10-01,320189.61,Retail worker,28
+USD,US19PONZ1160572954,Spain,BASF,Cleaning products order,2024-10-01,320220.71,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 7a57300b-ac35-4697-95fd-4af226a945ec,2024-10-01,322587.71,Retail worker,28
+USD,US19PONZ1160572954,NL,Mirte van Gorp-Perck,Rent payment,2024-10-01,322600.83,Retail worker,28
+USD,US19PONZ1160572954,United States,ByteDance,Web hosting fee,2024-10-01,322612.41,Retail worker,28
+USD,US19PONZ1160572954,Germany,Ford Motor,Vehicle service charge,2024-10-01,322618.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 376a355d-086b-4f44-9d6b-d70ed89629a5,2024-10-01,324985.09,Retail worker,28
+USD,US19PONZ1160572954,NL,Volkswagen,Car purchase,2024-10-01,325014.37,Retail worker,28
+USD,US19PONZ1160572954,NL,Isabelle van Evelingen,Reimbursement for shopping,2024-10-01,325087.73,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: 87d8e404-cd2b-4205-add3-f902cb31ec6a,2024-10-01,327454.73,Retail worker,28
+USD,US19PONZ1160572954,United States,AstraZeneca,Pharmacy bill,2024-10-01,327671.5,Retail worker,28
+USD,US19PONZ1160572954,NL,Geldmaat ATM,Geldmaat: d3d10273-7251-4804-b8ec-9f03787fc1dc,2024-10-01,330038.5,Retail worker,28

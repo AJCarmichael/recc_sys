@@ -1,0 +1,389 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL05YEPP3377356974,NL,General Electric,Diversified company fee,2024-06-01,8111.26,Student,20
+EUR,NL05YEPP3377356974,Canada,Geldmaat ATM,Geldmaat: 32ae1e3e-b838-4df9-9aaa-3df4e97f6239,2024-06-01,8115.11,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 89ad638e-78fe-414a-a33e-3aaa228348b5,2024-06-01,8774.11,Student,20
+EUR,NL05YEPP3377356974,NL,Phillips 66,Utility bill,2024-06-01,8785.43,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 29fde221-64f6-4c0a-94c4-d42d5e4833e5,2024-06-01,9444.43,Student,20
+EUR,NL05YEPP3377356974,NL,Olaf van Nes,Grocery money,2024-06-01,9467.31,Student,20
+EUR,NL05YEPP3377356974,NL,Duke Energy,Energy supply charge,2024-06-01,9485.93,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 20b7f9fd-920b-4211-b775-84ad0d817c35,2024-06-01,10144.93,Student,20
+EUR,NL05YEPP3377356974,NL,Kay Verwoert,Party contribution,2024-06-01,10172.59,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 4854181e-103d-43cb-a2ee-fd9342c02057,2024-06-01,10831.59,Student,20
+EUR,NL05YEPP3377356974,NL,Berkshire Hathaway,Diversified company fee,2024-06-01,10834.59,Student,20
+EUR,NL05YEPP3377356974,Japan,LVMH,Exclusive brand fee,2024-06-01,10844.64,Student,20
+EUR,NL05YEPP3377356974,Canada,Eline Mathurin,Pet expenses,2024-06-01,10859.07,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8757ed18-b5c2-4bd0-a762-f00cfa2b4102,2024-06-01,11518.07,Student,20
+EUR,NL05YEPP3377356974,NL,GlaxoSmithKline,Medication purchase,2024-06-01,11526.24,Student,20
+EUR,NL05YEPP3377356974,Spain,Honeywell,Business unit invoice,2024-06-01,11537.16,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 861481af-27b1-4edd-a2f2-7194d59a5388,2024-06-01,12196.16,Student,20
+EUR,NL05YEPP3377356974,France,Isabelle Aschman,Graduation gift,2024-06-01,12196.87,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: c0c99ea3-9a1c-4374-b398-3d30b24939e8,2024-06-01,12855.87,Student,20
+EUR,NL05YEPP3377356974,NL,Dylan Claesdr-van Dongen,Reimbursement for shopping,2024-06-01,12872.63,Student,20
+EUR,NL05YEPP3377356974,NL,BASF,Industrial chemicals purchase,2024-06-01,12877.09,Student,20
+EUR,NL05YEPP3377356974,NL,Jens Recer,Shared subscription,2024-06-01,12893.38,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b582e1a9-e349-40a2-a1d4-0b0252c46acf,2024-06-01,13552.38,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: 57d37ef4-510c-42b9-9766-0cf91b568250,2024-06-01,13579.4,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 5781625b-5a24-4db9-920f-5719af74c141,2024-06-01,14238.4,Student,20
+EUR,NL05YEPP3377356974,NL,LVMH,Exclusive brand fee,2024-06-01,14242.2,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Morgan Stanley,Investment fund entry,2024-06-01,14262.84,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 0738174a-d150-4fd3-a9ce-4413992fa4e1,2024-06-01,14921.84,Student,20
+EUR,NL05YEPP3377356974,NL,Ashley de Bruijn,Birthday gift,2024-06-01,14953.01,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 7461cd94-09a3-4eb6-8bb0-a069d1fa0140,2024-06-01,15612.01,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: a143d1ea-cfd3-49d1-a8fe-45d6d3baa840,2024-06-01,16271.01,Student,20
+EUR,NL05YEPP3377356974,NL,Bas Gellemeyer,Split restaurant bill,2024-06-01,16288.7,Student,20
+EUR,NL05YEPP3377356974,NL,Maxim de Pauw,Rent assistance,2024-06-01,16326.97,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: 8c42a683-da19-489d-a8a9-4ba67f94f690,2024-06-01,16328.81,Student,20
+EUR,NL05YEPP3377356974,NL,Volkswagen,Vehicle service charge,2024-06-01,16333.18,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 99679788-85e2-4cef-8edd-098d623a5140,2024-06-01,16992.18,Student,20
+EUR,NL05YEPP3377356974,Spain,Mitsubishi,Corporate services payment,2024-06-01,17026.44,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 7e4a35a6-6db5-4bd6-ae4f-12c5d3243792,2024-06-01,17685.44,Student,20
+EUR,NL05YEPP3377356974,NL,Roche,Medication purchase,2024-06-01,17688.14,Student,20
+EUR,NL05YEPP3377356974,Canada,Huawei,Cloud storage subscription,2024-06-01,17700.68,Student,20
+EUR,NL05YEPP3377356974,NL,Procter & Gamble,Retail goods payment,2024-06-01,17715.93,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: bcee4978-e91b-45c4-a6ba-76b18b2939b1,2024-06-01,18374.93,Student,20
+EUR,NL05YEPP3377356974,NL,Unilever,Product purchase,2024-06-01,18386.26,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: d937a53f-0993-4d60-8e95-77a518612bbb,2024-06-01,19045.26,Student,20
+EUR,NL05YEPP3377356974,NL,Jonathan Mathol,Anniversary gift,2024-06-01,19050.23,Student,20
+EUR,NL05YEPP3377356974,Canada,Tobias die Pelser,Rent payment,2024-06-01,19052.05,Student,20
+EUR,NL05YEPP3377356974,United States,Oracle,Software license fee payment,2024-06-01,19058.71,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 21bec3ef-44ef-4cdc-969f-434fdfcdca11,2024-06-01,19717.71,Student,20
+EUR,NL05YEPP3377356974,NL,Duke Energy,Utility bill,2024-06-01,19743.32,Student,20
+EUR,NL05YEPP3377356974,NL,Jelle van der Pol,Shared subscription,2024-06-01,19762.45,Student,20
+EUR,NL05YEPP3377356974,Canada,Gilead Sciences,Genetic testing kit,2024-06-01,19766.78,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 913c91c7-351c-4294-9807-80dfa66beb72,2024-06-01,20425.78,Student,20
+EUR,NL05YEPP3377356974,NL,Aaron van Kempen,Reimbursement for medical expenses,2024-06-01,20436.76,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 2294971c-0262-432d-866f-d24e1e3c0513,2024-06-01,21095.76,Student,20
+EUR,NL05YEPP3377356974,NL,Nina Koret-Koster,Housewarming gift,2024-06-01,21099.43,Student,20
+EUR,NL05YEPP3377356974,NL,Nike,Sportswear buy,2024-06-01,21103.4,Student,20
+EUR,NL05YEPP3377356974,NL,Julian van den Velde,Shared subscription,2024-06-01,21166.29,Student,20
+EUR,NL05YEPP3377356974,NL,Cisco Systems,Technology services invoice payment,2024-06-01,21182.28,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 4309e1ca-6b75-4ebc-b5ba-a6acf14b8db9,2024-06-01,21841.28,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Brent Brands,Housewarming gift,2024-06-01,21936.14,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: cd42874b-3628-4fa0-9d37-463df1e403e4,2024-06-01,22595.14,Student,20
+EUR,NL05YEPP3377356974,United States,Alphabet Inc.,Software license fee payment,2024-06-01,22605.26,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 63115e7f-529c-4f15-9499-a7da4cc85413,2024-06-01,23264.26,Student,20
+EUR,NL05YEPP3377356974,NL,Tata Consultancy Services,Technical service charge,2024-06-01,23275.92,Student,20
+EUR,NL05YEPP3377356974,Belgium,Novartis,Pharmacy bill,2024-06-01,23307.86,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 9c8c7465-6aaf-48be-ac5e-01bd47383166,2024-06-01,23966.86,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Geldmaat ATM,Geldmaat: 84e73c5b-ae01-4b4b-93c2-3dcfc7ea99c5,2024-06-01,23968.7,Student,20
+EUR,NL05YEPP3377356974,NL,Sep die Pelser,Debt settlement,2024-06-01,23982.7,Student,20
+EUR,NL05YEPP3377356974,NL,Alibaba,E-commerce order,2024-06-01,23990.31,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 894dd6f4-c8c6-4999-b5df-3b082f278f42,2024-06-01,24649.31,Student,20
+EUR,NL05YEPP3377356974,NL,Cisco Systems,Web hosting fee,2024-06-01,24659.45,Student,20
+EUR,NL05YEPP3377356974,NL,Huawei,Software license fee payment,2024-06-01,24666.45,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 350605f8-4d16-4f02-83fa-ffd81ef9f620,2024-06-01,25325.45,Student,20
+EUR,NL05YEPP3377356974,Japan,AT&T,Data plan payment,2024-06-01,25376.93,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: fb6bc2a7-ba4e-4905-a257-5f68a62cdbb2,2024-06-01,26035.93,Student,20
+EUR,NL05YEPP3377356974,NL,Verizon,Data plan payment,2024-06-01,26043.77,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: d9b6fe54-3a98-43a2-b8eb-8b8ee2309635,2024-06-01,26702.77,Student,20
+EUR,NL05YEPP3377356974,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,26717.52,Student,20
+EUR,NL05YEPP3377356974,Spain,Berkshire Hathaway,Conglomerate product order,2024-06-01,26724.63,Student,20
+EUR,NL05YEPP3377356974,Germany,LVMH,High-end product buy,2024-06-01,26727.39,Student,20
+EUR,NL05YEPP3377356974,Germany,Novartis,Pharmacy bill,2024-06-01,26739.0,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 5080a5a3-e930-464b-82e1-b80a3451815b,2024-06-01,27398.0,Student,20
+EUR,NL05YEPP3377356974,Belgium,Volkswagen,Vehicle service charge,2024-06-01,27407.29,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8133837b-23c3-4731-9345-0b3499f9fe6e,2024-06-01,28066.29,Student,20
+EUR,NL05YEPP3377356974,NL,Yinthe de Bruin-van Hoevel en van Zwindrecht,Pet expenses,2024-06-01,28078.26,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 7fe55e93-29ff-45cb-812f-c2158db58b2d,2024-06-01,28737.26,Student,20
+EUR,NL05YEPP3377356974,Japan,AstraZeneca,Drug order payment,2024-06-01,28749.83,Student,20
+EUR,NL05YEPP3377356974,Italy,Berkshire Hathaway,Business unit invoice,2024-06-01,28760.59,Student,20
+EUR,NL05YEPP3377356974,NL,Morgan Stanley,Brokerage fee,2024-07-01,28763.19,Student,20
+EUR,NL05YEPP3377356974,NL,Joost Hak,Support money,2024-07-01,28769.61,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 62910d2a-2615-498f-b13a-6dee3b034ea5,2024-07-01,29428.61,Student,20
+EUR,NL05YEPP3377356974,NL,Honeywell,Business unit invoice,2024-07-01,29438.98,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: ba49cd11-3cca-4df2-97f5-deb6c5ee356d,2024-07-01,30097.98,Student,20
+EUR,NL05YEPP3377356974,NL,Morgan Stanley,Investment fund entry,2024-07-01,30115.22,Student,20
+EUR,NL05YEPP3377356974,Japan,IBM,Technology services invoice payment,2024-07-01,30127.66,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 965d76a3-58d7-405c-8095-329980546ac6,2024-07-01,30786.66,Student,20
+EUR,NL05YEPP3377356974,NL,Nike,Fashion brand order,2024-07-01,30807.18,Student,20
+EUR,NL05YEPP3377356974,United States,Isa Marchal-van de Veen,Child support,2024-07-01,30820.16,Student,20
+EUR,NL05YEPP3377356974,NL,Honeywell,Diversified company fee,2024-07-01,30829.7,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: dac1221b-cc3e-4a70-befb-7d152b46f461,2024-07-01,31488.7,Student,20
+EUR,NL05YEPP3377356974,Austria,Lize Mijsberg,Rent assistance,2024-07-01,31501.35,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b3d36256-e5a9-449a-86a5-c65da63b444f,2024-07-01,32160.35,Student,20
+EUR,NL05YEPP3377356974,Canada,Isabelle van Mispelen-de Plantard,Emergency funds,2024-07-01,32162.39,Student,20
+EUR,NL05YEPP3377356974,NL,Roche,Healthcare prescription,2024-07-01,32172.76,Student,20
+EUR,NL05YEPP3377356974,Italy,Alphabet Inc.,Software license fee payment,2024-07-01,32177.14,Student,20
+EUR,NL05YEPP3377356974,NL,DuPont,Corporate services payment,2024-07-01,32182.32,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 86a6c020-1cd5-4b91-9b2e-0113f4edf7dd,2024-07-01,32841.32,Student,20
+EUR,NL05YEPP3377356974,Italy,Elin Ansems,Loan to friend,2024-07-01,32857.12,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 92324be6-8aba-4786-ac83-e27713f860d2,2024-07-01,33516.12,Student,20
+EUR,NL05YEPP3377356974,NL,Procter & Gamble,Retail goods payment,2024-07-01,33580.68,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: a81c474a-d11b-4b18-a3d0-9b317a6ff1df,2024-07-01,34239.68,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 18a9b3f6-1687-44f0-a589-9bfa8f03bd29,2024-07-01,34898.68,Student,20
+EUR,NL05YEPP3377356974,NL,Bayer,Healthcare prescription,2024-07-01,34960.21,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 60572d97-bc61-4422-951c-6f851ca0e0e0,2024-07-01,35619.21,Student,20
+EUR,NL05YEPP3377356974,NL,Dell Technologies,Technology services invoice payment,2024-07-01,35627.7,Student,20
+EUR,NL05YEPP3377356974,NL,Gilead Sciences,Biotech research fee,2024-07-01,35639.91,Student,20
+EUR,NL05YEPP3377356974,NL,Bayer,Drug order payment,2024-07-01,35663.73,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: e96aad46-853b-4234-8a34-53850010d45a,2024-07-01,36322.73,Student,20
+EUR,NL05YEPP3377356974,NL,Jolie de Lange,Household expenses,2024-07-01,36344.73,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b9f322e2-b0a6-4421-9481-cdc0ebe1a368,2024-07-01,37003.73,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b47cec63-d150-49f1-9852-e5926265f8f8,2024-07-01,37662.73,Student,20
+EUR,NL05YEPP3377356974,Hungary,Geldmaat ATM,Geldmaat: de9d130f-6383-490c-aa61-2ebdcd1015e3,2024-07-01,37670.23,Student,20
+EUR,NL05YEPP3377356974,Germany,Novartis,Drug order payment,2024-07-01,37680.51,Student,20
+EUR,NL05YEPP3377356974,NL,SoftBank,Corporate services payment,2024-07-01,37701.41,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Facebook,Influencer collaboration fee,2024-07-01,37711.92,Student,20
+EUR,NL05YEPP3377356974,NL,Pfizer,Healthcare prescription,2024-07-01,37716.38,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 03d49e38-3d87-4692-acf2-d0667b55f9d2,2024-07-01,38375.38,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 1e69cef5-d087-4f4f-a6d8-5fa9fffb6b30,2024-07-01,39034.38,Student,20
+EUR,NL05YEPP3377356974,NL,Bayer,Drug order payment,2024-07-01,39090.55,Student,20
+EUR,NL05YEPP3377356974,NL,Sebastiaan van Duvenvoirde,Travel expenses,2024-07-01,39095.67,Student,20
+EUR,NL05YEPP3377356974,Spain,Daimler,Auto repair bill,2024-07-01,39104.21,Student,20
+EUR,NL05YEPP3377356974,NL,SoftBank,Business unit invoice,2024-07-01,39108.59,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: cc506e49-b979-43b8-b312-096045369582,2024-07-01,39767.59,Student,20
+EUR,NL05YEPP3377356974,NL,Mitsubishi,Conglomerate product order,2024-07-01,39770.19,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Pfizer,Healthcare prescription,2024-07-01,39793.54,Student,20
+EUR,NL05YEPP3377356974,Great Britain,SoftBank,Conglomerate product order,2024-07-01,39798.93,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 480f9dd8-0e46-44b4-b7ba-12565a42fde2,2024-07-01,40457.93,Student,20
+EUR,NL05YEPP3377356974,NL,Chloé Stinis,Shared subscription,2024-07-01,40467.39,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 39f351fb-64d8-4dde-bb49-d8ffed166253,2024-07-01,41126.39,Student,20
+EUR,NL05YEPP3377356974,NL,Oracle,Web hosting fee,2024-07-01,41136.1,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Dewi Heijmans,Emergency funds,2024-07-01,41158.36,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 12704559-d877-4d10-89ea-39d2b4448dfe,2024-07-01,41817.36,Student,20
+EUR,NL05YEPP3377356974,Denmark,Bastiaan Oude Heer,Shared hotel room cost,2024-07-01,41838.26,Student,20
+EUR,NL05YEPP3377356974,Denmark,Jonas Olthof,Reimbursement for bills,2024-07-01,41843.09,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: dc2d3c7b-7f83-43f4-ac7f-61411ac9f0cd,2024-07-01,42502.09,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: 9d0a16bd-59f2-4f55-81ae-0548c2420a10,2024-07-01,42512.09,Student,20
+EUR,NL05YEPP3377356974,Japan,Gilead Sciences,Clinical trial payment,2024-07-01,42525.19,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 2479abb0-0509-4345-a29f-57d29b423c51,2024-07-01,43184.19,Student,20
+EUR,NL05YEPP3377356974,NL,Janna de Strigter,Family loan repayment,2024-07-01,43199.54,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 62d2e572-8360-49fb-8d23-8aa61573e1ce,2024-07-01,43858.54,Student,20
+EUR,NL05YEPP3377356974,NL,GlaxoSmithKline,Medication purchase,2024-07-01,43859.95,Student,20
+EUR,NL05YEPP3377356974,NL,LVMH,Luxury item purchase,2024-07-01,43862.96,Student,20
+EUR,NL05YEPP3377356974,NL,Sander van der Spaendonck-Michiels,Household expenses,2024-07-01,43874.05,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: e587f70a-7e90-4558-b0d0-757aa38438e0,2024-07-01,44533.05,Student,20
+EUR,NL05YEPP3377356974,NL,Nike,Fashion brand order,2024-07-01,44536.73,Student,20
+EUR,NL05YEPP3377356974,NL,PepsiCo,Catering service fee,2024-07-01,44565.65,Student,20
+EUR,NL05YEPP3377356974,NL,DuPont,Business unit invoice,2024-07-01,44572.51,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 4fefd677-a0c7-4e9a-affd-1f604e2909b7,2024-07-01,45231.51,Student,20
+EUR,NL05YEPP3377356974,Canada,Honeywell,Diversified company fee,2024-07-01,45241.22,Student,20
+EUR,NL05YEPP3377356974,NL,Mitsubishi,Corporate services payment,2024-07-01,45250.49,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: c1a222aa-8d14-4868-b446-cbf19fe0ddfc,2024-07-01,45909.49,Student,20
+EUR,NL05YEPP3377356974,NL,Meta Platforms,Software license fee payment,2024-07-01,45910.42,Student,20
+EUR,NL05YEPP3377356974,NL,Puck Hendriks,Support for a family member,2024-07-01,45915.31,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: 3ccfe063-bcb1-4361-8565-3c052ccc8316,2024-07-01,45953.07,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: f90a227c-8884-4ed7-93be-4e922f965494,2024-07-01,46612.07,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: ef8ce880-2e9c-4715-9f9f-728ae199814d,2024-07-01,47271.07,Student,20
+EUR,NL05YEPP3377356974,Germany,GlaxoSmithKline,Healthcare prescription,2024-07-01,47284.1,Student,20
+EUR,NL05YEPP3377356974,Denmark,Duke Energy,Renewable energy subscription,2024-07-01,47292.77,Student,20
+EUR,NL05YEPP3377356974,Belgium,Anouk Mathieu,Christmas gift,2024-07-01,47298.99,Student,20
+EUR,NL05YEPP3377356974,Italy,Roche,Pharmacy bill,2024-07-01,47303.71,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 13c4e34f-a51a-42a4-8dd0-59123a7df052,2024-07-01,47962.71,Student,20
+EUR,NL05YEPP3377356974,NL,Jurre Brumleve,Rent assistance,2024-07-01,47968.33,Student,20
+EUR,NL05YEPP3377356974,United States,Alphabet Inc.,Web hosting fee,2024-07-01,47976.9,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: f7e0af5a-2f71-49db-9e8e-8a20825b8193,2024-07-01,48635.9,Student,20
+EUR,NL05YEPP3377356974,Spain,Sanofi,Pharmacy bill,2024-07-01,48647.74,Student,20
+EUR,NL05YEPP3377356974,Hungary,Bayer,Medication purchase,2024-07-01,48659.51,Student,20
+EUR,NL05YEPP3377356974,United States,Jente Jonker,Reimbursement for shopping,2024-07-01,48660.51,Student,20
+EUR,NL05YEPP3377356974,NL,Tata Consultancy Services,System upgrade fee,2024-07-01,48675.22,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b8526aae-e377-4b3c-a29f-db05c8143a0b,2024-07-01,49334.22,Student,20
+EUR,NL05YEPP3377356974,NL,Daimler,Vehicle service charge,2024-07-01,49355.65,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 826d7e5c-109f-4028-9521-7d3e89283ab8,2024-07-01,50014.65,Student,20
+EUR,NL05YEPP3377356974,NL,Sanofi,Medication purchase,2024-08-01,50024.53,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 9c720dae-a00d-46cc-98ef-301b04ee2633,2024-08-01,50683.53,Student,20
+EUR,NL05YEPP3377356974,NL,Ruben van Luxemburg-Stichter,Reimbursement for bills,2024-08-01,50686.28,Student,20
+EUR,NL05YEPP3377356974,United States,Daimler,Auto repair bill,2024-08-01,50697.88,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: aa5de1c9-66d7-49bd-a1b3-939a9bd05956,2024-08-01,51356.88,Student,20
+EUR,NL05YEPP3377356974,Hungary,Geldmaat ATM,Geldmaat: d1140913-fed0-42e1-baa3-9e2eccb48d4a,2024-08-01,51371.32,Student,20
+EUR,NL05YEPP3377356974,NL,Roche,Drug order payment,2024-08-01,51386.5,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8cdc0532-f73b-4238-bc1e-54c2456588f8,2024-08-01,52045.5,Student,20
+EUR,NL05YEPP3377356974,NL,Toyota,Car parts order,2024-08-01,52050.21,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Pfizer,Medication purchase,2024-08-01,52083.86,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 6e143d4a-fe07-4cb1-a92d-ab51c1a91461,2024-08-01,52742.86,Student,20
+EUR,NL05YEPP3377356974,NL,Sofia Hermans,Gift,2024-08-01,52760.98,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: d1e53456-940f-4d73-8b31-b13f6a02b2ad,2024-08-01,53419.98,Student,20
+EUR,NL05YEPP3377356974,Canada,Willem Blewanus-Prinsen,Reimbursement for medical expenses,2024-08-01,53441.36,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: f023bf6b-ed26-4f7e-a2f6-f0d822657b41,2024-08-01,54100.36,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 422e25c2-d795-4d8a-ba64-deb22d958675,2024-08-01,54759.36,Student,20
+EUR,NL05YEPP3377356974,NL,Alibaba,Online shopping,2024-08-01,54774.01,Student,20
+EUR,NL05YEPP3377356974,United States,Apple Inc.,Cloud storage subscription,2024-08-01,54780.34,Student,20
+EUR,NL05YEPP3377356974,Japan,Laura Verbeeck,Vacation expenses,2024-08-01,54785.33,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 500c9d3d-1435-405d-a2b7-54b80bacd0e9,2024-08-01,55444.33,Student,20
+EUR,NL05YEPP3377356974,Great Britain,GlaxoSmithKline,Medication purchase,2024-08-01,55453.68,Student,20
+EUR,NL05YEPP3377356974,Spain,Lukas Grondel,Gift,2024-08-01,55461.71,Student,20
+EUR,NL05YEPP3377356974,NL,Sanofi,Pharmacy bill,2024-08-01,55469.69,Student,20
+EUR,NL05YEPP3377356974,NL,AT&T,Cable service subscription,2024-08-01,55477.58,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: f65313a8-26a1-44a7-90be-646bc6a196ca,2024-08-01,56136.58,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 61584e05-fb96-42b3-8904-19185eb7095e,2024-08-01,56795.58,Student,20
+EUR,NL05YEPP3377356974,NL,Nike,Fashion brand order,2024-08-01,56815.8,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: ba3a2c1a-89c8-462e-8dc8-47db7b457c18,2024-08-01,57474.8,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: 3070043f-74d9-4499-8bd5-dbcc9b95e164,2024-08-01,57479.21,Student,20
+EUR,NL05YEPP3377356974,Austria,Norah Aarden,Reimbursement for dinner,2024-08-01,57490.92,Student,20
+EUR,NL05YEPP3377356974,NL,Benjamin Coreth von und zu Coredo und Starkenberg,Reimbursement for bills,2024-08-01,57500.56,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 453b027f-582e-4983-9b8b-e569d39ab73d,2024-08-01,58159.56,Student,20
+EUR,NL05YEPP3377356974,Canada,Geldmaat ATM,Geldmaat: df5c84d9-6a8b-4d69-a81d-554513e08a46,2024-08-01,58171.38,Student,20
+EUR,NL05YEPP3377356974,United States,Phillips 66,Utility bill,2024-08-01,58187.41,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 201d3288-385c-42ed-8e72-c463eb22dbf9,2024-08-01,58846.41,Student,20
+EUR,NL05YEPP3377356974,NL,Cisco Systems,Web hosting fee,2024-08-01,58859.08,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: f7dddd4b-29e1-4af6-aa47-99ef9ab21a9c,2024-08-01,59518.08,Student,20
+EUR,NL05YEPP3377356974,Germany,Indy Kathagen-Slaetsdochter,Shared subscription,2024-08-01,59521.3,Student,20
+EUR,NL05YEPP3377356974,NL,Meta Platforms,Technology services invoice payment,2024-08-01,59541.81,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 03c6ad32-26ff-4826-b5d0-cde1d166cb19,2024-08-01,60200.81,Student,20
+EUR,NL05YEPP3377356974,NL,Unilever,Order payment,2024-08-01,60212.79,Student,20
+EUR,NL05YEPP3377356974,NL,Microsoft,Web hosting fee,2024-08-01,60224.13,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 74ded69a-8102-40b9-9fac-226573611278,2024-08-01,60883.13,Student,20
+EUR,NL05YEPP3377356974,NL,GlaxoSmithKline,Healthcare prescription,2024-08-01,60899.06,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8de52b3c-f09c-4b55-af9b-db111e18eb53,2024-08-01,61558.06,Student,20
+EUR,NL05YEPP3377356974,Hungary,Allianz,Coverage update charge,2024-08-01,61571.11,Student,20
+EUR,NL05YEPP3377356974,NL,Verizon,Telecom invoice,2024-08-01,61643.02,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 51c86b25-7818-42b8-8540-aa35e7c61f67,2024-08-01,62302.02,Student,20
+EUR,NL05YEPP3377356974,NL,Volkswagen,Car parts order,2024-08-01,62316.38,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: e730fad4-8055-488b-b1bc-678fae45a75a,2024-08-01,62975.38,Student,20
+EUR,NL05YEPP3377356974,NL,Procter & Gamble,Subscription box service,2024-08-01,63058.2,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 12d5c768-f653-47e0-9473-b2463ceef2a8,2024-08-01,63717.2,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8f1fbde0-02d7-483e-b199-51ac1d923f1d,2024-08-01,64376.2,Student,20
+EUR,NL05YEPP3377356974,Great Britain,GlaxoSmithKline,Drug order payment,2024-08-01,64421.05,Student,20
+EUR,NL05YEPP3377356974,Belgium,Apple Inc.,Cloud storage subscription,2024-08-01,64439.54,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b3f0bba5-f8fc-4e60-a47e-e5591d8c14f5,2024-08-01,65098.54,Student,20
+EUR,NL05YEPP3377356974,NL,Mitsubishi,Diversified company fee,2024-08-01,65100.6,Student,20
+EUR,NL05YEPP3377356974,NL,Amazon,Subscription service,2024-08-01,65109.77,Student,20
+EUR,NL05YEPP3377356974,NL,Jacob Garret,Reimbursement for groceries,2024-08-01,65143.58,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 515cc4c7-36d4-4f19-a4cb-f5f2203834ea,2024-08-01,65802.58,Student,20
+EUR,NL05YEPP3377356974,Spain,Alibaba,Marketplace seller fee,2024-08-01,65807.31,Student,20
+EUR,NL05YEPP3377356974,NL,Ford Motor,Auto repair bill,2024-08-01,65827.4,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 1f40dad4-e9c2-4b40-a96e-e5adee5a9c6d,2024-08-01,66486.4,Student,20
+EUR,NL05YEPP3377356974,NL,Phillips 66,Utility bill,2024-08-01,66505.74,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 6104eaee-a672-4964-b2a1-fd3e26ba9adf,2024-08-01,67164.74,Student,20
+EUR,NL05YEPP3377356974,NL,Esther Kamp,Family loan repayment,2024-08-01,67174.62,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: c528b3f0-e3cc-40ae-b389-1b0bdb443e55,2024-08-01,67833.62,Student,20
+EUR,NL05YEPP3377356974,NL,Renault,Car purchase,2024-08-01,67845.57,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Geldmaat ATM,Geldmaat: 256d0de5-b13c-47fd-8d12-8013e8b1c02b,2024-08-01,67856.08,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 3cbb870b-a099-49ee-83d0-89c7e52c303f,2024-08-01,68515.08,Student,20
+EUR,NL05YEPP3377356974,NL,Elisa Waardeloo,Shared hotel room cost,2024-08-01,68521.64,Student,20
+EUR,NL05YEPP3377356974,NL,Jamie Kof,Baby shower gift,2024-08-01,68548.35,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 3f1b0e5f-00db-41cc-9364-4ca2d098b00b,2024-08-01,69207.35,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Procter & Gamble,Retail goods payment,2024-08-01,69218.34,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: a8390a6f-cb38-4e24-9160-0e06c1aae9a6,2024-08-01,69877.34,Student,20
+EUR,NL05YEPP3377356974,NL,Maja Wolzak-Keltenie,Family loan repayment,2024-08-01,69889.87,Student,20
+EUR,NL05YEPP3377356974,Japan,Amin Kuit,Shared meal cost,2024-08-01,70034.85,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b85d76fb-d088-42d0-a47e-c3568c7d46d0,2024-08-01,70693.85,Student,20
+EUR,NL05YEPP3377356974,NL,Microsoft,Technology services invoice payment,2024-08-01,70707.09,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Unilever,Product purchase,2024-08-01,70722.22,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: be3262b5-dae4-4184-bc31-0e21852bbb07,2024-08-01,71381.22,Student,20
+EUR,NL05YEPP3377356974,NL,Meta Platforms,Software license fee payment,2024-09-01,71391.05,Student,20
+EUR,NL05YEPP3377356974,Spain,Morgan Stanley,Brokerage fee,2024-09-01,71413.14,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 0f600cc7-6a58-4a2c-a711-3341a8070f39,2024-09-01,72072.14,Student,20
+EUR,NL05YEPP3377356974,NL,Fatima de Bruin,Pet expenses,2024-09-01,72089.16,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 85e9d269-5c3d-41a9-a7a2-373c8ef87c32,2024-09-01,72748.16,Student,20
+EUR,NL05YEPP3377356974,NL,Angelina van Venrooy,Split restaurant bill,2024-09-01,72785.3,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8904c347-50f1-43a0-bb10-a0af8ded0dce,2024-09-01,73444.3,Student,20
+EUR,NL05YEPP3377356974,United States,Verizon,Phone bill,2024-09-01,73480.58,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: e66fae3f-16c3-4d72-b061-b227d5a316a7,2024-09-01,74139.58,Student,20
+EUR,NL05YEPP3377356974,NL,Nike,Clothing purchase,2024-09-01,74144.87,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Stefan de Gruijl,Mortgage help,2024-09-01,74149.89,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 60b7d011-dcef-4dd2-b1fc-bd627fa47541,2024-09-01,74808.89,Student,20
+EUR,NL05YEPP3377356974,NL,IBM,Cloud storage subscription,2024-09-01,74821.62,Student,20
+EUR,NL05YEPP3377356974,NL,3M,Diversified company fee,2024-09-01,74825.08,Student,20
+EUR,NL05YEPP3377356974,Hungary,Boeing,Aircraft maintenance,2024-09-01,74865.88,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 2731e8be-86a3-42ff-88f9-d2c765bc0a9f,2024-09-01,75524.88,Student,20
+EUR,NL05YEPP3377356974,NL,Sanofi,Pharmacy bill,2024-09-01,75539.53,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 41d44ef9-38b4-40d8-a667-8ccf53f4e551,2024-09-01,76198.53,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Sepp van Luxemburg,Rent deposit,2024-09-01,76212.12,Student,20
+EUR,NL05YEPP3377356974,NL,Daimler,Auto repair bill,2024-09-01,76223.02,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: d0b4056a-40ee-4a20-a60b-a67f2092a934,2024-09-01,76882.02,Student,20
+EUR,NL05YEPP3377356974,NL,Toyota,Car purchase,2024-09-01,76893.1,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: c5810875-f220-4850-8da4-80d179628717,2024-09-01,77552.1,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Phillips 66,Energy supply charge,2024-09-01,77556.15,Student,20
+EUR,NL05YEPP3377356974,NL,Maxim van den Broek,Split vacation cost,2024-09-01,77560.29,Student,20
+EUR,NL05YEPP3377356974,NL,Roche,Medication purchase,2024-09-01,77562.7,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Sanofi,Medication purchase,2024-09-01,77568.35,Student,20
+EUR,NL05YEPP3377356974,NL,Goldman Sachs,Investment fund entry,2024-09-01,77570.53,Student,20
+EUR,NL05YEPP3377356974,NL,Dell Technologies,Technology services invoice payment,2024-09-01,77574.54,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Alibaba,Subscription service,2024-09-01,77587.55,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 0e33de07-6b4d-474f-a50f-048a00a6db27,2024-09-01,78246.55,Student,20
+EUR,NL05YEPP3377356974,NL,SoftBank,Corporate services payment,2024-09-01,78259.06,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: f2063610-bd3b-48d2-96e6-ae3162e9dd5c,2024-09-01,78918.06,Student,20
+EUR,NL05YEPP3377356974,NL,Jens van Arnsberg,Support for a family member,2024-09-01,78937.08,Student,20
+EUR,NL05YEPP3377356974,Spain,Michael van Baalen-van Tuijl,Medical bills,2024-09-01,78946.8,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 6bf1b64c-3bb8-471c-a347-1a1cc0eb4cdc,2024-09-01,79605.8,Student,20
+EUR,NL05YEPP3377356974,NL,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,79612.07,Student,20
+EUR,NL05YEPP3377356974,Belgium,Volkswagen,Vehicle service charge,2024-09-01,79620.7,Student,20
+EUR,NL05YEPP3377356974,NL,Facebook,Premium account upgrade,2024-09-01,79627.22,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 504c8a49-3d98-49c5-b7bb-82dffc7050be,2024-09-01,80286.22,Student,20
+EUR,NL05YEPP3377356974,NL,Toyota,Vehicle service charge,2024-09-01,80311.79,Student,20
+EUR,NL05YEPP3377356974,NL,SoftBank,Conglomerate product order,2024-09-01,80325.95,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 0d54d154-e354-4ef8-a0a8-ff8fc903e6b2,2024-09-01,80984.95,Student,20
+EUR,NL05YEPP3377356974,NL,Azra Latier-der Kijnder,Emergency funds,2024-09-01,80991.62,Student,20
+EUR,NL05YEPP3377356974,Great Britain,PepsiCo,Restaurant bill,2024-09-01,81010.7,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8d8e1000-3d55-4ca9-b1ac-69526164f158,2024-09-01,81669.7,Student,20
+EUR,NL05YEPP3377356974,NL,Renault,Auto repair bill,2024-09-01,81679.31,Student,20
+EUR,NL05YEPP3377356974,NL,AT&T,Cable service subscription,2024-09-01,81684.44,Student,20
+EUR,NL05YEPP3377356974,NL,Berkshire Hathaway,Business unit invoice,2024-09-01,81692.54,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: e75a43a6-7750-4a97-8917-2a6de74ab024,2024-09-01,82351.54,Student,20
+EUR,NL05YEPP3377356974,NL,Alphabet Inc.,Cloud storage subscription,2024-09-01,82359.08,Student,20
+EUR,NL05YEPP3377356974,NL,Zara Dijkman,Shared meal cost,2024-09-01,82365.39,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 5b22bb4f-89a1-4b09-bd08-d2b69ba48ac7,2024-09-01,83024.39,Student,20
+EUR,NL05YEPP3377356974,NL,Accenture,Professional service invoice,2024-09-01,83027.18,Student,20
+EUR,NL05YEPP3377356974,Canada,Geldmaat ATM,Geldmaat: 74689655-e47c-4778-96ad-1c31895e5d37,2024-09-01,83043.2,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 358a699b-1866-4a34-950b-7b03a9014e19,2024-09-01,83702.2,Student,20
+EUR,NL05YEPP3377356974,NL,Procter & Gamble,Subscription box service,2024-09-01,83711.32,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 03feebc8-64eb-4446-8d6d-582b24f712ad,2024-09-01,84370.32,Student,20
+EUR,NL05YEPP3377356974,NL,Duke Energy,Utility bill,2024-09-01,84387.13,Student,20
+EUR,NL05YEPP3377356974,NL,Novartis,Pharmacy bill,2024-09-01,84395.16,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 5ba42be6-bd9d-4fc2-8dd8-07aad8fc4452,2024-09-01,85054.16,Student,20
+EUR,NL05YEPP3377356974,NL,Oracle,Cloud storage subscription,2024-09-01,85060.17,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Airbus,Aerospace parts purchase,2024-09-01,85063.35,Student,20
+EUR,NL05YEPP3377356974,NL,Alphabet Inc.,Web hosting fee,2024-09-01,85074.09,Student,20
+EUR,NL05YEPP3377356974,NL,Procter & Gamble,Product purchase,2024-09-01,85074.82,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 2a24e239-d3f7-4464-911f-300e83c5d46f,2024-09-01,85733.82,Student,20
+EUR,NL05YEPP3377356974,France,GlaxoSmithKline,Healthcare prescription,2024-09-01,85825.33,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 0bb90eb6-a7fe-47f8-aee4-15667197f47a,2024-09-01,86484.33,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Roche,Medication purchase,2024-09-01,87050.78,Student,20
+EUR,NL05YEPP3377356974,NL,Renault,Car parts order,2024-09-01,87055.8,Student,20
+EUR,NL05YEPP3377356974,NL,Giovanni Oosterhek,Rent payment,2024-09-01,87066.78,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 2fb77725-b034-4b63-bc38-950e10cb6cb8,2024-09-01,87725.78,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Meta Platforms,Cloud storage subscription,2024-09-01,87760.05,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: b1db9ee4-3d5b-4921-b7b6-98bd903a6243,2024-09-01,88419.05,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 6b663bde-2c16-4c93-8941-dc7ac0dacc90,2024-09-01,89078.05,Student,20
+EUR,NL05YEPP3377356974,NL,Apple Inc.,Technology services invoice payment,2024-09-01,89096.6,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 69639140-c7a2-418f-ae5f-47c38fa83114,2024-09-01,89755.6,Student,20
+EUR,NL05YEPP3377356974,NL,Noortje Vignon,Reimbursement for shopping,2024-09-01,89771.79,Student,20
+EUR,NL05YEPP3377356974,NL,Kyra Klein,Personal loan,2024-09-01,89777.27,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 7324da17-0272-4131-8524-d54ff6a41bed,2024-09-01,90436.27,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Catharina Ketel,Travel expenses,2024-09-01,90447.98,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: ad28f9d3-f6d1-482f-ab11-cde9304363b3,2024-09-01,91106.98,Student,20
+EUR,NL05YEPP3377356974,Denmark,Duke Energy,Utility bill,2024-09-01,91122.14,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 39ac7e1c-4e60-4994-b5b9-750c9102c114,2024-09-01,91781.14,Student,20
+EUR,NL05YEPP3377356974,NL,AT&T,Cable service subscription,2024-09-01,91872.41,Student,20
+EUR,NL05YEPP3377356974,Hungary,Brian Van Bragt-Oversteeg,Rent deposit,2024-09-01,91874.6,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 6769a6ef-bac6-4a99-86b4-e955178d1045,2024-09-01,92533.6,Student,20
+EUR,NL05YEPP3377356974,NL,Amazon,Online shopping,2024-09-01,92536.79,Student,20
+EUR,NL05YEPP3377356974,NL,Cisco Systems,Technology services invoice payment,2024-09-01,92548.54,Student,20
+EUR,NL05YEPP3377356974,NL,Novartis,Healthcare prescription,2024-10-01,92554.89,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 7fd889a3-4ec8-40b1-af09-d26067158dbb,2024-10-01,93213.89,Student,20
+EUR,NL05YEPP3377356974,Spain,Alibaba,Subscription service,2024-10-01,93225.61,Student,20
+EUR,NL05YEPP3377356974,NL,Dell Technologies,Technology services invoice payment,2024-10-01,93238.45,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: 25558020-6dcb-4460-97e0-990ee87bc7a9,2024-10-01,93257.04,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 1d160069-1ba0-4b72-9738-45bdc24545df,2024-10-01,93916.04,Student,20
+EUR,NL05YEPP3377356974,Italy,Mila Adryaens,Shared meal cost,2024-10-01,93922.45,Student,20
+EUR,NL05YEPP3377356974,NL,Meta Platforms,Web hosting fee,2024-10-01,93935.44,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: d246edf7-f61d-47e4-8fa7-97995a648e87,2024-10-01,94594.44,Student,20
+EUR,NL05YEPP3377356974,NL,PepsiCo,Food delivery,2024-10-01,94595.88,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Renault,Vehicle service charge,2024-10-01,94605.84,Student,20
+EUR,NL05YEPP3377356974,Denmark,Alphabet Inc.,Technology services invoice payment,2024-10-01,94611.0,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 01138a1d-3a11-412d-9690-0a24f54098e7,2024-10-01,95270.0,Student,20
+EUR,NL05YEPP3377356974,NL,Dylano Groenestein,Medical bills,2024-10-01,95271.18,Student,20
+EUR,NL05YEPP3377356974,NL,Gilead Sciences,Laboratory service charge,2024-10-01,95285.54,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 06bd2f80-ac60-4ab9-b3dd-c5f62a221c29,2024-10-01,95944.54,Student,20
+EUR,NL05YEPP3377356974,NL,Alibaba,Online shopping,2024-10-01,95962.24,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 17c78c69-0505-40cc-9cc3-4c9b35d5756a,2024-10-01,96621.24,Student,20
+EUR,NL05YEPP3377356974,Great Britain,3M,Diversified company fee,2024-10-01,96627.57,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: aa9fc394-a619-4a74-8065-37c545d3f112,2024-10-01,97286.57,Student,20
+EUR,NL05YEPP3377356974,Japan,GlaxoSmithKline,Pharmacy bill,2024-10-01,97299.16,Student,20
+EUR,NL05YEPP3377356974,Canada,Gilead Sciences,Clinical trial payment,2024-10-01,97303.67,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 00b6760d-7b7a-478b-9c62-109a258ce7d9,2024-10-01,97962.67,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Mitsubishi,Business unit invoice,2024-10-01,97974.35,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 379e3562-7e43-4c16-8848-5b85d7d2f0ce,2024-10-01,98633.35,Student,20
+EUR,NL05YEPP3377356974,NL,Jens Knoers,School fees,2024-10-01,98642.09,Student,20
+EUR,NL05YEPP3377356974,NL,Geldmaat ATM,Geldmaat: cd9ede32-efb7-413c-831c-b4ff02b84c96,2024-10-01,98651.12,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Mitsubishi,Conglomerate product order,2024-10-01,98700.91,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 171cef03-7081-4dda-8320-3c54381839ba,2024-10-01,99359.91,Student,20
+EUR,NL05YEPP3377356974,Great Britain,Elizabeth Zeemans,Shared ride expenses,2024-10-01,99382.77,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: c51b6e3e-4e01-438e-bec6-13c2ff7cfd03,2024-10-01,100041.77,Student,20
+EUR,NL05YEPP3377356974,Belgium,Accenture,Expert consultation fee,2024-10-01,100171.35,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: d4151c48-6d4b-4529-8647-9e255bd06e4e,2024-10-01,100830.35,Student,20
+EUR,NL05YEPP3377356974,United States,Airbus,Aerospace parts purchase,2024-10-01,100834.83,Student,20
+EUR,NL05YEPP3377356974,NL,Microsoft,Cloud storage subscription,2024-10-01,100852.33,Student,20
+EUR,NL05YEPP3377356974,Germany,Geldmaat ATM,Geldmaat: 8a632d58-11d8-4989-95f8-b2a70c47844b,2024-10-01,101511.33,Student,20
+EUR,NL05YEPP3377356974,NL,DuPont,Business unit invoice,2024-10-01,101515.43,Student,20

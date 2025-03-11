@@ -1,0 +1,289 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 3d3c627b-8d56-4d18-a546-e1fc1f40b4ac,2024-06-01,3577.0,Student,20
+EUR,NL12FAKE5131056829,NL,Pfizer,Pharmacy bill,2024-06-01,3582.89,Student,20
+EUR,NL12FAKE5131056829,NL,AstraZeneca,Healthcare prescription,2024-06-01,3584.56,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f02e0735-3934-486c-b640-f495527bc50a,2024-06-01,3622.56,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 1b66a474-5fc8-4d9d-9d05-ad56b14b3956,2024-06-01,3660.56,Student,20
+EUR,NL12FAKE5131056829,NL,Renault,Car parts order,2024-06-01,3664.25,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: bf7be7d3-2982-445b-9dc3-c6b029c95183,2024-06-01,3702.25,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Geldmaat ATM,Geldmaat: e6cb95a3-6d62-41e9-ba5a-8b705b748282,2024-06-01,3712.2,Student,20
+EUR,NL12FAKE5131056829,NL,AstraZeneca,Healthcare prescription,2024-06-01,3714.91,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c16a1e2d-0b8b-411e-9ab9-092d82da55ce,2024-06-01,3752.91,Student,20
+EUR,NL12FAKE5131056829,NL,Goldman Sachs,Investment fund entry,2024-06-01,3754.67,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 6f536f1e-0f89-42bd-8847-0ea82afa00eb,2024-06-01,3792.67,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 219f7581-7be5-4f46-ac1c-9ce9134bdb20,2024-06-01,3830.67,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: 486319b8-2e59-4fbd-a20b-ab53f30b3fe4,2024-06-01,3840.7,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 61ce8c33-5b31-4cdb-9f2c-bf4160e21578,2024-06-01,3878.7,Student,20
+EUR,NL12FAKE5131056829,NL,Collin Linschoten,Shared ride expenses,2024-06-01,3881.57,Student,20
+EUR,NL12FAKE5131056829,NL,Ella Aarden,Loan repayment,2024-06-01,3888.12,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 4e806242-aa9b-4359-bcbd-29f7d9b8f981,2024-06-01,3926.12,Student,20
+EUR,NL12FAKE5131056829,NL,Honeywell,Corporate services payment,2024-06-01,3930.7,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d13c85a0-5a13-449f-ae67-4185fc2571e3,2024-06-01,3968.7,Student,20
+EUR,NL12FAKE5131056829,NL,Gilead Sciences,Clinical trial payment,2024-06-01,3969.25,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: dc4faa9c-b55a-4f89-b662-d1390858498a,2024-06-01,4007.25,Student,20
+EUR,NL12FAKE5131056829,NL,Huawei,Web hosting fee,2024-06-01,4011.07,Student,20
+EUR,NL12FAKE5131056829,NL,Mia van der Heiden-Willems,Reimbursement for bills,2024-06-01,4013.89,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 4da42561-4473-42ce-803e-7bd49ae7937d,2024-06-01,4051.89,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d0b82a9f-e68d-4a11-a204-99de0dfadb77,2024-06-01,4089.89,Student,20
+EUR,NL12FAKE5131056829,Italy,Daimler,Car parts order,2024-06-01,4092.13,Student,20
+EUR,NL12FAKE5131056829,NL,Phillips 66,Electricity payment,2024-06-01,4093.25,Student,20
+EUR,NL12FAKE5131056829,Great Britain,DuPont,Business unit invoice,2024-06-01,4099.31,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 96ea44c0-afbb-4dfc-aa3f-95853f030845,2024-06-01,4137.31,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c5c2b9a2-9ffd-497e-832c-9e91b1ed17aa,2024-06-01,4175.31,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: a989306a-5f76-45d6-8724-d51e9f5ad369,2024-06-01,4270.24,Student,20
+EUR,NL12FAKE5131056829,Spain,Apple Inc.,Software license fee payment,2024-06-01,4272.12,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 8f176209-f010-4729-ad3c-25bfead4fe51,2024-06-01,4310.12,Student,20
+EUR,NL12FAKE5131056829,NL,Noud Verbruggen,Split restaurant bill,2024-06-01,4311.29,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 84f9f4c5-2779-4c93-8c7e-5e1b203761b5,2024-06-01,4349.29,Student,20
+EUR,NL12FAKE5131056829,Spain,Mitsubishi,Conglomerate product order,2024-06-01,4372.33,Student,20
+EUR,NL12FAKE5131056829,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,4378.78,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f84ad730-3478-4d78-82ca-a91927742679,2024-06-01,4416.78,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: bcb3f491-fe38-44a9-b3a7-ea486e2c267f,2024-06-01,4454.78,Student,20
+EUR,NL12FAKE5131056829,NL,3M,Diversified company fee,2024-06-01,4458.6,Student,20
+EUR,NL12FAKE5131056829,NL,Luka Sire-Hanegraaff,Loan repayment,2024-06-01,4462.55,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: e25dd597-a6c4-4edd-8bb1-753b2991438f,2024-06-01,4500.55,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 20053a27-f17c-490a-af30-8f2877fc1c2b,2024-06-01,4538.55,Student,20
+EUR,NL12FAKE5131056829,Canada,Duke Energy,Electricity payment,2024-06-01,4543.62,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 7f5adc48-ca75-4017-aedc-c3199514ff44,2024-06-01,4581.62,Student,20
+EUR,NL12FAKE5131056829,NL,Volkswagen,Car purchase,2024-06-01,4585.21,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 0ed2d8a6-7ccd-48f2-84e6-74c34d0ef2b4,2024-06-01,4623.21,Student,20
+EUR,NL12FAKE5131056829,Germany,Oracle,Cloud storage subscription,2024-06-01,4631.79,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 430d700c-e0ec-49ba-bda1-5a0a60e3e529,2024-06-01,4669.79,Student,20
+EUR,NL12FAKE5131056829,France,Toyota,Car parts order,2024-06-01,4720.33,Student,20
+EUR,NL12FAKE5131056829,Germany,Volkswagen,Car purchase,2024-06-01,4724.28,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 82af9b4a-3c3a-4bf8-af47-4cd91576faf3,2024-06-01,4762.28,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: cd4deeac-7655-43f1-8c23-b20697fc8fd3,2024-06-01,4800.28,Student,20
+EUR,NL12FAKE5131056829,United States,Morgan Stanley,Capital markets service,2024-06-01,4820.26,Student,20
+EUR,NL12FAKE5131056829,Canada,Apple Inc.,Software license fee payment,2024-06-01,4823.16,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f6d7b059-20bb-41c2-a200-657d1944f71c,2024-06-01,4861.16,Student,20
+EUR,NL12FAKE5131056829,NL,Accenture,Consulting fee,2024-06-01,4864.54,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 6257d581-a6b3-4a88-88eb-5af059b50f74,2024-06-01,4902.54,Student,20
+EUR,NL12FAKE5131056829,Germany,3M,Corporate services payment,2024-06-01,4903.7,Student,20
+EUR,NL12FAKE5131056829,Japan,Volkswagen,Auto repair bill,2024-06-01,4906.2,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 9fbb6f45-d473-4a15-b873-edfefb7e3a6c,2024-06-01,4944.2,Student,20
+EUR,NL12FAKE5131056829,NL,Duke Energy,Utility bill,2024-06-01,4951.68,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 48f6e143-59a6-40e9-bab6-03ef0f65c696,2024-06-01,4989.68,Student,20
+EUR,NL12FAKE5131056829,NL,GlaxoSmithKline,Medication purchase,2024-07-01,5005.18,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 51da96ea-de10-4e1c-b0e2-0474ec0b4d4c,2024-07-01,5043.18,Student,20
+EUR,NL12FAKE5131056829,NL,Oracle,Technology services invoice payment,2024-07-01,5046.66,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c0e95ee4-81e7-40dc-abb2-641ec0e38699,2024-07-01,5084.66,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f2a8f9af-f6b7-49c2-a932-958dceb619a9,2024-07-01,5122.66,Student,20
+EUR,NL12FAKE5131056829,NL,Daniel Guit,Gas money,2024-07-01,5124.3,Student,20
+EUR,NL12FAKE5131056829,Japan,Alphabet Inc.,Web hosting fee,2024-07-01,5124.81,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Yasmine Remmers,Split restaurant bill,2024-07-01,5128.55,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 698adb2c-c042-4e99-9e21-7d5161bde3c1,2024-07-01,5166.55,Student,20
+EUR,NL12FAKE5131056829,NL,GlaxoSmithKline,Healthcare prescription,2024-07-01,5169.18,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: cc09a500-837b-47c7-91b0-a0464492cc1d,2024-07-01,5207.18,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: e3f8d103-6029-4573-8734-08f6c29999e6,2024-07-01,5245.18,Student,20
+EUR,NL12FAKE5131056829,Spain,PepsiCo,Restaurant bill,2024-07-01,5251.53,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ae07f0ea-7a56-4ae3-878b-c2f8f4bc4c6c,2024-07-01,5289.53,Student,20
+EUR,NL12FAKE5131056829,Canada,Catharina Perck,Christmas gift,2024-07-01,5291.47,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Geldmaat ATM,Geldmaat: 5025ee12-a7c2-48b2-a663-a8648f282ad4,2024-07-01,5294.55,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 7844501a-7bb4-482b-82e5-9466dcdbab0a,2024-07-01,5332.55,Student,20
+EUR,NL12FAKE5131056829,NL,Huawei,Technology services invoice payment,2024-07-01,5338.27,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: b3fc03f0-20e5-4c76-841a-ac3469669f96,2024-07-01,5376.27,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 216beeb1-68c8-4347-8ab0-26a707d06099,2024-07-01,5414.27,Student,20
+EUR,NL12FAKE5131056829,NL,Boeing,Aircraft maintenance,2024-07-01,5420.61,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f283e39e-7123-4008-a834-b2a08bdc80a2,2024-07-01,5458.61,Student,20
+EUR,NL12FAKE5131056829,United States,Merck & Co.,Drug order payment,2024-07-01,5463.18,Student,20
+EUR,NL12FAKE5131056829,NL,Sanofi,Pharmacy bill,2024-07-01,5467.46,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 764db5d0-4ed9-4192-a7ce-07278b88d38f,2024-07-01,5505.46,Student,20
+EUR,NL12FAKE5131056829,NL,Berkshire Hathaway,Diversified company fee,2024-07-01,5509.69,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c18faf4d-1023-4f42-8818-f55b5cea5a7b,2024-07-01,5547.69,Student,20
+EUR,NL12FAKE5131056829,Canada,Juliette van Zwaben-van der Meer,Child support,2024-07-01,5552.79,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: b3f4df70-a765-4bf1-a3cd-18145cf05114,2024-07-01,5590.79,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Renault,Vehicle service charge,2024-07-01,5596.19,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 18697cf2-5025-4fbe-aa0e-330d966cca51,2024-07-01,5634.19,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ee4e8e7a-096d-4354-8d2a-81445ae76d8d,2024-07-01,5672.19,Student,20
+EUR,NL12FAKE5131056829,NL,3M,Diversified company fee,2024-07-01,5676.73,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: a663e8ff-7a1b-49b2-84c5-2bcabd756bd0,2024-07-01,5714.73,Student,20
+EUR,NL12FAKE5131056829,NL,Alphabet Inc.,Software license fee payment,2024-07-01,5721.39,Student,20
+EUR,NL12FAKE5131056829,NL,Apple Inc.,Web hosting fee,2024-07-01,5728.86,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d48d38a5-2ed5-488a-b8f7-2e9f0c4f0a35,2024-07-01,5766.86,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: af85f94b-b16c-410c-9bf1-94f3decc9476,2024-07-01,5804.86,Student,20
+EUR,NL12FAKE5131056829,NL,Aaron van Goerle,Mortgage help,2024-07-01,5813.12,Student,20
+EUR,NL12FAKE5131056829,Belgium,Geldmaat ATM,Geldmaat: e56353f2-a79f-427e-952b-fb590f1abd82,2024-07-01,5816.45,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: bdf51c83-0661-4032-b654-235f470b82b5,2024-07-01,5854.45,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c2c72f9c-69b3-4f60-8ada-54422fb485b5,2024-07-01,5892.45,Student,20
+EUR,NL12FAKE5131056829,NL,Jesse Veenendaal,Gas money,2024-07-01,5896.5,Student,20
+EUR,NL12FAKE5131056829,NL,Unilever,Product purchase,2024-07-01,5899.51,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 8cf67ba2-0b48-42d7-a09e-89542220b939,2024-07-01,5937.51,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ec817fe3-51f4-4e18-b9d6-af93f09284c1,2024-07-01,5975.51,Student,20
+EUR,NL12FAKE5131056829,NL,Unilever,Retail goods payment,2024-07-01,5977.82,Student,20
+EUR,NL12FAKE5131056829,Canada,Ford Motor,Car parts order,2024-07-01,5983.75,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d306bae0-0d93-40df-a7de-60849077aefa,2024-07-01,6021.75,Student,20
+EUR,NL12FAKE5131056829,NL,Amira den Buytelaar-Gerrits,Mortgage help,2024-07-01,6025.7,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 2166205b-a52f-4ebf-8c04-05600806bafc,2024-07-01,6063.7,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Geldmaat ATM,Geldmaat: 3e94164e-23ce-49ae-ba32-52e8a6b4b63e,2024-07-01,6108.31,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c56e5c50-a2d0-4862-a029-f5e02ebad35d,2024-07-01,6146.31,Student,20
+EUR,NL12FAKE5131056829,NL,Ford Motor,Auto repair bill,2024-07-01,6148.73,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c474ec8c-a0d4-4f7d-adb1-8b86a0b68208,2024-07-01,6186.73,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Matthijs Corstiaens,Vacation expenses,2024-07-01,6188.68,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 98160a41-d5c2-4ded-9154-324d2426df91,2024-07-01,6226.68,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: effa7165-be9f-4d21-ac7f-e5202a5b48c6,2024-07-01,6264.68,Student,20
+EUR,NL12FAKE5131056829,Spain,Amazon,Subscription service,2024-07-01,6267.2,Student,20
+EUR,NL12FAKE5131056829,Canada,Alibaba,Online shopping,2024-07-01,6272.47,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ab5a9542-7423-4769-baca-33cb7dc08bd4,2024-07-01,6310.47,Student,20
+EUR,NL12FAKE5131056829,Canada,Jasmijn Charon,Housewarming gift,2024-07-01,6313.33,Student,20
+EUR,NL12FAKE5131056829,United States,Merck & Co.,Healthcare prescription,2024-07-01,6314.28,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 26a12031-67f8-4fc8-b30a-903bc984c2d2,2024-07-01,6352.28,Student,20
+EUR,NL12FAKE5131056829,NL,Amin Konings,Debt settlement,2024-08-01,6353.79,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: b6e2f715-78f8-4761-ba57-ebe103b48af8,2024-08-01,6391.79,Student,20
+EUR,NL12FAKE5131056829,NL,Cisco Systems,Web hosting fee,2024-08-01,6396.42,Student,20
+EUR,NL12FAKE5131056829,NL,Dell Technologies,Web hosting fee,2024-08-01,6397.69,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Geldmaat ATM,Geldmaat: 35c86a38-cab9-4794-93ec-e6848b4cdeb6,2024-08-01,6399.55,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 2e3406c7-44d9-4f47-aa94-9de083aa649a,2024-08-01,6437.55,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 3cf42bb4-a48b-4de8-827a-e55742d45734,2024-08-01,6475.55,Student,20
+EUR,NL12FAKE5131056829,NL,Alphabet Inc.,Technology services invoice payment,2024-08-01,6477.95,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: e7877fe7-9e14-401f-96ab-f08a4328ba1d,2024-08-01,6515.95,Student,20
+EUR,NL12FAKE5131056829,Canada,Duke Energy,Renewable energy subscription,2024-08-01,6545.11,Student,20
+EUR,NL12FAKE5131056829,NL,Airbus,Aviation technology fee,2024-08-01,6548.46,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 2e31fed6-2539-40d8-bb71-3cf3ac9d8acf,2024-08-01,6586.46,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 616def26-3452-4a33-a389-bcf64c8cbecf,2024-08-01,6624.46,Student,20
+EUR,NL12FAKE5131056829,Canada,Amazon,Marketplace seller fee,2024-08-01,6632.9,Student,20
+EUR,NL12FAKE5131056829,Italy,PepsiCo,Beverage order,2024-08-01,6636.6,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 279e835e-e599-4315-a24b-4ac62fb3fb61,2024-08-01,6674.6,Student,20
+EUR,NL12FAKE5131056829,United States,Morgan Stanley,Brokerage fee,2024-08-01,6681.6,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d878083e-54eb-4499-896b-7590f098d61a,2024-08-01,6719.6,Student,20
+EUR,NL12FAKE5131056829,NL,SoftBank,Business unit invoice,2024-08-01,6728.46,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 71f49463-ce04-4f9b-8912-8fadf1623ba4,2024-08-01,6766.46,Student,20
+EUR,NL12FAKE5131056829,Great Britain,AstraZeneca,Pharmacy bill,2024-08-01,6770.4,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 66a89e5e-3ed0-4bf2-b78a-81e73eec37f1,2024-08-01,6808.4,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Pfizer,Drug order payment,2024-08-01,6815.31,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 09a85dac-612d-439a-ab35-4661097e7959,2024-08-01,6853.31,Student,20
+EUR,NL12FAKE5131056829,NL,Alibaba,Online shopping,2024-08-01,6855.93,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c2ab0fc8-b73b-45c4-a993-4ef2ead5751e,2024-08-01,6893.93,Student,20
+EUR,NL12FAKE5131056829,Spain,Accenture,Professional service invoice,2024-08-01,6895.45,Student,20
+EUR,NL12FAKE5131056829,United States,Elizabeth van Buuren,Grocery money,2024-08-01,6903.39,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 3da7f618-ced7-48c5-8182-b399d0c12717,2024-08-01,6941.39,Student,20
+EUR,NL12FAKE5131056829,NL,Anne Bouwhuisen,Shared ride expenses,2024-08-01,6943.46,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 6af24d32-26f9-4adf-9d19-54c38face541,2024-08-01,6981.46,Student,20
+EUR,NL12FAKE5131056829,NL,Tijn den Teuling,Friend loan repayment,2024-08-01,6986.04,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 70a505cc-584b-4aec-a4de-f7c490c1ca50,2024-08-01,7024.04,Student,20
+EUR,NL12FAKE5131056829,Canada,Chloë Bouthoorn,Rent payment,2024-08-01,7031.0,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 6d8d94fd-9490-4fc3-b6d7-830e8fdd70ba,2024-08-01,7069.0,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: 8e98d39f-19f6-44af-b7cb-84e36b0746da,2024-08-01,7082.99,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 74a4ad6b-b926-4909-a221-9b87df32e4c1,2024-08-01,7120.99,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 2452495b-fc5a-4fd1-a03a-d6ac11b9c151,2024-08-01,7158.99,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: af25cfc2-7ac7-4d7a-8309-ac1bf44d4d8a,2024-08-01,7187.4,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: 455b1907-8263-4a26-a3bb-f43627c4e7dc,2024-08-01,7198.1,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 0e61354b-7bdc-40d7-a6e3-4e5f5f2c3c1d,2024-08-01,7236.1,Student,20
+EUR,NL12FAKE5131056829,United States,LVMH,Luxury item purchase,2024-08-01,7247.77,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 6777d524-eb68-4294-a605-ead5b99ab79a,2024-08-01,7285.77,Student,20
+EUR,NL12FAKE5131056829,NL,IBM,Technology services invoice payment,2024-08-01,7288.9,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 8d1cf035-2db8-47a7-98bb-2bff261e9492,2024-08-01,7326.9,Student,20
+EUR,NL12FAKE5131056829,Denmark,Boeing,Aviation technology fee,2024-08-01,7332.33,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 13d9a839-3829-49a3-942e-e571d4431d0f,2024-08-01,7370.33,Student,20
+EUR,NL12FAKE5131056829,NL,Nadine van Beieren,Grocery money,2024-08-01,7378.31,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 1e640777-daa2-45d5-bd2a-360442cbff9a,2024-08-01,7416.31,Student,20
+EUR,NL12FAKE5131056829,Germany,Cisco Systems,Web hosting fee,2024-08-01,7420.26,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 525ff7bb-08f7-4a20-9187-adbc7447d4ed,2024-08-01,7458.26,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 1e97fb9a-4f13-4370-9889-edd5f49accd8,2024-08-01,7496.26,Student,20
+EUR,NL12FAKE5131056829,NL,Evie Mangel,Reimbursement for shopping,2024-08-01,7498.08,Student,20
+EUR,NL12FAKE5131056829,NL,Julius van Mispelen,Debt settlement,2024-08-01,7504.71,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 17eb3506-3427-4089-b566-73b48a74478d,2024-08-01,7542.71,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: b593771d-6615-4efe-8d28-aa9edfd8aede,2024-08-01,7580.71,Student,20
+EUR,NL12FAKE5131056829,NL,Oracle,Cloud storage subscription,2024-08-01,7586.78,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: cc4c51b6-2b3b-4ddf-9aa0-d3e04c3c6d0f,2024-08-01,7591.19,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 3ab70c73-bed6-4902-adb2-4c5ab8b8742b,2024-08-01,7629.19,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ae794b90-3b61-463c-a130-063903edb730,2024-08-01,7667.19,Student,20
+EUR,NL12FAKE5131056829,Great Britain,IBM,Technology services invoice payment,2024-08-01,7671.03,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: da55826a-669e-4a44-8a90-41cd5695345b,2024-08-01,7709.03,Student,20
+EUR,NL12FAKE5131056829,Germany,Boeing,Aircraft maintenance,2024-08-01,7712.51,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Pfizer,Medication purchase,2024-08-01,7716.78,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 57ee8950-afca-402a-8ca1-d671bf09d8e6,2024-08-01,7754.78,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: 52873b7b-4e20-4d20-bbf6-1724c62439d9,2024-09-01,7756.81,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f218d84f-2b7f-4dfd-940c-eeaea26edb65,2024-09-01,7794.81,Student,20
+EUR,NL12FAKE5131056829,NL,Meta Platforms,Technology services invoice payment,2024-09-01,7799.36,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 1fca8aff-d25e-4441-ba25-750961b970da,2024-09-01,7837.36,Student,20
+EUR,NL12FAKE5131056829,United States,Microsoft,Technology services invoice payment,2024-09-01,7838.23,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: baa4c603-de12-4c75-b6b8-089703497995,2024-09-01,7876.23,Student,20
+EUR,NL12FAKE5131056829,Canada,Renault,Vehicle service charge,2024-09-01,7879.76,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Tata Consultancy Services,Software development bill,2024-09-01,7925.77,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 9fd0f374-e637-4470-86b7-64fa1e689f0b,2024-09-01,7963.77,Student,20
+EUR,NL12FAKE5131056829,Italy,Bayer,Healthcare prescription,2024-09-01,7966.39,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: e389e30d-9381-4079-9579-365c4094509e,2024-09-01,8004.39,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Merijn Verschuere,New baby gift,2024-09-01,8008.92,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 7b1289b1-87b3-462b-9fdd-3f62c1ea17f8,2024-09-01,8046.92,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: a90796db-e739-42c1-8f2c-6add92e24609,2024-09-01,8084.92,Student,20
+EUR,NL12FAKE5131056829,NL,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,8088.07,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d90059bb-d37f-41b1-bf8b-930002306002,2024-09-01,8126.07,Student,20
+EUR,NL12FAKE5131056829,Austria,BASF,Chemical supply order,2024-09-01,8143.06,Student,20
+EUR,NL12FAKE5131056829,NL,Bristol-Myers Squibb,Pharmacy bill,2024-09-01,8160.09,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 255a6191-0c64-417d-8e20-28fa8bcc5d15,2024-09-01,8198.09,Student,20
+EUR,NL12FAKE5131056829,NL,Milou van Haeften,Reimbursement for medical expenses,2024-09-01,8199.5,Student,20
+EUR,NL12FAKE5131056829,NL,3M,Business unit invoice,2024-09-01,8200.35,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ed9d939a-bdea-422d-9e23-690ea5635236,2024-09-01,8238.35,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 001e4d99-0d7d-49ae-83cf-b93c040e8735,2024-09-01,8276.35,Student,20
+EUR,NL12FAKE5131056829,Canada,Sara le Guellec,Rent deposit,2024-09-01,8283.79,Student,20
+EUR,NL12FAKE5131056829,NL,Tata Consultancy Services,IT support fee,2024-09-01,8287.85,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ac467029-3d63-4ca9-9cc1-222a3bb03d96,2024-09-01,8325.85,Student,20
+EUR,NL12FAKE5131056829,NL,Toyota,Car purchase,2024-09-01,8327.37,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: ebe5b455-9a6a-4902-9521-98ffcfe00bc2,2024-09-01,8365.37,Student,20
+EUR,NL12FAKE5131056829,NL,Morgan Stanley,Investment fund entry,2024-09-01,8365.99,Student,20
+EUR,NL12FAKE5131056829,NL,Unilever,Subscription box service,2024-09-01,8369.47,Student,20
+EUR,NL12FAKE5131056829,Canada,Cisco Systems,Web hosting fee,2024-09-01,8370.32,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: afd471ff-d873-44f4-9d10-ab2e93cc0d8c,2024-09-01,8408.32,Student,20
+EUR,NL12FAKE5131056829,NL,Rosa Tirie,Personal loan,2024-09-01,8410.83,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 753f7555-84ad-4cd1-8261-91cb285edc5b,2024-09-01,8448.83,Student,20
+EUR,NL12FAKE5131056829,Spain,AstraZeneca,Pharmacy bill,2024-09-01,8455.28,Student,20
+EUR,NL12FAKE5131056829,Canada,General Electric,Diversified company fee,2024-09-01,8456.75,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 365208f6-de2d-47d9-aa5f-d7af03cd032f,2024-09-01,8494.75,Student,20
+EUR,NL12FAKE5131056829,Canada,Toyota,Auto repair bill,2024-09-01,8501.12,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 298ae447-ac42-409b-974c-6f69c07d18c7,2024-09-01,8539.12,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 905cc7f9-a5c0-4d80-a87b-57303192ea31,2024-09-01,8577.12,Student,20
+EUR,NL12FAKE5131056829,Spain,Apple Inc.,Software license fee payment,2024-09-01,8581.08,Student,20
+EUR,NL12FAKE5131056829,Italy,Phillips 66,Renewable energy subscription,2024-09-01,8586.32,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: cd7b4d64-a829-4a30-8949-0264b129c5be,2024-09-01,8624.32,Student,20
+EUR,NL12FAKE5131056829,NL,Alibaba,Online shopping,2024-09-01,8643.98,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: a3452dc1-dccc-4947-b215-59e79f57bcca,2024-09-01,8681.98,Student,20
+EUR,NL12FAKE5131056829,NL,Amazon,Subscription service,2024-09-01,8691.6,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 106d82ed-a15d-4e64-b28d-58fedadd9c14,2024-09-01,8729.6,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 4460a286-74f7-46a6-87a5-83864e5c5e09,2024-09-01,8767.6,Student,20
+EUR,NL12FAKE5131056829,Canada,Duke Energy,Energy supply charge,2024-09-01,8770.66,Student,20
+EUR,NL12FAKE5131056829,NL,Alibaba,Online shopping,2024-09-01,8772.69,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: c90b015e-3092-407f-9ff8-079e4606e613,2024-09-01,8810.69,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f0d073ec-5145-4e49-91ba-1a8423b3198b,2024-09-01,8848.69,Student,20
+EUR,NL12FAKE5131056829,NL,Novartis,Medication purchase,2024-09-01,8849.79,Student,20
+EUR,NL12FAKE5131056829,NL,Amina van der Spaendonc-Lips,Reimbursement for groceries,2024-09-01,8850.99,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f0134951-9887-4544-bd7c-739c740029d2,2024-09-01,8888.99,Student,20
+EUR,NL12FAKE5131056829,Spain,BASF,Laboratory reagents buy,2024-09-01,8916.09,Student,20
+EUR,NL12FAKE5131056829,Germany,3M,Business unit invoice,2024-09-01,8917.9,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f1bcceb6-ad70-40a0-84e1-30ceb1f72295,2024-09-01,8955.9,Student,20
+EUR,NL12FAKE5131056829,France,Gilead Sciences,Biotech research fee,2024-09-01,8959.19,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 10489abf-ad5c-4d18-bfa5-09cac7db3997,2024-09-01,8997.19,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 50d4126a-1c2c-437d-9480-d06a45bfdadd,2024-09-01,9035.19,Student,20
+EUR,NL12FAKE5131056829,NL,Roche,Drug order payment,2024-09-01,9037.67,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d065e7ed-48a0-42cd-a411-d12ede4b72a4,2024-09-01,9075.67,Student,20
+EUR,NL12FAKE5131056829,Germany,Marit Osterhoudt-Verschuere,Birthday gift,2024-09-01,9193.71,Student,20
+EUR,NL12FAKE5131056829,NL,Honeywell,Business unit invoice,2024-09-01,9195.67,Student,20
+EUR,NL12FAKE5131056829,NL,Mitsubishi,Diversified company fee,2024-09-01,9196.2,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 8c804bdb-2426-48c4-bd3a-f2a02c233a55,2024-09-01,9234.2,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 5a724b08-fdc9-40fd-8a9d-1dc79a9930c3,2024-10-01,9272.2,Student,20
+EUR,NL12FAKE5131056829,NL,Bayer,Pharmacy bill,2024-10-01,9277.74,Student,20
+EUR,NL12FAKE5131056829,France,Verizon,Phone bill,2024-10-01,9278.5,Student,20
+EUR,NL12FAKE5131056829,NL,Huawei,Software license fee payment,2024-10-01,9280.1,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f3fd57bc-14fa-4946-b185-487429e8aa93,2024-10-01,9318.1,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 82a5ae32-65d5-4d58-b46e-ff819421f851,2024-10-01,9356.1,Student,20
+EUR,NL12FAKE5131056829,NL,Renault,Car parts order,2024-10-01,9358.07,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 510935cb-741d-417e-af48-7ed341089a10,2024-10-01,9396.07,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Goldman Sachs,Capital markets service,2024-10-01,9402.03,Student,20
+EUR,NL12FAKE5131056829,NL,Frederique Stinis,Shared subscription,2024-10-01,9404.08,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 7dddcd68-d671-489a-a92d-0499c9802947,2024-10-01,9442.08,Student,20
+EUR,NL12FAKE5131056829,Canada,BASF,Chemical supply order,2024-10-01,9446.92,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: d6fb12e6-b26f-475a-9706-927fe38576c0,2024-10-01,9484.92,Student,20
+EUR,NL12FAKE5131056829,NL,Dina Ligtvoet-Elsemulder,Family loan repayment,2024-10-01,9492.04,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 3712991c-f9e5-4e94-b1ae-6b992c122f20,2024-10-01,9530.04,Student,20
+EUR,NL12FAKE5131056829,Great Britain,Pfizer,Healthcare prescription,2024-10-01,9538.36,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 42137ced-08aa-4074-a66b-a27351521fbe,2024-10-01,9576.36,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: bd2fd988-d8e6-45bc-bc04-5b180cbd7247,2024-10-01,9614.36,Student,20
+EUR,NL12FAKE5131056829,NL,Ford Motor,Auto repair bill,2024-10-01,9620.49,Student,20
+EUR,NL12FAKE5131056829,Canada,Bristol-Myers Squibb,Pharmacy bill,2024-10-01,9621.66,Student,20
+EUR,NL12FAKE5131056829,Germany,Femke van der Stael-Backer,Graduation gift,2024-10-01,9624.4,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 473b9ac2-d0cb-4efb-9716-69bf7f63ec93,2024-10-01,9662.4,Student,20
+EUR,NL12FAKE5131056829,NL,Alibaba,Marketplace seller fee,2024-10-01,9667.74,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: 1e10c79a-2943-412d-a0c6-8cd85df86ceb,2024-10-01,9705.74,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: a676ac6f-f64b-4b3c-965c-f66656528981,2024-10-01,9743.74,Student,20
+EUR,NL12FAKE5131056829,NL,Microsoft,Software license fee payment,2024-10-01,9750.45,Student,20
+EUR,NL12FAKE5131056829,NL,Geldmaat ATM,Geldmaat: 4c4496d4-fe16-4064-a40f-9b2c1640c969,2024-10-01,9832.84,Student,20
+EUR,NL12FAKE5131056829,Germany,Geldmaat ATM,Geldmaat: f113ebf0-a426-4ee0-a225-3a4538a5146f,2024-10-01,9870.84,Student,20

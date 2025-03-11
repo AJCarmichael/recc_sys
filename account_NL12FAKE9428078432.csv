@@ -1,0 +1,631 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL12FAKE9428078432,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,3711.09,Retired,65
+EUR,NL12FAKE9428078432,France,SoftBank,Diversified company fee,2024-06-01,3712.42,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5237f2e1-3eb8-4f86-b4d5-8802a97bd24c,2024-06-01,6846.42,Retired,65
+EUR,NL12FAKE9428078432,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,6855.87,Retired,65
+EUR,NL12FAKE9428078432,NL,LVMH,Exclusive brand fee,2024-06-01,6879.35,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Laboratory reagents buy,2024-06-01,6902.63,Retired,65
+EUR,NL12FAKE9428078432,NL,Airbus,Space exploration fee,2024-06-01,6912.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Duke Energy,Electricity payment,2024-06-01,6990.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2cbce7dd-190e-4788-b568-221f0f9d8445,2024-06-01,10124.61,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Johnson & Johnson,Healthcare prescription,2024-06-01,10179.38,Retired,65
+EUR,NL12FAKE9428078432,NL,AstraZeneca,Healthcare prescription,2024-06-01,10208.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e2d8a834-b8e5-4b53-9a8f-e476a93beb3a,2024-06-01,13342.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Procter & Gamble,Order payment,2024-06-01,13366.88,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Social media service subscription,2024-06-01,13394.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Floor Hazenveld-Neuteboom,Shared ride expenses,2024-06-01,13548.49,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: fc81dc3e-37c0-4d86-b907-56b4db2a1b90,2024-06-01,16682.49,Retired,65
+EUR,NL12FAKE9428078432,NL,Roche,Healthcare prescription,2024-06-01,16710.22,Retired,65
+EUR,NL12FAKE9428078432,NL,Tata Consultancy Services,Software development bill,2024-06-01,16747.27,Retired,65
+EUR,NL12FAKE9428078432,NL,Alphabet Inc.,Cloud storage subscription,2024-06-01,16754.51,Retired,65
+EUR,NL12FAKE9428078432,Spain,Unilever,Order payment,2024-06-01,16769.15,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 190bb12c-8841-4290-a3ab-e008ed9e98cd,2024-06-01,19903.15,Retired,65
+EUR,NL12FAKE9428078432,NL,Lize van Engeland,Debt settlement,2024-06-01,19923.12,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Facebook,Premium account upgrade,2024-06-01,20136.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a540c45a-bf6a-4813-be25-47d010da3229,2024-06-01,23270.62,Retired,65
+EUR,NL12FAKE9428078432,United States,Facebook,Social media service subscription,2024-06-01,23308.39,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Geldmaat ATM,Geldmaat: 59cf9911-2f8d-4dd0-a971-c9b7b3b721ed,2024-06-01,23456.91,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: abf078c0-32d9-40bf-aa98-482cd462e591,2024-06-01,26590.91,Retired,65
+EUR,NL12FAKE9428078432,Spain,Apple Inc.,Software license fee payment,2024-06-01,26593.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Sarah de Hoog,Grocery money,2024-06-01,26650.78,Retired,65
+EUR,NL12FAKE9428078432,Belgium,BASF,Industrial chemicals purchase,2024-06-01,26696.43,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d8999b05-e693-472a-8153-26e5f26421a2,2024-06-01,29830.43,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Alphabet Inc.,Technology services invoice payment,2024-06-01,29848.52,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Medication purchase,2024-06-01,29867.74,Retired,65
+EUR,NL12FAKE9428078432,NL,IBM,Software license fee payment,2024-06-01,29871.36,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 07a2ce28-2a59-4fe2-ae75-3a7495a92f86,2024-06-01,29956.8,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e9c8db46-b396-416c-948d-189e812aee78,2024-06-01,33090.8,Retired,65
+EUR,NL12FAKE9428078432,NL,Dell Technologies,Web hosting fee,2024-06-01,33115.32,Retired,65
+EUR,NL12FAKE9428078432,Italy,BASF,Cleaning products order,2024-06-01,33127.69,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: ba24daa2-5d5e-462c-9629-ca59b307b920,2024-06-01,36261.69,Retired,65
+EUR,NL12FAKE9428078432,Italy,Norah Pieters van der Maes-Fortuyn,Reimbursement for bills,2024-06-01,36394.29,Retired,65
+EUR,NL12FAKE9428078432,Canada,Roche,Healthcare prescription,2024-06-01,36401.67,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: bb73802f-55d6-43cc-b211-83af093e93e9,2024-06-01,39535.67,Retired,65
+EUR,NL12FAKE9428078432,NL,Zeynep Werdes,Gas money,2024-06-01,39554.01,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Novartis,Pharmacy bill,2024-06-01,39622.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Mitsubishi,Conglomerate product order,2024-06-01,39626.43,Retired,65
+EUR,NL12FAKE9428078432,NL,Huawei,Web hosting fee,2024-06-01,39647.34,Retired,65
+EUR,NL12FAKE9428078432,NL,Novartis,Healthcare prescription,2024-06-01,39694.76,Retired,65
+EUR,NL12FAKE9428078432,United States,Hailey van den Corput,Family loan repayment,2024-06-01,39696.3,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 3fff47ae-7dce-43be-b368-321f86a5a503,2024-06-01,42830.3,Retired,65
+EUR,NL12FAKE9428078432,Germany,Cisco Systems,Technology services invoice payment,2024-06-01,42847.68,Retired,65
+EUR,NL12FAKE9428078432,NL,Nike,Fashion brand order,2024-06-01,42855.15,Retired,65
+EUR,NL12FAKE9428078432,NL,AstraZeneca,Pharmacy bill,2024-06-01,42901.79,Retired,65
+EUR,NL12FAKE9428078432,NL,Florian Oversteeg-Jacobs,Support money,2024-06-01,43093.32,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 16b6a21f-f759-40f4-a074-6b0cb98c558b,2024-06-01,46227.32,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,3M,Business unit invoice,2024-06-01,46251.64,Retired,65
+EUR,NL12FAKE9428078432,NL,Dell Technologies,Software license fee payment,2024-06-01,46298.5,Retired,65
+EUR,NL12FAKE9428078432,Austria,Mara Recers-van der Heyden,Loan repayment,2024-06-01,46346.59,Retired,65
+EUR,NL12FAKE9428078432,NL,Bayer,Drug order payment,2024-06-01,46359.37,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: c10d7589-c26d-4e02-be06-05af4bfff63c,2024-06-01,49493.37,Retired,65
+EUR,NL12FAKE9428078432,France,Jayson Roose-Rouwhorst,Wedding gift,2024-06-01,49500.91,Retired,65
+EUR,NL12FAKE9428078432,Canada,Cisco Systems,Web hosting fee,2024-06-01,49515.21,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e4b68750-a269-40a0-aaa8-5a0a24f6ed9c,2024-06-01,52649.21,Retired,65
+EUR,NL12FAKE9428078432,NL,BMW,Car purchase,2024-06-01,52652.56,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Quinty Rouwenhorst,Friend loan repayment,2024-06-01,52688.04,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Stefan Heribert van Laon-Roessink,Reimbursement for bills,2024-06-01,52735.18,Retired,65
+EUR,NL12FAKE9428078432,NL,Berkshire Hathaway,Business unit invoice,2024-06-01,52816.92,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,E-commerce order,2024-06-01,52840.94,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5ba0e57c-f2bb-498c-842e-a85523b26834,2024-06-01,55974.94,Retired,65
+EUR,NL12FAKE9428078432,NL,AstraZeneca,Pharmacy bill,2024-06-01,55983.63,Retired,65
+EUR,NL12FAKE9428078432,NL,Alibaba,E-commerce order,2024-06-01,56001.68,Retired,65
+EUR,NL12FAKE9428078432,Denmark,PepsiCo,Beverage order,2024-06-01,56044.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 12ba7069-a6a3-4631-ab10-3a2f4e006b47,2024-06-01,59178.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Puck Lagerweij-de Bruin,Family loan repayment,2024-06-01,59219.56,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Chemical supply order,2024-06-01,59220.69,Retired,65
+EUR,NL12FAKE9428078432,NL,Isis Soos-van Hemert,Baby shower gift,2024-06-01,59244.17,Retired,65
+EUR,NL12FAKE9428078432,NL,Bayer,Healthcare prescription,2024-06-01,59250.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Novartis,Healthcare prescription,2024-06-01,59302.01,Retired,65
+EUR,NL12FAKE9428078432,NL,Duke Energy,Energy supply charge,2024-06-01,59314.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 0dc17a8e-4939-4fcd-b606-7f77c45f72fe,2024-06-01,62448.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Procter & Gamble,Subscription box service,2024-06-01,62460.15,Retired,65
+EUR,NL12FAKE9428078432,NL,Pfizer,Healthcare prescription,2024-06-01,62517.88,Retired,65
+EUR,NL12FAKE9428078432,Italy,Facebook,Influencer collaboration fee,2024-06-01,62525.67,Retired,65
+EUR,NL12FAKE9428078432,United States,ByteDance,Software license fee payment,2024-06-01,62562.04,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: b6cf310c-b02b-4b55-969d-88725e79bdc9,2024-06-01,65696.04,Retired,65
+EUR,NL12FAKE9428078432,France,Bayer,Drug order payment,2024-06-01,65699.44,Retired,65
+EUR,NL12FAKE9428078432,Spain,Toyota,Vehicle service charge,2024-06-01,65713.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: fa686c76-0e7a-4ff5-b56f-addaa812d169,2024-06-01,68847.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Muhammed Coret,Pet expenses,2024-06-01,68884.79,Retired,65
+EUR,NL12FAKE9428078432,NL,ByteDance,Cloud storage subscription,2024-06-01,68923.48,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 7485711d-0558-4bda-8ffc-bc898df7d2c3,2024-06-01,72057.48,Retired,65
+EUR,NL12FAKE9428078432,NL,Nynke Marceron,Reimbursement for medical expenses,2024-06-01,72063.98,Retired,65
+EUR,NL12FAKE9428078432,NL,Milo Adriaensdr,Reimbursement for shopping,2024-06-01,72075.42,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Industrial chemicals purchase,2024-06-01,72085.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Meta Platforms,Software license fee payment,2024-06-01,72167.83,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Boeing,Aerospace parts purchase,2024-06-01,72185.11,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: f1ecd7b7-7c37-48d4-b8bc-4ad6a617f622,2024-06-01,75319.11,Retired,65
+EUR,NL12FAKE9428078432,NL,ByteDance,Software license fee payment,2024-06-01,75412.8,Retired,65
+EUR,NL12FAKE9428078432,Germany,Volkswagen,Car purchase,2024-06-01,75491.61,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Boeing,Aircraft maintenance,2024-06-01,75506.76,Retired,65
+EUR,NL12FAKE9428078432,NL,AT&T,Telecom invoice,2024-06-01,75525.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 159433d6-58ce-4bf9-b7d2-0c055af2ce66,2024-06-01,78659.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2545dd63-5c17-4229-aa71-fa95b84347af,2024-06-01,81793.62,Retired,65
+EUR,NL12FAKE9428078432,Canada,Lize van Gent,Reimbursement for dinner,2024-06-01,81870.96,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Apple Inc.,Technology services invoice payment,2024-06-01,81898.06,Retired,65
+EUR,NL12FAKE9428078432,NL,Johnson & Johnson,Drug order payment,2024-06-01,81899.93,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 3eb0bcf8-8ad3-462d-99ef-3a46545c933a,2024-06-01,85033.93,Retired,65
+EUR,NL12FAKE9428078432,NL,Gilead Sciences,Laboratory service charge,2024-06-01,85063.06,Retired,65
+EUR,NL12FAKE9428078432,Japan,Procter & Gamble,Retail goods payment,2024-06-01,85101.89,Retired,65
+EUR,NL12FAKE9428078432,NL,LVMH,Exclusive brand fee,2024-06-01,85120.69,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 39884335-c655-492f-ba08-c579600e7370,2024-06-01,88254.69,Retired,65
+EUR,NL12FAKE9428078432,NL,Jesse Meeusen-Jorlink,Shared hotel room cost,2024-06-01,88303.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Joy van der Loo-Hoogers,Travel expenses,2024-06-01,88323.19,Retired,65
+EUR,NL12FAKE9428078432,France,Berkshire Hathaway,Conglomerate product order,2024-06-01,88333.44,Retired,65
+EUR,NL12FAKE9428078432,NL,3M,Business unit invoice,2024-06-01,88351.51,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Amazon,E-commerce order,2024-06-01,88404.6,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: cadb26b3-2d6e-43ba-9d2c-0893f76fe032,2024-06-01,91538.6,Retired,65
+EUR,NL12FAKE9428078432,NL,Fabiënne Feenstra,Wedding gift,2024-06-01,91563.64,Retired,65
+EUR,NL12FAKE9428078432,NL,Willem van Roijen,Rent payment,2024-06-01,91566.49,Retired,65
+EUR,NL12FAKE9428078432,NL,Unilever,Product purchase,2024-06-01,91582.04,Retired,65
+EUR,NL12FAKE9428078432,NL,Berkshire Hathaway,Conglomerate product order,2024-06-01,91589.78,Retired,65
+EUR,NL12FAKE9428078432,France,Goldman Sachs,Capital markets service,2024-06-01,91599.45,Retired,65
+EUR,NL12FAKE9428078432,NL,LVMH,High-end product buy,2024-06-01,91642.7,Retired,65
+EUR,NL12FAKE9428078432,NL,Jens Gellemeyer,Housewarming gift,2024-06-01,91662.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e009662b-90be-404b-8ff0-44092f4bce25,2024-06-01,94796.89,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Apple Inc.,Technology services invoice payment,2024-06-01,94832.6,Retired,65
+EUR,NL12FAKE9428078432,NL,Bayer,Drug order payment,2024-06-01,94866.48,Retired,65
+EUR,NL12FAKE9428078432,NL,Honeywell,Conglomerate product order,2024-06-01,94871.78,Retired,65
+EUR,NL12FAKE9428078432,United States,Joost Elsemulder,Split vacation cost,2024-06-01,94876.75,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,Subscription service,2024-06-01,94880.74,Retired,65
+EUR,NL12FAKE9428078432,NL,Kim Bosch-de Keijser,Personal loan,2024-06-01,94889.35,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e7c46819-59e0-4eb8-94ca-f0ce1193d781,2024-06-01,98023.35,Retired,65
+EUR,NL12FAKE9428078432,NL,Meta Platforms,Technology services invoice payment,2024-06-01,98061.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: ff54e1e8-8bf0-4cd2-af1e-3c39137ae727,2024-06-01,98301.59,Retired,65
+EUR,NL12FAKE9428078432,NL,AstraZeneca,Healthcare prescription,2024-06-01,98311.85,Retired,65
+EUR,NL12FAKE9428078432,NL,BMW,Auto repair bill,2024-06-01,98383.12,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Lena van Hulten,Baby shower gift,2024-06-01,98399.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Morgan Stanley,Investment fund entry,2024-06-01,98411.31,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2cac5d60-cc79-43e0-bd83-57dd80f84d99,2024-06-01,101545.31,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Alibaba,Online shopping,2024-07-01,101555.0,Retired,65
+EUR,NL12FAKE9428078432,United States,Procter & Gamble,Order payment,2024-07-01,101580.29,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Laboratory reagents buy,2024-07-01,101626.69,Retired,65
+EUR,NL12FAKE9428078432,NL,Daimler,Auto repair bill,2024-07-01,101639.44,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6f8ba25d-1510-430a-868e-65b466eade2b,2024-07-01,104773.44,Retired,65
+EUR,NL12FAKE9428078432,Canada,Alphabet Inc.,Software license fee payment,2024-07-01,104785.28,Retired,65
+EUR,NL12FAKE9428078432,NL,SoftBank,Diversified company fee,2024-07-01,104798.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Alphabet Inc.,Web hosting fee,2024-07-01,104805.13,Retired,65
+EUR,NL12FAKE9428078432,NL,Vajèn Mansveld-Klomp Jan,Reimbursement for medical expenses,2024-07-01,104822.16,Retired,65
+EUR,NL12FAKE9428078432,NL,Allianz,Coverage update charge,2024-07-01,104846.67,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a1ae1bf0-9b41-478d-96cb-091d6763c659,2024-07-01,107980.67,Retired,65
+EUR,NL12FAKE9428078432,Germany,Johnson & Johnson,Drug order payment,2024-07-01,108003.48,Retired,65
+EUR,NL12FAKE9428078432,Spain,Daimler,Car parts order,2024-07-01,108009.98,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Airbus,Aerospace parts purchase,2024-07-01,108033.34,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d0c4a567-2d08-4778-8532-87a594718a25,2024-07-01,111167.34,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Renault,Vehicle service charge,2024-07-01,111173.68,Retired,65
+EUR,NL12FAKE9428078432,NL,Thomas Heijmen-Jekel,Travel expenses,2024-07-01,111236.47,Retired,65
+EUR,NL12FAKE9428078432,NL,Tata Consultancy Services,System upgrade fee,2024-07-01,111245.93,Retired,65
+EUR,NL12FAKE9428078432,Spain,Merijn de Ruiter,Shared ride expenses,2024-07-01,111409.65,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: cb2dd494-0bcc-4b11-8b5c-ae1b20b287e3,2024-07-01,114543.65,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Novartis,Healthcare prescription,2024-07-01,114555.21,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Goldman Sachs,Stock purchase,2024-07-01,114620.45,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Jayson Versluijs,Shared hotel room cost,2024-07-01,114656.39,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 0cb6237e-75ce-4216-b706-edf28d5a63c7,2024-07-01,117790.39,Retired,65
+EUR,NL12FAKE9428078432,NL,Tijmen van Orleans,Debt settlement,2024-07-01,117847.32,Retired,65
+EUR,NL12FAKE9428078432,France,IBM,Web hosting fee,2024-07-01,117892.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e6ed15de-d3e1-49cc-af6a-e227e790faec,2024-07-01,121026.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Oracle,Technology services invoice payment,2024-07-01,121039.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 9048c3d1-7971-461d-aa17-7532a49dce50,2024-07-01,121266.16,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a9b8d903-1fe0-4518-88ba-0688fff38a2d,2024-07-01,124400.16,Retired,65
+EUR,NL12FAKE9428078432,NL,Alibaba,Online shopping,2024-07-01,124431.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Jake Dachgelt,Birthday gift,2024-07-01,124454.32,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 25d44268-2f57-4820-8a3b-6a47ca208bfd,2024-07-01,127588.32,Retired,65
+EUR,NL12FAKE9428078432,United States,Anne Gemen-Engels,Graduation gift,2024-07-01,127617.41,Retired,65
+EUR,NL12FAKE9428078432,NL,AT&T,Phone bill,2024-07-01,127640.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Bristol-Myers Squibb,Pharmacy bill,2024-07-01,127645.52,Retired,65
+EUR,NL12FAKE9428078432,NL,Mara Weijland,Shared utilities,2024-07-01,127652.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Benjamin Nedermeijer-Oosterhek,Shared hotel room cost,2024-07-01,127711.63,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 217cf641-09d4-4d89-940c-70340e09ce28,2024-07-01,130845.63,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Medication purchase,2024-07-01,130879.55,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Pfizer,Pharmacy bill,2024-07-01,130890.35,Retired,65
+EUR,NL12FAKE9428078432,NL,Lex de Jonge,Baby shower gift,2024-07-01,130899.06,Retired,65
+EUR,NL12FAKE9428078432,United States,Gilead Sciences,Laboratory service charge,2024-07-01,130916.46,Retired,65
+EUR,NL12FAKE9428078432,NL,Oracle,Software license fee payment,2024-07-01,130948.33,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: dcebcdb8-11bc-4fbb-ad93-4cee07c05854,2024-07-01,134082.33,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Noor Smit-van 't Wel,Party contribution,2024-07-01,134100.56,Retired,65
+EUR,NL12FAKE9428078432,France,Sanofi,Pharmacy bill,2024-07-01,134113.31,Retired,65
+EUR,NL12FAKE9428078432,NL,Goldman Sachs,Stock purchase,2024-07-01,134215.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5732dcfa-a81c-48de-bd39-b604114b36d2,2024-07-01,137349.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Roche,Pharmacy bill,2024-07-01,137362.38,Retired,65
+EUR,NL12FAKE9428078432,NL,Alibaba,Online shopping,2024-07-01,137375.95,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Morgan Stanley,Capital markets service,2024-07-01,137376.51,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: aa10ba59-3d66-4a28-b23b-eb65067f3e94,2024-07-01,140510.51,Retired,65
+EUR,NL12FAKE9428078432,NL,Meta Platforms,Software license fee payment,2024-07-01,140513.06,Retired,65
+EUR,NL12FAKE9428078432,NL,Tata Consultancy Services,System upgrade fee,2024-07-01,140537.81,Retired,65
+EUR,NL12FAKE9428078432,NL,Amelia van de Leemput-Rippey,Mortgage help,2024-07-01,140596.34,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Daimler,Car parts order,2024-07-01,140628.27,Retired,65
+EUR,NL12FAKE9428078432,NL,Unilever,Subscription box service,2024-07-01,140646.64,Retired,65
+EUR,NL12FAKE9428078432,NL,Phillips 66,Utility bill,2024-07-01,140684.7,Retired,65
+EUR,NL12FAKE9428078432,NL,DuPont,Conglomerate product order,2024-07-01,140704.98,Retired,65
+EUR,NL12FAKE9428078432,Canada,Bayer,Medication purchase,2024-07-01,140720.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 18fc5c18-54f9-4db6-bd6a-c3994e2e1025,2024-07-01,143854.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Honeywell,Business unit invoice,2024-07-01,143883.22,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Medication purchase,2024-07-01,143888.27,Retired,65
+EUR,NL12FAKE9428078432,NL,AT&T,Phone bill,2024-07-01,144003.78,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Alicia Molen-de Graaf,Grocery money,2024-07-01,144042.63,Retired,65
+EUR,NL12FAKE9428078432,Canada,Daniel van de Noordmark-van de Brink,Shared meal cost,2024-07-01,144051.0,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 47c023fa-75d2-4578-8cc6-7739c1ba4813,2024-07-01,147185.0,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Influencer collaboration fee,2024-07-01,147201.17,Retired,65
+EUR,NL12FAKE9428078432,NL,Morgan Stanley,Brokerage fee,2024-07-01,147209.77,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 36861134-246b-4ef5-aa4b-7dcd4be6a8ad,2024-07-01,150343.77,Retired,65
+EUR,NL12FAKE9428078432,NL,Honeywell,Business unit invoice,2024-07-01,150369.21,Retired,65
+EUR,NL12FAKE9428078432,NL,Phillips 66,Electricity payment,2024-07-01,150387.05,Retired,65
+EUR,NL12FAKE9428078432,Germany,Roche,Healthcare prescription,2024-07-01,150416.44,Retired,65
+EUR,NL12FAKE9428078432,NL,Bryan Krabbe-Westermann,Household expenses,2024-07-01,150433.42,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: de0f8ccb-30ca-47b4-9392-8821fb8fc0e3,2024-07-01,153567.42,Retired,65
+EUR,NL12FAKE9428078432,NL,Mehmet Heinrichs,Reimbursement for bills,2024-07-01,153610.44,Retired,65
+EUR,NL12FAKE9428078432,Canada,Ecrin Verhoeven,Vacation expenses,2024-07-01,153621.26,Retired,65
+EUR,NL12FAKE9428078432,Canada,Toyota,Car parts order,2024-07-01,153639.42,Retired,65
+EUR,NL12FAKE9428078432,Canada,Fenna Koning,Loan to friend,2024-07-01,153640.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 8d5cf981-4d7c-44a7-8c10-d771eef88ef0,2024-07-01,156774.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Alibaba,Marketplace seller fee,2024-07-01,156800.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,E-commerce order,2024-07-01,156829.72,Retired,65
+EUR,NL12FAKE9428078432,NL,Boeing,Aviation technology fee,2024-07-01,156838.99,Retired,65
+EUR,NL12FAKE9428078432,NL,Ford Motor,Car parts order,2024-07-01,156863.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Volkswagen,Auto repair bill,2024-07-01,156906.86,Retired,65
+EUR,NL12FAKE9428078432,NL,Boeing,Aerospace parts purchase,2024-07-01,157034.87,Retired,65
+EUR,NL12FAKE9428078432,NL,Alphabet Inc.,Software license fee payment,2024-07-01,157044.88,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Vehicle service charge,2024-07-01,157056.18,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6ba5ef07-3a35-48c2-bb46-c3506a8c132d,2024-07-01,160190.18,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Mitsubishi,Business unit invoice,2024-07-01,160202.42,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a3a100d5-9a69-43d6-a74c-30e5052e5eb1,2024-07-01,163336.42,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Allianz,Insurance premium,2024-07-01,163464.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Bristol-Myers Squibb,Medication purchase,2024-07-01,163509.45,Retired,65
+EUR,NL12FAKE9428078432,Germany,Procter & Gamble,Order payment,2024-07-01,163514.08,Retired,65
+EUR,NL12FAKE9428078432,Japan,Maria van den Bergh,Shared hotel room cost,2024-07-01,163533.99,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Chemical supply order,2024-07-01,163563.06,Retired,65
+EUR,NL12FAKE9428078432,NL,Volkswagen,Car parts order,2024-07-01,163567.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 9cf368c6-55a4-4fb6-9c7a-a194f794f802,2024-07-01,166701.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Bradley Keltenie,Party contribution,2024-07-01,166705.88,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,E-commerce order,2024-07-01,166719.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 1bb4c473-808d-42b3-b1f0-e03c6430eccb,2024-07-01,169853.78,Retired,65
+EUR,NL12FAKE9428078432,Germany,General Electric,Diversified company fee,2024-07-01,169956.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,Online shopping,2024-07-01,169977.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Aya Cornelisse,Pet expenses,2024-07-01,170047.41,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 093e2900-4fc6-41cc-b9cb-496958110630,2024-07-01,173181.41,Retired,65
+EUR,NL12FAKE9428078432,NL,Apple Inc.,Cloud storage subscription,2024-07-01,173196.73,Retired,65
+EUR,NL12FAKE9428078432,United States,Daimler,Auto repair bill,2024-07-01,173212.93,Retired,65
+EUR,NL12FAKE9428078432,Germany,AT&T,Phone bill,2024-07-01,173221.92,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 389df975-bacb-4a32-8ddb-4ae717f41fc2,2024-07-01,176355.92,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Facebook,Premium account upgrade,2024-07-01,176402.33,Retired,65
+EUR,NL12FAKE9428078432,NL,Airbus,Aerospace parts purchase,2024-07-01,176415.17,Retired,65
+EUR,NL12FAKE9428078432,NL,Fien Verbeeck,Emergency funds,2024-07-01,176500.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 8cdc0c0d-799e-4ce1-aa0d-116d6de548a7,2024-07-01,179634.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Jade Bos,Christmas gift,2024-07-01,179652.78,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 46da859a-371e-4142-a6e5-199905a28937,2024-07-01,182786.78,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Cisco Systems,Technology services invoice payment,2024-07-01,182883.11,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Procter & Gamble,Product purchase,2024-07-01,182909.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Meta Platforms,Technology services invoice payment,2024-07-01,182934.87,Retired,65
+EUR,NL12FAKE9428078432,NL,Laurens van Salmen,Reimbursement for travel,2024-07-01,182942.01,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: eace046e-0bbe-48cd-aeae-f4de75e31f54,2024-07-01,186076.01,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Volkswagen,Car parts order,2024-07-01,186095.26,Retired,65
+EUR,NL12FAKE9428078432,NL,Owen van Es,Shared utilities,2024-07-01,186099.49,Retired,65
+EUR,NL12FAKE9428078432,Canada,GlaxoSmithKline,Pharmacy bill,2024-07-01,186141.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Gilead Sciences,Biotech research fee,2024-07-01,186156.31,Retired,65
+EUR,NL12FAKE9428078432,NL,Renske de Jong,Grocery money,2024-07-01,186164.87,Retired,65
+EUR,NL12FAKE9428078432,NL,PepsiCo,Food delivery,2024-07-01,186206.09,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e7e7beb7-8074-4bf3-a591-1e5ad31139af,2024-07-01,189340.09,Retired,65
+EUR,NL12FAKE9428078432,NL,AstraZeneca,Medication purchase,2024-07-01,189359.7,Retired,65
+EUR,NL12FAKE9428078432,NL,Wesley Middelkoop,Graduation gift,2024-07-01,189379.89,Retired,65
+EUR,NL12FAKE9428078432,NL,IBM,Software license fee payment,2024-07-01,189385.17,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5ea412c0-7aee-41a3-a41e-398b81c47e1f,2024-07-01,192519.17,Retired,65
+EUR,NL12FAKE9428078432,NL,General Electric,Corporate services payment,2024-07-01,192562.34,Retired,65
+EUR,NL12FAKE9428078432,NL,BMW,Auto repair bill,2024-07-01,192580.59,Retired,65
+EUR,NL12FAKE9428078432,NL,Oracle,Technology services invoice payment,2024-07-01,192613.51,Retired,65
+EUR,NL12FAKE9428078432,Denmark,SoftBank,Business unit invoice,2024-07-01,192620.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Car purchase,2024-07-01,192635.22,Retired,65
+EUR,NL12FAKE9428078432,Spain,Geldmaat ATM,Geldmaat: 56c869db-9291-4107-b2bc-a8e049187d79,2024-07-01,192818.38,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5e3ac2b5-dab2-4cf5-be11-b44dae36487e,2024-07-01,195952.38,Retired,65
+EUR,NL12FAKE9428078432,NL,Cornelia Wouters van Eijndhoven,Shared subscription,2024-07-01,196001.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Victoria Meyer,Grocery money,2024-07-01,196011.95,Retired,65
+EUR,NL12FAKE9428078432,Germany,BASF,Cleaning products order,2024-07-01,196013.19,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2ebab64b-98ca-47b4-8801-28bb6d9da935,2024-07-01,199147.19,Retired,65
+EUR,NL12FAKE9428078432,NL,Huawei,Web hosting fee,2024-07-01,199157.54,Retired,65
+EUR,NL12FAKE9428078432,NL,BMW,Auto repair bill,2024-07-01,199163.21,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Roche,Drug order payment,2024-07-01,199186.37,Retired,65
+EUR,NL12FAKE9428078432,NL,Ford Motor,Car parts order,2024-07-01,199270.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 34ae4982-9a8c-4bd2-ac43-a80200d2b573,2024-07-01,202404.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Alibaba,Subscription service,2024-07-01,202434.5,Retired,65
+EUR,NL12FAKE9428078432,NL,Floris de Swart,Friend loan repayment,2024-07-01,202446.34,Retired,65
+EUR,NL12FAKE9428078432,NL,Goldman Sachs,Investment fund entry,2024-07-01,202504.31,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Car parts order,2024-07-01,202516.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Ad campaign funding,2024-08-01,202569.59,Retired,65
+EUR,NL12FAKE9428078432,NL,IBM,Software license fee payment,2024-08-01,202602.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Kick Wutke,Shared utilities,2024-08-01,202669.72,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 99975e1a-4d5a-4a5d-9234-8b083d3b42d6,2024-08-01,205803.72,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Mohammed van der Leek-Jerusalem,Loan to friend,2024-08-01,205807.46,Retired,65
+EUR,NL12FAKE9428078432,Germany,DuPont,Business unit invoice,2024-08-01,205820.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 403893d3-04cf-4642-b39f-36d263652d05,2024-08-01,208954.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Duke Energy,Renewable energy subscription,2024-08-01,208981.1,Retired,65
+EUR,NL12FAKE9428078432,Italy,General Electric,Diversified company fee,2024-08-01,209036.16,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Car purchase,2024-08-01,209050.36,Retired,65
+EUR,NL12FAKE9428078432,NL,Berkshire Hathaway,Business unit invoice,2024-08-01,209075.41,Retired,65
+EUR,NL12FAKE9428078432,NL,AstraZeneca,Drug order payment,2024-08-01,209081.81,Retired,65
+EUR,NL12FAKE9428078432,NL,Ford Motor,Vehicle service charge,2024-08-01,209105.56,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d874dcee-e858-4c1e-8ef0-4a68ce860eab,2024-08-01,212239.56,Retired,65
+EUR,NL12FAKE9428078432,NL,3M,Conglomerate product order,2024-08-01,212246.6,Retired,65
+EUR,NL12FAKE9428078432,NL,Elize Vos,Family loan repayment,2024-08-01,212283.37,Retired,65
+EUR,NL12FAKE9428078432,NL,Boeing,Aerospace parts purchase,2024-08-01,212286.94,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 74c94a2a-0232-4edf-b778-088ba4c9dd2e,2024-08-01,215420.94,Retired,65
+EUR,NL12FAKE9428078432,Canada,DuPont,Business unit invoice,2024-08-01,215522.22,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Cleaning products order,2024-08-01,215535.56,Retired,65
+EUR,NL12FAKE9428078432,United States,Allianz,Policy renewal fee,2024-08-01,215547.13,Retired,65
+EUR,NL12FAKE9428078432,Canada,Daniel Vial,Pet expenses,2024-08-01,215575.0,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Oracle,Technology services invoice payment,2024-08-01,215601.44,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6288eec3-aa73-455a-86b7-de898869987f,2024-08-01,218735.44,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,BASF,Cleaning products order,2024-08-01,218747.03,Retired,65
+EUR,NL12FAKE9428078432,NL,Joshua Totwiller,Household expenses,2024-08-01,218819.55,Retired,65
+EUR,NL12FAKE9428078432,Japan,Bristol-Myers Squibb,Healthcare prescription,2024-08-01,218825.56,Retired,65
+EUR,NL12FAKE9428078432,Germany,Daimler,Vehicle service charge,2024-08-01,218833.11,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2a01fa12-7a3d-4148-88b9-7ec15f0496a5,2024-08-01,221967.11,Retired,65
+EUR,NL12FAKE9428078432,NL,Ravi Willems-Wagenvoort,Debt settlement,2024-08-01,221973.18,Retired,65
+EUR,NL12FAKE9428078432,NL,Morgan Stanley,Investment fund entry,2024-08-01,222058.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Unilever,Order payment,2024-08-01,222070.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Roche,Drug order payment,2024-08-01,222083.21,Retired,65
+EUR,NL12FAKE9428078432,Canada,Geldmaat ATM,Geldmaat: 5014463e-8bf7-4016-b181-ab7e8e39a83f,2024-08-01,222120.81,Retired,65
+EUR,NL12FAKE9428078432,NL,Ella van den Berg,Party contribution,2024-08-01,222136.64,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6ddf7c51-d9de-4965-91bc-0af24cd5b087,2024-08-01,225270.64,Retired,65
+EUR,NL12FAKE9428078432,NL,ByteDance,Cloud storage subscription,2024-08-01,225339.67,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: b1a423d1-f825-4d65-9cf6-362ea52b0d7e,2024-08-01,228473.67,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Bayer,Medication purchase,2024-08-01,228519.79,Retired,65
+EUR,NL12FAKE9428078432,NL,DuPont,Business unit invoice,2024-08-01,228529.82,Retired,65
+EUR,NL12FAKE9428078432,France,DuPont,Business unit invoice,2024-08-01,228531.25,Retired,65
+EUR,NL12FAKE9428078432,NL,Novartis,Pharmacy bill,2024-08-01,228558.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Lois van Buuren,Medical bills,2024-08-01,228596.15,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Geldmaat ATM,Geldmaat: 10e0a22c-6a8f-4871-a033-888ac66a6f72,2024-08-01,228825.41,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2d861630-bb81-4e50-8eb8-510d258f79a3,2024-08-01,231959.41,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Boeing,Aircraft maintenance,2024-08-01,231974.98,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6bddfc64-a8dc-4725-a526-475ddd5ee522,2024-08-01,235108.98,Retired,65
+EUR,NL12FAKE9428078432,NL,Nike,Apparel shopping,2024-08-01,235152.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Microsoft,Software license fee payment,2024-08-01,235172.08,Retired,65
+EUR,NL12FAKE9428078432,NL,LVMH,Designer goods order,2024-08-01,235174.26,Retired,65
+EUR,NL12FAKE9428078432,United States,Pfizer,Medication purchase,2024-08-01,235187.74,Retired,65
+EUR,NL12FAKE9428078432,NL,BASF,Industrial chemicals purchase,2024-08-01,235198.78,Retired,65
+EUR,NL12FAKE9428078432,NL,General Electric,Diversified company fee,2024-08-01,235220.24,Retired,65
+EUR,NL12FAKE9428078432,Canada,Thijn van der Plas-van Geest,Birthday gift,2024-08-01,235266.19,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 0a0ba905-8ca6-4cd4-9687-e8a6ea375041,2024-08-01,238400.19,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Auto repair bill,2024-08-01,238405.72,Retired,65
+EUR,NL12FAKE9428078432,Canada,Allianz,Coverage update charge,2024-08-01,238416.29,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 74f9aa48-56ac-44f0-b34a-836c22667cd6,2024-08-01,241550.29,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: aa3d8f89-e99d-4fdd-870d-f2ea06568c40,2024-08-01,241686.12,Retired,65
+EUR,NL12FAKE9428078432,Spain,Maud Cadefau-van Breukeleveen,Split vacation cost,2024-08-01,241694.25,Retired,65
+EUR,NL12FAKE9428078432,NL,Niels de Vries,Baby shower gift,2024-08-01,241731.07,Retired,65
+EUR,NL12FAKE9428078432,NL,Verizon,Telecom invoice,2024-08-01,241738.37,Retired,65
+EUR,NL12FAKE9428078432,NL,Unilever,Retail goods payment,2024-08-01,241799.36,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: b04862de-3d82-425f-b53b-9974500d03b9,2024-08-01,244933.36,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a3738644-466e-4217-9b1d-0d0fe5b1d2e4,2024-08-01,245103.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5cba4705-c1e2-4634-9255-1fbb319334b6,2024-08-01,248237.96,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,GlaxoSmithKline,Drug order payment,2024-08-01,248243.28,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 26c14d81-23a9-43b4-b01f-e9ae7bbc7629,2024-08-01,251377.28,Retired,65
+EUR,NL12FAKE9428078432,Spain,Tata Consultancy Services,System upgrade fee,2024-08-01,251401.6,Retired,65
+EUR,NL12FAKE9428078432,Japan,Mitsubishi,Corporate services payment,2024-08-01,251486.16,Retired,65
+EUR,NL12FAKE9428078432,Japan,Stef Smeets,School fees,2024-08-01,251503.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Gilead Sciences,Laboratory service charge,2024-08-01,251515.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: aab3569d-9927-4562-af4e-76fde5e9625e,2024-08-01,254649.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Alphabet Inc.,Software license fee payment,2024-08-01,254727.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Nike,Apparel shopping,2024-08-01,254738.17,Retired,65
+EUR,NL12FAKE9428078432,France,Meta Platforms,Software license fee payment,2024-08-01,254747.89,Retired,65
+EUR,NL12FAKE9428078432,United States,Dina Kuit-Spruit,Housewarming gift,2024-08-01,254817.22,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Nike,Fashion brand order,2024-08-01,254826.25,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: c4c804e5-1964-4fad-b7a5-d9530f13ded1,2024-08-01,257960.25,Retired,65
+EUR,NL12FAKE9428078432,NL,Ford Motor,Car parts order,2024-08-01,257978.2,Retired,65
+EUR,NL12FAKE9428078432,NL,Mohammed Tirie-Bökenkamp,Split restaurant bill,2024-08-01,258028.12,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Pharmacy bill,2024-08-01,258043.09,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d281b445-6731-455a-9b72-8fcb0ef42655,2024-08-01,261177.09,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Johnson & Johnson,Drug order payment,2024-08-01,261192.95,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Ad campaign funding,2024-08-01,261211.9,Retired,65
+EUR,NL12FAKE9428078432,NL,Bilal de Boer,Family loan repayment,2024-08-01,261219.15,Retired,65
+EUR,NL12FAKE9428078432,NL,Bryan Weylant,Reimbursement for bills,2024-08-01,261264.37,Retired,65
+EUR,NL12FAKE9428078432,Canada,Goldman Sachs,Stock purchase,2024-08-01,261276.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2c95c47c-cde4-444e-8f1b-a20a54448e24,2024-08-01,264410.62,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Nike,Clothing purchase,2024-08-01,264470.71,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Phillips 66,Renewable energy subscription,2024-08-01,264496.1,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Ad campaign funding,2024-08-01,264510.31,Retired,65
+EUR,NL12FAKE9428078432,NL,Merck & Co.,Healthcare prescription,2024-08-01,264529.2,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 95faaa1f-bf31-473d-b54c-450d9594f793,2024-08-01,267663.2,Retired,65
+EUR,NL12FAKE9428078432,NL,Jolie van Asten,Reimbursement for groceries,2024-08-01,267667.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 2abaa675-af0a-4c09-bb9f-3ae5c43627ca,2024-08-01,270801.57,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Verizon,Data plan payment,2024-08-01,270968.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Cisco Systems,Web hosting fee,2024-08-01,271026.22,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5563997d-40d3-4777-9037-bdd7acbfd54e,2024-08-01,274160.22,Retired,65
+EUR,NL12FAKE9428078432,NL,DuPont,Conglomerate product order,2024-08-01,274186.76,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Sophia de Koning,Debt settlement,2024-08-01,274193.33,Retired,65
+EUR,NL12FAKE9428078432,Germany,Nike,Apparel shopping,2024-08-01,274194.94,Retired,65
+EUR,NL12FAKE9428078432,France,Toyota,Auto repair bill,2024-08-01,274208.19,Retired,65
+EUR,NL12FAKE9428078432,Japan,Jelle Brouwer-Kuilenburg,Baby shower gift,2024-08-01,274244.72,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Premium account upgrade,2024-08-01,274278.25,Retired,65
+EUR,NL12FAKE9428078432,United States,Roche,Drug order payment,2024-08-01,274302.0,Retired,65
+EUR,NL12FAKE9428078432,Denmark,DuPont,Corporate services payment,2024-08-01,274314.46,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: dd140979-8526-49c5-8200-5953589b2ee4,2024-08-01,277448.46,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Boeing,Aircraft maintenance,2024-08-01,277452.18,Retired,65
+EUR,NL12FAKE9428078432,NL,SoftBank,Corporate services payment,2024-08-01,277496.49,Retired,65
+EUR,NL12FAKE9428078432,NL,Alphabet Inc.,Technology services invoice payment,2024-08-01,277636.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6e04bbe0-b2dc-40bc-aa93-139fbf908fe4,2024-08-01,280770.89,Retired,65
+EUR,NL12FAKE9428078432,Japan,Fenna Heymans,Support money,2024-08-01,280798.15,Retired,65
+EUR,NL12FAKE9428078432,Germany,Renault,Car parts order,2024-08-01,280906.07,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 05620e1c-2e35-4607-993f-0dff9fb27898,2024-08-01,284040.07,Retired,65
+EUR,NL12FAKE9428078432,NL,Bristol-Myers Squibb,Medication purchase,2024-08-01,284147.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 9271b1c6-2f50-4e02-a392-3efd374b93c0,2024-08-01,287281.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 7d1e3014-093d-468e-b345-7f0e12486e49,2024-08-01,290415.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Medication purchase,2024-08-01,290551.7,Retired,65
+EUR,NL12FAKE9428078432,NL,Mitsubishi,Diversified company fee,2024-08-01,290567.53,Retired,65
+EUR,NL12FAKE9428078432,Canada,Riley van den Velden,Reimbursement for dinner,2024-08-01,290571.4,Retired,65
+EUR,NL12FAKE9428078432,NL,BMW,Car parts order,2024-08-01,290623.63,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 88cfb394-b4a3-49ce-b359-201847cb4a5b,2024-08-01,293757.63,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Toyota,Auto repair bill,2024-08-01,293791.29,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Gilead Sciences,Laboratory service charge,2024-08-01,293804.58,Retired,65
+EUR,NL12FAKE9428078432,NL,Oracle,Web hosting fee,2024-08-01,293847.74,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: f1c507db-4731-4de9-a58b-eff7edc21067,2024-08-01,296981.74,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,ByteDance,Software license fee payment,2024-08-01,296992.33,Retired,65
+EUR,NL12FAKE9428078432,NL,AT&T,Cable service subscription,2024-08-01,297028.23,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Airbus,Space exploration fee,2024-08-01,297122.66,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e4f35237-f5e4-4555-ada1-1a1d719707d8,2024-08-01,300256.66,Retired,65
+EUR,NL12FAKE9428078432,NL,Honeywell,Diversified company fee,2024-08-01,300267.8,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: ce410e94-fb25-4f79-a13d-2fc8b3ccf0fb,2024-08-01,303401.8,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Verizon,Cable service subscription,2024-08-01,303427.01,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Pharmacy bill,2024-08-01,303435.3,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,Subscription service,2024-08-01,303445.23,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Airbus,Aviation technology fee,2024-08-01,303476.66,Retired,65
+EUR,NL12FAKE9428078432,Italy,Dell Technologies,Technology services invoice payment,2024-08-01,303485.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 591a7729-e621-4132-8ffc-913303cafa1c,2024-09-01,306619.61,Retired,65
+EUR,NL12FAKE9428078432,Germany,Emma Ulrich-Slaetsdochter,Reimbursement for shopping,2024-09-01,306722.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Honeywell,Corporate services payment,2024-09-01,306739.08,Retired,65
+EUR,NL12FAKE9428078432,United States,Duke Energy,Energy supply charge,2024-09-01,306853.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d590742d-c055-42c3-aaf4-1990a1fae526,2024-09-01,309987.83,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Unilever,Retail goods payment,2024-09-01,310004.75,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 9933c1eb-ae28-4da0-acb5-c711cd64609b,2024-09-01,313138.75,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Vehicle service charge,2024-09-01,313513.88,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Boeing,Aviation technology fee,2024-09-01,313528.69,Retired,65
+EUR,NL12FAKE9428078432,Canada,Allianz,Policy renewal fee,2024-09-01,313561.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: f114bc47-c50d-4293-9642-2147262e697e,2024-09-01,316695.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Hugo van Ginkel,Dinner reimbursement,2024-09-01,316776.94,Retired,65
+EUR,NL12FAKE9428078432,United States,Apple Inc.,Web hosting fee,2024-09-01,316876.33,Retired,65
+EUR,NL12FAKE9428078432,Spain,Lara Hulskes-van der Avoirt,Mortgage help,2024-09-01,316887.86,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 21892d14-c8da-4019-96ff-7a823cd808e8,2024-09-01,320021.86,Retired,65
+EUR,NL12FAKE9428078432,NL,Wout van der Plas,Housewarming gift,2024-09-01,320032.45,Retired,65
+EUR,NL12FAKE9428078432,NL,Duke Energy,Electricity payment,2024-09-01,320065.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 8cbf872c-7d70-4e5c-bf0c-12379067ed0a,2024-09-01,323199.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Microsoft,Web hosting fee,2024-09-01,323247.02,Retired,65
+EUR,NL12FAKE9428078432,NL,Nick van der Sande,Mortgage help,2024-09-01,323260.5,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Toyota,Auto repair bill,2024-09-01,323313.0,Retired,65
+EUR,NL12FAKE9428078432,NL,Leon van Amstel-van den Nyeuwenhuysen,Gift,2024-09-01,323329.83,Retired,65
+EUR,NL12FAKE9428078432,NL,Wouter Kleybrink,Christmas gift,2024-09-01,323349.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 0a63ee3a-ebe7-4918-91d9-7cdbd6eece88,2024-09-01,326483.23,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: f55532b4-1583-43f7-bd69-f5741bcf13a9,2024-09-01,329617.23,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Bayer,Pharmacy bill,2024-09-01,329624.11,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Ad campaign funding,2024-09-01,329649.9,Retired,65
+EUR,NL12FAKE9428078432,NL,Pfizer,Medication purchase,2024-09-01,329661.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Ad campaign funding,2024-09-01,329666.96,Retired,65
+EUR,NL12FAKE9428078432,Germany,Novartis,Drug order payment,2024-09-01,329710.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: c56c8b5e-6808-4fba-bf50-6370746edccd,2024-09-01,332844.82,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Volkswagen,Car purchase,2024-09-01,333137.69,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Geldmaat ATM,Geldmaat: e973bb0e-3af7-4c25-83b1-3ac12d6d9e7a,2024-09-01,333205.6,Retired,65
+EUR,NL12FAKE9428078432,Italy,Lotte Courtier-van Heusden,Loan to family,2024-09-01,333213.35,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 97146a70-255b-4886-9d3f-3f3a0332952f,2024-09-01,336347.35,Retired,65
+EUR,NL12FAKE9428078432,NL,PepsiCo,Catering service fee,2024-09-01,336362.17,Retired,65
+EUR,NL12FAKE9428078432,NL,Volkswagen,Vehicle service charge,2024-09-01,336373.38,Retired,65
+EUR,NL12FAKE9428078432,NL,Procter & Gamble,Order payment,2024-09-01,336385.82,Retired,65
+EUR,NL12FAKE9428078432,Germany,3M,Conglomerate product order,2024-09-01,336395.32,Retired,65
+EUR,NL12FAKE9428078432,NL,Morgan Stanley,Capital markets service,2024-09-01,336448.14,Retired,65
+EUR,NL12FAKE9428078432,NL,Procter & Gamble,Product purchase,2024-09-01,336456.0,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 0b2557a3-c822-41d2-88c6-47145c8fa319,2024-09-01,339590.0,Retired,65
+EUR,NL12FAKE9428078432,NL,Cisco Systems,Software license fee payment,2024-09-01,339596.36,Retired,65
+EUR,NL12FAKE9428078432,NL,Giovanni de Jonge-Mangel,Reimbursement for bills,2024-09-01,339607.26,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 1d660ac0-b0da-47a7-b0a4-d5ace9259635,2024-09-01,342741.26,Retired,65
+EUR,NL12FAKE9428078432,NL,Allianz,Claim settlement,2024-09-01,342806.94,Retired,65
+EUR,NL12FAKE9428078432,NL,Novartis,Medication purchase,2024-09-01,342829.2,Retired,65
+EUR,NL12FAKE9428078432,NL,Pfizer,Medication purchase,2024-09-01,342833.91,Retired,65
+EUR,NL12FAKE9428078432,NL,Hannah van Geffen,Reimbursement for groceries,2024-09-01,342861.71,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Riley van Jumiège,Dinner reimbursement,2024-09-01,342873.46,Retired,65
+EUR,NL12FAKE9428078432,Canada,Aaliyah van de Biesenbos,Shared meal cost,2024-09-01,342896.16,Retired,65
+EUR,NL12FAKE9428078432,NL,Renault,Car parts order,2024-09-01,342916.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: b56b6190-f742-4bce-ae9d-20d38fbe46a7,2024-09-01,346050.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Bayer,Healthcare prescription,2024-09-01,346088.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Tijs Vermeulen,Dinner reimbursement,2024-09-01,346134.9,Retired,65
+EUR,NL12FAKE9428078432,NL,Mees Weeldenburg-Giselmeyer,Loan to friend,2024-09-01,346149.72,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 4050da14-e45b-4a52-9041-7e1e0ea772d5,2024-09-01,349283.72,Retired,65
+EUR,NL12FAKE9428078432,United States,AstraZeneca,Drug order payment,2024-09-01,349289.85,Retired,65
+EUR,NL12FAKE9428078432,Spain,Airbus,Space exploration fee,2024-09-01,349315.89,Retired,65
+EUR,NL12FAKE9428078432,Spain,Julia Sestig,Support for a family member,2024-09-01,349320.2,Retired,65
+EUR,NL12FAKE9428078432,NL,GlaxoSmithKline,Drug order payment,2024-09-01,349329.66,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: f6c6def5-e571-49ce-a686-8165186af1b7,2024-09-01,352463.66,Retired,65
+EUR,NL12FAKE9428078432,NL,Nike,Apparel shopping,2024-09-01,352530.82,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Car purchase,2024-09-01,352544.59,Retired,65
+EUR,NL12FAKE9428078432,Japan,ByteDance,Technology services invoice payment,2024-09-01,352553.9,Retired,65
+EUR,NL12FAKE9428078432,NL,Lara Goyaerts van Waderle-Kriens,Pet expenses,2024-09-01,352563.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Fem Brandt,Loan to friend,2024-09-01,352594.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 24e624be-2bba-4b61-b0f5-a8b378672bee,2024-09-01,355728.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Boeing,Aerospace parts purchase,2024-09-01,355745.71,Retired,65
+EUR,NL12FAKE9428078432,NL,Apple Inc.,Web hosting fee,2024-09-01,355747.44,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 599a114a-e7a2-4e32-b482-d87d9d839614,2024-09-01,355766.58,Retired,65
+EUR,NL12FAKE9428078432,NL,Pfizer,Healthcare prescription,2024-09-01,355791.53,Retired,65
+EUR,NL12FAKE9428078432,NL,Lukas Dorsman,Friend loan repayment,2024-09-01,355846.74,Retired,65
+EUR,NL12FAKE9428078432,Spain,Goldman Sachs,Capital markets service,2024-09-01,355848.05,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: bc8b2910-89e3-483d-9544-f0a7b2447698,2024-09-01,358982.05,Retired,65
+EUR,NL12FAKE9428078432,NL,Novartis,Healthcare prescription,2024-09-01,358986.03,Retired,65
+EUR,NL12FAKE9428078432,NL,Novartis,Medication purchase,2024-09-01,359005.99,Retired,65
+EUR,NL12FAKE9428078432,NL,Micha Meijer-Loep,Rent assistance,2024-09-01,359021.03,Retired,65
+EUR,NL12FAKE9428078432,United States,Accenture,Professional service invoice,2024-09-01,359062.18,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d83abcb1-b329-44b3-8111-de082da82cd2,2024-09-01,362196.18,Retired,65
+EUR,NL12FAKE9428078432,NL,Phillips 66,Electricity payment,2024-09-01,362207.97,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Medication purchase,2024-09-01,362240.76,Retired,65
+EUR,NL12FAKE9428078432,NL,Amazon,Subscription service,2024-09-01,362266.39,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: b5e913a4-f579-4bc5-b3df-71ce39e6f564,2024-09-01,365400.39,Retired,65
+EUR,NL12FAKE9428078432,United States,Daimler,Vehicle service charge,2024-09-01,365433.9,Retired,65
+EUR,NL12FAKE9428078432,Japan,Fabiënne Pons-Korsman,Christmas gift,2024-09-01,365434.48,Retired,65
+EUR,NL12FAKE9428078432,Germany,Jari van der Sloot,Personal loan,2024-09-01,365446.21,Retired,65
+EUR,NL12FAKE9428078432,Germany,Airbus,Aircraft maintenance,2024-09-01,365455.2,Retired,65
+EUR,NL12FAKE9428078432,Hungary,DuPont,Conglomerate product order,2024-09-01,365467.28,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Renault,Car purchase,2024-09-01,365479.49,Retired,65
+EUR,NL12FAKE9428078432,United States,Merel Cammel,Family loan repayment,2024-09-01,365493.58,Retired,65
+EUR,NL12FAKE9428078432,Japan,Alex Wouters van Eijndhoven-van der Velde,Vacation expenses,2024-09-01,365496.14,Retired,65
+EUR,NL12FAKE9428078432,Japan,Unilever,Retail goods payment,2024-09-01,365501.29,Retired,65
+EUR,NL12FAKE9428078432,NL,Verizon,Cable service subscription,2024-09-01,365520.12,Retired,65
+EUR,NL12FAKE9428078432,NL,Phillips 66,Electricity payment,2024-09-01,365533.56,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: cef021de-b1a7-4885-806a-f12031a871de,2024-09-01,368667.56,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Geldmaat ATM,Geldmaat: b36ea93c-f587-41e0-b9d6-404cc3d4a2d4,2024-09-01,368725.89,Retired,65
+EUR,NL12FAKE9428078432,NL,Ford Motor,Auto repair bill,2024-09-01,368735.26,Retired,65
+EUR,NL12FAKE9428078432,Austria,Tata Consultancy Services,IT support fee,2024-09-01,368785.96,Retired,65
+EUR,NL12FAKE9428078432,NL,Isa Momberg-van der Laan,Travel expenses,2024-09-01,368795.57,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 78789a81-869d-46d8-b146-d85356b3d317,2024-09-01,371929.57,Retired,65
+EUR,NL12FAKE9428078432,France,Seth de Jong,Reimbursement for dinner,2024-09-01,371950.04,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Ford Motor,Vehicle service charge,2024-09-01,371979.47,Retired,65
+EUR,NL12FAKE9428078432,Belgium,AT&T,Phone bill,2024-09-01,372001.53,Retired,65
+EUR,NL12FAKE9428078432,NL,Alphabet Inc.,Technology services invoice payment,2024-09-01,372011.1,Retired,65
+EUR,NL12FAKE9428078432,NL,Daimler,Car purchase,2024-09-01,372033.84,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 424a4e1f-eeb6-43fc-a25a-f18a50743fa9,2024-09-01,375167.84,Retired,65
+EUR,NL12FAKE9428078432,NL,Bristol-Myers Squibb,Medication purchase,2024-09-01,375170.74,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 4b43e462-43a0-4e21-baa6-9da1f2b69e79,2024-09-01,378304.74,Retired,65
+EUR,NL12FAKE9428078432,NL,SoftBank,Corporate services payment,2024-09-01,378375.16,Retired,65
+EUR,NL12FAKE9428078432,Canada,Sanofi,Medication purchase,2024-09-01,378397.05,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Nike,Apparel shopping,2024-09-01,378504.64,Retired,65
+EUR,NL12FAKE9428078432,NL,ByteDance,Software license fee payment,2024-09-01,378512.06,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 8710f664-8b15-4ae7-8f49-68f247b94889,2024-09-01,381646.06,Retired,65
+EUR,NL12FAKE9428078432,Denmark,Janna Schelvis,Medical bills,2024-09-01,381737.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6208da45-0b46-402c-b2fb-2c5732e56d74,2024-09-01,384871.54,Retired,65
+EUR,NL12FAKE9428078432,NL,Nynke Scuylenborchs,Travel expenses,2024-09-01,384876.26,Retired,65
+EUR,NL12FAKE9428078432,NL,Alexander Willems van Lier,Dinner reimbursement,2024-09-01,384908.66,Retired,65
+EUR,NL12FAKE9428078432,NL,Sara Le Grand,Party contribution,2024-09-01,384951.55,Retired,65
+EUR,NL12FAKE9428078432,NL,Boeing,Aircraft maintenance,2024-09-01,384956.07,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: bb70a081-23d0-43ee-b4d6-5eff86d05c65,2024-09-01,388090.07,Retired,65
+EUR,NL12FAKE9428078432,Spain,Fatima van der Loo,Shared utilities,2024-09-01,388107.46,Retired,65
+EUR,NL12FAKE9428078432,United States,Procter & Gamble,Product purchase,2024-09-01,388115.74,Retired,65
+EUR,NL12FAKE9428078432,NL,ByteDance,Software license fee payment,2024-09-01,388140.71,Retired,65
+EUR,NL12FAKE9428078432,NL,Pfizer,Drug order payment,2024-09-01,388178.14,Retired,65
+EUR,NL12FAKE9428078432,Denmark,IBM,Cloud storage subscription,2024-09-01,388210.2,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a2d11ad4-722b-447b-bbd6-3efcf8f7effe,2024-09-01,391344.2,Retired,65
+EUR,NL12FAKE9428078432,NL,Microsoft,Technology services invoice payment,2024-09-01,391383.36,Retired,65
+EUR,NL12FAKE9428078432,NL,Twan van den Henst-van Cuijck,Party contribution,2024-09-01,391404.61,Retired,65
+EUR,NL12FAKE9428078432,Belgium,Honeywell,Business unit invoice,2024-09-01,391424.39,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 3f387436-aa67-4c9e-99af-af592c38912b,2024-09-01,394558.39,Retired,65
+EUR,NL12FAKE9428078432,NL,PepsiCo,Catering service fee,2024-09-01,394564.09,Retired,65
+EUR,NL12FAKE9428078432,NL,Ilse de Pauw,Reimbursement for shopping,2024-09-01,394587.69,Retired,65
+EUR,NL12FAKE9428078432,NL,Procter & Gamble,Product purchase,2024-09-01,394601.59,Retired,65
+EUR,NL12FAKE9428078432,Austria,IBM,Technology services invoice payment,2024-09-01,394609.1,Retired,65
+EUR,NL12FAKE9428078432,Canada,Facebook,Premium account upgrade,2024-09-01,394622.29,Retired,65
+EUR,NL12FAKE9428078432,Denmark,DuPont,Corporate services payment,2024-09-01,394649.25,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: ac9d27e5-2102-471c-9be2-004f1933549d,2024-09-01,397783.25,Retired,65
+EUR,NL12FAKE9428078432,NL,General Electric,Diversified company fee,2024-09-01,397820.66,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Wout Mansvelt,Personal loan,2024-09-01,397859.05,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Alibaba,Online shopping,2024-09-01,397882.09,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 53b49387-7f29-474c-93bb-d9b361dab056,2024-09-01,401016.09,Retired,65
+EUR,NL12FAKE9428078432,NL,Boeing,Aerospace parts purchase,2024-09-01,401031.07,Retired,65
+EUR,NL12FAKE9428078432,Spain,3M,Business unit invoice,2024-09-01,401038.94,Retired,65
+EUR,NL12FAKE9428078432,NL,Microsoft,Web hosting fee,2024-10-01,401051.99,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,LVMH,Designer goods order,2024-10-01,401062.58,Retired,65
+EUR,NL12FAKE9428078432,NL,Airbus,Aviation technology fee,2024-10-01,401086.61,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 32eca78f-6161-4fcb-acd9-7336e8939d7d,2024-10-01,404220.61,Retired,65
+EUR,NL12FAKE9428078432,France,Loïs Heyne-van Duivenvoorde,Rent deposit,2024-10-01,404243.22,Retired,65
+EUR,NL12FAKE9428078432,NL,IBM,Web hosting fee,2024-10-01,404275.46,Retired,65
+EUR,NL12FAKE9428078432,NL,Catharina Wijland,School fees,2024-10-01,404363.58,Retired,65
+EUR,NL12FAKE9428078432,Hungary,Alphabet Inc.,Software license fee payment,2024-10-01,404375.25,Retired,65
+EUR,NL12FAKE9428078432,NL,Ford Motor,Vehicle service charge,2024-10-01,404381.56,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a3b8896b-02c3-4e66-a5be-b85b424561c6,2024-10-01,407515.56,Retired,65
+EUR,NL12FAKE9428078432,NL,ByteDance,Software license fee payment,2024-10-01,407523.7,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: a7d3afa7-3dde-461e-9a07-b22642c0ba7f,2024-10-01,410657.7,Retired,65
+EUR,NL12FAKE9428078432,NL,Berkshire Hathaway,Diversified company fee,2024-10-01,410728.3,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Bristol-Myers Squibb,Medication purchase,2024-10-01,410744.02,Retired,65
+EUR,NL12FAKE9428078432,NL,Merijn Strijker,Reimbursement for groceries,2024-10-01,410781.32,Retired,65
+EUR,NL12FAKE9428078432,NL,LVMH,Exclusive brand fee,2024-10-01,410842.75,Retired,65
+EUR,NL12FAKE9428078432,Italy,Elize van de Ven,Personal loan,2024-10-01,410849.08,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e595b499-1d72-4e1a-a70e-aa00bab11d12,2024-10-01,413983.08,Retired,65
+EUR,NL12FAKE9428078432,Canada,Aylin Ariens,Anniversary gift,2024-10-01,413989.58,Retired,65
+EUR,NL12FAKE9428078432,France,Alex Claassen,Support for a friend,2024-10-01,413999.4,Retired,65
+EUR,NL12FAKE9428078432,NL,Volkswagen,Car purchase,2024-10-01,414064.22,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 6d26857e-e4db-4217-ae80-a8509c44e749,2024-10-01,417198.22,Retired,65
+EUR,NL12FAKE9428078432,NL,Accenture,Advisory session charge,2024-10-01,417215.08,Retired,65
+EUR,NL12FAKE9428078432,NL,Johnson & Johnson,Medication purchase,2024-10-01,417218.52,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 5fb5dc2c-a51c-4d27-b230-b0400a3e1f7e,2024-10-01,417333.84,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 81f57453-e1ea-410d-8ee3-080ef83abb31,2024-10-01,420467.84,Retired,65
+EUR,NL12FAKE9428078432,NL,Nienke den Teuling,New baby gift,2024-10-01,420557.87,Retired,65
+EUR,NL12FAKE9428078432,NL,Bristol-Myers Squibb,Medication purchase,2024-10-01,420593.73,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: fafd3775-ad29-47ee-833a-06ad42d289a5,2024-10-01,423727.73,Retired,65
+EUR,NL12FAKE9428078432,NL,Toyota,Vehicle service charge,2024-10-01,423733.23,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Berkshire Hathaway,Corporate services payment,2024-10-01,423746.98,Retired,65
+EUR,NL12FAKE9428078432,Italy,Sanofi,Healthcare prescription,2024-10-01,423810.58,Retired,65
+EUR,NL12FAKE9428078432,NL,Luke den Haag,Mortgage help,2024-10-01,423832.12,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: e31d3b2f-9c9d-466c-b54e-146c83995f75,2024-10-01,426966.12,Retired,65
+EUR,NL12FAKE9428078432,NL,Johnson & Johnson,Drug order payment,2024-10-01,426979.51,Retired,65
+EUR,NL12FAKE9428078432,Germany,Johnson & Johnson,Healthcare prescription,2024-10-01,427004.74,Retired,65
+EUR,NL12FAKE9428078432,France,Anne Fechant,Household expenses,2024-10-01,427013.06,Retired,65
+EUR,NL12FAKE9428078432,Canada,Bristol-Myers Squibb,Pharmacy bill,2024-10-01,427013.77,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Jim Doyle,Birthday gift,2024-10-01,427031.92,Retired,65
+EUR,NL12FAKE9428078432,United States,Hanna van de Water,Birthday party expenses,2024-10-01,427061.64,Retired,65
+EUR,NL12FAKE9428078432,Germany,Lukas van Duyvenvoorde-Kirpenstein,Grocery money,2024-10-01,427081.29,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: fb63668e-8ab0-4498-a1f3-4e042991df33,2024-10-01,430215.29,Retired,65
+EUR,NL12FAKE9428078432,Germany,Jenna Mangel-Jonkman,Loan to friend,2024-10-01,430367.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 244f1bbd-d845-4cab-918f-f9f8d2ed811d,2024-10-01,433501.62,Retired,65
+EUR,NL12FAKE9428078432,NL,Marijn Höning-van Dalem,Funeral expenses,2024-10-01,433512.0,Retired,65
+EUR,NL12FAKE9428078432,NL,Gilead Sciences,Laboratory service charge,2024-10-01,433553.56,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: 44048bbb-337f-45a8-b0b1-043848352b25,2024-10-01,436687.56,Retired,65
+EUR,NL12FAKE9428078432,NL,Alibaba,E-commerce order,2024-10-01,436728.04,Retired,65
+EUR,NL12FAKE9428078432,Great Britain,Daan Verhoeven,Support for a family member,2024-10-01,436732.43,Retired,65
+EUR,NL12FAKE9428078432,Canada,Evelien Timmermans-Mathurin,Reimbursement for travel,2024-10-01,436743.13,Retired,65
+EUR,NL12FAKE9428078432,NL,Sanofi,Medication purchase,2024-10-01,436756.11,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: f25f5787-2b49-44a3-b089-7925ecc60914,2024-10-01,439890.11,Retired,65
+EUR,NL12FAKE9428078432,NL,Morgan Stanley,Investment fund entry,2024-10-01,439959.42,Retired,65
+EUR,NL12FAKE9428078432,France,Demi Frankhuizen-Jans,Loan repayment,2024-10-01,439965.3,Retired,65
+EUR,NL12FAKE9428078432,NL,Roche,Drug order payment,2024-10-01,439971.85,Retired,65
+EUR,NL12FAKE9428078432,NL,Facebook,Influencer collaboration fee,2024-10-01,440018.01,Retired,65
+EUR,NL12FAKE9428078432,NL,Justin van der Velden-Roessink,Personal loan,2024-10-01,440071.91,Retired,65
+EUR,NL12FAKE9428078432,NL,Geldmaat ATM,Geldmaat: d6783803-b2ab-492d-963d-40e6cce64ed5,2024-10-01,443205.91,Retired,65

@@ -1,0 +1,533 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL98BOER1741107420,NL,Dell Technologies,Software license fee payment,2024-06-01,4202.45,Retired,65
+EUR,NL98BOER1741107420,NL,Tata Consultancy Services,Technical service charge,2024-06-01,4289.0,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: f6983ea0-c79e-4b35-b77c-9f1945f3289e,2024-06-01,8061.0,Retired,65
+EUR,NL98BOER1741107420,NL,Merck & Co.,Medication purchase,2024-06-01,8097.63,Retired,65
+EUR,NL98BOER1741107420,NL,PepsiCo,Beverage order,2024-06-01,8109.91,Retired,65
+EUR,NL98BOER1741107420,United States,Pippa Vial,Christmas gift,2024-06-01,8118.74,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 52c94bb3-97c4-4f5b-93dc-4ddd73e0ff41,2024-06-01,11890.74,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Goldman Sachs,Investment fund entry,2024-06-01,11960.06,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 6801fb07-d6fe-428a-9e05-71b9d66e17e8,2024-06-01,15732.06,Retired,65
+EUR,NL98BOER1741107420,NL,Pfizer,Pharmacy bill,2024-06-01,15786.63,Retired,65
+EUR,NL98BOER1741107420,NL,Boeing,Aircraft maintenance,2024-06-01,15837.39,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d7542061-4f5f-4fcb-996a-53ba92b09b50,2024-06-01,19609.39,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Pfizer,Drug order payment,2024-06-01,19689.49,Retired,65
+EUR,NL98BOER1741107420,NL,Tata Consultancy Services,Software development bill,2024-06-01,19695.47,Retired,65
+EUR,NL98BOER1741107420,Italy,Honeywell,Corporate services payment,2024-06-01,19699.9,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 1f9bf8ec-1833-4e16-b59e-aba6882671e2,2024-06-01,23471.9,Retired,65
+EUR,NL98BOER1741107420,NL,Morris Middelkoop-Schatteleijn,Mortgage help,2024-06-01,23577.21,Retired,65
+EUR,NL98BOER1741107420,NL,Ceylin van Ghoerle,Shared ride expenses,2024-06-01,23582.04,Retired,65
+EUR,NL98BOER1741107420,Denmark,Allianz,Insurance premium,2024-06-01,23607.67,Retired,65
+EUR,NL98BOER1741107420,NL,Daniel Verhagen-Luboch,Debt settlement,2024-06-01,23722.75,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Honeywell,Conglomerate product order,2024-06-01,23723.28,Retired,65
+EUR,NL98BOER1741107420,NL,BASF,Cleaning products order,2024-06-01,23732.51,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 30314b99-9a83-45c3-96d3-ab61ed05e0c3,2024-06-01,27504.51,Retired,65
+EUR,NL98BOER1741107420,NL,Berkshire Hathaway,Corporate services payment,2024-06-01,27889.71,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d0f0c669-d758-49e2-af73-bd2a81272af0,2024-06-01,31661.71,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Ford Motor,Car purchase,2024-06-01,31735.67,Retired,65
+EUR,NL98BOER1741107420,NL,Sterre van Engelen,Gift,2024-06-01,31755.83,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: f0a82056-ba22-44d8-a6a4-643b7f771165,2024-06-01,35527.83,Retired,65
+EUR,NL98BOER1741107420,Canada,Huawei,Cloud storage subscription,2024-06-01,35575.86,Retired,65
+EUR,NL98BOER1741107420,Austria,Honeywell,Conglomerate product order,2024-06-01,35622.83,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0fc8efff-20f7-4fa7-8f4d-e94e2ca63db6,2024-06-01,39394.83,Retired,65
+EUR,NL98BOER1741107420,United States,AstraZeneca,Medication purchase,2024-06-01,39430.93,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Volkswagen,Car purchase,2024-06-01,39472.55,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: fd6aceb9-fe37-4140-821f-1d1d72250570,2024-06-01,43244.55,Retired,65
+EUR,NL98BOER1741107420,NL,PepsiCo,Beverage order,2024-06-01,43323.15,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 1e098bda-b2af-4356-8e01-64dda87a198d,2024-06-01,47095.15,Retired,65
+EUR,NL98BOER1741107420,NL,Johnson & Johnson,Drug order payment,2024-06-01,47112.94,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 110748fa-4865-45ab-8788-e320dc5156f5,2024-06-01,50884.94,Retired,65
+EUR,NL98BOER1741107420,Germany,Daimler,Car purchase,2024-06-01,51440.21,Retired,65
+EUR,NL98BOER1741107420,NL,Dell Technologies,Web hosting fee,2024-06-01,51452.74,Retired,65
+EUR,NL98BOER1741107420,Japan,PepsiCo,Beverage order,2024-06-01,51492.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 43342f81-db6e-4155-883b-b08b745d5d4c,2024-06-01,51603.24,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 568eaf98-419d-4318-832e-9568201aafb8,2024-06-01,55375.24,Retired,65
+EUR,NL98BOER1741107420,Belgium,Boeing,Aviation technology fee,2024-06-01,55394.22,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 346b11cc-4fbb-4d4e-92bb-2e6e1d2421be,2024-06-01,59166.22,Retired,65
+EUR,NL98BOER1741107420,Spain,Goldman Sachs,Stock purchase,2024-06-01,59182.24,Retired,65
+EUR,NL98BOER1741107420,NL,Yinthe van Dommelen-Konings,Rent deposit,2024-06-01,59313.91,Retired,65
+EUR,NL98BOER1741107420,NL,Alphabet Inc.,Software license fee payment,2024-06-01,59402.25,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 8e2c8605-30e6-4646-8d17-9d51c31621b4,2024-06-01,63174.25,Retired,65
+EUR,NL98BOER1741107420,Germany,Mats van den Eijssel,Support for a friend,2024-06-01,63179.58,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Dana Weerdenburg,Split restaurant bill,2024-06-01,63201.67,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 985c16ad-32c5-4d3e-b9a8-37b8896fdad6,2024-06-01,66973.67,Retired,65
+EUR,NL98BOER1741107420,NL,Amazon,Marketplace seller fee,2024-06-01,66991.09,Retired,65
+EUR,NL98BOER1741107420,Canada,Hannah van Dillen,Friend loan repayment,2024-06-01,67054.16,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: edaa9b0d-1f18-45ac-9f20-313d1800eb0e,2024-06-01,70826.16,Retired,65
+EUR,NL98BOER1741107420,United States,Honeywell,Diversified company fee,2024-06-01,70958.27,Retired,65
+EUR,NL98BOER1741107420,NL,Meta Platforms,Software license fee payment,2024-06-01,70974.14,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 86b02541-e9d3-4782-a1f1-b66527901a94,2024-06-01,74746.14,Retired,65
+EUR,NL98BOER1741107420,NL,General Electric,Corporate services payment,2024-06-01,74794.96,Retired,65
+EUR,NL98BOER1741107420,NL,Gilead Sciences,Genetic testing kit,2024-06-01,74830.96,Retired,65
+EUR,NL98BOER1741107420,NL,Merck & Co.,Pharmacy bill,2024-06-01,74887.16,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: b63cff72-27ed-4486-a9d0-b239f5c06890,2024-06-01,78659.16,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 9b1c944b-ad82-4d06-a6d2-97c6e5be0efa,2024-06-01,78793.01,Retired,65
+EUR,NL98BOER1741107420,Hungary,Gilead Sciences,Clinical trial payment,2024-06-01,78846.54,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,78932.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 91b2fd9e-6809-413b-853d-5f91d7f2e6c3,2024-06-01,82704.53,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Meta Platforms,Cloud storage subscription,2024-06-01,82733.96,Retired,65
+EUR,NL98BOER1741107420,NL,Toyota,Vehicle service charge,2024-06-01,82778.88,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 335c6118-34b5-4198-bf38-38f7ca65b40b,2024-06-01,86550.88,Retired,65
+EUR,NL98BOER1741107420,NL,BASF,Industrial chemicals purchase,2024-06-01,86629.66,Retired,65
+EUR,NL98BOER1741107420,NL,3M,Conglomerate product order,2024-06-01,86634.74,Retired,65
+EUR,NL98BOER1741107420,Germany,Berkshire Hathaway,Business unit invoice,2024-06-01,86639.31,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 4859e4cc-6005-49e0-b2fe-af05b357705f,2024-06-01,90411.31,Retired,65
+EUR,NL98BOER1741107420,Italy,Ryan de Vries,Reimbursement for dinner,2024-06-01,90485.93,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Gilead Sciences,Biotech research fee,2024-06-01,90490.61,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 760e14fa-ed78-4188-b05c-929b8b8ca05e,2024-06-01,94262.61,Retired,65
+EUR,NL98BOER1741107420,NL,Roche,Healthcare prescription,2024-06-01,94346.72,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: a8a28f2d-0c04-4de6-ac57-cbd8d78934b2,2024-06-01,98118.72,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Renault,Car purchase,2024-06-01,98251.12,Retired,65
+EUR,NL98BOER1741107420,Germany,BASF,Industrial chemicals purchase,2024-06-01,98263.35,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 6d71f9e2-9750-4364-b5ea-166b7f84b428,2024-06-01,102035.35,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Merck & Co.,Drug order payment,2024-06-01,102091.46,Retired,65
+EUR,NL98BOER1741107420,NL,Daimler,Car purchase,2024-06-01,102104.55,Retired,65
+EUR,NL98BOER1741107420,NL,Microsoft,Web hosting fee,2024-06-01,102107.28,Retired,65
+EUR,NL98BOER1741107420,NL,BMW,Car purchase,2024-06-01,102181.95,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Rayan van de Wiel,Split vacation cost,2024-06-01,102185.48,Retired,65
+EUR,NL98BOER1741107420,Japan,Merck & Co.,Pharmacy bill,2024-06-01,102192.0,Retired,65
+EUR,NL98BOER1741107420,NL,Bayer,Medication purchase,2024-06-01,102290.37,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 98de488c-5450-46d0-a843-e08a7607a7f3,2024-06-01,106062.37,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: dac95a11-b17e-4b3f-8ac1-e455e811d0ab,2024-06-01,106194.76,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 089cb50b-efec-4ca2-abfe-bc67d1186003,2024-06-01,109966.76,Retired,65
+EUR,NL98BOER1741107420,NL,Procter & Gamble,Product purchase,2024-06-01,110028.75,Retired,65
+EUR,NL98BOER1741107420,NL,BMW,Auto repair bill,2024-06-01,110049.3,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d2e1e243-9b00-47fc-8d70-e354b115c5f6,2024-06-01,113821.3,Retired,65
+EUR,NL98BOER1741107420,NL,Meta Platforms,Web hosting fee,2024-06-01,113825.38,Retired,65
+EUR,NL98BOER1741107420,NL,Mitsubishi,Business unit invoice,2024-06-01,113847.19,Retired,65
+EUR,NL98BOER1741107420,Denmark,Rafael Vegt-Brievingh,Split vacation cost,2024-06-01,113866.86,Retired,65
+EUR,NL98BOER1741107420,Italy,"Lieve West-Francië, van",Reimbursement for shopping,2024-06-01,113901.48,Retired,65
+EUR,NL98BOER1741107420,NL,Oracle,Technology services invoice payment,2024-06-01,113905.43,Retired,65
+EUR,NL98BOER1741107420,Denmark,Merck & Co.,Pharmacy bill,2024-06-01,113917.97,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 5c5ba54b-e67c-47db-a084-48c572578026,2024-06-01,117689.97,Retired,65
+EUR,NL98BOER1741107420,NL,Duke Energy,Energy supply charge,2024-06-01,117722.76,Retired,65
+EUR,NL98BOER1741107420,NL,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,117732.71,Retired,65
+EUR,NL98BOER1741107420,NL,Amazon,Online shopping,2024-06-01,117735.71,Retired,65
+EUR,NL98BOER1741107420,United States,Tata Consultancy Services,System upgrade fee,2024-06-01,117776.35,Retired,65
+EUR,NL98BOER1741107420,NL,Dex Salet-Lucas,Medical bills,2024-06-01,117822.53,Retired,65
+EUR,NL98BOER1741107420,NL,Alibaba,Marketplace seller fee,2024-06-01,117827.34,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 35a0d836-8e02-4a87-b5b8-ae3783798259,2024-06-01,121599.34,Retired,65
+EUR,NL98BOER1741107420,NL,Seth Verbeek,Vacation expenses,2024-07-01,121603.3,Retired,65
+EUR,NL98BOER1741107420,Canada,Guusje Appelman,Christmas gift,2024-07-01,121645.6,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Jari Charon,Shared ride expenses,2024-07-01,121646.91,Retired,65
+EUR,NL98BOER1741107420,Denmark,Amazon,E-commerce order,2024-07-01,121673.6,Retired,65
+EUR,NL98BOER1741107420,Canada,Ilse van Holland,Support money,2024-07-01,121675.45,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 82aa8a73-b680-4222-b51c-9dca38d0f1dd,2024-07-01,125447.45,Retired,65
+EUR,NL98BOER1741107420,NL,SoftBank,Corporate services payment,2024-07-01,125452.3,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Lars Jacquot,Anniversary gift,2024-07-01,125468.04,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Allianz,Claim settlement,2024-07-01,125485.3,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d43b36f5-5d9a-4550-a6c3-6ab46273306f,2024-07-01,129257.3,Retired,65
+EUR,NL98BOER1741107420,NL,Julia Boogaerts,Gas money,2024-07-01,129317.92,Retired,65
+EUR,NL98BOER1741107420,NL,Isabel Mulder,Baby shower gift,2024-07-01,129340.66,Retired,65
+EUR,NL98BOER1741107420,NL,Amazon,Online shopping,2024-07-01,129342.56,Retired,65
+EUR,NL98BOER1741107420,France,Dani Thatcher-Janse,Birthday party expenses,2024-07-01,129370.27,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 841d0ad9-1c99-44f8-8169-c4c387e30a47,2024-07-01,129629.42,Retired,65
+EUR,NL98BOER1741107420,Great Britain,AT&T,Phone bill,2024-07-01,129668.93,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 1a1a32a6-baa2-4444-b517-5b89155a5088,2024-07-01,133440.93,Retired,65
+EUR,NL98BOER1741107420,NL,PepsiCo,Catering service fee,2024-07-01,133561.37,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c71486fe-bfa6-4e82-9075-d7258894f23b,2024-07-01,137333.37,Retired,65
+EUR,NL98BOER1741107420,NL,Tata Consultancy Services,Software development bill,2024-07-01,137338.11,Retired,65
+EUR,NL98BOER1741107420,Hungary,Stan de Plantard,Shared meal cost,2024-07-01,137350.06,Retired,65
+EUR,NL98BOER1741107420,NL,Duke Energy,Renewable energy subscription,2024-07-01,137358.98,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Alphabet Inc.,Web hosting fee,2024-07-01,137413.46,Retired,65
+EUR,NL98BOER1741107420,Denmark,DuPont,Business unit invoice,2024-07-01,137432.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 520086ca-f3b4-4ed7-bcc9-fa895b6abf2c,2024-07-01,141204.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d5c86ecb-e094-490d-997c-ba85f8432136,2024-07-01,144976.53,Retired,65
+EUR,NL98BOER1741107420,NL,Oracle,Software license fee payment,2024-07-01,144982.39,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 86014471-3963-4c53-b2b2-8112849860b6,2024-07-01,145093.05,Retired,65
+EUR,NL98BOER1741107420,NL,Airbus,Aerospace parts purchase,2024-07-01,145094.35,Retired,65
+EUR,NL98BOER1741107420,NL,SoftBank,Business unit invoice,2024-07-01,145115.65,Retired,65
+EUR,NL98BOER1741107420,NL,Honeywell,Corporate services payment,2024-07-01,145118.39,Retired,65
+EUR,NL98BOER1741107420,Belgium,Accenture,Consulting fee,2024-07-01,145134.97,Retired,65
+EUR,NL98BOER1741107420,NL,Duke Energy,Energy supply charge,2024-07-01,145194.25,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 8e5dced0-ae02-4017-b82d-fdf8bfced5f5,2024-07-01,148966.25,Retired,65
+EUR,NL98BOER1741107420,NL,Meta Platforms,Web hosting fee,2024-07-01,148977.25,Retired,65
+EUR,NL98BOER1741107420,NL,Bristol-Myers Squibb,Drug order payment,2024-07-01,148997.02,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 33211b80-4bb9-4974-95b3-5f4f89582f4c,2024-07-01,152769.02,Retired,65
+EUR,NL98BOER1741107420,Hungary,Tata Consultancy Services,IT support fee,2024-07-01,152868.17,Retired,65
+EUR,NL98BOER1741107420,NL,IBM,Technology services invoice payment,2024-07-01,152877.59,Retired,65
+EUR,NL98BOER1741107420,Germany,Toyota,Auto repair bill,2024-07-01,152893.3,Retired,65
+EUR,NL98BOER1741107420,United States,Volkswagen,Car parts order,2024-07-01,152894.12,Retired,65
+EUR,NL98BOER1741107420,Hungary,Novartis,Medication purchase,2024-07-01,152901.33,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0b0e5bf4-385e-4c34-acb2-f767448cae89,2024-07-01,156673.33,Retired,65
+EUR,NL98BOER1741107420,NL,Renault,Car parts order,2024-07-01,156676.72,Retired,65
+EUR,NL98BOER1741107420,NL,Siem de Roos,Support money,2024-07-01,156686.9,Retired,65
+EUR,NL98BOER1741107420,NL,Fay Kronenberg,Graduation gift,2024-07-01,156744.96,Retired,65
+EUR,NL98BOER1741107420,NL,Phillips 66,Electricity payment,2024-07-01,156811.56,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c641463e-31b5-4ee3-9df6-b453ac9865fb,2024-07-01,160583.56,Retired,65
+EUR,NL98BOER1741107420,Germany,Novartis,Healthcare prescription,2024-07-01,160614.57,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: ab7bd169-2850-40df-b997-fa19adc288eb,2024-07-01,164386.57,Retired,65
+EUR,NL98BOER1741107420,NL,Tata Consultancy Services,System upgrade fee,2024-07-01,164398.75,Retired,65
+EUR,NL98BOER1741107420,Belgium,Dean van Egisheim,Loan to friend,2024-07-01,164439.69,Retired,65
+EUR,NL98BOER1741107420,NL,Apple Inc.,Cloud storage subscription,2024-07-01,164440.76,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Ford Motor,Auto repair bill,2024-07-01,164445.45,Retired,65
+EUR,NL98BOER1741107420,NL,Allianz,Insurance premium,2024-07-01,164446.71,Retired,65
+EUR,NL98BOER1741107420,NL,Gilead Sciences,Genetic testing kit,2024-07-01,164464.13,Retired,65
+EUR,NL98BOER1741107420,Belgium,Unilever,Subscription box service,2024-07-01,164469.01,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 4b0c414a-ffb7-46cd-bae2-f74674540448,2024-07-01,168241.01,Retired,65
+EUR,NL98BOER1741107420,NL,IBM,Technology services invoice payment,2024-07-01,168246.59,Retired,65
+EUR,NL98BOER1741107420,NL,Meta Platforms,Technology services invoice payment,2024-07-01,168294.47,Retired,65
+EUR,NL98BOER1741107420,NL,Daimler,Car purchase,2024-07-01,168321.75,Retired,65
+EUR,NL98BOER1741107420,NL,Lola van Allemanië,Rent payment,2024-07-01,168326.74,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Gilead Sciences,Biotech research fee,2024-07-01,168327.27,Retired,65
+EUR,NL98BOER1741107420,NL,Noah Everts-van den Corput,Shared hotel room cost,2024-07-01,168389.49,Retired,65
+EUR,NL98BOER1741107420,United States,Renault,Vehicle service charge,2024-07-01,168444.06,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: ffb5477d-0763-4962-b73e-6fc6ef4a487d,2024-07-01,172216.06,Retired,65
+EUR,NL98BOER1741107420,NL,Liv Mijsberg,Reimbursement for medical expenses,2024-07-01,172249.75,Retired,65
+EUR,NL98BOER1741107420,NL,Facebook,Premium account upgrade,2024-07-01,172302.85,Retired,65
+EUR,NL98BOER1741107420,NL,Volkswagen,Vehicle service charge,2024-07-01,172318.02,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 91013de7-b9ce-47f3-9b14-58ea9ef2d8f9,2024-07-01,176090.02,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 04edf5b3-ce53-496d-a8a8-2bfb865ff110,2024-07-01,179862.02,Retired,65
+EUR,NL98BOER1741107420,Denmark,Volkswagen,Car parts order,2024-07-01,179913.54,Retired,65
+EUR,NL98BOER1741107420,NL,Giel Bakker-Schwartsbach,Christmas gift,2024-07-01,179951.76,Retired,65
+EUR,NL98BOER1741107420,United States,Microsoft,Software license fee payment,2024-07-01,179968.7,Retired,65
+EUR,NL98BOER1741107420,NL,Microsoft,Cloud storage subscription,2024-07-01,179969.75,Retired,65
+EUR,NL98BOER1741107420,Italy,Lizz van Wel,Support for a friend,2024-07-01,179974.46,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: dba2a060-f67d-4c5b-83c1-f5417720d9b9,2024-07-01,183746.46,Retired,65
+EUR,NL98BOER1741107420,NL,Facebook,Ad campaign funding,2024-07-01,183789.99,Retired,65
+EUR,NL98BOER1741107420,NL,Merck & Co.,Healthcare prescription,2024-07-01,183832.18,Retired,65
+EUR,NL98BOER1741107420,Canada,GlaxoSmithKline,Medication purchase,2024-07-01,183870.85,Retired,65
+EUR,NL98BOER1741107420,NL,Bo Beernink,Graduation gift,2024-07-01,183915.67,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 66df9bcc-08ce-4596-a05b-919b45a977b6,2024-07-01,187687.67,Retired,65
+EUR,NL98BOER1741107420,NL,Microsoft,Technology services invoice payment,2024-07-01,187746.68,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Accenture,Consulting fee,2024-07-01,187777.65,Retired,65
+EUR,NL98BOER1741107420,NL,Allianz,Policy renewal fee,2024-07-01,187789.58,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 6ab07f1f-5676-428b-b37f-6145d85e34bc,2024-07-01,191561.58,Retired,65
+EUR,NL98BOER1741107420,Austria,ByteDance,Web hosting fee,2024-07-01,191612.66,Retired,65
+EUR,NL98BOER1741107420,NL,Volkswagen,Car purchase,2024-07-01,191675.13,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0af9dc5f-05d8-4303-b0d1-a89d453db0de,2024-07-01,195447.13,Retired,65
+EUR,NL98BOER1741107420,Austria,Bilal Timmermans,Loan to friend,2024-07-01,195472.88,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 23b85a37-a8eb-4c4d-9e56-d8d29724235f,2024-07-01,199244.88,Retired,65
+EUR,NL98BOER1741107420,Canada,Novartis,Pharmacy bill,2024-07-01,199264.24,Retired,65
+EUR,NL98BOER1741107420,NL,Oracle,Cloud storage subscription,2024-07-01,199337.05,Retired,65
+EUR,NL98BOER1741107420,NL,Honeywell,Business unit invoice,2024-07-01,199362.87,Retired,65
+EUR,NL98BOER1741107420,NL,Honeywell,Conglomerate product order,2024-07-01,199367.51,Retired,65
+EUR,NL98BOER1741107420,NL,Amazon,Online shopping,2024-07-01,199422.93,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 17e56515-65ff-4736-bf00-d7d1f950cf16,2024-07-01,203194.93,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 096f8220-1570-4409-908d-2949ebce587c,2024-07-01,206966.93,Retired,65
+EUR,NL98BOER1741107420,NL,Tim Totwiller,Shared subscription,2024-07-01,207058.83,Retired,65
+EUR,NL98BOER1741107420,NL,Oracle,Technology services invoice payment,2024-07-01,207112.17,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c92655e3-0798-4d26-be5c-5ddf562bc39a,2024-07-01,210884.17,Retired,65
+EUR,NL98BOER1741107420,Canada,Lara Blees-de Groot,Child support,2024-07-01,210959.75,Retired,65
+EUR,NL98BOER1741107420,NL,Accenture,Professional service invoice,2024-07-01,210975.17,Retired,65
+EUR,NL98BOER1741107420,NL,IBM,Software license fee payment,2024-07-01,211075.86,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: af95426e-24ef-466a-aacf-b792fe13ae94,2024-07-01,214847.86,Retired,65
+EUR,NL98BOER1741107420,France,Bristol-Myers Squibb,Drug order payment,2024-07-01,214907.22,Retired,65
+EUR,NL98BOER1741107420,NL,Duke Energy,Energy supply charge,2024-07-01,214927.76,Retired,65
+EUR,NL98BOER1741107420,NL,Kyan Rackham-Robbrechts Bruijne,Dinner reimbursement,2024-07-01,214984.54,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c634e895-67e2-429b-937b-14d7896abeca,2024-07-01,218756.54,Retired,65
+EUR,NL98BOER1741107420,NL,Bristol-Myers Squibb,Drug order payment,2024-07-01,218853.48,Retired,65
+EUR,NL98BOER1741107420,NL,Dell Technologies,Software license fee payment,2024-07-01,218855.69,Retired,65
+EUR,NL98BOER1741107420,United States,General Electric,Business unit invoice,2024-07-01,218901.96,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: fbc53fb1-d2df-4162-be70-b12cd9ac3197,2024-07-01,222673.96,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Willem Takkelenburg-Arts,Support money,2024-07-01,222679.05,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Procter & Gamble,Order payment,2024-07-01,222731.81,Retired,65
+EUR,NL98BOER1741107420,NL,Lisanne Veenstra,Party contribution,2024-07-01,222734.14,Retired,65
+EUR,NL98BOER1741107420,France,AstraZeneca,Medication purchase,2024-07-01,222785.84,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: ebeb28e0-013c-48e1-b240-f928d3b11b4d,2024-07-01,226557.84,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Nike,Fashion brand order,2024-07-01,226566.87,Retired,65
+EUR,NL98BOER1741107420,Canada,Bayer,Healthcare prescription,2024-07-01,226575.73,Retired,65
+EUR,NL98BOER1741107420,Canada,Pfizer,Medication purchase,2024-07-01,226646.69,Retired,65
+EUR,NL98BOER1741107420,NL,Morgan Stanley,Stock purchase,2024-07-01,226661.09,Retired,65
+EUR,NL98BOER1741107420,NL,AstraZeneca,Drug order payment,2024-07-01,226692.14,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 267c40c7-f403-4550-9cbf-a52b9cb8e518,2024-07-01,230464.14,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 62dd75c5-7343-4156-adb9-f815098a7435,2024-07-01,234236.14,Retired,65
+EUR,NL98BOER1741107420,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,234390.28,Retired,65
+EUR,NL98BOER1741107420,NL,Lisa Levesque,Household expenses,2024-07-01,234392.86,Retired,65
+EUR,NL98BOER1741107420,NL,Alphabet Inc.,Software license fee payment,2024-07-01,234418.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0c55f2ef-c567-4c6f-a36d-303cdc259bca,2024-07-01,238190.53,Retired,65
+EUR,NL98BOER1741107420,Hungary,Accenture,Consulting fee,2024-07-01,238192.1,Retired,65
+EUR,NL98BOER1741107420,Belgium,Novartis,Medication purchase,2024-07-01,238226.1,Retired,65
+EUR,NL98BOER1741107420,NL,AstraZeneca,Medication purchase,2024-07-01,238250.76,Retired,65
+EUR,NL98BOER1741107420,NL,Nike,Apparel shopping,2024-07-01,238253.61,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: ba541716-018e-440c-b3f2-6c68329241cf,2024-07-01,242025.61,Retired,65
+EUR,NL98BOER1741107420,Italy,Meta Platforms,Web hosting fee,2024-07-01,242033.34,Retired,65
+EUR,NL98BOER1741107420,NL,General Electric,Business unit invoice,2024-07-01,242035.07,Retired,65
+EUR,NL98BOER1741107420,NL,Alexander van den Nyeuwenhuysen,Funeral expenses,2024-07-01,242057.84,Retired,65
+EUR,NL98BOER1741107420,NL,AT&T,Telecom invoice,2024-07-01,242063.22,Retired,65
+EUR,NL98BOER1741107420,Germany,Jet de Kok-van Leeuwen,Reimbursement for medical expenses,2024-07-01,242069.86,Retired,65
+EUR,NL98BOER1741107420,NL,Renault,Auto repair bill,2024-07-01,242109.71,Retired,65
+EUR,NL98BOER1741107420,NL,Novartis,Healthcare prescription,2024-08-01,242121.86,Retired,65
+EUR,NL98BOER1741107420,France,General Electric,Corporate services payment,2024-08-01,242209.2,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: ed2a2259-18e4-4c7d-9ad0-42f0d5312705,2024-08-01,245981.2,Retired,65
+EUR,NL98BOER1741107420,Belgium,Goldman Sachs,Stock purchase,2024-08-01,245988.11,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c5d46b7d-6ea9-4620-a6fd-8d8bd2d8066b,2024-08-01,249760.11,Retired,65
+EUR,NL98BOER1741107420,NL,Goldman Sachs,Stock purchase,2024-08-01,249816.0,Retired,65
+EUR,NL98BOER1741107420,NL,Alphabet Inc.,Technology services invoice payment,2024-08-01,249879.77,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 800c74c7-3f41-4c4c-9381-d4b793027757,2024-08-01,253651.77,Retired,65
+EUR,NL98BOER1741107420,Canada,Geldmaat ATM,Geldmaat: 5adea6f1-267a-4081-affd-15a5f4b928ae,2024-08-01,253872.81,Retired,65
+EUR,NL98BOER1741107420,Italy,Alibaba,Online shopping,2024-08-01,253916.28,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Verizon,Data plan payment,2024-08-01,253950.32,Retired,65
+EUR,NL98BOER1741107420,NL,Roche,Healthcare prescription,2024-08-01,253990.12,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 576b10a1-2ef1-489a-9980-855fa19a96d3,2024-08-01,257762.12,Retired,65
+EUR,NL98BOER1741107420,Canada,Geldmaat ATM,Geldmaat: d4af1458-e473-4a78-a478-61df6e6678b7,2024-08-01,257929.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c0ea972c-5e2e-46c7-9ee8-c033b6bf11b6,2024-08-01,261701.53,Retired,65
+EUR,NL98BOER1741107420,United States,Amir Rietveld,Debt settlement,2024-08-01,261716.6,Retired,65
+EUR,NL98BOER1741107420,Spain,Phillips 66,Energy supply charge,2024-08-01,261721.76,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Merck & Co.,Drug order payment,2024-08-01,261762.15,Retired,65
+EUR,NL98BOER1741107420,NL,3M,Diversified company fee,2024-08-01,261799.4,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 26e7b465-400a-42f2-9f0e-52d0dc64126a,2024-08-01,265571.4,Retired,65
+EUR,NL98BOER1741107420,NL,ByteDance,Web hosting fee,2024-08-01,265575.23,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: a583e5cf-5e8a-4255-a41b-4760854f323e,2024-08-01,269347.23,Retired,65
+EUR,NL98BOER1741107420,NL,Renault,Car purchase,2024-08-01,269414.62,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Wessel ter Waarbeek,Dinner reimbursement,2024-08-01,269425.52,Retired,65
+EUR,NL98BOER1741107420,NL,General Electric,Diversified company fee,2024-08-01,269429.65,Retired,65
+EUR,NL98BOER1741107420,Great Britain,General Electric,Diversified company fee,2024-08-01,269472.15,Retired,65
+EUR,NL98BOER1741107420,NL,Bibi van Gelder,Mortgage help,2024-08-01,269552.69,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 53355d8f-3fab-46d5-b6f8-b8c965fec18b,2024-08-01,273324.69,Retired,65
+EUR,NL98BOER1741107420,NL,Cornelia Rotteveel-Blees,Graduation gift,2024-08-01,273400.64,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: ab5828d8-8128-4d48-bcb5-848dd96ac5bd,2024-08-01,277172.64,Retired,65
+EUR,NL98BOER1741107420,NL,Bayer,Healthcare prescription,2024-08-01,277177.04,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Alibaba,Subscription service,2024-08-01,277192.36,Retired,65
+EUR,NL98BOER1741107420,NL,Berkshire Hathaway,Corporate services payment,2024-08-01,277233.65,Retired,65
+EUR,NL98BOER1741107420,Hungary,Elif Bakker,Support money,2024-08-01,277270.49,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 82a5a9c2-3238-4310-aae2-4377e0887c30,2024-08-01,281042.49,Retired,65
+EUR,NL98BOER1741107420,Austria,Goldman Sachs,Stock purchase,2024-08-01,281061.65,Retired,65
+EUR,NL98BOER1741107420,NL,Toyota,Car parts order,2024-08-01,281098.21,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 03f986c3-e9b4-43b2-8271-afa192a5ce57,2024-08-01,284870.21,Retired,65
+EUR,NL98BOER1741107420,NL,Goldman Sachs,Stock purchase,2024-08-01,284880.24,Retired,65
+EUR,NL98BOER1741107420,Canada,Verizon,Data plan payment,2024-08-01,284915.73,Retired,65
+EUR,NL98BOER1741107420,NL,Novartis,Medication purchase,2024-08-01,284930.25,Retired,65
+EUR,NL98BOER1741107420,NL,SoftBank,Diversified company fee,2024-08-01,284995.85,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 577c9536-f3d4-4593-967f-c25148d35a4f,2024-08-01,288767.85,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0ea5616b-fd79-48fb-a61c-40ba0c70cf74,2024-08-01,292539.85,Retired,65
+EUR,NL98BOER1741107420,NL,General Electric,Diversified company fee,2024-08-01,292542.15,Retired,65
+EUR,NL98BOER1741107420,NL,Duke Energy,Electricity payment,2024-08-01,292637.65,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0a2282a4-af89-4177-9b47-805cd160c6de,2024-08-01,296409.65,Retired,65
+EUR,NL98BOER1741107420,France,Roche,Healthcare prescription,2024-08-01,296461.52,Retired,65
+EUR,NL98BOER1741107420,France,Jim Gnodde,Christmas gift,2024-08-01,296496.0,Retired,65
+EUR,NL98BOER1741107420,Spain,Bristol-Myers Squibb,Drug order payment,2024-08-01,296503.29,Retired,65
+EUR,NL98BOER1741107420,NL,Raf Heribert van Laon,Household expenses,2024-08-01,296513.16,Retired,65
+EUR,NL98BOER1741107420,NL,BASF,Industrial chemicals purchase,2024-08-01,296552.48,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 14d64a5f-6a73-4993-8305-f10eda59bf53,2024-08-01,300324.48,Retired,65
+EUR,NL98BOER1741107420,NL,Lotte Coreth von und zu Coredo und Starkenberg,Graduation gift,2024-08-01,300328.62,Retired,65
+EUR,NL98BOER1741107420,NL,Airbus,Space exploration fee,2024-08-01,300382.77,Retired,65
+EUR,NL98BOER1741107420,NL,Oracle,Cloud storage subscription,2024-08-01,300391.16,Retired,65
+EUR,NL98BOER1741107420,NL,Dell Technologies,Cloud storage subscription,2024-08-01,300426.16,Retired,65
+EUR,NL98BOER1741107420,NL,AstraZeneca,Drug order payment,2024-08-01,300527.9,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d0241ea0-e37a-4f71-acc7-79cbe39092c0,2024-08-01,304299.9,Retired,65
+EUR,NL98BOER1741107420,NL,Mitsubishi,Corporate services payment,2024-08-01,304321.1,Retired,65
+EUR,NL98BOER1741107420,Canada,Honeywell,Corporate services payment,2024-08-01,304364.35,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 9bee02f4-b64f-48b4-b364-2fa2f982f8eb,2024-08-01,308136.35,Retired,65
+EUR,NL98BOER1741107420,NL,Goldman Sachs,Stock purchase,2024-08-01,308140.93,Retired,65
+EUR,NL98BOER1741107420,United States,Toyota,Auto repair bill,2024-08-01,308152.59,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 692460d9-39d0-451c-a5ac-6ccc663b14fa,2024-08-01,311924.59,Retired,65
+EUR,NL98BOER1741107420,Italy,Josephine Westerburg,Travel expenses,2024-08-01,311991.55,Retired,65
+EUR,NL98BOER1741107420,Spain,Meta Platforms,Technology services invoice payment,2024-08-01,311996.17,Retired,65
+EUR,NL98BOER1741107420,NL,Bilal Mulders,Shared hotel room cost,2024-08-01,312002.4,Retired,65
+EUR,NL98BOER1741107420,Hungary,Timo Jansen,Support for a friend,2024-08-01,312014.59,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 7ea084be-0905-4c6a-bf65-e749f8c2c3f5,2024-08-01,315786.59,Retired,65
+EUR,NL98BOER1741107420,NL,LVMH,Exclusive brand fee,2024-08-01,315794.78,Retired,65
+EUR,NL98BOER1741107420,Italy,Novartis,Medication purchase,2024-08-01,315840.68,Retired,65
+EUR,NL98BOER1741107420,NL,Alphabet Inc.,Software license fee payment,2024-08-01,315850.02,Retired,65
+EUR,NL98BOER1741107420,Spain,Geldmaat ATM,Geldmaat: 8a2be60c-0c4c-49ae-9b46-870252b90212,2024-08-01,315874.81,Retired,65
+EUR,NL98BOER1741107420,Belgium,Merck & Co.,Medication purchase,2024-08-01,315935.8,Retired,65
+EUR,NL98BOER1741107420,Germany,Jasper Loep,Shared utilities,2024-08-01,315955.93,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 623b7bce-36c7-4bf5-82a2-d6dace06b2e7,2024-08-01,319727.93,Retired,65
+EUR,NL98BOER1741107420,NL,Daimler,Auto repair bill,2024-08-01,319747.76,Retired,65
+EUR,NL98BOER1741107420,NL,Florian de Bruijn-Driessen,Friend loan repayment,2024-08-01,319853.24,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 01ec001b-b454-45a4-8724-700101f078bd,2024-08-01,323625.24,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: e305c2ba-5ecb-4590-9d73-78022742c3e0,2024-08-01,327397.24,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 501136a4-0cf1-4d76-9ec3-02b2b52f5ae9,2024-08-01,327445.8,Retired,65
+EUR,NL98BOER1741107420,NL,AstraZeneca,Drug order payment,2024-08-01,327455.13,Retired,65
+EUR,NL98BOER1741107420,NL,Hamza de Vries,Support money,2024-08-01,327483.71,Retired,65
+EUR,NL98BOER1741107420,NL,SoftBank,Diversified company fee,2024-08-01,327486.49,Retired,65
+EUR,NL98BOER1741107420,United States,LVMH,Designer goods order,2024-08-01,327745.49,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 08f24c57-e8dc-49d2-9875-3fd42f50ed06,2024-08-01,331517.49,Retired,65
+EUR,NL98BOER1741107420,NL,DuPont,Corporate services payment,2024-08-01,331523.35,Retired,65
+EUR,NL98BOER1741107420,NL,GlaxoSmithKline,Pharmacy bill,2024-08-01,331548.64,Retired,65
+EUR,NL98BOER1741107420,NL,Honeywell,Business unit invoice,2024-08-01,331674.55,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 29d59627-8562-4458-99a7-a8790e9667b8,2024-08-01,335446.55,Retired,65
+EUR,NL98BOER1741107420,NL,Joël de Ruiter,Reimbursement for bills,2024-08-01,335451.53,Retired,65
+EUR,NL98BOER1741107420,NL,BMW,Vehicle service charge,2024-08-01,335594.02,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d560c24a-bdb5-4758-bba1-c09729727adb,2024-08-01,339366.02,Retired,65
+EUR,NL98BOER1741107420,NL,DuPont,Diversified company fee,2024-08-01,339385.83,Retired,65
+EUR,NL98BOER1741107420,NL,Silke Rek,Emergency funds,2024-08-01,339462.98,Retired,65
+EUR,NL98BOER1741107420,NL,Senna Thomas,Emergency funds,2024-08-01,339481.91,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Luca de Bock-van der Linden,Travel expenses,2024-08-01,339489.88,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 8c2cb195-91c1-4853-add3-251a73746965,2024-08-01,343261.88,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 94c3a3b5-b75c-47ec-883b-103563389787,2024-08-01,343359.44,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 4cb1d505-0622-48df-8ff8-39a091487571,2024-08-01,347131.44,Retired,65
+EUR,NL98BOER1741107420,Belgium,Sterre van de Wal,Child support,2024-08-01,347176.87,Retired,65
+EUR,NL98BOER1741107420,Canada,Merck & Co.,Pharmacy bill,2024-08-01,347182.75,Retired,65
+EUR,NL98BOER1741107420,United States,Duke Energy,Electricity payment,2024-08-01,347200.34,Retired,65
+EUR,NL98BOER1741107420,NL,PepsiCo,Beverage order,2024-08-01,347229.18,Retired,65
+EUR,NL98BOER1741107420,United States,Tata Consultancy Services,System upgrade fee,2024-08-01,347237.27,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 6611c0c6-e06f-4e88-9e57-abb454aec647,2024-08-01,351009.27,Retired,65
+EUR,NL98BOER1741107420,Hungary,Dell Technologies,Software license fee payment,2024-08-01,351028.32,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: fd6b4908-3048-473f-8208-fbac9b284ec6,2024-08-01,354800.32,Retired,65
+EUR,NL98BOER1741107420,Canada,Alphabet Inc.,Web hosting fee,2024-08-01,354907.12,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 991b57c8-638c-4119-85b6-7e0d2f18caf0,2024-08-01,358679.12,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Airbus,Aerospace parts purchase,2024-08-01,358812.78,Retired,65
+EUR,NL98BOER1741107420,Great Britain,General Electric,Corporate services payment,2024-08-01,358886.21,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 2ec87fc7-d177-49bf-bf8e-b37b3444ae2c,2024-08-01,362658.21,Retired,65
+EUR,NL98BOER1741107420,Hungary,Geldmaat ATM,Geldmaat: 88d0f6d8-bb6f-41ba-8e8d-04ae0e4fb6ad,2024-08-01,362697.05,Retired,65
+EUR,NL98BOER1741107420,NL,Ford Motor,Car purchase,2024-09-01,362814.23,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: b2447910-725d-497e-b53d-f179f7213efd,2024-09-01,366586.23,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: f118a57e-15b0-412f-be21-661e2b9868cc,2024-09-01,370358.23,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Verizon,Phone bill,2024-09-01,370460.36,Retired,65
+EUR,NL98BOER1741107420,NL,Procter & Gamble,Order payment,2024-09-01,370501.88,Retired,65
+EUR,NL98BOER1741107420,Japan,Ford Motor,Auto repair bill,2024-09-01,370508.77,Retired,65
+EUR,NL98BOER1741107420,NL,Novartis,Medication purchase,2024-09-01,370562.76,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 9e264870-fdbd-4b25-a65c-8343f78e0939,2024-09-01,374334.76,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 242170a5-4620-47da-99a3-40be4f644d95,2024-09-01,378106.76,Retired,65
+EUR,NL98BOER1741107420,United States,Maarten van Wel,Pet expenses,2024-09-01,378122.94,Retired,65
+EUR,NL98BOER1741107420,NL,Lola Cosman,Baby shower gift,2024-09-01,378220.47,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 3dba3212-f234-416b-8ed9-38a47d5efd01,2024-09-01,381992.47,Retired,65
+EUR,NL98BOER1741107420,France,Apple Inc.,Web hosting fee,2024-09-01,382085.89,Retired,65
+EUR,NL98BOER1741107420,Canada,Daimler,Vehicle service charge,2024-09-01,382088.27,Retired,65
+EUR,NL98BOER1741107420,NL,Nike,Apparel shopping,2024-09-01,382132.81,Retired,65
+EUR,NL98BOER1741107420,NL,General Electric,Corporate services payment,2024-09-01,382160.73,Retired,65
+EUR,NL98BOER1741107420,NL,Kaylee Martens,Birthday gift,2024-09-01,382161.95,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Puck Klomp Jan,Christmas gift,2024-09-01,382173.39,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 5b8bf5e2-526d-4096-adc1-dc996da40fdf,2024-09-01,385945.39,Retired,65
+EUR,NL98BOER1741107420,United States,Mitsubishi,Business unit invoice,2024-09-01,385949.17,Retired,65
+EUR,NL98BOER1741107420,United States,General Electric,Business unit invoice,2024-09-01,386018.92,Retired,65
+EUR,NL98BOER1741107420,NL,Tess van der Pouw,Grocery money,2024-09-01,386111.78,Retired,65
+EUR,NL98BOER1741107420,Denmark,Verizon,Phone bill,2024-09-01,386113.56,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: eed2cf62-b059-41bf-b361-f6e6a45e968d,2024-09-01,389885.56,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 5166547c-e0f1-4295-a6b4-be84e99d358f,2024-09-01,393657.56,Retired,65
+EUR,NL98BOER1741107420,Italy,IBM,Cloud storage subscription,2024-09-01,393661.72,Retired,65
+EUR,NL98BOER1741107420,NL,Ravi Vastenhouw,Gift,2024-09-01,393829.62,Retired,65
+EUR,NL98BOER1741107420,United States,AstraZeneca,Drug order payment,2024-09-01,393880.86,Retired,65
+EUR,NL98BOER1741107420,Austria,Joël van Noort,Reimbursement for groceries,2024-09-01,393890.43,Retired,65
+EUR,NL98BOER1741107420,NL,Phillips 66,Renewable energy subscription,2024-09-01,393949.0,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: e59fb1b0-eb0a-4cab-bd33-9ccb7b469a65,2024-09-01,397721.0,Retired,65
+EUR,NL98BOER1741107420,NL,Accenture,Expert consultation fee,2024-09-01,397759.84,Retired,65
+EUR,NL98BOER1741107420,Germany,Annemijn van Dillen,Reimbursement for bills,2024-09-01,397788.3,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 20857fd2-3115-4da3-a5d2-9a15152ef5d9,2024-09-01,401560.3,Retired,65
+EUR,NL98BOER1741107420,United States,Sara Pison,Support for a friend,2024-09-01,401596.04,Retired,65
+EUR,NL98BOER1741107420,Canada,Gilead Sciences,Biotech research fee,2024-09-01,401646.97,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 26c3360d-ce7d-4719-a5af-ff3fbd3a2095,2024-09-01,405418.97,Retired,65
+EUR,NL98BOER1741107420,NL,Teun Vos,Anniversary gift,2024-09-01,405422.27,Retired,65
+EUR,NL98BOER1741107420,NL,DuPont,Conglomerate product order,2024-09-01,405424.89,Retired,65
+EUR,NL98BOER1741107420,NL,Volkswagen,Car parts order,2024-09-01,405450.7,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: b2c976d8-4c48-40f8-a244-65a3a2c24a5f,2024-09-01,409222.7,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 929ac06a-c017-4d21-9b6c-a554170cdcb4,2024-09-01,409468.15,Retired,65
+EUR,NL98BOER1741107420,NL,Stan Scuylenborchs,Loan repayment,2024-09-01,409521.95,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0401e0ce-9cc4-42b7-8e2f-f6243c2a400f,2024-09-01,413293.95,Retired,65
+EUR,NL98BOER1741107420,NL,Dewi Ehlert,Party contribution,2024-09-01,413324.53,Retired,65
+EUR,NL98BOER1741107420,NL,Ford Motor,Vehicle service charge,2024-09-01,413369.11,Retired,65
+EUR,NL98BOER1741107420,NL,Dylano van den Heuvel-Keijzer,Birthday party expenses,2024-09-01,413430.28,Retired,65
+EUR,NL98BOER1741107420,NL,Airbus,Aerospace parts purchase,2024-09-01,413436.36,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 080b4783-be60-4cff-ac9a-8849bee450df,2024-09-01,417208.36,Retired,65
+EUR,NL98BOER1741107420,Italy,PepsiCo,Food delivery,2024-09-01,417211.36,Retired,65
+EUR,NL98BOER1741107420,Canada,Teun Lutterveld,Baby shower gift,2024-09-01,417237.01,Retired,65
+EUR,NL98BOER1741107420,Great Britain,LVMH,Luxury item purchase,2024-09-01,417247.27,Retired,65
+EUR,NL98BOER1741107420,Germany,Chloé Spaan,Christmas gift,2024-09-01,417250.3,Retired,65
+EUR,NL98BOER1741107420,NL,Unilever,Order payment,2024-09-01,417345.6,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 69b00bbc-d1a4-4a06-9f84-d19c44d1370e,2024-09-01,421117.6,Retired,65
+EUR,NL98BOER1741107420,NL,Apple Inc.,Software license fee payment,2024-09-01,421164.69,Retired,65
+EUR,NL98BOER1741107420,Belgium,Noortje Leguit-van Venrooy,Rent payment,2024-09-01,421233.87,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 4ddd0812-a1ce-4fc7-ad0c-68b14338e49d,2024-09-01,425005.87,Retired,65
+EUR,NL98BOER1741107420,NL,Volkswagen,Car parts order,2024-09-01,425013.54,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 6de45ed4-c8ec-4b25-bab2-d76698775c9f,2024-09-01,428785.54,Retired,65
+EUR,NL98BOER1741107420,Canada,Toyota,Car parts order,2024-09-01,428793.54,Retired,65
+EUR,NL98BOER1741107420,NL,LVMH,Luxury item purchase,2024-09-01,428850.54,Retired,65
+EUR,NL98BOER1741107420,Canada,Facebook,Ad campaign funding,2024-09-01,428857.52,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Berend Noordijk,Child support,2024-09-01,428860.81,Retired,65
+EUR,NL98BOER1741107420,NL,Verizon,Phone bill,2024-09-01,428961.44,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: e39fc68d-4ba3-4739-93fb-61a387993e86,2024-09-01,432733.44,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: e95b3fae-4782-4cee-88ce-395e9186e43f,2024-09-01,436505.44,Retired,65
+EUR,NL98BOER1741107420,NL,Morgan Stanley,Brokerage fee,2024-09-01,436596.67,Retired,65
+EUR,NL98BOER1741107420,Italy,SoftBank,Conglomerate product order,2024-09-01,436632.0,Retired,65
+EUR,NL98BOER1741107420,Canada,Renske Backer,Graduation gift,2024-09-01,436647.1,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: f2852b90-9d1a-4968-884d-e76d4ede61a2,2024-09-01,440419.1,Retired,65
+EUR,NL98BOER1741107420,NL,Facebook,Premium account upgrade,2024-09-01,440432.99,Retired,65
+EUR,NL98BOER1741107420,NL,Danique van Beaumont-Heinrichs,Gift,2024-09-01,440450.79,Retired,65
+EUR,NL98BOER1741107420,NL,IBM,Software license fee payment,2024-09-01,440459.94,Retired,65
+EUR,NL98BOER1741107420,Great Britain,DuPont,Corporate services payment,2024-09-01,440464.28,Retired,65
+EUR,NL98BOER1741107420,Hungary,BMW,Vehicle service charge,2024-09-01,440478.41,Retired,65
+EUR,NL98BOER1741107420,NL,AstraZeneca,Medication purchase,2024-09-01,440527.24,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 76595e54-93f3-461e-b205-ab9d9d0eb21d,2024-09-01,444299.24,Retired,65
+EUR,NL98BOER1741107420,NL,Sophie Hellevoort,Loan to family,2024-09-01,444406.26,Retired,65
+EUR,NL98BOER1741107420,NL,Tata Consultancy Services,IT support fee,2024-09-01,444422.24,Retired,65
+EUR,NL98BOER1741107420,NL,Merck & Co.,Drug order payment,2024-09-01,444451.65,Retired,65
+EUR,NL98BOER1741107420,Italy,AT&T,Cable service subscription,2024-09-01,444456.69,Retired,65
+EUR,NL98BOER1741107420,Denmark,Jelte Massa,Gift,2024-09-01,444490.24,Retired,65
+EUR,NL98BOER1741107420,United States,Joep Schenkel,Rent payment,2024-09-01,444509.79,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: e85b2bf4-0617-450f-908f-038f64ce37a4,2024-09-01,448281.79,Retired,65
+EUR,NL98BOER1741107420,NL,Ford Motor,Vehicle service charge,2024-09-01,448339.12,Retired,65
+EUR,NL98BOER1741107420,NL,Apple Inc.,Software license fee payment,2024-09-01,448353.53,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 094a85aa-d886-492f-bfd3-59069f0676a6,2024-09-01,452125.53,Retired,65
+EUR,NL98BOER1741107420,NL,Luc van Bovenen,School fees,2024-09-01,452197.11,Retired,65
+EUR,NL98BOER1741107420,United States,Boeing,Aerospace parts purchase,2024-09-01,452224.06,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: b0477918-4d7e-4fea-af1e-cb2af6662ad4,2024-09-01,455996.06,Retired,65
+EUR,NL98BOER1741107420,NL,Bayer,Drug order payment,2024-09-01,455996.84,Retired,65
+EUR,NL98BOER1741107420,Canada,Esmée Bleijenberg,Rent assistance,2024-09-01,456028.6,Retired,65
+EUR,NL98BOER1741107420,NL,PepsiCo,Restaurant bill,2024-09-01,456034.17,Retired,65
+EUR,NL98BOER1741107420,Italy,Verizon,Phone bill,2024-09-01,456041.91,Retired,65
+EUR,NL98BOER1741107420,NL,Dell Technologies,Software license fee payment,2024-09-01,456045.66,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: f1a1801b-c250-4c4a-9f62-c9f5245fe392,2024-09-01,459817.66,Retired,65
+EUR,NL98BOER1741107420,NL,Accenture,Consulting fee,2024-09-01,459824.75,Retired,65
+EUR,NL98BOER1741107420,NL,Kim Arts,Shared hotel room cost,2024-09-01,459851.64,Retired,65
+EUR,NL98BOER1741107420,Canada,Jayden van Haarlem,Loan to family,2024-09-01,459901.34,Retired,65
+EUR,NL98BOER1741107420,United States,Joshua Walter,Debt settlement,2024-09-01,459984.52,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 6b2b757c-7a39-4f00-8bbc-76aabd3e4e89,2024-09-01,463756.52,Retired,65
+EUR,NL98BOER1741107420,NL,GlaxoSmithKline,Drug order payment,2024-09-01,463786.12,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,463825.41,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 38fba68d-cca9-40e8-aafc-1d2c86757c9f,2024-09-01,467597.41,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Elif Vrancken-Bertho,Rent assistance,2024-09-01,467683.22,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Pfizer,Medication purchase,2024-09-01,467741.52,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 61c27259-ec6d-44fc-b34f-cc16f03ee7aa,2024-09-01,471513.52,Retired,65
+EUR,NL98BOER1741107420,NL,Melle Gnodde,School fees,2024-09-01,471515.39,Retired,65
+EUR,NL98BOER1741107420,NL,Allianz,Policy renewal fee,2024-09-01,471607.33,Retired,65
+EUR,NL98BOER1741107420,Canada,Toyota,Vehicle service charge,2024-09-01,471618.6,Retired,65
+EUR,NL98BOER1741107420,United States,Roche,Medication purchase,2024-09-01,471716.48,Retired,65
+EUR,NL98BOER1741107420,Belgium,Sanofi,Drug order payment,2024-09-01,471749.56,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 28e6cb9d-6456-4d10-97a2-dea10f04b0d1,2024-09-01,475521.56,Retired,65
+EUR,NL98BOER1741107420,NL,Aiden Otte,Split restaurant bill,2024-09-01,475556.54,Retired,65
+EUR,NL98BOER1741107420,NL,Pfizer,Healthcare prescription,2024-09-01,475585.01,Retired,65
+EUR,NL98BOER1741107420,NL,Bastiaan Galijn-Salet,Party contribution,2024-09-01,475630.96,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: efad2fa0-6881-4437-86ab-1398c930b091,2024-09-01,479402.96,Retired,65
+EUR,NL98BOER1741107420,Germany,3M,Diversified company fee,2024-10-01,479452.84,Retired,65
+EUR,NL98BOER1741107420,NL,Zoë Broek,Reimbursement for bills,2024-10-01,479484.3,Retired,65
+EUR,NL98BOER1741107420,NL,Bayer,Healthcare prescription,2024-10-01,479522.39,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 2aa073ce-04d3-4e66-81c9-79138ec71862,2024-10-01,483294.39,Retired,65
+EUR,NL98BOER1741107420,Canada,Geldmaat ATM,Geldmaat: 33171ad3-7104-436f-928f-57e25b3296c3,2024-10-01,483465.38,Retired,65
+EUR,NL98BOER1741107420,NL,SoftBank,Corporate services payment,2024-10-01,483470.22,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 20821419-df6c-4ba3-88cb-d3bdaae1c0e3,2024-10-01,487242.22,Retired,65
+EUR,NL98BOER1741107420,United States,3M,Diversified company fee,2024-10-01,487292.69,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 459c21d1-062e-4a07-a1cb-1f4650e7e1ac,2024-10-01,491064.69,Retired,65
+EUR,NL98BOER1741107420,NL,Nike,Fashion brand order,2024-10-01,491090.48,Retired,65
+EUR,NL98BOER1741107420,Canada,Cisco Systems,Software license fee payment,2024-10-01,491165.42,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: c8e66998-c7bb-47ae-8ba1-881033f6aac7,2024-10-01,494937.42,Retired,65
+EUR,NL98BOER1741107420,NL,Joep Hermans,Reimbursement for dinner,2024-10-01,494973.91,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 81093845-c052-4323-8aae-fc91d98dee40,2024-10-01,495043.1,Retired,65
+EUR,NL98BOER1741107420,Canada,BASF,Chemical supply order,2024-10-01,495111.51,Retired,65
+EUR,NL98BOER1741107420,NL,Sanofi,Medication purchase,2024-10-01,495170.47,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 0fa86500-6560-49ee-9367-93c6705edc1b,2024-10-01,498942.47,Retired,65
+EUR,NL98BOER1741107420,NL,Allianz,Insurance premium,2024-10-01,498967.63,Retired,65
+EUR,NL98BOER1741107420,Canada,Facebook,Influencer collaboration fee,2024-10-01,498998.98,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 1d097e55-67b9-413b-9169-030709bd0d81,2024-10-01,502770.98,Retired,65
+EUR,NL98BOER1741107420,NL,Novartis,Drug order payment,2024-10-01,502787.13,Retired,65
+EUR,NL98BOER1741107420,NL,Huawei,Software license fee payment,2024-10-01,502800.14,Retired,65
+EUR,NL98BOER1741107420,Canada,Annabel Janse,Debt settlement,2024-10-01,502835.61,Retired,65
+EUR,NL98BOER1741107420,NL,Pfizer,Medication purchase,2024-10-01,502901.9,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Geldmaat ATM,Geldmaat: d9f1ee1a-5599-46ae-bc50-6d2dab3d51f6,2024-10-01,503089.77,Retired,65
+EUR,NL98BOER1741107420,Germany,Meta Platforms,Web hosting fee,2024-10-01,503099.32,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 13ffe399-7425-4957-a796-360b1af11aab,2024-10-01,506871.32,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Meta Platforms,Cloud storage subscription,2024-10-01,506942.6,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: d7982ab7-bc69-432b-b529-3b53f91c9cc9,2024-10-01,510714.6,Retired,65
+EUR,NL98BOER1741107420,NL,Berkshire Hathaway,Corporate services payment,2024-10-01,510791.07,Retired,65
+EUR,NL98BOER1741107420,NL,AstraZeneca,Healthcare prescription,2024-10-01,510859.69,Retired,65
+EUR,NL98BOER1741107420,Great Britain,Amber Smits,Dinner reimbursement,2024-10-01,510862.68,Retired,65
+EUR,NL98BOER1741107420,Hungary,Geldmaat ATM,Geldmaat: 68619bd2-5cb2-486d-b115-5fbcfdecaaeb,2024-10-01,510879.12,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 2c59fefc-98dc-465a-bf0b-4f23422f1584,2024-10-01,514651.12,Retired,65
+EUR,NL98BOER1741107420,NL,Goldman Sachs,Stock purchase,2024-10-01,514674.38,Retired,65
+EUR,NL98BOER1741107420,NL,Pfizer,Healthcare prescription,2024-10-01,514751.06,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 4b7354a0-4180-42d4-80f7-1d786e86a447,2024-10-01,518523.06,Retired,65
+EUR,NL98BOER1741107420,NL,Oracle,Cloud storage subscription,2024-10-01,518576.56,Retired,65
+EUR,NL98BOER1741107420,NL,General Electric,Business unit invoice,2024-10-01,518577.93,Retired,65
+EUR,NL98BOER1741107420,NL,AT&T,Data plan payment,2024-10-01,518585.38,Retired,65
+EUR,NL98BOER1741107420,NL,Toyota,Auto repair bill,2024-10-01,518668.42,Retired,65
+EUR,NL98BOER1741107420,NL,Meta Platforms,Software license fee payment,2024-10-01,518724.94,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 3356a74a-f40d-413e-9cb0-e13ce11b0b49,2024-10-01,522496.94,Retired,65
+EUR,NL98BOER1741107420,Italy,Apple Inc.,Web hosting fee,2024-10-01,522501.3,Retired,65
+EUR,NL98BOER1741107420,NL,Liv Estey-Bouwhuisen,Rent payment,2024-10-01,522507.76,Retired,65
+EUR,NL98BOER1741107420,NL,Ford Motor,Vehicle service charge,2024-10-01,522528.3,Retired,65
+EUR,NL98BOER1741107420,NL,SoftBank,Corporate services payment,2024-10-01,522582.96,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 24b24086-e723-4225-b43f-7f8974ec4019,2024-10-01,526354.96,Retired,65
+EUR,NL98BOER1741107420,NL,3M,Corporate services payment,2024-10-01,526355.62,Retired,65
+EUR,NL98BOER1741107420,NL,Geldmaat ATM,Geldmaat: 9088aa71-16a0-49e5-bea6-0ebe20112997,2024-10-01,530127.62,Retired,65
+EUR,NL98BOER1741107420,NL,Facebook,Premium account upgrade,2024-10-01,530230.79,Retired,65

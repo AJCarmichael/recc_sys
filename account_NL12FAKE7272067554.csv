@@ -1,0 +1,472 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL12FAKE7272067554,Canada,Boeing,Aviation technology fee,2024-06-01,5984.77,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a0ff8c8b-7d0b-4f0f-b77c-ad4356debae1,2024-06-01,9012.77,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Technology services invoice payment,2024-06-01,9022.14,Retired,65
+EUR,NL12FAKE7272067554,NL,Verizon,Phone bill,2024-06-01,9027.13,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 42c8926e-d48e-4105-a27e-11db395b8883,2024-06-01,12055.13,Retired,65
+EUR,NL12FAKE7272067554,NL,PepsiCo,Food delivery,2024-06-01,12110.64,Retired,65
+EUR,NL12FAKE7272067554,United States,GlaxoSmithKline,Pharmacy bill,2024-06-01,12247.69,Retired,65
+EUR,NL12FAKE7272067554,NL,Unilever,Product purchase,2024-06-01,12253.52,Retired,65
+EUR,NL12FAKE7272067554,NL,Dell Technologies,Software license fee payment,2024-06-01,12261.39,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 277ecfd3-acc8-4612-aacd-32c5b19045fd,2024-06-01,15289.39,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 18a9e501-8858-45c9-82c2-d7253b6cfae1,2024-06-01,15302.99,Retired,65
+EUR,NL12FAKE7272067554,NL,Verizon,Phone bill,2024-06-01,15330.29,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 7f774ad6-5c7e-4446-8a77-390c317ca2fe,2024-06-01,18358.29,Retired,65
+EUR,NL12FAKE7272067554,NL,Meta Platforms,Cloud storage subscription,2024-06-01,18456.39,Retired,65
+EUR,NL12FAKE7272067554,NL,Honeywell,Corporate services payment,2024-06-01,18465.72,Retired,65
+EUR,NL12FAKE7272067554,NL,Faas Jonkman,Loan to family,2024-06-01,18472.29,Retired,65
+EUR,NL12FAKE7272067554,Belgium,Bayer,Medication purchase,2024-06-01,18500.32,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3de81d69-1fc6-4bb6-9bc5-fa1f5d981248,2024-06-01,21528.32,Retired,65
+EUR,NL12FAKE7272067554,NL,LVMH,Luxury item purchase,2024-06-01,21550.56,Retired,65
+EUR,NL12FAKE7272067554,NL,Allianz,Policy renewal fee,2024-06-01,21565.25,Retired,65
+EUR,NL12FAKE7272067554,NL,Allianz,Insurance premium,2024-06-01,21598.99,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 453f57ec-3fd0-45f7-8431-71c292a70f14,2024-06-01,24626.99,Retired,65
+EUR,NL12FAKE7272067554,Canada,AT&T,Telecom invoice,2024-06-01,24633.33,Retired,65
+EUR,NL12FAKE7272067554,NL,Guus de Vrome,Housewarming gift,2024-06-01,24771.04,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 738b5833-9520-4ccd-a9fd-f06c6f86f331,2024-06-01,27799.04,Retired,65
+EUR,NL12FAKE7272067554,Canada,BMW,Vehicle service charge,2024-06-01,27801.58,Retired,65
+EUR,NL12FAKE7272067554,NL,DuPont,Conglomerate product order,2024-06-01,27820.83,Retired,65
+EUR,NL12FAKE7272067554,NL,Kate Brisee-Bronder,Baby shower gift,2024-06-01,27829.98,Retired,65
+EUR,NL12FAKE7272067554,NL,Jolie den Teuling,Travel expenses,2024-06-01,27852.39,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 0e8fa0e0-aa90-4270-a07d-72f1f7bbfcd7,2024-06-01,30880.39,Retired,65
+EUR,NL12FAKE7272067554,Italy,Morgan Stanley,Investment fund entry,2024-06-01,30886.3,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: f3cf9c69-cbe3-4ddf-912a-c0faf938eb7a,2024-06-01,33914.3,Retired,65
+EUR,NL12FAKE7272067554,NL,Britt van Beeck Beeckmans-Westerbeek,Loan to friend,2024-06-01,33961.97,Retired,65
+EUR,NL12FAKE7272067554,United States,Accenture,Expert consultation fee,2024-06-01,33973.54,Retired,65
+EUR,NL12FAKE7272067554,NL,Microsoft,Web hosting fee,2024-06-01,33987.16,Retired,65
+EUR,NL12FAKE7272067554,NL,Dell Technologies,Technology services invoice payment,2024-06-01,33999.81,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1c4ec413-9d75-4266-b0f5-e1b154d8760d,2024-06-01,37027.81,Retired,65
+EUR,NL12FAKE7272067554,NL,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,37032.56,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Duke Energy,Electricity payment,2024-06-01,37035.86,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3861dbce-a7d4-41ea-85a5-8eec8a7beab8,2024-06-01,40063.86,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Lola Levesque,Christmas gift,2024-06-01,40159.53,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Web hosting fee,2024-06-01,40213.33,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: dbe47cea-5c14-40b7-addd-64b9c01a3789,2024-06-01,43241.33,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a0163c4a-b7fe-42e5-84f3-338c581ca7c6,2024-06-01,46269.33,Retired,65
+EUR,NL12FAKE7272067554,NL,Julia Bloemendaal,Reimbursement for dinner,2024-06-01,46401.49,Retired,65
+EUR,NL12FAKE7272067554,France,Tata Consultancy Services,System upgrade fee,2024-06-01,46460.65,Retired,65
+EUR,NL12FAKE7272067554,NL,Procter & Gamble,Retail goods payment,2024-06-01,46481.51,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: c931506f-8dcd-40d0-a555-db59c8217d0b,2024-06-01,49509.51,Retired,65
+EUR,NL12FAKE7272067554,NL,Boeing,Space exploration fee,2024-06-01,50603.85,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a940ccc9-832a-4d57-9a84-58f909d7e189,2024-06-01,53631.85,Retired,65
+EUR,NL12FAKE7272067554,NL,Facebook,Influencer collaboration fee,2024-06-01,53672.59,Retired,65
+EUR,NL12FAKE7272067554,NL,Sanofi,Medication purchase,2024-06-01,53722.77,Retired,65
+EUR,NL12FAKE7272067554,Japan,General Electric,Business unit invoice,2024-06-01,53728.18,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a54e84ec-3e05-482b-b06d-d9dbc7c0980c,2024-06-01,56756.18,Retired,65
+EUR,NL12FAKE7272067554,Canada,Toyota,Car purchase,2024-06-01,56866.11,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: e0a59261-db7d-43e9-89ad-ec174898ac33,2024-06-01,59894.11,Retired,65
+EUR,NL12FAKE7272067554,Italy,Honeywell,Diversified company fee,2024-06-01,59899.69,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Honeywell,Corporate services payment,2024-06-01,59917.05,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 245a0d34-db4e-4038-9a12-8ecfff554c39,2024-06-01,62945.05,Retired,65
+EUR,NL12FAKE7272067554,NL,Accenture,Consulting fee,2024-06-01,62949.82,Retired,65
+EUR,NL12FAKE7272067554,NL,BMW,Car parts order,2024-06-01,62981.39,Retired,65
+EUR,NL12FAKE7272067554,NL,Stefan van Amstel,Household expenses,2024-06-01,62983.39,Retired,65
+EUR,NL12FAKE7272067554,NL,Sanofi,Medication purchase,2024-06-01,63000.64,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Aron van den Brand-Brouwer,Reimbursement for bills,2024-06-01,63122.73,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 7e0e1f08-3276-4c4f-99e0-0b14eaaf4d6f,2024-06-01,66150.73,Retired,65
+EUR,NL12FAKE7272067554,NL,Merck & Co.,Pharmacy bill,2024-06-01,66165.97,Retired,65
+EUR,NL12FAKE7272067554,Spain,AstraZeneca,Medication purchase,2024-06-01,66170.61,Retired,65
+EUR,NL12FAKE7272067554,Belgium,GlaxoSmithKline,Healthcare prescription,2024-06-01,66246.97,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 4b046cb7-b331-4813-a234-011b3eb6431b,2024-06-01,69274.97,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 6f4ac287-1e65-41ce-89c2-62454e30cade,2024-06-01,72302.97,Retired,65
+EUR,NL12FAKE7272067554,NL,LVMH,High-end product buy,2024-06-01,72396.69,Retired,65
+EUR,NL12FAKE7272067554,NL,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,72401.6,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 17195bde-aba3-44ee-81a0-b5e81c65c50d,2024-06-01,75429.6,Retired,65
+EUR,NL12FAKE7272067554,NL,Phillips 66,Renewable energy subscription,2024-06-01,75489.63,Retired,65
+EUR,NL12FAKE7272067554,Canada,Daimler,Vehicle service charge,2024-06-01,75493.35,Retired,65
+EUR,NL12FAKE7272067554,Canada,Sanofi,Drug order payment,2024-06-01,75596.98,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1d50356d-e7cd-452a-9e76-b3c646214ab0,2024-06-01,78624.98,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Imke van Santen,Anniversary gift,2024-06-01,78634.32,Retired,65
+EUR,NL12FAKE7272067554,Italy,General Electric,Conglomerate product order,2024-06-01,78637.02,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 31983909-1708-4c8b-af60-7ed3e9a29a33,2024-06-01,81665.02,Retired,65
+EUR,NL12FAKE7272067554,NL,Facebook,Social media service subscription,2024-06-01,81715.81,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Web hosting fee,2024-06-01,81744.13,Retired,65
+EUR,NL12FAKE7272067554,NL,Goldman Sachs,Investment fund entry,2024-06-01,81775.5,Retired,65
+EUR,NL12FAKE7272067554,NL,Maartje van den Corput,Travel expenses,2024-06-01,81814.07,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 72cd6889-bcec-4133-bef1-3e35c74cd957,2024-06-01,84842.07,Retired,65
+EUR,NL12FAKE7272067554,NL,GlaxoSmithKline,Pharmacy bill,2024-06-01,84844.73,Retired,65
+EUR,NL12FAKE7272067554,Japan,Apple Inc.,Web hosting fee,2024-06-01,84892.69,Retired,65
+EUR,NL12FAKE7272067554,NL,Nike,Fashion brand order,2024-06-01,84916.34,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: cc2f22de-c829-47db-994b-ed586b940f39,2024-06-01,87944.34,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Floortje Fremie,Reimbursement for groceries,2024-06-01,87979.61,Retired,65
+EUR,NL12FAKE7272067554,NL,Marinus van Gastel,Housewarming gift,2024-06-01,87989.54,Retired,65
+EUR,NL12FAKE7272067554,NL,Honeywell,Corporate services payment,2024-06-01,87994.11,Retired,65
+EUR,NL12FAKE7272067554,NL,Meta Platforms,Cloud storage subscription,2024-06-01,87996.7,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 27d0fdbe-7260-4ce5-bd89-9821bf77eced,2024-06-01,91024.7,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 521fc7b3-bf41-4492-8f38-25fe9efdd0ce,2024-06-01,94052.7,Retired,65
+EUR,NL12FAKE7272067554,NL,Merck & Co.,Pharmacy bill,2024-06-01,94138.84,Retired,65
+EUR,NL12FAKE7272067554,NL,3M,Business unit invoice,2024-06-01,94140.3,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,3M,Corporate services payment,2024-06-01,94148.59,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 0086c5fe-d900-486c-b8e4-3edbd1cbef61,2024-06-01,97176.59,Retired,65
+EUR,NL12FAKE7272067554,Germany,Facebook,Ad campaign funding,2024-06-01,97178.25,Retired,65
+EUR,NL12FAKE7272067554,NL,LVMH,High-end product buy,2024-06-01,97195.45,Retired,65
+EUR,NL12FAKE7272067554,NL,Microsoft,Technology services invoice payment,2024-06-01,97289.41,Retired,65
+EUR,NL12FAKE7272067554,NL,Facebook,Social media service subscription,2024-06-01,97293.26,Retired,65
+EUR,NL12FAKE7272067554,NL,Kai Haneberg,Wedding gift,2024-06-01,97301.69,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 6572ccef-8e0b-4b3c-9455-60ece3b261ef,2024-06-01,100329.69,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Vera van der Laarse,Loan repayment,2024-06-01,100376.83,Retired,65
+EUR,NL12FAKE7272067554,NL,Procter & Gamble,Subscription box service,2024-07-01,100415.39,Retired,65
+EUR,NL12FAKE7272067554,NL,BMW,Auto repair bill,2024-07-01,100421.68,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 357e83a7-1f3a-4a2d-86bc-1aff8c930e23,2024-07-01,103449.68,Retired,65
+EUR,NL12FAKE7272067554,NL,ByteDance,Technology services invoice payment,2024-07-01,103539.53,Retired,65
+EUR,NL12FAKE7272067554,Canada,3M,Corporate services payment,2024-07-01,103563.24,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 9a10e7ae-62d8-451f-a890-cfaf9315c5ac,2024-07-01,106591.24,Retired,65
+EUR,NL12FAKE7272067554,NL,General Electric,Diversified company fee,2024-07-01,106594.66,Retired,65
+EUR,NL12FAKE7272067554,NL,Roche,Pharmacy bill,2024-07-01,106617.93,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: fb1ef185-3190-45d7-9238-983a78a4adc1,2024-07-01,109645.93,Retired,65
+EUR,NL12FAKE7272067554,United States,Alibaba,E-commerce order,2024-07-01,109707.37,Retired,65
+EUR,NL12FAKE7272067554,NL,GlaxoSmithKline,Healthcare prescription,2024-07-01,109725.58,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: d5cf954c-6990-4600-8e71-c629684cb895,2024-07-01,112753.58,Retired,65
+EUR,NL12FAKE7272067554,Austria,Berkshire Hathaway,Business unit invoice,2024-07-01,112885.0,Retired,65
+EUR,NL12FAKE7272067554,NL,Boeing,Space exploration fee,2024-07-01,112914.41,Retired,65
+EUR,NL12FAKE7272067554,Austria,Lise van der Heyden-van der Heyden,Mortgage help,2024-07-01,112966.87,Retired,65
+EUR,NL12FAKE7272067554,Belgium,Allianz,Policy renewal fee,2024-07-01,112969.94,Retired,65
+EUR,NL12FAKE7272067554,Germany,Goldman Sachs,Brokerage fee,2024-07-01,112975.28,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 2ab5d9e5-1aa1-434b-85f8-095d17aaa569,2024-07-01,116003.28,Retired,65
+EUR,NL12FAKE7272067554,NL,SoftBank,Diversified company fee,2024-07-01,116009.58,Retired,65
+EUR,NL12FAKE7272067554,Canada,Luke Jansdr,Split restaurant bill,2024-07-01,116073.19,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1bf879d2-bf2c-45f3-96b2-62054959af44,2024-07-01,119101.19,Retired,65
+EUR,NL12FAKE7272067554,NL,Procter & Gamble,Subscription box service,2024-07-01,119710.86,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1ae69d92-e40d-4ed5-9a46-e9ea36befc52,2024-07-01,122738.86,Retired,65
+EUR,NL12FAKE7272067554,NL,Accenture,Professional service invoice,2024-07-01,122797.47,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a41f8a15-6141-49b7-9af4-fe8ce8e6dd6c,2024-07-01,125825.47,Retired,65
+EUR,NL12FAKE7272067554,Japan,Roche,Medication purchase,2024-07-01,125830.47,Retired,65
+EUR,NL12FAKE7272067554,NL,Boaz Aertsz-Everde,Dinner reimbursement,2024-07-01,125849.88,Retired,65
+EUR,NL12FAKE7272067554,NL,DuPont,Business unit invoice,2024-07-01,125865.7,Retired,65
+EUR,NL12FAKE7272067554,NL,General Electric,Diversified company fee,2024-07-01,125871.82,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1a1549b2-3aac-4b60-993f-7d688654181d,2024-07-01,128899.82,Retired,65
+EUR,NL12FAKE7272067554,NL,General Electric,Business unit invoice,2024-07-01,128912.2,Retired,65
+EUR,NL12FAKE7272067554,Canada,BMW,Car parts order,2024-07-01,128913.61,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Huawei,Web hosting fee,2024-07-01,128984.84,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 728f75e1-2e02-47ea-a137-6ae0d3b675d4,2024-07-01,132012.84,Retired,65
+EUR,NL12FAKE7272067554,NL,Allianz,Insurance premium,2024-07-01,132045.55,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3d82a5d3-5620-41af-9d8e-556c541ed2b8,2024-07-01,135073.55,Retired,65
+EUR,NL12FAKE7272067554,NL,Nike,Apparel shopping,2024-07-01,135116.49,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Mitsubishi,Corporate services payment,2024-07-01,135157.86,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 346d7d44-6d24-403f-b38e-c24eb6dfd779,2024-07-01,138185.86,Retired,65
+EUR,NL12FAKE7272067554,Belgium,Michael Mulder,Mortgage help,2024-07-01,138198.62,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Procter & Gamble,Subscription box service,2024-07-01,138274.71,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 37baa1f4-d285-4968-ade3-f232212ee8b1,2024-07-01,141302.71,Retired,65
+EUR,NL12FAKE7272067554,NL,Laurens Mallien,Baby shower gift,2024-07-01,141313.11,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 0c4609ce-b27f-4d6a-b3bc-f93a5d9090e0,2024-07-01,144341.11,Retired,65
+EUR,NL12FAKE7272067554,NL,Daimler,Auto repair bill,2024-07-01,144348.76,Retired,65
+EUR,NL12FAKE7272067554,NL,Elizabeth Aertsz,Graduation gift,2024-07-01,144420.73,Retired,65
+EUR,NL12FAKE7272067554,Canada,Microsoft,Software license fee payment,2024-07-01,144476.12,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 81016df3-780c-4277-9268-959c30b28e4f,2024-07-01,147504.12,Retired,65
+EUR,NL12FAKE7272067554,NL,Johnson & Johnson,Drug order payment,2024-07-01,147857.87,Retired,65
+EUR,NL12FAKE7272067554,NL,Morgan Stanley,Investment fund entry,2024-07-01,147864.98,Retired,65
+EUR,NL12FAKE7272067554,NL,Daimler,Vehicle service charge,2024-07-01,147942.38,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: e6f62935-d8e1-47a4-aa3e-f8471540b9e4,2024-07-01,150970.38,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Web hosting fee,2024-07-01,150974.0,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 7d6fc3d2-6623-4535-a0b5-5ccc1756917b,2024-07-01,154002.0,Retired,65
+EUR,NL12FAKE7272067554,NL,Alphabet Inc.,Software license fee payment,2024-07-01,154013.65,Retired,65
+EUR,NL12FAKE7272067554,NL,Renault,Car purchase,2024-07-01,154108.18,Retired,65
+EUR,NL12FAKE7272067554,NL,Accenture,Expert consultation fee,2024-07-01,154168.58,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 2a2d157b-d600-473d-9fa4-0b468e0267c3,2024-07-01,157196.58,Retired,65
+EUR,NL12FAKE7272067554,Canada,Microsoft,Technology services invoice payment,2024-07-01,157198.61,Retired,65
+EUR,NL12FAKE7272067554,Canada,BMW,Car purchase,2024-07-01,157210.75,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Toyota,Auto repair bill,2024-07-01,157323.03,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3ca66c9b-1140-43a3-957c-04e381d814a5,2024-07-01,160351.03,Retired,65
+EUR,NL12FAKE7272067554,NL,Apple Inc.,Web hosting fee,2024-07-01,160682.03,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 78647180-9c90-426a-a961-5dfd4d15db44,2024-07-01,163710.03,Retired,65
+EUR,NL12FAKE7272067554,United States,Phillips 66,Renewable energy subscription,2024-07-01,163724.77,Retired,65
+EUR,NL12FAKE7272067554,Germany,3M,Business unit invoice,2024-07-01,163733.21,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a0f4ecb4-b351-41e9-a8ee-cb9e688452b0,2024-07-01,166761.21,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Annemijn Sterkman,Reimbursement for medical expenses,2024-07-01,166767.29,Retired,65
+EUR,NL12FAKE7272067554,Germany,Amira Mijsberg,Household expenses,2024-07-01,166791.31,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Airbus,Aerospace parts purchase,2024-07-01,166796.81,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: e1b9e7cb-2d6f-495e-83d1-f7dae918fcdc,2024-07-01,169824.81,Retired,65
+EUR,NL12FAKE7272067554,United States,Gilead Sciences,Biotech research fee,2024-07-01,169831.11,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Bayer,Medication purchase,2024-07-01,169836.65,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Airbus,Aviation technology fee,2024-07-01,169851.16,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Facebook,Ad campaign funding,2024-07-01,169878.17,Retired,65
+EUR,NL12FAKE7272067554,NL,Microsoft,Cloud storage subscription,2024-07-01,169878.74,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 7b303d4f-7548-4580-803f-3ed242eaa5be,2024-07-01,172906.74,Retired,65
+EUR,NL12FAKE7272067554,Canada,Verizon,Cable service subscription,2024-07-01,172994.41,Retired,65
+EUR,NL12FAKE7272067554,United States,Allianz,Coverage update charge,2024-07-01,173016.18,Retired,65
+EUR,NL12FAKE7272067554,NL,Hannah van den Brand,Reimbursement for shopping,2024-07-01,173075.56,Retired,65
+EUR,NL12FAKE7272067554,NL,Honeywell,Conglomerate product order,2024-07-01,173086.33,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Mitsubishi,Corporate services payment,2024-07-01,173096.67,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 6bff7ef8-3bc0-4d86-a68c-12cecdd41c34,2024-07-01,176124.67,Retired,65
+EUR,NL12FAKE7272067554,NL,Evi Appelman,Shared subscription,2024-07-01,176295.61,Retired,65
+EUR,NL12FAKE7272067554,Germany,Renault,Car purchase,2024-07-01,176308.93,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 05aab593-d88d-41e9-8b2b-ba7a0a09fcc1,2024-07-01,179336.93,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Novartis,Pharmacy bill,2024-07-01,179344.29,Retired,65
+EUR,NL12FAKE7272067554,NL,Honeywell,Conglomerate product order,2024-07-01,179351.18,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: e71243e2-a5ef-44e0-ad87-1282bf13f85d,2024-07-01,182379.18,Retired,65
+EUR,NL12FAKE7272067554,NL,Dell Technologies,Web hosting fee,2024-07-01,182425.22,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 081656fa-ec73-4a27-9bd7-4d22ea763b1f,2024-07-01,182442.08,Retired,65
+EUR,NL12FAKE7272067554,NL,Merck & Co.,Drug order payment,2024-07-01,182510.76,Retired,65
+EUR,NL12FAKE7272067554,Germany,Cisco Systems,Web hosting fee,2024-07-01,182511.94,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: c922f2a1-500d-498d-b7a5-001a81561dd6,2024-07-01,185539.94,Retired,65
+EUR,NL12FAKE7272067554,Germany,Nike,Fashion brand order,2024-07-01,185542.11,Retired,65
+EUR,NL12FAKE7272067554,NL,Apple Inc.,Technology services invoice payment,2024-07-01,185607.02,Retired,65
+EUR,NL12FAKE7272067554,NL,Ford Motor,Car purchase,2024-07-01,185608.05,Retired,65
+EUR,NL12FAKE7272067554,NL,Huawei,Cloud storage subscription,2024-07-01,185647.56,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: dfdf8791-6e3a-4d68-976f-0c646c3c6264,2024-07-01,188675.56,Retired,65
+EUR,NL12FAKE7272067554,Spain,Amazon,Marketplace seller fee,2024-07-01,188677.72,Retired,65
+EUR,NL12FAKE7272067554,United States,Amazon,E-commerce order,2024-07-01,188787.83,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 68994835-7929-47c1-a2ea-3bec33039dc4,2024-07-01,191815.83,Retired,65
+EUR,NL12FAKE7272067554,United States,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,191818.75,Retired,65
+EUR,NL12FAKE7272067554,NL,Tata Consultancy Services,IT support fee,2024-07-01,191823.41,Retired,65
+EUR,NL12FAKE7272067554,Germany,Elena van Kempen-Krabbe,Travel expenses,2024-07-01,191846.47,Retired,65
+EUR,NL12FAKE7272067554,Canada,Dave Smit,Reimbursement for medical expenses,2024-07-01,191852.98,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 5abd1353-20a2-4e34-836a-e71e1b7067e0,2024-07-01,194880.98,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Alphabet Inc.,Software license fee payment,2024-07-01,194890.98,Retired,65
+EUR,NL12FAKE7272067554,Japan,Amélie Wigman,Vacation expenses,2024-07-01,194909.62,Retired,65
+EUR,NL12FAKE7272067554,NL,Procter & Gamble,Product purchase,2024-07-01,194951.58,Retired,65
+EUR,NL12FAKE7272067554,NL,Bristol-Myers Squibb,Drug order payment,2024-07-01,194956.51,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 2efa3448-2c8c-45fb-8c19-69bd6508e7d2,2024-07-01,197984.51,Retired,65
+EUR,NL12FAKE7272067554,NL,Ivy Appelman-Hehl,Shared subscription,2024-08-01,198009.87,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: fce309a6-6a4b-43d6-baf5-5c04726d0e35,2024-08-01,201037.87,Retired,65
+EUR,NL12FAKE7272067554,NL,Berat van Buuren-Elsenaar,Gas money,2024-08-01,201083.18,Retired,65
+EUR,NL12FAKE7272067554,NL,SoftBank,Corporate services payment,2024-08-01,201095.41,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Procter & Gamble,Subscription box service,2024-08-01,201098.88,Retired,65
+EUR,NL12FAKE7272067554,NL,Lindsey Jorlink,Debt settlement,2024-08-01,201106.43,Retired,65
+EUR,NL12FAKE7272067554,United States,Tata Consultancy Services,Technical service charge,2024-08-01,201162.0,Retired,65
+EUR,NL12FAKE7272067554,Canada,AstraZeneca,Pharmacy bill,2024-08-01,201166.09,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: d44dfedb-f42d-4036-b98f-98676625d669,2024-08-01,204194.09,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 99c498d5-abee-4b52-83fb-4467fb28e357,2024-08-01,207222.09,Retired,65
+EUR,NL12FAKE7272067554,Italy,PepsiCo,Food delivery,2024-08-01,207230.98,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Apple Inc.,Cloud storage subscription,2024-08-01,207295.05,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Technology services invoice payment,2024-08-01,207397.49,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: eb566779-b4c5-4c4a-b68b-031c949979e5,2024-08-01,210425.49,Retired,65
+EUR,NL12FAKE7272067554,France,BMW,Car parts order,2024-08-01,210465.87,Retired,65
+EUR,NL12FAKE7272067554,NL,Procter & Gamble,Product purchase,2024-08-01,210472.91,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Procter & Gamble,Subscription box service,2024-08-01,210487.96,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1d7ca77d-8a28-4049-ad27-c91b18552c09,2024-08-01,213515.96,Retired,65
+EUR,NL12FAKE7272067554,NL,Boeing,Space exploration fee,2024-08-01,213572.28,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 16681949-c4d4-4f19-ac88-bd80d475dc67,2024-08-01,216600.28,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Allianz,Policy renewal fee,2024-08-01,216603.91,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: adbaf319-2c31-491c-8d1a-4c87235499b7,2024-08-01,219631.91,Retired,65
+EUR,NL12FAKE7272067554,Belgium,Mitsubishi,Conglomerate product order,2024-08-01,219636.01,Retired,65
+EUR,NL12FAKE7272067554,France,Accenture,Advisory session charge,2024-08-01,219698.17,Retired,65
+EUR,NL12FAKE7272067554,NL,Sebastiaan Recer,Mortgage help,2024-08-01,219705.39,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 07267c10-c862-48e0-b813-5e2c692c90c6,2024-08-01,222733.39,Retired,65
+EUR,NL12FAKE7272067554,NL,Microsoft,Cloud storage subscription,2024-08-01,222736.13,Retired,65
+EUR,NL12FAKE7272067554,NL,Sil Keijser,Medical bills,2024-08-01,222783.45,Retired,65
+EUR,NL12FAKE7272067554,Canada,Jenna Ruijs,Party contribution,2024-08-01,222857.28,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Data plan payment,2024-08-01,222862.52,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 26804cca-09aa-4c9c-8e1d-5ea3043a61bd,2024-08-01,225890.52,Retired,65
+EUR,NL12FAKE7272067554,NL,Jamie van Vliet,Medical bills,2024-08-01,225908.59,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 96994141-3306-4750-932e-52e68913cf97,2024-08-01,228936.59,Retired,65
+EUR,NL12FAKE7272067554,NL,Airbus,Aviation technology fee,2024-08-01,229044.37,Retired,65
+EUR,NL12FAKE7272067554,NL,Roche,Pharmacy bill,2024-08-01,229184.13,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 809899fc-7852-473d-b089-fd6f75b41bf5,2024-08-01,232212.13,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: af458f38-7bff-4be2-934f-2e08c386cfe9,2024-08-01,235240.13,Retired,65
+EUR,NL12FAKE7272067554,Canada,Gilead Sciences,Genetic testing kit,2024-08-01,235244.98,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Web hosting fee,2024-08-01,235305.06,Retired,65
+EUR,NL12FAKE7272067554,United States,Mees van der Brink,Family loan repayment,2024-08-01,235348.57,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 4f50a9bb-a99b-42df-b7c3-8fe8c0680045,2024-08-01,238376.57,Retired,65
+EUR,NL12FAKE7272067554,Canada,Bibi Dries,Shared hotel room cost,2024-08-01,238386.42,Retired,65
+EUR,NL12FAKE7272067554,Canada,Alphabet Inc.,Software license fee payment,2024-08-01,238391.77,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 5043c518-8503-4e08-afa1-b22f5d17931f,2024-08-01,241419.77,Retired,65
+EUR,NL12FAKE7272067554,NL,AstraZeneca,Pharmacy bill,2024-08-01,241510.78,Retired,65
+EUR,NL12FAKE7272067554,NL,Johnson & Johnson,Medication purchase,2024-08-01,241516.71,Retired,65
+EUR,NL12FAKE7272067554,NL,Nike,Sportswear buy,2024-08-01,241523.2,Retired,65
+EUR,NL12FAKE7272067554,NL,Merck & Co.,Medication purchase,2024-08-01,241543.03,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: f2af86e7-7d1a-4ca5-9046-5461455c5a9c,2024-08-01,244571.03,Retired,65
+EUR,NL12FAKE7272067554,NL,Morgan Stanley,Capital markets service,2024-08-01,244581.0,Retired,65
+EUR,NL12FAKE7272067554,NL,Volkswagen,Car purchase,2024-08-01,244593.52,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Bayer,Pharmacy bill,2024-08-01,244649.26,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: d5b0a24c-32c5-46b7-907e-51afda5f3545,2024-08-01,247677.26,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Microsoft,Cloud storage subscription,2024-08-01,247685.91,Retired,65
+EUR,NL12FAKE7272067554,NL,SoftBank,Business unit invoice,2024-08-01,247735.39,Retired,65
+EUR,NL12FAKE7272067554,NL,LVMH,Designer goods order,2024-08-01,247740.33,Retired,65
+EUR,NL12FAKE7272067554,NL,Morgan Stanley,Investment fund entry,2024-08-01,247746.79,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Software license fee payment,2024-08-01,247750.37,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: d645f1a6-a77c-414f-8ce9-9fa7c31336ca,2024-08-01,250778.37,Retired,65
+EUR,NL12FAKE7272067554,NL,Goldman Sachs,Capital markets service,2024-08-01,250829.85,Retired,65
+EUR,NL12FAKE7272067554,NL,Hamza van Hemert,Reimbursement for medical expenses,2024-08-01,250832.67,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 1a16153a-9a70-4b84-b417-908cbd8b0451,2024-08-01,253860.67,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Alibaba,Marketplace seller fee,2024-08-01,253873.59,Retired,65
+EUR,NL12FAKE7272067554,France,Cisco Systems,Software license fee payment,2024-08-01,253915.25,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 20bdea24-5085-4da0-9c35-d91c5edb347c,2024-08-01,256943.25,Retired,65
+EUR,NL12FAKE7272067554,NL,Daimler,Car purchase,2024-08-01,256953.02,Retired,65
+EUR,NL12FAKE7272067554,NL,Tobias Saxo,Pet expenses,2024-08-01,256966.9,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 36151474-4257-42c3-abd5-2d00fee653ea,2024-08-01,259994.9,Retired,65
+EUR,NL12FAKE7272067554,NL,Honeywell,Corporate services payment,2024-08-01,260003.33,Retired,65
+EUR,NL12FAKE7272067554,NL,Johnson & Johnson,Healthcare prescription,2024-08-01,260023.14,Retired,65
+EUR,NL12FAKE7272067554,Japan,BASF,Industrial chemicals purchase,2024-08-01,260043.65,Retired,65
+EUR,NL12FAKE7272067554,Canada,Unilever,Product purchase,2024-08-01,260048.99,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Telecom invoice,2024-08-01,260053.66,Retired,65
+EUR,NL12FAKE7272067554,NL,Allianz,Claim settlement,2024-08-01,260089.6,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 31aba933-0247-49d4-a597-5a92dd91c97a,2024-08-01,263117.6,Retired,65
+EUR,NL12FAKE7272067554,Japan,Tata Consultancy Services,Technical service charge,2024-08-01,263123.36,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: fa714304-752e-4c2c-abbf-2be2afd6824e,2024-08-01,266151.36,Retired,65
+EUR,NL12FAKE7272067554,NL,Iris Fredriks,Birthday party expenses,2024-08-01,266211.18,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 14cc629b-0af6-458c-8b01-ecffd0de19b3,2024-08-01,269239.18,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 91921cb2-fa55-4d3d-a630-623f43c9903d,2024-08-01,269275.21,Retired,65
+EUR,NL12FAKE7272067554,NL,Tata Consultancy Services,System upgrade fee,2024-08-01,269276.91,Retired,65
+EUR,NL12FAKE7272067554,Germany,Lily van Straaten-Smit,Emergency funds,2024-08-01,269307.42,Retired,65
+EUR,NL12FAKE7272067554,Canada,Bristol-Myers Squibb,Healthcare prescription,2024-08-01,269396.41,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 4b02a4ea-ae26-4e84-b533-b3392434d0ad,2024-08-01,272424.41,Retired,65
+EUR,NL12FAKE7272067554,NL,Verizon,Cable service subscription,2024-08-01,272431.63,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 2a49aed3-b572-4c1f-8b48-fe686281982d,2024-08-01,275459.63,Retired,65
+EUR,NL12FAKE7272067554,NL,Pfizer,Pharmacy bill,2024-08-01,275591.16,Retired,65
+EUR,NL12FAKE7272067554,NL,Roche,Medication purchase,2024-08-01,275601.17,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3fef759a-9a3a-479c-9bc8-3f82238c318d,2024-08-01,278629.17,Retired,65
+EUR,NL12FAKE7272067554,NL,Tata Consultancy Services,IT support fee,2024-08-01,278635.06,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 948ff338-5e56-4ab1-be14-441f4b6b0613,2024-08-01,278666.47,Retired,65
+EUR,NL12FAKE7272067554,NL,Alibaba,Subscription service,2024-08-01,278667.38,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Cloud storage subscription,2024-08-01,278669.97,Retired,65
+EUR,NL12FAKE7272067554,NL,Yinthe Hollander,Mortgage help,2024-08-01,278709.5,Retired,65
+EUR,NL12FAKE7272067554,NL,Jort Verhoeven,Gas money,2024-08-01,278733.61,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 77fb1fe7-c6ee-4057-a58c-dae5fc6ed172,2024-08-01,281761.61,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Gilead Sciences,Clinical trial payment,2024-08-01,281773.55,Retired,65
+EUR,NL12FAKE7272067554,NL,DuPont,Business unit invoice,2024-08-01,281808.39,Retired,65
+EUR,NL12FAKE7272067554,Japan,Novartis,Drug order payment,2024-08-01,281815.61,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: ebc80364-917f-4cb5-870e-2ea5c230995b,2024-08-01,284843.61,Retired,65
+EUR,NL12FAKE7272067554,Canada,Microsoft,Cloud storage subscription,2024-08-01,284848.33,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 90854398-1fbb-448f-86a8-510d4b22de6a,2024-08-01,287876.33,Retired,65
+EUR,NL12FAKE7272067554,NL,Jennifer Uphus,Grocery money,2024-08-01,287894.21,Retired,65
+EUR,NL12FAKE7272067554,United States,Morgan Stanley,Brokerage fee,2024-08-01,287905.97,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Janna Vertooren-van der Spaendonck,Reimbursement for travel,2024-08-01,287909.38,Retired,65
+EUR,NL12FAKE7272067554,NL,Toyota,Vehicle service charge,2024-08-01,287920.34,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 69210cf7-1da1-40dc-a1a4-9f0e98a45c7f,2024-08-01,290948.34,Retired,65
+EUR,NL12FAKE7272067554,Canada,DuPont,Conglomerate product order,2024-08-01,290950.24,Retired,65
+EUR,NL12FAKE7272067554,NL,Siem Geneart,Shared ride expenses,2024-08-01,291010.72,Retired,65
+EUR,NL12FAKE7272067554,France,Novartis,Healthcare prescription,2024-08-01,291023.42,Retired,65
+EUR,NL12FAKE7272067554,NL,BASF,Chemical supply order,2024-08-01,291112.52,Retired,65
+EUR,NL12FAKE7272067554,France,Geldmaat ATM,Geldmaat: 8ebecb15-0bd7-4a41-8527-b4026a31312c,2024-08-01,291127.83,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a152395a-80cf-4faa-8e87-e324ca42d662,2024-08-01,294155.83,Retired,65
+EUR,NL12FAKE7272067554,NL,Kai Stook,Housewarming gift,2024-08-01,294170.78,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Airbus,Aviation technology fee,2024-08-01,294191.77,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: e852330e-d1b9-4f56-85a3-1ac2fec22d63,2024-09-01,297219.77,Retired,65
+EUR,NL12FAKE7272067554,NL,Merck & Co.,Drug order payment,2024-09-01,297543.84,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Cable service subscription,2024-09-01,297604.21,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: f252d9e0-6373-40c7-b10c-568474763989,2024-09-01,300632.21,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 4e8ed389-1a1f-46c9-86b7-bdd2b89c1ab9,2024-09-01,303660.21,Retired,65
+EUR,NL12FAKE7272067554,NL,SoftBank,Corporate services payment,2024-09-01,303729.25,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 57ee9b45-fdef-4b9f-8136-f071863bc1b0,2024-09-01,303871.18,Retired,65
+EUR,NL12FAKE7272067554,NL,Ford Motor,Vehicle service charge,2024-09-01,303902.67,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 71141d82-70ff-4de6-9484-ab3a122e74a6,2024-09-01,306930.67,Retired,65
+EUR,NL12FAKE7272067554,NL,Luc van Ochten-Osterhoudt,Rent assistance,2024-09-01,306951.49,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 6e56bfdb-b1f8-43be-8216-2b82a26778ab,2024-09-01,309979.49,Retired,65
+EUR,NL12FAKE7272067554,NL,Novartis,Medication purchase,2024-09-01,309984.85,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,309986.02,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Data plan payment,2024-09-01,310103.04,Retired,65
+EUR,NL12FAKE7272067554,NL,Cisco Systems,Cloud storage subscription,2024-09-01,310128.78,Retired,65
+EUR,NL12FAKE7272067554,NL,Ford Motor,Auto repair bill,2024-09-01,310149.26,Retired,65
+EUR,NL12FAKE7272067554,NL,Muhammed Totwiller,Support money,2024-09-01,310151.1,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 885c0f7e-aefb-4079-a37e-ec7309427cee,2024-09-01,313179.1,Retired,65
+EUR,NL12FAKE7272067554,Canada,Elias de Roos,Split restaurant bill,2024-09-01,313267.98,Retired,65
+EUR,NL12FAKE7272067554,Italy,DuPont,Conglomerate product order,2024-09-01,313340.6,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 9a21487d-8421-40f0-ba63-42179a70164d,2024-09-01,316368.6,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 80dfee60-5a5d-4764-b0d1-74f2282bc525,2024-09-01,319396.6,Retired,65
+EUR,NL12FAKE7272067554,NL,Novartis,Medication purchase,2024-09-01,319486.91,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,General Electric,Corporate services payment,2024-09-01,319488.51,Retired,65
+EUR,NL12FAKE7272067554,NL,Toyota,Car parts order,2024-09-01,319505.31,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Microsoft,Technology services invoice payment,2024-09-01,319507.16,Retired,65
+EUR,NL12FAKE7272067554,NL,DuPont,Diversified company fee,2024-09-01,319546.68,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: ca5ecfbb-a3eb-4fb2-9f39-df0850bb458c,2024-09-01,322574.68,Retired,65
+EUR,NL12FAKE7272067554,United States,Airbus,Space exploration fee,2024-09-01,322618.19,Retired,65
+EUR,NL12FAKE7272067554,United States,Merck & Co.,Medication purchase,2024-09-01,322651.87,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 2406a9a0-1c03-4ca5-9a2b-844c5032af2b,2024-09-01,325679.87,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a439f9e3-bb97-47ea-bfaf-ff3d54e75836,2024-09-01,328707.87,Retired,65
+EUR,NL12FAKE7272067554,NL,Huawei,Cloud storage subscription,2024-09-01,328759.98,Retired,65
+EUR,NL12FAKE7272067554,Belgium,Geldmaat ATM,Geldmaat: 72c0fc58-c7f0-47d6-b610-86206406c387,2024-09-01,328823.95,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 068ae518-deb2-4c2d-825c-d429187b9062,2024-09-01,331851.95,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 5ff343c8-e7e2-42c0-a502-cdee1c05ad2a,2024-09-01,334879.95,Retired,65
+EUR,NL12FAKE7272067554,NL,Nike,Sportswear buy,2024-09-01,334929.96,Retired,65
+EUR,NL12FAKE7272067554,NL,Morgan Stanley,Investment fund entry,2024-09-01,334992.64,Retired,65
+EUR,NL12FAKE7272067554,NL,General Electric,Diversified company fee,2024-09-01,335038.49,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Renault,Vehicle service charge,2024-09-01,335043.1,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 4799cbe5-0bba-45b5-9404-7e5a4ea59ae7,2024-09-01,338071.1,Retired,65
+EUR,NL12FAKE7272067554,NL,Tata Consultancy Services,IT support fee,2024-09-01,338090.03,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 339f4bb3-8dd0-4d7d-8ffc-e3fb5228f6bc,2024-09-01,338175.17,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 125b0d04-60c2-418e-9a23-a35e9df9f33e,2024-09-01,341203.17,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 7d5f3711-9da0-4c47-b9e6-8ad66a0f24b2,2024-09-01,341328.12,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: b5b94289-c000-4575-a679-f8e55eb1e213,2024-09-01,344356.12,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Bart Prinsen,Birthday party expenses,2024-09-01,344382.19,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: db4935db-591d-4454-ac6a-1d7eb7759ac2,2024-09-01,347410.19,Retired,65
+EUR,NL12FAKE7272067554,NL,Goldman Sachs,Investment fund entry,2024-09-01,347446.51,Retired,65
+EUR,NL12FAKE7272067554,NL,Sanofi,Drug order payment,2024-09-01,347458.52,Retired,65
+EUR,NL12FAKE7272067554,United States,Daimler,Car parts order,2024-09-01,347466.48,Retired,65
+EUR,NL12FAKE7272067554,NL,Adriana Lage,Support money,2024-09-01,347474.06,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: dbbdfed4-db3f-4540-a5e8-55c8a17dd944,2024-09-01,350502.06,Retired,65
+EUR,NL12FAKE7272067554,NL,Jasper Horrocks,Birthday gift,2024-09-01,350507.09,Retired,65
+EUR,NL12FAKE7272067554,Canada,AstraZeneca,Healthcare prescription,2024-09-01,350551.48,Retired,65
+EUR,NL12FAKE7272067554,Canada,Geldmaat ATM,Geldmaat: d11730ad-e67d-4c0b-a31b-ad3b3721afe5,2024-09-01,350672.42,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: b7f83449-2e6b-4077-9a31-fd77e096b2f0,2024-09-01,353700.42,Retired,65
+EUR,NL12FAKE7272067554,Germany,Meta Platforms,Cloud storage subscription,2024-09-01,353778.54,Retired,65
+EUR,NL12FAKE7272067554,United States,Ruben Roukes,Loan to friend,2024-09-01,353784.45,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 58f3d1dd-ae16-4acc-8fc7-8833820849d1,2024-09-01,356812.45,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Merck & Co.,Drug order payment,2024-09-01,356892.79,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 52a144e5-8e40-4ef3-88de-6f3ea87aab4d,2024-09-01,359920.79,Retired,65
+EUR,NL12FAKE7272067554,NL,Oracle,Technology services invoice payment,2024-09-01,360021.47,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 6045b58a-936c-4cce-8861-4e42f69eceb2,2024-09-01,363049.47,Retired,65
+EUR,NL12FAKE7272067554,United States,Meike Latier,Rent payment,2024-09-01,363101.63,Retired,65
+EUR,NL12FAKE7272067554,NL,Merck & Co.,Medication purchase,2024-09-01,363106.29,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: e0ec7b35-c71b-4917-9ec7-6d3901edae45,2024-09-01,366134.29,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 022573b1-f393-42fe-a61c-df9d39daa0fb,2024-09-01,369162.29,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Cable service subscription,2024-09-01,369189.64,Retired,65
+EUR,NL12FAKE7272067554,NL,Lorenzo Sterkman,Rent assistance,2024-09-01,369228.54,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Phone bill,2024-09-01,369241.53,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: c2c313b5-ef8a-4b8d-b510-e9a8193466e8,2024-09-01,372269.53,Retired,65
+EUR,NL12FAKE7272067554,Spain,Apple Inc.,Software license fee payment,2024-09-01,372277.9,Retired,65
+EUR,NL12FAKE7272067554,NL,Accenture,Advisory session charge,2024-09-01,372292.39,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 0540cbb9-931d-49cd-9036-97af5dfd7554,2024-09-01,372359.84,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 88cc115c-ef0b-4094-8bca-b31cb7f474dc,2024-09-01,375387.84,Retired,65
+EUR,NL12FAKE7272067554,NL,BMW,Auto repair bill,2024-09-01,375476.56,Retired,65
+EUR,NL12FAKE7272067554,NL,Microsoft,Cloud storage subscription,2024-09-01,375481.01,Retired,65
+EUR,NL12FAKE7272067554,Germany,Accenture,Professional service invoice,2024-09-01,375514.74,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: c64c5644-6187-49ff-a380-8b01a390bb00,2024-09-01,378542.74,Retired,65
+EUR,NL12FAKE7272067554,NL,Huawei,Technology services invoice payment,2024-09-01,378565.0,Retired,65
+EUR,NL12FAKE7272067554,NL,Renault,Car parts order,2024-09-01,378580.45,Retired,65
+EUR,NL12FAKE7272067554,NL,Volkswagen,Auto repair bill,2024-09-01,378587.68,Retired,65
+EUR,NL12FAKE7272067554,NL,Morgan Stanley,Stock purchase,2024-09-01,378591.36,Retired,65
+EUR,NL12FAKE7272067554,NL,Amazon,Subscription service,2024-09-01,378619.47,Retired,65
+EUR,NL12FAKE7272067554,NL,Tristan Verbeek,Medical bills,2024-09-01,378633.89,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 32956532-fbe6-445b-87df-e38144f1f8c0,2024-09-01,381661.89,Retired,65
+EUR,NL12FAKE7272067554,Italy,Microsoft,Web hosting fee,2024-09-01,381667.16,Retired,65
+EUR,NL12FAKE7272067554,NL,Amazon,Marketplace seller fee,2024-09-01,381673.06,Retired,65
+EUR,NL12FAKE7272067554,NL,Ford Motor,Car parts order,2024-09-01,381698.62,Retired,65
+EUR,NL12FAKE7272067554,NL,Duke Energy,Renewable energy subscription,2024-09-01,381726.96,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: cc6eafc5-94e3-420e-a6f2-02db2468e900,2024-09-01,384754.96,Retired,65
+EUR,NL12FAKE7272067554,Great Britain,Accenture,Expert consultation fee,2024-09-01,384833.54,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3c16e12c-ec50-42f4-8808-0d917bea5f0e,2024-09-01,387861.54,Retired,65
+EUR,NL12FAKE7272067554,NL,Isis van Boulogne-Vandenbergh,Split restaurant bill,2024-10-01,387881.27,Retired,65
+EUR,NL12FAKE7272067554,NL,Bastiaan Weerdenburg,Birthday gift,2024-10-01,387910.04,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 67aecc52-6fb1-43bd-9c5b-2e5ee55c7855,2024-10-01,390938.04,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Honeywell,Corporate services payment,2024-10-01,390947.65,Retired,65
+EUR,NL12FAKE7272067554,NL,Johnson & Johnson,Pharmacy bill,2024-10-01,390986.56,Retired,65
+EUR,NL12FAKE7272067554,Italy,Goldman Sachs,Brokerage fee,2024-10-01,391108.32,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: f522a13e-3f4b-436f-af77-43b3c60b2a8a,2024-10-01,394136.32,Retired,65
+EUR,NL12FAKE7272067554,Italy,Amazon,Subscription service,2024-10-01,394139.35,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: af66c2e6-8f6f-4ded-8212-198355620575,2024-10-01,397167.35,Retired,65
+EUR,NL12FAKE7272067554,NL,Dell Technologies,Software license fee payment,2024-10-01,397194.78,Retired,65
+EUR,NL12FAKE7272067554,NL,Dell Technologies,Cloud storage subscription,2024-10-01,397250.12,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: c28f8962-81fc-465d-bb0e-6aad5cfef227,2024-10-01,400278.12,Retired,65
+EUR,NL12FAKE7272067554,NL,AT&T,Phone bill,2024-10-01,400523.52,Retired,65
+EUR,NL12FAKE7272067554,Denmark,SoftBank,Conglomerate product order,2024-10-01,400539.07,Retired,65
+EUR,NL12FAKE7272067554,NL,SoftBank,Conglomerate product order,2024-10-01,400544.17,Retired,65
+EUR,NL12FAKE7272067554,NL,Loes Barents,Friend loan repayment,2024-10-01,400547.76,Retired,65
+EUR,NL12FAKE7272067554,NL,Sanofi,Drug order payment,2024-10-01,400568.77,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 89afcb41-c55c-4cec-8823-59aff868b3a4,2024-10-01,403596.77,Retired,65
+EUR,NL12FAKE7272067554,Spain,Cisco Systems,Technology services invoice payment,2024-10-01,403634.82,Retired,65
+EUR,NL12FAKE7272067554,NL,Mare van de Eerenbeemt-van den Pol,Split vacation cost,2024-10-01,403646.37,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: a09705a8-2108-4cac-b715-a7a1aaa81dec,2024-10-01,406674.37,Retired,65
+EUR,NL12FAKE7272067554,France,Sanofi,Drug order payment,2024-10-01,406686.04,Retired,65
+EUR,NL12FAKE7272067554,Denmark,Demi Tillmanno-van Daal,Shared hotel room cost,2024-10-01,406710.89,Retired,65
+EUR,NL12FAKE7272067554,NL,Pfizer,Healthcare prescription,2024-10-01,406721.72,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 3981d1c1-c8da-4e7c-8251-b402f278d42c,2024-10-01,409749.72,Retired,65
+EUR,NL12FAKE7272067554,NL,IBM,Technology services invoice payment,2024-10-01,409793.96,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: d36a2d16-7de5-408a-9c69-d9fb74295bfe,2024-10-01,412821.96,Retired,65
+EUR,NL12FAKE7272067554,NL,Goldman Sachs,Investment fund entry,2024-10-01,412842.12,Retired,65
+EUR,NL12FAKE7272067554,NL,Gilead Sciences,Laboratory service charge,2024-10-01,412900.95,Retired,65
+EUR,NL12FAKE7272067554,NL,Kyra van Haeften-van der Smeede,Split restaurant bill,2024-10-01,412919.6,Retired,65
+EUR,NL12FAKE7272067554,Austria,Novartis,Pharmacy bill,2024-10-01,412940.03,Retired,65
+EUR,NL12FAKE7272067554,NL,Apple Inc.,Software license fee payment,2024-10-01,412986.47,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 15f9c5e3-8f8a-4036-af0b-0b2f11db4f5d,2024-10-01,416014.47,Retired,65
+EUR,NL12FAKE7272067554,NL,Airbus,Aerospace parts purchase,2024-10-01,416017.83,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 4bee8a5e-a2d6-4587-b242-706500788a31,2024-10-01,419045.83,Retired,65
+EUR,NL12FAKE7272067554,NL,Hidde Potters,Medical bills,2024-10-01,419052.57,Retired,65
+EUR,NL12FAKE7272067554,NL,Toyota,Car parts order,2024-10-01,419125.34,Retired,65
+EUR,NL12FAKE7272067554,NL,Geldmaat ATM,Geldmaat: 55d64fac-3c4e-4116-98b5-fb3c5d40288a,2024-10-01,419194.84,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 724e822f-ddd8-46e5-956a-ea864ff43959,2024-10-01,422222.84,Retired,65
+EUR,NL12FAKE7272067554,NL,Allianz,Claim settlement,2024-10-01,422274.24,Retired,65
+EUR,NL12FAKE7272067554,NL,Roche,Healthcare prescription,2024-10-01,422373.09,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 8d01e2d3-85bc-4b9f-8254-2b888e072c48,2024-10-01,425401.09,Retired,65
+EUR,NL12FAKE7272067554,Canada,Alphabet Inc.,Web hosting fee,2024-10-01,425502.16,Retired,65
+EUR,NL12FAKE7272067554,Hungary,Geldmaat ATM,Geldmaat: 854496cb-9df1-4615-bc4d-29cd8b22fa8c,2024-10-01,428530.16,Retired,65

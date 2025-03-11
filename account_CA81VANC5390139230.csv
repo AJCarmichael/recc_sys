@@ -1,0 +1,475 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+CAD,CA81VANC5390139230,NL,Pfizer,Medication purchase,2024-06-01,4628.5,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 22e8dc07-075d-4fa8-bfe8-cfd25c91e52e,2024-06-01,7114.5,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 13b8f001-b593-490e-a9e8-bf7b55cc6b98,2024-06-01,9600.5,Retail worker,28
+CAD,CA81VANC5390139230,NL,Mats van den Wittenboer,Medical bills,2024-06-01,9636.68,Retail worker,28
+CAD,CA81VANC5390139230,Belgium,Aiden Wildschut,Shared hotel room cost,2024-06-01,9652.7,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Aiden van Nes,Rent payment,2024-06-01,9702.94,Retail worker,28
+CAD,CA81VANC5390139230,NL,Pfizer,Medication purchase,2024-06-01,9715.71,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 0a82360b-3750-41cc-8268-2eb6f63da1ed,2024-06-01,12201.71,Retail worker,28
+CAD,CA81VANC5390139230,NL,Boeing,Aviation technology fee,2024-06-01,12208.42,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Huawei,Technology services invoice payment,2024-06-01,12258.21,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 90902a41-fdc7-49c3-aa84-25c8bb2839bf,2024-06-01,14744.21,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,Geldmaat ATM,Geldmaat: d7af4422-cbac-4ab1-9c57-2c30a4609284,2024-06-01,14871.74,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 5c318ce5-dbf4-4ce6-a7f1-47cbd1f9a81a,2024-06-01,17357.74,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Ise Rouwhorst,Graduation gift,2024-06-01,17410.85,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 77cad6f4-6c5e-421e-a279-7fa683c38144,2024-06-01,19896.85,Retail worker,28
+CAD,CA81VANC5390139230,NL,Oracle,Cloud storage subscription,2024-06-01,19910.74,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Novartis,Healthcare prescription,2024-06-01,19915.76,Retail worker,28
+CAD,CA81VANC5390139230,NL,Geldmaat ATM,Geldmaat: b8eb00dc-e8ed-46f5-9719-124b5c098a00,2024-06-01,19921.38,Retail worker,28
+CAD,CA81VANC5390139230,NL,Roche,Medication purchase,2024-06-01,19936.28,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 0ea4327e-cf27-4e92-9c8d-574e1eb22ffa,2024-06-01,22422.28,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Technology services invoice payment,2024-06-01,22731.74,Retail worker,28
+CAD,CA81VANC5390139230,NL,Oracle,Cloud storage subscription,2024-06-01,22795.79,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: c777ec41-4def-4844-a61c-4f6c9169c8f0,2024-06-01,25281.79,Retail worker,28
+CAD,CA81VANC5390139230,NL,ByteDance,Cloud storage subscription,2024-06-01,25319.16,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: dac3e099-26cd-4172-88c8-823c3d9ee3c8,2024-06-01,27805.16,Retail worker,28
+CAD,CA81VANC5390139230,NL,AT&T,Telecom invoice,2024-06-01,27922.05,Retail worker,28
+CAD,CA81VANC5390139230,NL,Berkshire Hathaway,Diversified company fee,2024-06-01,27943.75,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d66ce24d-5271-4a32-8673-f35a0e7b8226,2024-06-01,30429.75,Retail worker,28
+CAD,CA81VANC5390139230,NL,DuPont,Conglomerate product order,2024-06-01,30462.87,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 7d7f7415-d8c0-4ed2-b4ee-041920755b15,2024-06-01,32948.87,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Geldmaat ATM,Geldmaat: 70926751-a045-457e-b7f9-2b78f231e1e7,2024-06-01,33086.51,Retail worker,28
+CAD,CA81VANC5390139230,NL,Nike,Fashion brand order,2024-06-01,33136.06,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 11829d81-6722-4905-9487-84d4cec8a9fb,2024-06-01,35622.06,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tata Consultancy Services,Technical service charge,2024-06-01,35634.43,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Jorn Ghoerle,Reimbursement for groceries,2024-06-01,35643.43,Retail worker,28
+CAD,CA81VANC5390139230,United States,Nike,Sportswear buy,2024-06-01,35666.76,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d74de112-5ea2-418f-ae52-253af756b2fa,2024-06-01,38152.76,Retail worker,28
+CAD,CA81VANC5390139230,NL,Oracle,Cloud storage subscription,2024-06-01,38188.27,Retail worker,28
+CAD,CA81VANC5390139230,Japan,General Electric,Diversified company fee,2024-06-01,38244.17,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6fff8656-41bb-4136-8ffc-2ef6838d78ce,2024-06-01,40730.17,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Volkswagen,Auto repair bill,2024-06-01,40804.73,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d0b0c2b8-c471-4063-949b-d4816dd15e3a,2024-06-01,43290.73,Retail worker,28
+CAD,CA81VANC5390139230,Austria,Microsoft,Software license fee payment,2024-06-01,43305.62,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6f8095c2-5780-4475-afb5-b76bc52641e3,2024-06-01,45791.62,Retail worker,28
+CAD,CA81VANC5390139230,NL,Luca Schenkel,Shared subscription,2024-06-01,45829.73,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Meta Platforms,Web hosting fee,2024-06-01,45835.61,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 83b504da-1138-4069-a7eb-6aa820bd6617,2024-06-01,48321.61,Retail worker,28
+CAD,CA81VANC5390139230,Japan,Gilead Sciences,Clinical trial payment,2024-06-01,48334.76,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Ford Motor,Car parts order,2024-06-01,48339.2,Retail worker,28
+CAD,CA81VANC5390139230,NL,Dell Technologies,Technology services invoice payment,2024-06-01,48342.5,Retail worker,28
+CAD,CA81VANC5390139230,NL,Ford Motor,Auto repair bill,2024-06-01,48430.66,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,Roche,Drug order payment,2024-06-01,48445.16,Retail worker,28
+CAD,CA81VANC5390139230,NL,Cisco Systems,Web hosting fee,2024-06-01,48449.69,Retail worker,28
+CAD,CA81VANC5390139230,Italy,BMW,Vehicle service charge,2024-06-01,48454.3,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Web hosting fee,2024-06-01,48459.9,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 08f617dd-c170-4b96-88ce-4263cecaabd4,2024-06-01,50945.9,Retail worker,28
+CAD,CA81VANC5390139230,NL,Geldmaat ATM,Geldmaat: e64f1c46-c2b1-4b5c-a56b-d8d0c98c6f33,2024-06-01,50989.02,Retail worker,28
+CAD,CA81VANC5390139230,Austria,Allianz,Coverage update charge,2024-06-01,51000.69,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Software license fee payment,2024-06-01,51002.04,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tirza Shupe,Personal loan,2024-06-01,51090.66,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 0e7d2748-eee8-4090-9bc7-0e199cb97cf3,2024-06-01,53576.66,Retail worker,28
+CAD,CA81VANC5390139230,NL,SoftBank,Diversified company fee,2024-06-01,53620.67,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: adc862a3-63fe-4de2-b897-4b0e7c81a8c3,2024-06-01,56106.67,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Dell Technologies,Cloud storage subscription,2024-06-01,56138.72,Retail worker,28
+CAD,CA81VANC5390139230,Japan,3M,Business unit invoice,2024-06-01,56162.73,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e13ebdb5-ff2e-419e-92e5-209c07d370a2,2024-06-01,58648.73,Retail worker,28
+CAD,CA81VANC5390139230,NL,Dell Technologies,Web hosting fee,2024-06-01,58715.0,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Web hosting fee,2024-06-01,58718.08,Retail worker,28
+CAD,CA81VANC5390139230,United States,Accenture,Professional service invoice,2024-06-01,58738.88,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,SoftBank,Corporate services payment,2024-06-01,58764.77,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Toyota,Car purchase,2024-06-01,58784.28,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e4e17142-59bc-4899-8c23-5b7f1e524a50,2024-06-01,61270.28,Retail worker,28
+CAD,CA81VANC5390139230,NL,Apple Inc.,Cloud storage subscription,2024-06-01,61297.33,Retail worker,28
+CAD,CA81VANC5390139230,Italy,LVMH,High-end product buy,2024-06-01,61302.84,Retail worker,28
+CAD,CA81VANC5390139230,Belgium,PepsiCo,Food delivery,2024-06-01,61326.17,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Unilever,Order payment,2024-06-01,61333.58,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 57f7a5ad-86ea-4aa9-99a7-4d787ac225a4,2024-06-01,63819.58,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,PepsiCo,Beverage order,2024-06-01,63824.48,Retail worker,28
+CAD,CA81VANC5390139230,France,Mirte Ouwel,Pet expenses,2024-06-01,63841.34,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 8343e3e9-f04f-4a75-9e4c-24097644912a,2024-06-01,66327.34,Retail worker,28
+CAD,CA81VANC5390139230,NL,Ford Motor,Car purchase,2024-06-01,66394.05,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Daimler,Car parts order,2024-06-01,66423.23,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Geldmaat ATM,Geldmaat: 7ce37a57-580a-4af9-817e-b04957deb714,2024-06-01,66446.01,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Accenture,Advisory session charge,2024-06-01,66459.27,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 3c784181-2615-4920-a093-305417373abf,2024-06-01,68945.27,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e0eb72ea-16f5-4b66-a002-7ab262c37f08,2024-06-01,71431.27,Retail worker,28
+CAD,CA81VANC5390139230,NL,Goldman Sachs,Stock purchase,2024-06-01,71465.74,Retail worker,28
+CAD,CA81VANC5390139230,NL,Daimler,Car purchase,2024-06-01,71495.3,Retail worker,28
+CAD,CA81VANC5390139230,NL,AstraZeneca,Pharmacy bill,2024-06-01,71515.16,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Eliza Friehus,Family loan repayment,2024-06-01,71569.74,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Mitsubishi,Corporate services payment,2024-06-01,71576.3,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 4d19698f-c843-4f43-9841-0b4df932d991,2024-06-01,74062.3,Retail worker,28
+CAD,CA81VANC5390139230,NL,Geldmaat ATM,Geldmaat: ad47edc4-15e0-49f3-bb7c-a2c18582bf48,2024-06-01,74132.97,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 48c1d2fa-8748-45f3-bc2e-36d43faa7b7a,2024-06-01,76618.97,Retail worker,28
+CAD,CA81VANC5390139230,NL,Rafael de Swart,Dinner reimbursement,2024-06-01,76624.62,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tata Consultancy Services,Technical service charge,2024-06-01,76626.66,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Eliza Middelkoop,Birthday party expenses,2024-06-01,76631.67,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,LVMH,Designer goods order,2024-06-01,76635.54,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: b3169952-e32f-4498-b396-2aea7b8d79d4,2024-06-01,79121.54,Retail worker,28
+CAD,CA81VANC5390139230,NL,Cisco Systems,Cloud storage subscription,2024-06-01,79164.89,Retail worker,28
+CAD,CA81VANC5390139230,NL,Johanna Niermann,Grocery money,2024-06-01,79185.47,Retail worker,28
+CAD,CA81VANC5390139230,United States,Ford Motor,Car parts order,2024-06-01,79216.73,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: bc4bb9e1-e1e7-46ad-9834-0e6d44d1ea15,2024-06-01,81702.73,Retail worker,28
+CAD,CA81VANC5390139230,France,Huawei,Cloud storage subscription,2024-06-01,81713.24,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Nout Hemma van Allemanië,Shared subscription,2024-07-01,81741.53,Retail worker,28
+CAD,CA81VANC5390139230,NL,GlaxoSmithKline,Medication purchase,2024-07-01,81765.71,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 98c68a61-550b-46de-8cd5-123828abd2fd,2024-07-01,84251.71,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Pharmacy bill,2024-07-01,84255.32,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Cloud storage subscription,2024-07-01,84299.66,Retail worker,28
+CAD,CA81VANC5390139230,NL,BASF,Industrial chemicals purchase,2024-07-01,84301.63,Retail worker,28
+CAD,CA81VANC5390139230,NL,Quinty van Lucel,Shared ride expenses,2024-07-01,84339.22,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 9f5f29ab-db27-4a4e-8183-4aaf248c542c,2024-07-01,86825.22,Retail worker,28
+CAD,CA81VANC5390139230,United States,Gilead Sciences,Clinical trial payment,2024-07-01,86839.76,Retail worker,28
+CAD,CA81VANC5390139230,NL,Toyota,Vehicle service charge,2024-07-01,86898.44,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6040d976-6455-4ea9-83e6-c80f84d88ffa,2024-07-01,89384.44,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e488523e-8818-4dad-8f9d-28a33683293c,2024-07-01,91870.44,Retail worker,28
+CAD,CA81VANC5390139230,NL,Facebook,Influencer collaboration fee,2024-07-01,91930.17,Retail worker,28
+CAD,CA81VANC5390139230,Japan,Sanofi,Pharmacy bill,2024-07-01,91934.36,Retail worker,28
+CAD,CA81VANC5390139230,NL,GlaxoSmithKline,Healthcare prescription,2024-07-01,92007.2,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 549488b5-8b40-4058-aa78-83ae35f537fe,2024-07-01,94493.2,Retail worker,28
+CAD,CA81VANC5390139230,Japan,Bente Sitters,Baby shower gift,2024-07-01,94513.27,Retail worker,28
+CAD,CA81VANC5390139230,NL,Microsoft,Cloud storage subscription,2024-07-01,94529.85,Retail worker,28
+CAD,CA81VANC5390139230,NL,Owen Gellemeyer-van Poppel,Reimbursement for travel,2024-07-01,94543.1,Retail worker,28
+CAD,CA81VANC5390139230,NL,Morgan Stanley,Capital markets service,2024-07-01,94580.31,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e4e9886b-887e-469c-818a-95f00d39e68c,2024-07-01,97066.31,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Gilead Sciences,Laboratory service charge,2024-07-01,97126.92,Retail worker,28
+CAD,CA81VANC5390139230,NL,DuPont,Business unit invoice,2024-07-01,97148.53,Retail worker,28
+CAD,CA81VANC5390139230,NL,Ian Stichter,Rent deposit,2024-07-01,97156.64,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: cf389cfa-83dc-4fc3-8c50-bd023eb18648,2024-07-01,99642.64,Retail worker,28
+CAD,CA81VANC5390139230,NL,Meta Platforms,Cloud storage subscription,2024-07-01,99664.82,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: ec25cf8f-099e-407f-b05b-deff080ec711,2024-07-01,102150.82,Retail worker,28
+CAD,CA81VANC5390139230,NL,Apple Inc.,Web hosting fee,2024-07-01,102171.13,Retail worker,28
+CAD,CA81VANC5390139230,NL,Juul Wooning,Baby shower gift,2024-07-01,102174.9,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e9650b87-9a7c-41dd-b00f-da09345196cf,2024-07-01,102185.53,Retail worker,28
+CAD,CA81VANC5390139230,Canada,GlaxoSmithKline,Pharmacy bill,2024-07-01,102240.83,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: cfaf45a0-9c97-4a19-948c-3d5531cd3789,2024-07-01,104726.83,Retail worker,28
+CAD,CA81VANC5390139230,NL,Lieve Fechant-Zeldenrust,Gas money,2024-07-01,104733.65,Retail worker,28
+CAD,CA81VANC5390139230,NL,Zakaria Puig,Household expenses,2024-07-01,104775.93,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Apple Inc.,Software license fee payment,2024-07-01,104780.04,Retail worker,28
+CAD,CA81VANC5390139230,Spain,AT&T,Phone bill,2024-07-01,104788.05,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 017c145e-a7b5-4f96-bb85-199a463a630f,2024-07-01,107274.05,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Aimée van Breukelveen-Govarts,Gift,2024-07-01,107317.83,Retail worker,28
+CAD,CA81VANC5390139230,NL,BMW,Auto repair bill,2024-07-01,107373.89,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d62f4c01-9370-4294-8744-e13d3ab38854,2024-07-01,109859.89,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 87a98228-3210-4382-aeeb-ca591b6862e7,2024-07-01,112345.89,Retail worker,28
+CAD,CA81VANC5390139230,NL,Ford Motor,Car parts order,2024-07-01,112421.26,Retail worker,28
+CAD,CA81VANC5390139230,United States,Apple Inc.,Web hosting fee,2024-07-01,112452.11,Retail worker,28
+CAD,CA81VANC5390139230,NL,Evy van Jumiège,Support money,2024-07-01,112468.59,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f3ca2666-87ff-4a62-8c52-1b5f918426d9,2024-07-01,114954.59,Retail worker,28
+CAD,CA81VANC5390139230,Spain,IBM,Cloud storage subscription,2024-07-01,115007.5,Retail worker,28
+CAD,CA81VANC5390139230,NL,Lily Oosterhout-Scharroo,Rent deposit,2024-07-01,115037.72,Retail worker,28
+CAD,CA81VANC5390139230,United States,Bristol-Myers Squibb,Medication purchase,2024-07-01,115040.93,Retail worker,28
+CAD,CA81VANC5390139230,NL,BASF,Industrial chemicals purchase,2024-07-01,115086.6,Retail worker,28
+CAD,CA81VANC5390139230,NL,Jente VI-van Eck,Reimbursement for shopping,2024-07-01,115137.27,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: eaeb92dc-a4db-487a-8935-26f8d1482415,2024-07-01,117623.27,Retail worker,28
+CAD,CA81VANC5390139230,NL,Luuk Lorreijn,Rent deposit,2024-07-01,117640.51,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Web hosting fee,2024-07-01,117683.23,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: ff12b1a9-c8f4-443d-8b96-f20a1682202b,2024-07-01,120169.23,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Phillips 66,Renewable energy subscription,2024-07-01,120267.84,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e3e3f4fc-dab9-47e7-bf3c-06c42a935020,2024-07-01,122753.84,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: afc6db8b-3ec1-4413-baef-9413c43bdab7,2024-07-01,125239.84,Retail worker,28
+CAD,CA81VANC5390139230,NL,Duke Energy,Renewable energy subscription,2024-07-01,125244.52,Retail worker,28
+CAD,CA81VANC5390139230,Germany,DuPont,Conglomerate product order,2024-07-01,125252.12,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Daphne van Brunswijk,Loan to family,2024-07-01,125257.21,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,Britt Brievingh,Birthday gift,2024-07-01,125304.45,Retail worker,28
+CAD,CA81VANC5390139230,NL,Pfizer,Pharmacy bill,2024-07-01,125350.2,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f8c19b04-2643-4477-a073-c46cab95d718,2024-07-01,127836.2,Retail worker,28
+CAD,CA81VANC5390139230,United States,Volkswagen,Vehicle service charge,2024-07-01,127866.79,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tristan Brievingh,New baby gift,2024-07-01,127929.73,Retail worker,28
+CAD,CA81VANC5390139230,NL,Cisco Systems,Software license fee payment,2024-07-01,127959.13,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 86ca2f18-6cff-4593-9622-0f3b0ad91de2,2024-07-01,130445.13,Retail worker,28
+CAD,CA81VANC5390139230,NL,Apple Inc.,Technology services invoice payment,2024-07-01,130453.71,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Duke Energy,Electricity payment,2024-07-01,130489.45,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 7e41fded-e817-4891-9450-368e747e2d42,2024-07-01,132975.45,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Geldmaat ATM,Geldmaat: ba6fb09d-aefd-44f9-b76f-c9df8d70e632,2024-07-01,132982.69,Retail worker,28
+CAD,CA81VANC5390139230,NL,Phillips 66,Utility bill,2024-07-01,133009.06,Retail worker,28
+CAD,CA81VANC5390139230,NL,Mitsubishi,Conglomerate product order,2024-07-01,133010.69,Retail worker,28
+CAD,CA81VANC5390139230,NL,Meta Platforms,Technology services invoice payment,2024-07-01,133055.08,Retail worker,28
+CAD,CA81VANC5390139230,NL,Duke Energy,Utility bill,2024-07-01,133090.64,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 3a976d86-d408-4306-8ad9-9e736d00d595,2024-07-01,135576.64,Retail worker,28
+CAD,CA81VANC5390139230,NL,Goldman Sachs,Investment fund entry,2024-07-01,135625.11,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 63d2b84d-8ea3-4be9-bf6b-f0efade6bcd4,2024-07-01,138111.11,Retail worker,28
+CAD,CA81VANC5390139230,NL,3M,Diversified company fee,2024-07-01,138136.52,Retail worker,28
+CAD,CA81VANC5390139230,NL,IBM,Technology services invoice payment,2024-07-01,138163.65,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6b1ca636-6e64-45c0-b5e6-c500f3fb780c,2024-07-01,140649.65,Retail worker,28
+CAD,CA81VANC5390139230,Canada,General Electric,Conglomerate product order,2024-07-01,140698.36,Retail worker,28
+CAD,CA81VANC5390139230,NL,Morgan Stanley,Investment fund entry,2024-07-01,140711.05,Retail worker,28
+CAD,CA81VANC5390139230,NL,Vera Bosch,Gas money,2024-07-01,140747.46,Retail worker,28
+CAD,CA81VANC5390139230,United States,Gilead Sciences,Biotech research fee,2024-07-01,140816.19,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 92b7593f-7728-4fe0-9b8d-34490eed3a5d,2024-07-01,143302.19,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Geldmaat ATM,Geldmaat: 9c0e1247-b018-48ad-b60c-6c171d51917a,2024-07-01,143351.41,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: a62782d2-1298-48a6-88a0-4ac805e6eb11,2024-07-01,145837.41,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Novartis,Medication purchase,2024-07-01,145853.56,Retail worker,28
+CAD,CA81VANC5390139230,United States,Accenture,Professional service invoice,2024-07-01,145870.14,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Drug order payment,2024-07-01,145938.96,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d40f2554-4237-4115-bbfe-136ea082295e,2024-07-01,148424.96,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Alibaba,Subscription service,2024-07-01,148428.63,Retail worker,28
+CAD,CA81VANC5390139230,NL,AstraZeneca,Medication purchase,2024-07-01,148496.47,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: dd8086fb-4252-4b77-836a-7725f686a1cd,2024-07-01,150982.47,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Volkswagen,Car parts order,2024-07-01,151010.2,Retail worker,28
+CAD,CA81VANC5390139230,NL,Duke Energy,Electricity payment,2024-07-01,151057.93,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 31561a46-57e0-4321-b248-0dd471568c76,2024-07-01,153543.93,Retail worker,28
+CAD,CA81VANC5390139230,NL,Sanofi,Pharmacy bill,2024-07-01,153552.5,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Pharmacy bill,2024-07-01,153594.44,Retail worker,28
+CAD,CA81VANC5390139230,United States,Alibaba,Subscription service,2024-07-01,153597.8,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Volkswagen,Car purchase,2024-07-01,153611.4,Retail worker,28
+CAD,CA81VANC5390139230,NL,PepsiCo,Beverage order,2024-07-01,153621.18,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 46556ce0-08b3-4e1e-85c2-dc3263531584,2024-07-01,156107.18,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 37bb3853-93a6-4895-b5ad-004937299941,2024-07-01,158593.18,Retail worker,28
+CAD,CA81VANC5390139230,NL,Novartis,Healthcare prescription,2024-07-01,158659.38,Retail worker,28
+CAD,CA81VANC5390139230,NL,Novartis,Drug order payment,2024-07-01,158678.58,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Microsoft,Technology services invoice payment,2024-07-01,158766.52,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f3db288a-e8ae-44f8-9055-45a737f0a635,2024-07-01,161252.52,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: c0ba0571-fc6e-4177-a845-57c305270395,2024-08-01,163738.52,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,BASF,Chemical supply order,2024-08-01,163787.74,Retail worker,28
+CAD,CA81VANC5390139230,United States,BMW,Vehicle service charge,2024-08-01,163813.88,Retail worker,28
+CAD,CA81VANC5390139230,NL,SoftBank,Business unit invoice,2024-08-01,163842.8,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Honeywell,Diversified company fee,2024-08-01,163845.01,Retail worker,28
+CAD,CA81VANC5390139230,NL,Oracle,Technology services invoice payment,2024-08-01,163905.4,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 8906ad44-32a3-4c69-b26f-07786b61bc7b,2024-08-01,166391.4,Retail worker,28
+CAD,CA81VANC5390139230,NL,Sanofi,Medication purchase,2024-08-01,166426.92,Retail worker,28
+CAD,CA81VANC5390139230,NL,Dell Technologies,Software license fee payment,2024-08-01,166456.16,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 7739262a-8a25-4601-8c0f-c3999ae66eb2,2024-08-01,168942.16,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Medication purchase,2024-08-01,168986.87,Retail worker,28
+CAD,CA81VANC5390139230,United States,BMW,Car purchase,2024-08-01,169026.82,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 1dc921ae-477a-42b5-a724-211eea955c8f,2024-08-01,171512.82,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Bristol-Myers Squibb,Drug order payment,2024-08-01,171528.38,Retail worker,28
+CAD,CA81VANC5390139230,United States,Allianz,Policy renewal fee,2024-08-01,171535.49,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tata Consultancy Services,Software development bill,2024-08-01,171554.5,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 75e9ff78-a679-4cc0-a502-e575c30c5856,2024-08-01,174040.5,Retail worker,28
+CAD,CA81VANC5390139230,NL,Huawei,Technology services invoice payment,2024-08-01,174045.35,Retail worker,28
+CAD,CA81VANC5390139230,NL,Guusje Berendse,Rent assistance,2024-08-01,174049.64,Retail worker,28
+CAD,CA81VANC5390139230,NL,Volkswagen,Vehicle service charge,2024-08-01,174057.4,Retail worker,28
+CAD,CA81VANC5390139230,NL,Duke Energy,Electricity payment,2024-08-01,174066.07,Retail worker,28
+CAD,CA81VANC5390139230,NL,Ivy Schenkel,Support for a family member,2024-08-01,174084.13,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 3ff292d5-21bb-4dc5-a461-541df0284490,2024-08-01,176570.13,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,ByteDance,Software license fee payment,2024-08-01,176603.5,Retail worker,28
+CAD,CA81VANC5390139230,NL,Rick Jurrijens-Courtier,Mortgage help,2024-08-01,176639.2,Retail worker,28
+CAD,CA81VANC5390139230,NL,Cisco Systems,Cloud storage subscription,2024-08-01,176768.43,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 2320dd5a-29ca-4ad4-88fb-32709abd6e99,2024-08-01,179254.43,Retail worker,28
+CAD,CA81VANC5390139230,NL,Accenture,Advisory session charge,2024-08-01,179347.77,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: ad7c6a39-9b19-4f43-8d50-82025b9477a2,2024-08-01,181833.77,Retail worker,28
+CAD,CA81VANC5390139230,France,Sanofi,Medication purchase,2024-08-01,181870.21,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Mike der Kijnder-Rehorst,Birthday party expenses,2024-08-01,181891.06,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6e826567-4b64-4320-93c8-9df652d176f4,2024-08-01,184377.06,Retail worker,28
+CAD,CA81VANC5390139230,NL,Thijmen de Backer,Support for a friend,2024-08-01,184420.07,Retail worker,28
+CAD,CA81VANC5390139230,NL,Jari Groote,Shared ride expenses,2024-08-01,184521.01,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: dcd3d331-a43f-4cdb-81bd-a6bd53e8ee4f,2024-08-01,187007.01,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tata Consultancy Services,Software development bill,2024-08-01,187300.4,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: a7ab0e55-a8eb-4e21-bcb2-fc3fb66b2f04,2024-08-01,189786.4,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 17027a0c-1ba5-4a74-a67b-c41a37c38656,2024-08-01,189832.61,Retail worker,28
+CAD,CA81VANC5390139230,United States,Ford Motor,Car parts order,2024-08-01,189871.48,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: ba8ef2ae-92c3-4852-a5c3-1184ab444895,2024-08-01,192357.48,Retail worker,28
+CAD,CA81VANC5390139230,NL,Roche,Healthcare prescription,2024-08-01,192378.73,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Medication purchase,2024-08-01,192404.55,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 73230d35-a06d-4b27-8d90-d3880727fc1a,2024-08-01,194890.55,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Boeing,Space exploration fee,2024-08-01,194917.45,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 808df32d-e693-4788-bd78-14d0d99e7604,2024-08-01,197403.45,Retail worker,28
+CAD,CA81VANC5390139230,France,SoftBank,Corporate services payment,2024-08-01,197422.86,Retail worker,28
+CAD,CA81VANC5390139230,NL,Novartis,Drug order payment,2024-08-01,197483.22,Retail worker,28
+CAD,CA81VANC5390139230,NL,Morgan Stanley,Capital markets service,2024-08-01,197487.29,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,Dirk van Hagen,Support for a friend,2024-08-01,197510.71,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Renault,Car purchase,2024-08-01,197542.63,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 76c354ca-2097-46ff-ad76-a96b92a646cb,2024-08-01,200028.63,Retail worker,28
+CAD,CA81VANC5390139230,NL,Rick Hollander,Split vacation cost,2024-08-01,200050.88,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6db9646e-0ab0-4657-a9a8-2224452912e3,2024-08-01,202536.88,Retail worker,28
+CAD,CA81VANC5390139230,NL,Mathijs Lether,Pet expenses,2024-08-01,202582.88,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d6804451-3fd3-464d-8ac4-78543c6e634a,2024-08-01,205068.88,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,Allianz,Claim settlement,2024-08-01,205156.64,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: c664fe64-ed7f-4512-97ea-e525c1beeef3,2024-08-01,207642.64,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Roche,Healthcare prescription,2024-08-01,207695.17,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: bd5a0143-6b7f-4507-921c-944303efc5f4,2024-08-01,210181.17,Retail worker,28
+CAD,CA81VANC5390139230,NL,Pieter van Mook,Shared utilities,2024-08-01,210187.86,Retail worker,28
+CAD,CA81VANC5390139230,NL,Marinus de Smit-Koning,Reimbursement for groceries,2024-08-01,210216.09,Retail worker,28
+CAD,CA81VANC5390139230,NL,Meta Platforms,Web hosting fee,2024-08-01,210216.73,Retail worker,28
+CAD,CA81VANC5390139230,Belgium,Jonathan van Rooij-van Voorst,Child support,2024-08-01,210219.21,Retail worker,28
+CAD,CA81VANC5390139230,NL,SoftBank,Diversified company fee,2024-08-01,210222.55,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Berkshire Hathaway,Conglomerate product order,2024-08-01,210234.12,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 9bc3b85d-a4ea-46dd-99b8-6609f5cd2d33,2024-08-01,212720.12,Retail worker,28
+CAD,CA81VANC5390139230,NL,Laurens van Vlaanderen,Rent deposit,2024-08-01,212822.65,Retail worker,28
+CAD,CA81VANC5390139230,Italy,Alibaba,Subscription service,2024-08-01,212826.89,Retail worker,28
+CAD,CA81VANC5390139230,NL,3M,Diversified company fee,2024-08-01,212832.71,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 23b08d08-9528-4267-ba49-0724880dd9a9,2024-08-01,215318.71,Retail worker,28
+CAD,CA81VANC5390139230,Austria,Quinty Thomas,School fees,2024-08-01,215388.56,Retail worker,28
+CAD,CA81VANC5390139230,NL,PepsiCo,Restaurant bill,2024-08-01,215410.3,Retail worker,28
+CAD,CA81VANC5390139230,United States,Apple Inc.,Web hosting fee,2024-08-01,215426.61,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: ad50fe26-173f-43b7-817a-afa20ae61c86,2024-08-01,217912.61,Retail worker,28
+CAD,CA81VANC5390139230,NL,Meta Platforms,Cloud storage subscription,2024-08-01,217922.01,Retail worker,28
+CAD,CA81VANC5390139230,NL,Stan Segerszoen,Split vacation cost,2024-08-01,218011.73,Retail worker,28
+CAD,CA81VANC5390139230,NL,Gerrit Lagerweij,Friend loan repayment,2024-08-01,218057.05,Retail worker,28
+CAD,CA81VANC5390139230,Canada,AstraZeneca,Medication purchase,2024-08-01,218077.74,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 30e8baaa-3f3f-4520-9eab-ddc0d3bb730a,2024-08-01,220563.74,Retail worker,28
+CAD,CA81VANC5390139230,United States,Volkswagen,Vehicle service charge,2024-08-01,220593.99,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 4e833a93-80ca-4a9a-b539-43ee28c9532c,2024-08-01,223079.99,Retail worker,28
+CAD,CA81VANC5390139230,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,223146.75,Retail worker,28
+CAD,CA81VANC5390139230,NL,Volkswagen,Auto repair bill,2024-08-01,223157.51,Retail worker,28
+CAD,CA81VANC5390139230,NL,Amazon,E-commerce order,2024-08-01,223213.24,Retail worker,28
+CAD,CA81VANC5390139230,Belgium,GlaxoSmithKline,Pharmacy bill,2024-08-01,223277.89,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Tijn Kunen,Baby shower gift,2024-08-01,223279.83,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 00210889-2226-40f0-aec9-0229d01817f9,2024-08-01,225765.83,Retail worker,28
+CAD,CA81VANC5390139230,United States,Meta Platforms,Cloud storage subscription,2024-08-01,225813.82,Retail worker,28
+CAD,CA81VANC5390139230,United States,Airbus,Aircraft maintenance,2024-08-01,225831.24,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: e65e35d9-f51f-4f0e-af53-aa5e45aca1ed,2024-08-01,228317.24,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Simon David-Tielemans,Child support,2024-08-01,228320.03,Retail worker,28
+CAD,CA81VANC5390139230,United States,Verizon,Phone bill,2024-08-01,228339.07,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 547e28ea-e9a8-446a-b008-642614a0911c,2024-08-01,230825.07,Retail worker,28
+CAD,CA81VANC5390139230,Austria,Benthe Buijs,Shared utilities,2024-08-01,230853.3,Retail worker,28
+CAD,CA81VANC5390139230,Hungary,Johnson & Johnson,Pharmacy bill,2024-08-01,230875.48,Retail worker,28
+CAD,CA81VANC5390139230,NL,Mats Freshour,Shared meal cost,2024-08-01,230882.88,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,ByteDance,Software license fee payment,2024-08-01,230925.48,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f52414e6-531e-4233-9424-429c495a5211,2024-08-01,233411.48,Retail worker,28
+CAD,CA81VANC5390139230,Japan,Isabelle Goudriaan,Rent assistance,2024-08-01,233464.13,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Geldmaat ATM,Geldmaat: 0deffce0-7577-450f-b1c0-668c98d1f051,2024-08-01,233547.75,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f3027e14-f556-47e5-90e7-d00b19a70b75,2024-08-01,236033.75,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tycho de Gruil,Debt settlement,2024-08-01,236083.39,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 397ef74f-c32e-43c9-a1cc-1e769c91614f,2024-08-01,238569.39,Retail worker,28
+CAD,CA81VANC5390139230,United States,Elizabeth van Bovene-Huisman,Loan to friend,2024-08-01,238635.51,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6bc8ddac-22cb-4afa-a2f3-622c3c781715,2024-08-01,241121.51,Retail worker,28
+CAD,CA81VANC5390139230,United States,Robin van der Sande,Loan to family,2024-08-01,241149.05,Retail worker,28
+CAD,CA81VANC5390139230,United States,Mark Aarts,Reimbursement for travel,2024-09-01,241221.96,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: fb20d8a6-84e3-4f9c-8f2a-689efaeca0d5,2024-09-01,243707.96,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Tirza Koster,Shared hotel room cost,2024-09-01,243768.43,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6db7d9b5-f2cf-4eec-9567-e38231c90c64,2024-09-01,246254.43,Retail worker,28
+CAD,CA81VANC5390139230,NL,DuPont,Conglomerate product order,2024-09-01,246283.08,Retail worker,28
+CAD,CA81VANC5390139230,NL,Berkshire Hathaway,Business unit invoice,2024-09-01,246316.05,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 62e6b350-57aa-4114-a0ec-32794d76d195,2024-09-01,248802.05,Retail worker,28
+CAD,CA81VANC5390139230,NL,Niek Bierstraten-van der Zijl,Shared meal cost,2024-09-01,248850.14,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 723039e6-eb35-4f95-ad06-e6bdc17cbb2d,2024-09-01,251336.14,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Renske van Wallaert-de Jager,Shared utilities,2024-09-01,251369.02,Retail worker,28
+CAD,CA81VANC5390139230,NL,LVMH,Exclusive brand fee,2024-09-01,251393.09,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 4d72458b-b0c1-43ae-8ea8-636051ad62da,2024-09-01,253879.09,Retail worker,28
+CAD,CA81VANC5390139230,NL,Berkshire Hathaway,Diversified company fee,2024-09-01,253883.4,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Matthias Schiffer-Gruijl,School fees,2024-09-01,253884.29,Retail worker,28
+CAD,CA81VANC5390139230,NL,Pfizer,Healthcare prescription,2024-09-01,253921.31,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Bristol-Myers Squibb,Drug order payment,2024-09-01,253943.57,Retail worker,28
+CAD,CA81VANC5390139230,United States,LVMH,Designer goods order,2024-09-01,253980.7,Retail worker,28
+CAD,CA81VANC5390139230,NL,Alphabet Inc.,Web hosting fee,2024-09-01,254056.15,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: c52489bf-0528-496c-b9fa-36764e55aee2,2024-09-01,256542.15,Retail worker,28
+CAD,CA81VANC5390139230,NL,Accenture,Consulting fee,2024-09-01,256561.18,Retail worker,28
+CAD,CA81VANC5390139230,Japan,GlaxoSmithKline,Pharmacy bill,2024-09-01,256596.57,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 9f8f2af0-7714-43a0-9040-9283591beb3e,2024-09-01,259082.57,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Bayer,Pharmacy bill,2024-09-01,259119.47,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Meta Platforms,Software license fee payment,2024-09-01,259123.25,Retail worker,28
+CAD,CA81VANC5390139230,NL,Marijn Lambregt,Shared hotel room cost,2024-09-01,259174.7,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,SoftBank,Business unit invoice,2024-09-01,259212.74,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 91c08de2-99c5-406d-bde1-411b13f79813,2024-09-01,261698.74,Retail worker,28
+CAD,CA81VANC5390139230,NL,Nike,Sportswear buy,2024-09-01,261706.84,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: cd5425d1-eb43-4796-b6ee-f4dd27c31cd7,2024-09-01,264192.84,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Sanofi,Drug order payment,2024-09-01,264243.16,Retail worker,28
+CAD,CA81VANC5390139230,NL,Kyan de Bruijn,Shared ride expenses,2024-09-01,264249.05,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Procter & Gamble,Retail goods payment,2024-09-01,264260.05,Retail worker,28
+CAD,CA81VANC5390139230,NL,Apple Inc.,Cloud storage subscription,2024-09-01,264305.74,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 5aed08c6-76f8-4c5a-9062-ac5e24100f6c,2024-09-01,266791.74,Retail worker,28
+CAD,CA81VANC5390139230,NL,Geldmaat ATM,Geldmaat: 470338e9-7e47-415c-b5db-4373a3f3474b,2024-09-01,266933.15,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 986bdc02-3201-4761-a1e4-f3e53b993575,2024-09-01,269419.15,Retail worker,28
+CAD,CA81VANC5390139230,NL,Microsoft,Web hosting fee,2024-09-01,269440.14,Retail worker,28
+CAD,CA81VANC5390139230,NL,Alibaba,E-commerce order,2024-09-01,269539.72,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 35b6880c-ff04-4993-9cf5-11207d7aff79,2024-09-01,272025.72,Retail worker,28
+CAD,CA81VANC5390139230,NL,Fenna van der Velden,Gas money,2024-09-01,272033.78,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 04dd68c4-5013-43ab-bfa4-8d59acf31959,2024-09-01,274519.78,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Pfizer,Healthcare prescription,2024-09-01,274580.86,Retail worker,28
+CAD,CA81VANC5390139230,NL,Berkshire Hathaway,Diversified company fee,2024-09-01,274587.78,Retail worker,28
+CAD,CA81VANC5390139230,NL,Morgan Stanley,Investment fund entry,2024-09-01,274609.47,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Accenture,Professional service invoice,2024-09-01,274651.36,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 8a769887-4917-4c9a-97f5-57281ee97dfe,2024-09-01,277137.36,Retail worker,28
+CAD,CA81VANC5390139230,NL,GlaxoSmithKline,Healthcare prescription,2024-09-01,277142.9,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Merck & Co.,Healthcare prescription,2024-09-01,277197.11,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 659f3e74-8e0e-49c5-82e6-383fdfa9cd21,2024-09-01,279683.11,Retail worker,28
+CAD,CA81VANC5390139230,Italy,Berkshire Hathaway,Diversified company fee,2024-09-01,279692.85,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 26d88967-65c6-4a65-b908-2568851e7b35,2024-09-01,282178.85,Retail worker,28
+CAD,CA81VANC5390139230,NL,Bayer,Healthcare prescription,2024-09-01,282228.21,Retail worker,28
+CAD,CA81VANC5390139230,NL,Felix de Grunt,Vacation expenses,2024-09-01,282238.56,Retail worker,28
+CAD,CA81VANC5390139230,NL,BASF,Cleaning products order,2024-09-01,282292.08,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 56a19992-757d-48cb-8c12-e6e112502d63,2024-09-01,284778.08,Retail worker,28
+CAD,CA81VANC5390139230,NL,Morgan Stanley,Investment fund entry,2024-09-01,284824.87,Retail worker,28
+CAD,CA81VANC5390139230,NL,Facebook,Influencer collaboration fee,2024-09-01,284863.18,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 2f3de65f-ba4d-419a-939e-53e118f15c2a,2024-09-01,287349.18,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Facebook,Influencer collaboration fee,2024-09-01,287354.44,Retail worker,28
+CAD,CA81VANC5390139230,NL,Phillips 66,Utility bill,2024-09-01,287390.56,Retail worker,28
+CAD,CA81VANC5390139230,NL,ByteDance,Web hosting fee,2024-09-01,287432.83,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 540c4bc7-83d8-4069-8fd9-192b86c8c5fb,2024-09-01,289918.83,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Benjamin Brouwer,Friend loan repayment,2024-09-01,289922.31,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: d13e8249-75d6-49d3-8c7c-72f7a9da36a5,2024-09-01,292408.31,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Phillips 66,Renewable energy subscription,2024-09-01,292427.96,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,David van den Eerenbeemt-van der Kaay,Shared subscription,2024-09-01,292430.31,Retail worker,28
+CAD,CA81VANC5390139230,NL,BMW,Car parts order,2024-09-01,292474.59,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,IBM,Technology services invoice payment,2024-09-01,292487.45,Retail worker,28
+CAD,CA81VANC5390139230,NL,PepsiCo,Beverage order,2024-09-01,292492.82,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: af4a27b6-8b80-4afa-879a-a0c04dd0f913,2024-09-01,294978.82,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,PepsiCo,Restaurant bill,2024-09-01,295000.92,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Toyota,Auto repair bill,2024-09-01,295005.18,Retail worker,28
+CAD,CA81VANC5390139230,NL,Alphabet Inc.,Cloud storage subscription,2024-09-01,295009.52,Retail worker,28
+CAD,CA81VANC5390139230,NL,Guus van der Noot,Split vacation cost,2024-09-01,295016.01,Retail worker,28
+CAD,CA81VANC5390139230,NL,Mads van Gastel,Christmas gift,2024-09-01,295022.36,Retail worker,28
+CAD,CA81VANC5390139230,Japan,Pfizer,Medication purchase,2024-09-01,295038.9,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 2d514bef-1e32-4b25-aa0d-18f11176ec77,2024-09-01,297524.9,Retail worker,28
+CAD,CA81VANC5390139230,NL,Michelle Schrant,Gas money,2024-09-01,297560.0,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 237ac45f-eb49-4376-afc6-be3d6ec1ee47,2024-09-01,300046.0,Retail worker,28
+CAD,CA81VANC5390139230,Belgium,Hannah Meeusen,Household expenses,2024-09-01,300104.55,Retail worker,28
+CAD,CA81VANC5390139230,NL,Gilead Sciences,Clinical trial payment,2024-09-01,300167.6,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,Volkswagen,Car parts order,2024-09-01,300175.99,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 9a2d705d-e2cb-4f41-9728-f4650e34f7c8,2024-09-01,302661.99,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: c54fd050-74b8-4fa2-b15f-c03b27455cf3,2024-09-01,305147.99,Retail worker,28
+CAD,CA81VANC5390139230,NL,Johnson & Johnson,Drug order payment,2024-09-01,305194.87,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Procter & Gamble,Subscription box service,2024-09-01,305244.21,Retail worker,28
+CAD,CA81VANC5390139230,United States,BMW,Car parts order,2024-09-01,305258.77,Retail worker,28
+CAD,CA81VANC5390139230,Germany,Honeywell,Diversified company fee,2024-09-01,305263.6,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: b5415593-6211-4fc1-a438-c356e960d210,2024-09-01,307749.6,Retail worker,28
+CAD,CA81VANC5390139230,NL,Nike,Apparel shopping,2024-09-01,307823.24,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 52446143-0593-47c0-903f-80526037ef4f,2024-09-01,310309.24,Retail worker,28
+CAD,CA81VANC5390139230,NL,Novartis,Medication purchase,2024-09-01,310355.11,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 99875278-8974-417c-88e2-282fe9807c12,2024-09-01,312841.11,Retail worker,28
+CAD,CA81VANC5390139230,NL,Microsoft,Software license fee payment,2024-09-01,312861.22,Retail worker,28
+CAD,CA81VANC5390139230,NL,Alibaba,E-commerce order,2024-09-01,312864.34,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 9cda972d-7aee-43ce-9ad4-32867702d05b,2024-09-01,315350.34,Retail worker,28
+CAD,CA81VANC5390139230,NL,Bristol-Myers Squibb,Pharmacy bill,2024-09-01,315372.34,Retail worker,28
+CAD,CA81VANC5390139230,NL,Airbus,Aircraft maintenance,2024-09-01,315388.29,Retail worker,28
+CAD,CA81VANC5390139230,United States,Boeing,Aircraft maintenance,2024-09-01,315404.44,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Evy de Gruil,Shared hotel room cost,2024-09-01,315407.05,Retail worker,28
+CAD,CA81VANC5390139230,NL,Tata Consultancy Services,IT support fee,2024-09-01,315410.92,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Cisco Systems,Software license fee payment,2024-09-01,315416.82,Retail worker,28
+CAD,CA81VANC5390139230,NL,Microsoft,Software license fee payment,2024-09-01,315434.87,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: bee8a013-358a-458b-8109-76b9bdc214de,2024-09-01,317920.87,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 12fdf0f5-8898-450e-8dd1-11c3e2794a36,2024-10-01,320406.87,Retail worker,28
+CAD,CA81VANC5390139230,NL,Michelle de Vrome-Zijlmans,Christmas gift,2024-10-01,320488.58,Retail worker,28
+CAD,CA81VANC5390139230,Germany,DuPont,Corporate services payment,2024-10-01,320496.19,Retail worker,28
+CAD,CA81VANC5390139230,NL,AT&T,Cable service subscription,2024-10-01,320511.36,Retail worker,28
+CAD,CA81VANC5390139230,Belgium,Verizon,Cable service subscription,2024-10-01,320531.78,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f0f44a19-fbc0-44be-b161-16a5c3341f44,2024-10-01,323017.78,Retail worker,28
+CAD,CA81VANC5390139230,NL,DuPont,Corporate services payment,2024-10-01,323021.65,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Healthcare prescription,2024-10-01,323030.79,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: cdd7e489-9bc5-44fc-9081-b223e574e71a,2024-10-01,325516.79,Retail worker,28
+CAD,CA81VANC5390139230,NL,Accenture,Professional service invoice,2024-10-01,325548.93,Retail worker,28
+CAD,CA81VANC5390139230,Japan,LVMH,High-end product buy,2024-10-01,325563.96,Retail worker,28
+CAD,CA81VANC5390139230,NL,Daimler,Vehicle service charge,2024-10-01,325650.51,Retail worker,28
+CAD,CA81VANC5390139230,NL,Maryam Marchand-Verhoeven,Reimbursement for bills,2024-10-01,325654.72,Retail worker,28
+CAD,CA81VANC5390139230,NL,Renault,Vehicle service charge,2024-10-01,325661.53,Retail worker,28
+CAD,CA81VANC5390139230,NL,Ford Motor,Auto repair bill,2024-10-01,325663.49,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,GlaxoSmithKline,Drug order payment,2024-10-01,325680.94,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 9ceb8ba5-9646-48cb-aa98-e892ccb12a8b,2024-10-01,328166.94,Retail worker,28
+CAD,CA81VANC5390139230,NL,DuPont,Conglomerate product order,2024-10-01,328177.15,Retail worker,28
+CAD,CA81VANC5390139230,NL,Microsoft,Cloud storage subscription,2024-10-01,328187.09,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Alphabet Inc.,Technology services invoice payment,2024-10-01,328190.23,Retail worker,28
+CAD,CA81VANC5390139230,NL,Volkswagen,Auto repair bill,2024-10-01,328213.68,Retail worker,28
+CAD,CA81VANC5390139230,NL,Jill Noordijk-Rubben,Mortgage help,2024-10-01,328262.56,Retail worker,28
+CAD,CA81VANC5390139230,NL,Facebook,Influencer collaboration fee,2024-10-01,328268.97,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f634284b-2a59-48fd-a102-98faf4e3c680,2024-10-01,330754.97,Retail worker,28
+CAD,CA81VANC5390139230,NL,AstraZeneca,Medication purchase,2024-10-01,330769.62,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,GlaxoSmithKline,Medication purchase,2024-10-01,330810.35,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 6e437d70-e194-462b-9be0-b4701ab4a780,2024-10-01,333296.35,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: de2c08b8-b412-487d-87e6-e758b021cb9d,2024-10-01,335782.35,Retail worker,28
+CAD,CA81VANC5390139230,NL,BASF,Laboratory reagents buy,2024-10-01,335793.73,Retail worker,28
+CAD,CA81VANC5390139230,NL,Duke Energy,Utility bill,2024-10-01,335800.46,Retail worker,28
+CAD,CA81VANC5390139230,United States,3M,Diversified company fee,2024-10-01,335848.28,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Mitsubishi,Diversified company fee,2024-10-01,335882.11,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 55dbae00-0e68-4ecf-9cbe-f163f2efd228,2024-10-01,338368.11,Retail worker,28
+CAD,CA81VANC5390139230,Denmark,Sarah Rijcken,Split restaurant bill,2024-10-01,338404.33,Retail worker,28
+CAD,CA81VANC5390139230,NL,Jens van Parijs,Debt settlement,2024-10-01,338476.83,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: 8a61d210-afb1-4070-a98d-d9e184c70cc6,2024-10-01,340962.83,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Fenna van Parijs,Reimbursement for groceries,2024-10-01,340971.77,Retail worker,28
+CAD,CA81VANC5390139230,NL,Morris Sanders-David,Debt settlement,2024-10-01,341006.96,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: f9f4114d-649f-4f56-b846-2331643f6385,2024-10-01,343492.96,Retail worker,28
+CAD,CA81VANC5390139230,NL,Merck & Co.,Drug order payment,2024-10-01,343506.45,Retail worker,28
+CAD,CA81VANC5390139230,NL,Amazon,Subscription service,2024-10-01,343538.91,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: cf0c1688-69d4-45f1-a7b6-ef6c4ebe96a7,2024-10-01,346024.91,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,SoftBank,Diversified company fee,2024-10-01,346053.51,Retail worker,28
+CAD,CA81VANC5390139230,NL,PepsiCo,Restaurant bill,2024-10-01,346109.79,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: b2169824-3d29-4426-b936-04f3e53143d9,2024-10-01,348595.79,Retail worker,28
+CAD,CA81VANC5390139230,NL,Duke Energy,Energy supply charge,2024-10-01,348637.08,Retail worker,28
+CAD,CA81VANC5390139230,Great Britain,AT&T,Data plan payment,2024-10-01,348641.72,Retail worker,28
+CAD,CA81VANC5390139230,NL,DuPont,Business unit invoice,2024-10-01,348642.98,Retail worker,28
+CAD,CA81VANC5390139230,Spain,Geldmaat ATM,Geldmaat: abc96027-d687-402e-bb4b-61d81870ba51,2024-10-01,351128.98,Retail worker,28
+CAD,CA81VANC5390139230,Canada,Kyan van Bunschoten,Medical bills,2024-10-01,351130.67,Retail worker,28
+CAD,CA81VANC5390139230,NL,Honeywell,Business unit invoice,2024-10-01,351137.83,Retail worker,28

@@ -1,0 +1,291 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+GBP,GB45SCAM2624300099,NL,SoftBank,Business unit invoice,2024-06-01,1659.98,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c92eb673-e5c5-4e96-8ce3-a3dbd8a84a7d,2024-06-01,1690.98,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d3d8443b-1b34-4d02-93a8-28911f0ae351,2024-06-01,1721.98,Student,20
+GBP,GB45SCAM2624300099,NL,Bo Claesner,Grocery money,2024-06-01,1723.51,Student,20
+GBP,GB45SCAM2624300099,NL,Phillips 66,Electricity payment,2024-06-01,1730.74,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: bdcc3a6c-6fb2-4d38-80d0-bb2ec8da8769,2024-06-01,1761.74,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: ee6ac770-28d2-4991-8d9e-166d948818bb,2024-06-01,1792.74,Student,20
+GBP,GB45SCAM2624300099,NL,BASF,Laboratory reagents buy,2024-06-01,1794.51,Student,20
+GBP,GB45SCAM2624300099,NL,Bayer,Healthcare prescription,2024-06-01,1802.18,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 55b06bda-6138-465d-8e0d-2d2f6f06fab0,2024-06-01,1833.18,Student,20
+GBP,GB45SCAM2624300099,NL,Johnson & Johnson,Drug order payment,2024-06-01,1851.47,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 653dbf98-1021-451f-9452-49bcc13fbed2,2024-06-01,1882.47,Student,20
+GBP,GB45SCAM2624300099,NL,3M,Diversified company fee,2024-06-01,1886.95,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 236f42b0-df9c-4adf-acb0-a0123d853d82,2024-06-01,1917.95,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 31bac36e-0f7c-4dfd-8a99-3cf94aac1d8b,2024-06-01,1948.95,Student,20
+GBP,GB45SCAM2624300099,Canada,Beau Marceron,Shared meal cost,2024-06-01,1955.11,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 1dc3d845-6207-4106-906d-beb6128485e2,2024-06-01,1986.11,Student,20
+GBP,GB45SCAM2624300099,NL,Johannes Osterhoudt,Reimbursement for dinner,2024-06-01,1990.71,Student,20
+GBP,GB45SCAM2624300099,NL,Phillips 66,Utility bill,2024-06-01,1995.76,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 29c40b53-90d1-42d6-b851-51e42b95fad1,2024-06-01,2026.76,Student,20
+GBP,GB45SCAM2624300099,NL,Amazon,Online shopping,2024-06-01,2027.35,Student,20
+GBP,GB45SCAM2624300099,Great Britain,IBM,Technology services invoice payment,2024-06-01,2031.32,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: edbb0f54-83d3-43e2-8ff7-76fd35b8d8e7,2024-06-01,2062.32,Student,20
+GBP,GB45SCAM2624300099,NL,Cisco Systems,Technology services invoice payment,2024-06-01,2065.72,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 1d40b8ad-21e5-4dde-95bd-afa3295b7ad4,2024-06-01,2096.72,Student,20
+GBP,GB45SCAM2624300099,NL,Pfizer,Pharmacy bill,2024-06-01,2102.06,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 07210b6e-f1e3-40f7-bc95-df22edbd9740,2024-06-01,2133.06,Student,20
+GBP,GB45SCAM2624300099,NL,Allianz,Claim settlement,2024-06-01,2136.59,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 24df32e3-5e41-4638-aea6-94d8a4ebba29,2024-06-01,2167.59,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 028bd666-efb3-472b-b854-f84ff3faed26,2024-06-01,2198.59,Student,20
+GBP,GB45SCAM2624300099,NL,BASF,Cleaning products order,2024-06-01,2200.89,Student,20
+GBP,GB45SCAM2624300099,NL,Nova Ouwel,Support for a friend,2024-06-01,2203.92,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: f0aaffe2-519e-4770-8c59-e5eaf4811ea8,2024-06-01,2234.92,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b6e44ba4-3953-41c9-879c-26076b0113c1,2024-06-01,2265.92,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 748cee7b-9aa0-465b-b141-0dea36702304,2024-06-01,2267.84,Student,20
+GBP,GB45SCAM2624300099,Germany,Twan van Santen,Grocery money,2024-06-01,2274.12,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c3e65060-1971-4901-b233-5e61c346788c,2024-06-01,2305.12,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5b9a1a2f-01a8-4511-9c45-b3c494d2cf1a,2024-06-01,2336.12,Student,20
+GBP,GB45SCAM2624300099,NL,Airbus,Aviation technology fee,2024-06-01,2337.08,Student,20
+GBP,GB45SCAM2624300099,Denmark,Twan van Vlaanderen-van der Kint,Rent assistance,2024-06-01,2337.74,Student,20
+GBP,GB45SCAM2624300099,NL,ByteDance,Cloud storage subscription,2024-06-01,2340.88,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c3e222c4-ac54-4e9f-8447-917f8ab9c312,2024-06-01,2371.88,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c8fe26ab-65df-4a70-9e14-0e0387be9dee,2024-06-01,2402.88,Student,20
+GBP,GB45SCAM2624300099,United States,DuPont,Corporate services payment,2024-06-01,2404.44,Student,20
+GBP,GB45SCAM2624300099,Canada,Geldmaat ATM,Geldmaat: b9e07727-eeda-4497-9193-1e169bcc9faf,2024-06-01,2406.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5041d86b-b369-4167-aca7-bfb6498ca15f,2024-06-01,2437.38,Student,20
+GBP,GB45SCAM2624300099,France,Bryan Adriaense,Shared subscription,2024-06-01,2437.94,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: fcd1af95-57c8-4809-9515-92751d59c52e,2024-06-01,2468.94,Student,20
+GBP,GB45SCAM2624300099,NL,Unilever,Order payment,2024-06-01,2479.73,Student,20
+GBP,GB45SCAM2624300099,NL,Boeing,Aerospace parts purchase,2024-06-01,2481.72,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: aeb8d931-3e61-4e28-8cb5-7c68e9e90aa6,2024-06-01,2512.72,Student,20
+GBP,GB45SCAM2624300099,NL,AstraZeneca,Medication purchase,2024-06-01,2514.89,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5ba1cc6c-9a4d-4b09-a728-fca7796eba7e,2024-06-01,2545.89,Student,20
+GBP,GB45SCAM2624300099,United States,Fedde Timmermans,Emergency funds,2024-06-01,2547.45,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: a6664675-53ea-45f4-acdd-f60761887454,2024-06-01,2578.45,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: bce18376-6e60-4246-9e20-820f60b34150,2024-06-01,2609.45,Student,20
+GBP,GB45SCAM2624300099,Spain,Johnson & Johnson,Pharmacy bill,2024-06-01,2615.44,Student,20
+GBP,GB45SCAM2624300099,NL,Dell Technologies,Software license fee payment,2024-06-01,2620.2,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 3a49c7d9-f338-4fe7-94e0-da0946f26500,2024-06-01,2651.2,Student,20
+GBP,GB45SCAM2624300099,NL,Microsoft,Web hosting fee,2024-06-01,2656.05,Student,20
+GBP,GB45SCAM2624300099,NL,Duke Energy,Utility bill,2024-06-01,2657.47,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 3ccc547e-29ff-4950-af09-1f985e5ba99d,2024-06-01,2688.47,Student,20
+GBP,GB45SCAM2624300099,NL,Tata Consultancy Services,Software development bill,2024-06-01,2692.07,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d0fac4a2-659b-4574-bf87-6aa32aa6063c,2024-06-01,2723.07,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 219060cd-eb2d-40fe-bce0-5aae006f4c9e,2024-07-01,2754.07,Student,20
+GBP,GB45SCAM2624300099,Canada,Nike,Clothing purchase,2024-07-01,2757.77,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2ddbaca3-9d58-4ae3-9142-55f0f624a8c3,2024-07-01,2788.77,Student,20
+GBP,GB45SCAM2624300099,Germany,Verizon,Telecom invoice,2024-07-01,2791.65,Student,20
+GBP,GB45SCAM2624300099,NL,Accenture,Expert consultation fee,2024-07-01,2794.41,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 44ecad78-c822-430a-8a59-5e701ce30d73,2024-07-01,2825.41,Student,20
+GBP,GB45SCAM2624300099,NL,Procter & Gamble,Subscription box service,2024-07-01,2839.04,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9a8c2786-bc01-4079-88cb-40a1e9faade7,2024-07-01,2870.04,Student,20
+GBP,GB45SCAM2624300099,Spain,General Electric,Corporate services payment,2024-07-01,2871.3,Student,20
+GBP,GB45SCAM2624300099,NL,Microsoft,Technology services invoice payment,2024-07-01,2872.94,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: f913b55e-f13a-4bdd-9e29-32cd86334615,2024-07-01,2903.94,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: ceb82930-e2b4-4ca4-a684-f89247e6eecb,2024-07-01,2934.94,Student,20
+GBP,GB45SCAM2624300099,NL,Procter & Gamble,Product purchase,2024-07-01,2941.09,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 082bf769-a7e8-48fc-83b0-8d8974365d79,2024-07-01,2972.09,Student,20
+GBP,GB45SCAM2624300099,Germany,Duke Energy,Renewable energy subscription,2024-07-01,2974.65,Student,20
+GBP,GB45SCAM2624300099,United States,Benjamin Jansen-Heribert van Laon,Child support,2024-07-01,2979.6,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 06a05887-f417-4f82-b9e8-5496877e4019,2024-07-01,3010.6,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 556db933-0949-4ecf-aab5-3bdfe72f2fc8,2024-07-01,3041.6,Student,20
+GBP,GB45SCAM2624300099,Japan,Airbus,Aviation technology fee,2024-07-01,3056.72,Student,20
+GBP,GB45SCAM2624300099,NL,Verizon,Cable service subscription,2024-07-01,3062.86,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: e74b03ad-d2af-43e4-afac-ecac9209e59e,2024-07-01,3093.86,Student,20
+GBP,GB45SCAM2624300099,NL,Volkswagen,Car parts order,2024-07-01,3094.49,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: ec3cfed5-b451-4dfd-8cad-61aaf7f5ce37,2024-07-01,3125.49,Student,20
+GBP,GB45SCAM2624300099,NL,3M,Business unit invoice,2024-07-01,3128.39,Student,20
+GBP,GB45SCAM2624300099,Hungary,Bayer,Pharmacy bill,2024-07-01,3134.73,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5659bbc8-0e8f-4cac-8799-33e809fff3b5,2024-07-01,3165.73,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 095c5ea0-c4c0-4d3d-b642-d9722c54d279,2024-07-01,3196.73,Student,20
+GBP,GB45SCAM2624300099,Canada,Hugo Vink,Rent assistance,2024-07-01,3254.87,Student,20
+GBP,GB45SCAM2624300099,Hungary,Geldmaat ATM,Geldmaat: 407b87b4-fad8-412c-bf96-9760e1eb309d,2024-07-01,3255.76,Student,20
+GBP,GB45SCAM2624300099,NL,Geldmaat ATM,Geldmaat: 6a5c7780-7971-4e91-8ccc-54b7ad884e5e,2024-07-01,3285.95,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 31977967-ed03-4560-a308-4a8310335a38,2024-07-01,3316.95,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9c06d356-8edb-4ed8-95f5-ba56b6545b3e,2024-07-01,3347.95,Student,20
+GBP,GB45SCAM2624300099,Belgium,Bibi Wendt,Reimbursement for medical expenses,2024-07-01,3349.84,Student,20
+GBP,GB45SCAM2624300099,Canada,Honeywell,Diversified company fee,2024-07-01,3355.55,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 0492d019-c1b6-44a1-892f-d0782cb625ec,2024-07-01,3386.55,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Jasmijn van de Pavert,Reimbursement for bills,2024-07-01,3398.21,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: eda4bd7b-980b-438a-9bac-05494fbf9ed9,2024-07-01,3429.21,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 8860e210-3272-4191-bcbd-b0b9126acf27,2024-07-01,3460.21,Student,20
+GBP,GB45SCAM2624300099,NL,Rik van Oostendorp,Household expenses,2024-07-01,3463.46,Student,20
+GBP,GB45SCAM2624300099,United States,Alphabet Inc.,Web hosting fee,2024-07-01,3472.45,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 6dc858fb-09a7-426b-b907-f4f7c4bdb2eb,2024-07-01,3503.45,Student,20
+GBP,GB45SCAM2624300099,NL,Unilever,Product purchase,2024-07-01,3506.0,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9468d667-4e25-440d-98cb-0557a5185303,2024-07-01,3537.0,Student,20
+GBP,GB45SCAM2624300099,NL,SoftBank,Corporate services payment,2024-07-01,3538.71,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: e3a2ef3c-daff-4a63-9f5d-e525c4317a6e,2024-07-01,3569.71,Student,20
+GBP,GB45SCAM2624300099,NL,Amazon,Subscription service,2024-07-01,3572.22,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d271e0f8-6921-4158-b863-544542b88b4a,2024-07-01,3603.22,Student,20
+GBP,GB45SCAM2624300099,Japan,Yfke van de Biesenbos,Support money,2024-07-01,3610.52,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: dbc20f95-78cc-4b6f-b408-cfe07092b262,2024-07-01,3641.52,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 1675c6c4-0098-4cd7-bbcc-9aeb74fa4576,2024-07-01,3672.52,Student,20
+GBP,GB45SCAM2624300099,NL,Isa van Laarhoven,Support money,2024-07-01,3675.11,Student,20
+GBP,GB45SCAM2624300099,Germany,Accenture,Professional service invoice,2024-07-01,3679.72,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b0d91cc7-16a8-411b-9eef-6a40a029146f,2024-07-01,3710.72,Student,20
+GBP,GB45SCAM2624300099,NL,Daimler,Car purchase,2024-07-01,3713.24,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: a5eeb1f7-aa94-4503-9cd9-9bbb7518c323,2024-07-01,3744.24,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Aaron Guit,School fees,2024-07-01,3745.43,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c2c6b855-2617-443d-a2d9-365336382b2e,2024-07-01,3776.43,Student,20
+GBP,GB45SCAM2624300099,Germany,AT&T,Cable service subscription,2024-07-01,3777.77,Student,20
+GBP,GB45SCAM2624300099,Japan,General Electric,Conglomerate product order,2024-07-01,3779.71,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 73a980bf-b89b-4eec-96bb-861e7e625042,2024-07-01,3810.71,Student,20
+GBP,GB45SCAM2624300099,Spain,Ford Motor,Auto repair bill,2024-07-01,3812.05,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5baf38d6-1052-4693-8ab0-11d287ec8434,2024-07-01,3843.05,Student,20
+GBP,GB45SCAM2624300099,United States,Unilever,Order payment,2024-07-01,3845.63,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 1fa5cac1-2225-4de1-8151-e4a757638ca8,2024-07-01,3876.63,Student,20
+GBP,GB45SCAM2624300099,NL,Pfizer,Pharmacy bill,2024-07-01,3880.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: a231fe4d-cc5a-4376-860e-37a1c3cff222,2024-07-01,3911.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 275f62ba-8bb2-4333-a989-759f48fe1cc7,2024-08-01,3942.38,Student,20
+GBP,GB45SCAM2624300099,NL,Mitsubishi,Conglomerate product order,2024-08-01,3945.93,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d7f2d976-938c-49fb-8faa-29e1fe278e33,2024-08-01,3976.93,Student,20
+GBP,GB45SCAM2624300099,United States,Pfizer,Pharmacy bill,2024-08-01,3979.38,Student,20
+GBP,GB45SCAM2624300099,NL,PepsiCo,Beverage order,2024-08-01,3982.35,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 299731d8-6045-4cfb-9682-539a855863cb,2024-08-01,4013.35,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c54065a8-ef68-4ef8-818d-a9731730539c,2024-08-01,4044.35,Student,20
+GBP,GB45SCAM2624300099,NL,Bayer,Drug order payment,2024-08-01,4047.52,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Amazon,E-commerce order,2024-08-01,4051.48,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: e23078d0-be10-4222-a7cf-54eed298cee6,2024-08-01,4082.48,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2fc170d3-4d56-4d8c-a4b4-61ba8121372e,2024-08-01,4113.48,Student,20
+GBP,GB45SCAM2624300099,Canada,Muhammed Brands,Dinner reimbursement,2024-08-01,4117.84,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b50b366a-01f7-4888-8b7b-8c9d5bebd4fa,2024-08-01,4127.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 30a6240d-0ca3-46dd-a6b3-00c2d81c961b,2024-08-01,4158.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c6044045-6019-4815-a85c-96ddbb0f2565,2024-08-01,4189.38,Student,20
+GBP,GB45SCAM2624300099,Italy,Jennifer van Cuijck,Rent payment,2024-08-01,4191.6,Student,20
+GBP,GB45SCAM2624300099,NL,General Electric,Corporate services payment,2024-08-01,4194.88,Student,20
+GBP,GB45SCAM2624300099,NL,Benthe van den Oever,Vacation expenses,2024-08-01,4195.65,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 6030658d-4b60-47ca-b604-086bc4088f48,2024-08-01,4226.65,Student,20
+GBP,GB45SCAM2624300099,NL,Allianz,Claim settlement,2024-08-01,4236.36,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: c85a5e6c-f40a-406a-b61a-0306d7bc9195,2024-08-01,4267.36,Student,20
+GBP,GB45SCAM2624300099,Spain,GlaxoSmithKline,Medication purchase,2024-08-01,4270.39,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 824be2bd-8e38-4aa3-a1aa-d34cc9bd17e6,2024-08-01,4301.39,Student,20
+GBP,GB45SCAM2624300099,NL,Pfizer,Pharmacy bill,2024-08-01,4302.86,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 6bf5866f-2d63-46da-aae1-59fc4a2330b9,2024-08-01,4333.86,Student,20
+GBP,GB45SCAM2624300099,NL,SoftBank,Diversified company fee,2024-08-01,4336.27,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b285e455-3664-4f87-9518-aaec31d03b26,2024-08-01,4367.27,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9b4caa84-7324-4bd4-bff2-b769df96dd05,2024-08-01,4398.27,Student,20
+GBP,GB45SCAM2624300099,NL,Accenture,Expert consultation fee,2024-08-01,4400.78,Student,20
+GBP,GB45SCAM2624300099,NL,Bayer,Drug order payment,2024-08-01,4402.14,Student,20
+GBP,GB45SCAM2624300099,Hungary,Sanofi,Drug order payment,2024-08-01,4405.02,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 830cd9bf-7881-4caa-9ee5-d0211e997ac4,2024-08-01,4436.02,Student,20
+GBP,GB45SCAM2624300099,NL,Morgan Stanley,Brokerage fee,2024-08-01,4444.58,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b03d51c5-3bcb-4d71-b465-4844e0a656e7,2024-08-01,4475.58,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Huawei,Technology services invoice payment,2024-08-01,4477.21,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9467090a-94c1-4139-b0e2-8b34dc508b20,2024-08-01,4508.21,Student,20
+GBP,GB45SCAM2624300099,NL,DuPont,Corporate services payment,2024-08-01,4511.82,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: f72c1f3b-f0e6-4d18-8698-2a285660d9b8,2024-08-01,4542.82,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d8178c6a-8a80-44e6-a20b-41aae75d0f99,2024-08-01,4573.82,Student,20
+GBP,GB45SCAM2624300099,Canada,Meta Platforms,Technology services invoice payment,2024-08-01,4576.85,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 0b74bcf2-0856-42be-a403-3a00dbdd399a,2024-08-01,4607.85,Student,20
+GBP,GB45SCAM2624300099,Spain,Silke die Witte,Birthday party expenses,2024-08-01,4611.61,Student,20
+GBP,GB45SCAM2624300099,NL,Ruben Timmerman,Family loan repayment,2024-08-01,4617.1,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 10ef2c97-8c91-4e58-8415-749c4456c15c,2024-08-01,4648.1,Student,20
+GBP,GB45SCAM2624300099,NL,Twan Wolters,Reimbursement for dinner,2024-08-01,4651.03,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: dfbcbcc8-12e9-4e7d-9fe3-7d1d1c4ddd5c,2024-08-01,4682.03,Student,20
+GBP,GB45SCAM2624300099,NL,Airbus,Space exploration fee,2024-08-01,4684.35,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 20eb649f-598b-49e2-bb33-a0fe470e413f,2024-08-01,4715.35,Student,20
+GBP,GB45SCAM2624300099,NL,Merck & Co.,Drug order payment,2024-08-01,4721.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 97839293-92b5-4d03-ba65-98a7e75a6bf1,2024-08-01,4752.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,3M,Diversified company fee,2024-08-01,4755.33,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 73b29e8e-3ec7-4812-a278-009d2e9a015c,2024-08-01,4786.33,Student,20
+GBP,GB45SCAM2624300099,NL,Seth Adryaens,Pet expenses,2024-08-01,4787.2,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2736ce73-6618-4525-87f1-71a6279145f3,2024-08-01,4818.2,Student,20
+GBP,GB45SCAM2624300099,NL,Ford Motor,Vehicle service charge,2024-08-01,4828.76,Student,20
+GBP,GB45SCAM2624300099,NL,Noah van Doorn,Reimbursement for dinner,2024-08-01,4833.06,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 441de89f-c07b-4eb0-abfb-c7080e264d94,2024-08-01,4864.06,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: ef7ca171-2bf6-4296-94ea-f88939d3a353,2024-08-01,4895.06,Student,20
+GBP,GB45SCAM2624300099,NL,Berkshire Hathaway,Diversified company fee,2024-08-01,4897.67,Student,20
+GBP,GB45SCAM2624300099,Germany,Airbus,Aerospace parts purchase,2024-08-01,4902.78,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b8bb108d-889e-4bf1-abf9-6d2953221735,2024-08-01,4933.78,Student,20
+GBP,GB45SCAM2624300099,NL,Volkswagen,Vehicle service charge,2024-08-01,4939.83,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: de4dee85-7ec2-4af9-b142-cba7379bfc86,2024-08-01,4970.83,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: f87c4ce9-6b6e-4e0c-a8b0-a9d90fdc7f25,2024-08-01,5001.83,Student,20
+GBP,GB45SCAM2624300099,NL,Kevin Verbeek,Christmas gift,2024-08-01,5012.53,Student,20
+GBP,GB45SCAM2624300099,NL,Renault,Car parts order,2024-09-01,5013.42,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 3d94136e-f227-46f2-ba7d-c1f588ee3118,2024-09-01,5044.42,Student,20
+GBP,GB45SCAM2624300099,NL,AT&T,Telecom invoice,2024-09-01,5046.21,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 8c68747a-8dcc-4ca6-be66-d043fe6bfd94,2024-09-01,5077.21,Student,20
+GBP,GB45SCAM2624300099,Germany,Honeywell,Business unit invoice,2024-09-01,5083.7,Student,20
+GBP,GB45SCAM2624300099,United States,Bristol-Myers Squibb,Medication purchase,2024-09-01,5084.95,Student,20
+GBP,GB45SCAM2624300099,Canada,Verizon,Phone bill,2024-09-01,5090.37,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: a0e8795d-3578-41cc-8ecb-bf2e05ad8dc2,2024-09-01,5121.37,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: bfe72167-08f1-459b-9340-9a4f57b357fa,2024-09-01,5152.37,Student,20
+GBP,GB45SCAM2624300099,Canada,IBM,Cloud storage subscription,2024-09-01,5157.27,Student,20
+GBP,GB45SCAM2624300099,NL,Evi van Bovenen,Reimbursement for shopping,2024-09-01,5161.28,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 06cd810e-b137-4fc5-a66f-30d4bad25782,2024-09-01,5192.28,Student,20
+GBP,GB45SCAM2624300099,NL,IBM,Technology services invoice payment,2024-09-01,5193.9,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 18d42a30-72bb-420f-b190-ada56ec26dd1,2024-09-01,5224.9,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Goldman Sachs,Capital markets service,2024-09-01,5234.53,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: f029decc-0a06-4ae7-ad1b-801c39387043,2024-09-01,5265.53,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Merck & Co.,Pharmacy bill,2024-09-01,5276.8,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: b2350449-74a5-459c-97ff-792c8fd0f073,2024-09-01,5307.8,Student,20
+GBP,GB45SCAM2624300099,NL,Cisco Systems,Web hosting fee,2024-09-01,5316.96,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: a2249abb-6499-47a3-9373-eccecdcbfb8b,2024-09-01,5347.96,Student,20
+GBP,GB45SCAM2624300099,NL,Nike,Sportswear buy,2024-09-01,5349.1,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d8ad56b5-1a3d-49d7-8db4-7b6ce1540c7c,2024-09-01,5380.1,Student,20
+GBP,GB45SCAM2624300099,Great Britain,ByteDance,Web hosting fee,2024-09-01,5384.47,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 7067dab6-31b5-402f-9af0-f98be6e0c772,2024-09-01,5415.47,Student,20
+GBP,GB45SCAM2624300099,NL,Apple Inc.,Web hosting fee,2024-09-01,5419.84,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 36e30aba-baf4-4e2b-a9e7-caad5212e1b4,2024-09-01,5450.84,Student,20
+GBP,GB45SCAM2624300099,NL,Merle Breugelensis-Roukes,New baby gift,2024-09-01,5453.73,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 128e9b56-924a-4ed5-a2c9-3f509d4c877e,2024-09-01,5484.73,Student,20
+GBP,GB45SCAM2624300099,NL,Sofie van Clootwijck-van de Pol,Shared ride expenses,2024-09-01,5486.41,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 930f1dbb-0771-429d-a6e5-48b0054eda68,2024-09-01,5517.41,Student,20
+GBP,GB45SCAM2624300099,Denmark,Janne Schotte,Funeral expenses,2024-09-01,5523.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: ee97b9b0-8857-45d7-98fb-5ba7409f0d24,2024-09-01,5554.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Pfizer,Drug order payment,2024-09-01,5556.14,Student,20
+GBP,GB45SCAM2624300099,NL,Alibaba,Online shopping,2024-09-01,5577.76,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 1041fb2b-17f0-4b84-9f5b-c5c88d49fcea,2024-09-01,5608.76,Student,20
+GBP,GB45SCAM2624300099,NL,Geldmaat ATM,Geldmaat: f1097aeb-6c20-4928-bda2-fbbed30ae442,2024-09-01,5613.28,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 0a0dd6f5-8692-42e7-8f7b-1e49dd73986f,2024-09-01,5644.28,Student,20
+GBP,GB45SCAM2624300099,NL,IBM,Web hosting fee,2024-09-01,5649.28,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5c8a3ee3-a0a1-4680-aa97-cac6ab39e892,2024-09-01,5680.28,Student,20
+GBP,GB45SCAM2624300099,NL,Dell Technologies,Cloud storage subscription,2024-09-01,5683.56,Student,20
+GBP,GB45SCAM2624300099,Germany,Verizon,Data plan payment,2024-09-01,5684.22,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: cf2d9268-301c-4621-b6a4-022504172d7d,2024-09-01,5715.22,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: a235e54a-7cf1-44b9-9ea2-539320fa2c6c,2024-09-01,5746.22,Student,20
+GBP,GB45SCAM2624300099,NL,Geldmaat ATM,Geldmaat: 9ef6fac7-1502-4e96-993e-dcdc7fc57549,2024-09-01,5789.18,Student,20
+GBP,GB45SCAM2624300099,NL,Oscar van der Veiver,Reimbursement for bills,2024-09-01,5792.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 6f9f7910-42a8-4684-a304-6caf1bba0024,2024-09-01,5823.38,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Microsoft,Cloud storage subscription,2024-09-01,5826.53,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: cf8b6e81-c257-468d-aa6a-b3d565ff7696,2024-09-01,5857.53,Student,20
+GBP,GB45SCAM2624300099,Canada,Geldmaat ATM,Geldmaat: 0cb325e9-9513-44b4-a413-e196379e5a3e,2024-09-01,5945.64,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5eb7f428-c067-4235-914d-913df002eb15,2024-09-01,5976.64,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Ford Motor,Auto repair bill,2024-09-01,5977.3,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Amazon,Online shopping,2024-09-01,5977.81,Student,20
+GBP,GB45SCAM2624300099,Italy,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,5979.88,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9151f58d-1d0e-4671-9c24-301d10f20856,2024-09-01,6010.88,Student,20
+GBP,GB45SCAM2624300099,NL,ByteDance,Web hosting fee,2024-09-01,6015.84,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2ee4d091-98ed-4bc9-bfee-0092668dc984,2024-09-01,6046.84,Student,20
+GBP,GB45SCAM2624300099,NL,Geldmaat ATM,Geldmaat: fe659326-6454-456e-b91d-7a0ae986382e,2024-09-01,6068.77,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 607efc38-22c7-42ab-b986-3394617b3015,2024-09-01,6099.77,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 3a9f56be-1345-4875-8d9d-de61e347e899,2024-09-01,6130.77,Student,20
+GBP,GB45SCAM2624300099,NL,Julia van den Nieuwenhuijsen,Friend loan repayment,2024-09-01,6132.06,Student,20
+GBP,GB45SCAM2624300099,Germany,Volkswagen,Vehicle service charge,2024-09-01,6136.33,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2d6e1001-9f0c-4fcb-9e41-916fa2b5363a,2024-09-01,6167.33,Student,20
+GBP,GB45SCAM2624300099,Italy,Renault,Auto repair bill,2024-09-01,6172.74,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: fc2a4793-a1a1-466d-8628-2b3a3ae2caf9,2024-09-01,6203.74,Student,20
+GBP,GB45SCAM2624300099,NL,LVMH,Luxury item purchase,2024-09-01,6225.55,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9acefeb2-7452-4ccf-948c-429108013fef,2024-09-01,6256.55,Student,20
+GBP,GB45SCAM2624300099,NL,PepsiCo,Catering service fee,2024-10-01,6262.42,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2080a163-1113-4f05-88aa-5d2169b1b620,2024-10-01,6293.42,Student,20
+GBP,GB45SCAM2624300099,NL,Boeing,Aviation technology fee,2024-10-01,6294.77,Student,20
+GBP,GB45SCAM2624300099,NL,Janne Remmers-Brouwer,Rent assistance,2024-10-01,6299.59,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: e69322ae-e54e-4875-bb92-9c38ebd1e83a,2024-10-01,6330.59,Student,20
+GBP,GB45SCAM2624300099,Italy,Morgan Stanley,Brokerage fee,2024-10-01,6334.83,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: f510ac9e-aaf9-4d0e-b38d-c0f5cfcc6919,2024-10-01,6365.83,Student,20
+GBP,GB45SCAM2624300099,Italy,PepsiCo,Catering service fee,2024-10-01,6369.19,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 4a953222-4c97-4010-b11f-d2ad4d7f9aa8,2024-10-01,6400.19,Student,20
+GBP,GB45SCAM2624300099,Germany,AT&T,Cable service subscription,2024-10-01,6402.44,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 1bb12beb-7572-4f3c-b6a5-ee2b70a5862b,2024-10-01,6433.44,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 3885bd13-0417-481d-ba04-f0c892466fea,2024-10-01,6464.44,Student,20
+GBP,GB45SCAM2624300099,Italy,AT&T,Cable service subscription,2024-10-01,6467.45,Student,20
+GBP,GB45SCAM2624300099,NL,Merck & Co.,Healthcare prescription,2024-10-01,6469.88,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 642e4436-a68e-49ae-942e-34f58bc412ec,2024-10-01,6500.88,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: d4dd4ba2-fad7-4fd3-adcc-85ba604f7586,2024-10-01,6531.88,Student,20
+GBP,GB45SCAM2624300099,NL,Facebook,Social media service subscription,2024-10-01,6535.15,Student,20
+GBP,GB45SCAM2624300099,NL,Dean Lage,Child support,2024-10-01,6536.56,Student,20
+GBP,GB45SCAM2624300099,Belgium,PepsiCo,Restaurant bill,2024-10-01,6537.98,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 400cc700-d99a-4f01-8ade-ddc4f3c0a4dd,2024-10-01,6568.98,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 828e16eb-180f-45b5-a96f-0c010441284b,2024-10-01,6599.98,Student,20
+GBP,GB45SCAM2624300099,NL,Elise van der Pol,Reimbursement for travel,2024-10-01,6602.89,Student,20
+GBP,GB45SCAM2624300099,NL,Kevin van Bergen,Rent payment,2024-10-01,6609.35,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 5e2ef4a8-2336-4685-a645-13152d7f0e55,2024-10-01,6640.35,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Novartis,Drug order payment,2024-10-01,6641.68,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 9b822808-ba11-4d3b-ac2f-e803f04382b2,2024-10-01,6672.68,Student,20
+GBP,GB45SCAM2624300099,France,Sofie Strik,Personal loan,2024-10-01,6677.58,Student,20
+GBP,GB45SCAM2624300099,NL,Bristol-Myers Squibb,Drug order payment,2024-10-01,6685.98,Student,20
+GBP,GB45SCAM2624300099,Great Britain,Geldmaat ATM,Geldmaat: 2b2ecbe0-e465-4bbb-992c-d43b2075f5cf,2024-10-01,6716.98,Student,20

@@ -1,0 +1,447 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+GBP,GB45SCAM3035755322,Great Britain,Renault,Car parts order,2024-06-01,6415.69,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Renault,Car purchase,2024-06-01,6447.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 35f50d83-9321-430a-9b18-5af9ad1ad5ec,2024-06-01,8049.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Bas Heere,Split vacation cost,2024-06-01,8080.59,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Allianz,Insurance premium,2024-06-01,8095.98,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 50cf30c9-338b-428b-9b5c-c7df9bc6ef98,2024-06-01,9697.98,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Novartis,Drug order payment,2024-06-01,9706.92,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Huawei,Technology services invoice payment,2024-06-01,9708.71,Self-employed,50
+GBP,GB45SCAM3035755322,Italy,Microsoft,Cloud storage subscription,2024-06-01,9712.02,Self-employed,50
+GBP,GB45SCAM3035755322,Japan,Facebook,Ad campaign funding,2024-06-01,9719.21,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mitsubishi,Diversified company fee,2024-06-01,9733.04,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BASF,Industrial chemicals purchase,2024-06-01,9734.38,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: a10b5f43-f735-4af4-9e99-83c431f5d700,2024-06-01,11336.38,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Oracle,Web hosting fee,2024-06-01,11369.97,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 00d0de8e-e370-4e82-ac6a-d2eeb40c3126,2024-06-01,12971.97,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Mette Rouwhorst,Shared subscription,2024-06-01,12976.71,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Verizon,Cable service subscription,2024-06-01,13000.79,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Microsoft,Technology services invoice payment,2024-06-01,13008.95,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: cc5b66fc-e725-4412-b82f-a5447a62b392,2024-06-01,14610.95,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Brent de Gruson,Vacation expenses,2024-06-01,14648.8,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 8a8dad27-126d-4d57-9dde-2c17b7516e19,2024-06-01,16250.8,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daimler,Vehicle service charge,2024-06-01,16402.31,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ad75ab16-1666-4c64-a8a0-5bb57c3b729e,2024-06-01,18004.31,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Amazon,Subscription service,2024-06-01,18018.39,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 86d66934-dcad-415e-86e7-508d73cb3b68,2024-06-01,19620.39,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Mitsubishi,Business unit invoice,2024-06-01,19628.64,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Cisco Systems,Software license fee payment,2024-06-01,19631.12,Self-employed,50
+GBP,GB45SCAM3035755322,NL,LVMH,Designer goods order,2024-06-01,19647.41,Self-employed,50
+GBP,GB45SCAM3035755322,NL,LVMH,Designer goods order,2024-06-01,19654.6,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ac201d2a-a162-4b02-ad4a-1bcc1eb95ffd,2024-06-01,21256.6,Self-employed,50
+GBP,GB45SCAM3035755322,NL,3M,Business unit invoice,2024-06-01,21351.68,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Cisco Systems,Technology services invoice payment,2024-06-01,21361.01,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Alibaba,Marketplace seller fee,2024-06-01,21370.52,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BASF,Laboratory reagents buy,2024-06-01,21386.31,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Evy Schroeff,Travel expenses,2024-06-01,21431.65,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9ee13fb8-6556-4bd4-8164-e16e6c4c83bb,2024-06-01,23033.65,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,AstraZeneca,Pharmacy bill,2024-06-01,23047.2,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 4293f59f-c76b-4fed-87c7-e992286e883b,2024-06-01,24649.2,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Honeywell,Diversified company fee,2024-06-01,24665.77,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Oracle,Cloud storage subscription,2024-06-01,24671.58,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Rens Brandon,Shared hotel room cost,2024-06-01,24683.77,Self-employed,50
+GBP,GB45SCAM3035755322,Austria,Apple Inc.,Web hosting fee,2024-06-01,24695.27,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 15edc22f-9695-4e07-bc5d-233c9f9e07ee,2024-06-01,26297.27,Self-employed,50
+GBP,GB45SCAM3035755322,Japan,Allianz,Policy renewal fee,2024-06-01,26303.85,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Roan Lieshout,Rent assistance,2024-06-01,26321.26,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Dell Technologies,Cloud storage subscription,2024-06-01,26364.82,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6097e4ca-4325-4c7f-a3ef-9654f2f765e4,2024-06-01,27966.82,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: c22afff6-3622-4bab-af03-dd9b90a52821,2024-06-01,29568.82,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Lise van Duivenvoorde-Jansen,Anniversary gift,2024-06-01,29602.65,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Oracle,Web hosting fee,2024-06-01,29621.78,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Merck & Co.,Medication purchase,2024-06-01,29627.12,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Roche,Healthcare prescription,2024-06-01,29639.18,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 078e4934-c49a-4c80-8ba0-f39d92c7993e,2024-06-01,31241.18,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Tessa Boers-Vertooren,Travel expenses,2024-06-01,31270.04,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Honeywell,Corporate services payment,2024-06-01,31282.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f0a66c15-9cc8-43cf-98c5-92e500aa471c,2024-06-01,32884.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Alphabet Inc.,Web hosting fee,2024-06-01,32896.69,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mees van Northeim,Rent assistance,2024-06-01,32932.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 30665083-dfa0-461e-846e-cf1945f6434e,2024-06-01,34534.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 345d6946-4c9f-477e-8bd1-36eb1045d959,2024-06-01,36136.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daimler,Vehicle service charge,2024-06-01,36169.7,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Faas van den Broek,Shared hotel room cost,2024-06-01,36177.49,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Aimée Govarts,Funeral expenses,2024-06-01,36206.52,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 60bf7003-f3fb-48aa-b17d-c30d386484e7,2024-06-01,37808.52,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Novartis,Pharmacy bill,2024-06-01,37823.41,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Bente Blom,Funeral expenses,2024-06-01,37835.22,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,AstraZeneca,Drug order payment,2024-06-01,37846.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BMW,Car parts order,2024-06-01,37852.25,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Micha Lankle,Personal loan,2024-06-01,37867.87,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: dd4e08c2-4bc1-44b6-b633-e92cdee2d0f4,2024-06-01,39469.87,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Procter & Gamble,Product purchase,2024-06-01,39509.82,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ba88bd53-cb66-4909-97d0-bfe771584371,2024-06-01,41111.82,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,BASF,Laboratory reagents buy,2024-06-01,41121.68,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Yasmin van de Darnau,Reimbursement for travel,2024-06-01,41147.04,Self-employed,50
+GBP,GB45SCAM3035755322,NL,ByteDance,Web hosting fee,2024-06-01,41151.89,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: abba7f68-b7b6-4ac6-8daa-96bd2f58604c,2024-06-01,42753.89,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: e0f64a7e-2534-49c3-98df-4fdef32135e9,2024-06-01,44355.89,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Allianz,Policy renewal fee,2024-06-01,44402.33,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: eb9eab7c-4cd8-4225-a009-4fd5e41ede6c,2024-06-01,46004.33,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Berkshire Hathaway,Conglomerate product order,2024-06-01,46016.28,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Benjamin Hondeveld,Wedding gift,2024-06-01,46021.71,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Daimler,Car parts order,2024-06-01,46043.98,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Boeing,Aircraft maintenance,2024-06-01,46055.72,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Kian van den Brink-den Haag,Travel expenses,2024-06-01,46073.32,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f64f8aed-656d-4bbb-8ae1-877fd7cbaed3,2024-06-01,47675.32,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Nike,Sportswear buy,2024-06-01,47697.24,Self-employed,50
+GBP,GB45SCAM3035755322,Italy,Accenture,Consulting fee,2024-06-01,47702.17,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Pfizer,Drug order payment,2024-06-01,47718.03,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Berkshire Hathaway,Business unit invoice,2024-06-01,47724.04,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 0fe89b7c-33ae-4fa8-8bb9-313cb1e1813e,2024-06-01,49326.04,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,DuPont,Diversified company fee,2024-06-01,49337.27,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,3M,Business unit invoice,2024-06-01,49373.07,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9538e338-1789-4cd2-9cd7-bfa67fe9ec87,2024-06-01,50975.07,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6b673172-4a37-4d84-bddd-d61351f13cb9,2024-06-01,52577.07,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Gilead Sciences,Biotech research fee,2024-06-01,52625.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Johnson & Johnson,Healthcare prescription,2024-06-01,53008.9,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 949d5da0-a0cd-4407-87ff-38ebde4bba34,2024-06-01,54610.9,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,54616.21,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Verizon,Telecom invoice,2024-06-01,54648.79,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Cisco Systems,Web hosting fee,2024-06-01,54658.62,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 48c73e69-fa61-4d86-8220-58e37921798f,2024-06-01,56260.62,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Senna van Leeuwen,School fees,2024-07-01,56296.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b34fb9d1-b829-4894-8a65-20eec8b233d9,2024-07-01,57898.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Verizon,Cable service subscription,2024-07-01,57945.42,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,GlaxoSmithKline,Drug order payment,2024-07-01,57953.65,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b8893632-a556-42c4-b27b-386fd3051d78,2024-07-01,59555.65,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Apple Inc.,Cloud storage subscription,2024-07-01,59571.54,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Dana Heinrichs,Reimbursement for medical expenses,2024-07-01,59580.45,Self-employed,50
+GBP,GB45SCAM3035755322,NL,General Electric,Corporate services payment,2024-07-01,59616.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 2458fdf7-5a68-4ce4-8e0e-4774926ba237,2024-07-01,61218.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 36f80d34-1259-4a2e-b93a-247639b1145a,2024-07-01,62820.44,Self-employed,50
+GBP,GB45SCAM3035755322,Italy,Stan de Hoog,Support for a friend,2024-07-01,62865.16,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Berkshire Hathaway,Corporate services payment,2024-07-01,62904.75,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Facebook,Social media service subscription,2024-07-01,62913.71,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ebe8ef83-97df-4a12-a56c-b99f18209a50,2024-07-01,64515.71,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Facebook,Premium account upgrade,2024-07-01,64571.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 8bb1e22e-9a30-467d-8e45-46d88a0ada60,2024-07-01,66173.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 1f227ad4-b68b-4a45-9031-166a0e255031,2024-07-01,67775.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Accenture,Consulting fee,2024-07-01,67803.28,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Roche,Pharmacy bill,2024-07-01,67834.92,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Linn Kriens,Support money,2024-07-01,67839.04,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 44f51b07-1d6b-4591-8be3-714012afe25a,2024-07-01,69441.04,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Duke Energy,Utility bill,2024-07-01,69451.27,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,GlaxoSmithKline,Medication purchase,2024-07-01,69472.04,Self-employed,50
+GBP,GB45SCAM3035755322,Italy,Renault,Car purchase,2024-07-01,69483.67,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Berkshire Hathaway,Business unit invoice,2024-07-01,69499.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b126398b-06a8-4fb8-a60f-0e9639493807,2024-07-01,71101.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Renault,Car purchase,2024-07-01,71113.34,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Merck & Co.,Medication purchase,2024-07-01,71128.31,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 24ab90d3-e995-4d77-93ab-b61ede6639b2,2024-07-01,72730.31,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Cisco Systems,Software license fee payment,2024-07-01,72747.41,Self-employed,50
+GBP,GB45SCAM3035755322,France,Oracle,Web hosting fee,2024-07-01,72830.24,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9166dc64-a00f-490c-bd83-02fcbe1ed077,2024-07-01,74432.24,Self-employed,50
+GBP,GB45SCAM3035755322,France,Samuel van Loon,Support money,2024-07-01,74437.98,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mia Groote,Child support,2024-07-01,74439.38,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Procter & Gamble,Order payment,2024-07-01,74501.87,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Procter & Gamble,Product purchase,2024-07-01,74512.08,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: a73b3c29-7889-4f49-9eeb-163af083a130,2024-07-01,76114.08,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Bayer,Medication purchase,2024-07-01,76123.98,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Roche,Drug order payment,2024-07-01,76162.37,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 66424707-6103-4072-a704-754b8a6e0997,2024-07-01,77764.37,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,77779.24,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: e6b70925-3627-46b8-a5cd-fac76cada94c,2024-07-01,79381.24,Self-employed,50
+GBP,GB45SCAM3035755322,Austria,Ford Motor,Vehicle service charge,2024-07-01,79408.89,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Gilead Sciences,Genetic testing kit,2024-07-01,79410.69,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,IBM,Technology services invoice payment,2024-07-01,79430.24,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,AstraZeneca,Healthcare prescription,2024-07-01,79437.56,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BASF,Laboratory reagents buy,2024-07-01,79455.53,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3e65002e-2c31-4ded-91b2-f188efcea461,2024-07-01,81057.53,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Geldmaat ATM,Geldmaat: ddc50426-280b-447e-8ada-88bca1d69c41,2024-07-01,81058.2,Self-employed,50
+GBP,GB45SCAM3035755322,NL,3M,Diversified company fee,2024-07-01,81092.72,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 345aa430-7201-4f4f-b43e-29303ad0af94,2024-07-01,82694.72,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Johnson & Johnson,Drug order payment,2024-07-01,82702.8,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Oracle,Web hosting fee,2024-07-01,82783.8,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Merck & Co.,Medication purchase,2024-07-01,82797.43,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 36e7913e-2fee-4264-ada6-b6efdd7755f1,2024-07-01,84399.43,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,SoftBank,Corporate services payment,2024-07-01,84440.34,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: bb5adbb3-75d6-4b6e-9602-474cfe16e6d2,2024-07-01,86042.34,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Facebook,Social media service subscription,2024-07-01,86076.35,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 02b24982-8ad2-4c2f-b077-000f69a17184,2024-07-01,87678.35,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: a92b3767-3713-473b-8c44-7ad04e9f9b60,2024-07-01,89280.35,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Merck & Co.,Medication purchase,2024-07-01,89334.37,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Apple Inc.,Software license fee payment,2024-07-01,89336.55,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Leon van Beaumont-Erhout,Reimbursement for groceries,2024-07-01,89342.76,Self-employed,50
+GBP,GB45SCAM3035755322,France,BASF,Cleaning products order,2024-07-01,89350.12,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,PepsiCo,Beverage order,2024-07-01,89359.99,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Felix Ponci,Household expenses,2024-07-01,89396.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b5a6dac8-f9f6-4f56-9330-83bc205029ff,2024-07-01,90998.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Apple Inc.,Technology services invoice payment,2024-07-01,91012.77,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: c04af467-c1f0-49b6-8e13-9e74218bcc0a,2024-07-01,92614.77,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Evelien de Grunt,Support for a family member,2024-07-01,92635.41,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daniël Smeets,Mortgage help,2024-07-01,92671.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 672e971e-6725-4c38-9180-f650ad16d911,2024-07-01,94273.19,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,IBM,Cloud storage subscription,2024-07-01,94355.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6d0dd57a-0365-49f5-bada-11bf09c82ab6,2024-07-01,95957.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Accenture,Advisory session charge,2024-07-01,95991.96,Self-employed,50
+GBP,GB45SCAM3035755322,Belgium,Meike Arts-van den Eijssel,Vacation expenses,2024-07-01,95998.38,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 0134d580-f95c-4f95-8325-feaf6900cd72,2024-07-01,97600.38,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 8671e9e6-a26e-4a1a-b763-3a3e91b94dd5,2024-07-01,99202.38,Self-employed,50
+GBP,GB45SCAM3035755322,France,Renault,Auto repair bill,2024-07-01,99246.43,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Vajèn van der Noot,Vacation expenses,2024-07-01,99252.12,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Volkswagen,Car parts order,2024-07-01,99291.85,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: c6539967-d6d3-4e1e-afe8-0fab68a7e679,2024-07-01,100893.85,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9ab87ce5-6e3b-4fd6-8466-569a72e79152,2024-07-01,102495.85,Self-employed,50
+GBP,GB45SCAM3035755322,Hungary,Hamza Pieters van der Maes,Household expenses,2024-07-01,102530.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mitsubishi,Business unit invoice,2024-07-01,102545.99,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Cisco Systems,Technology services invoice payment,2024-07-01,102555.99,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f2d0fab4-f5f6-468b-94a7-d9f5d71c547d,2024-07-01,104157.99,Self-employed,50
+GBP,GB45SCAM3035755322,NL,General Electric,Business unit invoice,2024-07-01,104170.28,Self-employed,50
+GBP,GB45SCAM3035755322,Hungary,Verizon,Telecom invoice,2024-07-01,104180.93,Self-employed,50
+GBP,GB45SCAM3035755322,France,AT&T,Phone bill,2024-07-01,104190.58,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: a8a0469e-5985-4dea-8879-d7db9528a184,2024-07-01,105792.58,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Facebook,Influencer collaboration fee,2024-07-01,105804.26,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Roche,Medication purchase,2024-07-01,105874.68,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: c2cbc441-1314-475c-b76d-109c271401f8,2024-07-01,107476.68,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Bayer,Medication purchase,2024-08-01,107525.9,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: e136bb8a-01bb-4867-97e4-d29b13b4aa67,2024-08-01,109127.9,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Sanofi,Drug order payment,2024-08-01,109145.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 5b28fa61-9fe3-410d-939b-c17688f2e9eb,2024-08-01,110747.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,DuPont,Diversified company fee,2024-08-01,110766.74,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Faye van de Ven,Party contribution,2024-08-01,110787.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ed2291e2-9050-4005-847e-ce53316829ac,2024-08-01,112389.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Gilead Sciences,Biotech research fee,2024-08-01,112407.67,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Alibaba,E-commerce order,2024-08-01,112414.88,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Boeing,Aviation technology fee,2024-08-01,112443.48,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6c46b222-1dca-4c2f-88bf-9719c6ec1efa,2024-08-01,114045.48,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f8fa771b-efff-4ec6-8e99-cf22e8094965,2024-08-01,115647.48,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Myrthe Verhaar,Household expenses,2024-08-01,115668.71,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Dell Technologies,Web hosting fee,2024-08-01,115708.71,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Tobias Kok,Mortgage help,2024-08-01,115777.81,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 28504a5f-f06d-4df2-a898-839add474d36,2024-08-01,117379.81,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,DuPont,Conglomerate product order,2024-08-01,117387.89,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Volkswagen,Auto repair bill,2024-08-01,117431.93,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3e9b6ab1-8466-4798-a1c2-bcb7ee5cb87c,2024-08-01,119033.93,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Johnson & Johnson,Healthcare prescription,2024-08-01,119079.45,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 0d48678e-c20c-4f93-9976-98e4864f03f3,2024-08-01,120681.45,Self-employed,50
+GBP,GB45SCAM3035755322,France,BASF,Industrial chemicals purchase,2024-08-01,120715.26,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6c871fec-6312-40f9-a508-212c46f4f382,2024-08-01,122317.26,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Oracle,Software license fee payment,2024-08-01,122331.2,Self-employed,50
+GBP,GB45SCAM3035755322,Italy,BMW,Vehicle service charge,2024-08-01,122344.84,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Imran Rijntjes,Anniversary gift,2024-08-01,122356.63,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Nick Hermans,Medical bills,2024-08-01,122359.07,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 8c3208b9-a9e3-46a4-8f9d-11db31a4663a,2024-08-01,123961.07,Self-employed,50
+GBP,GB45SCAM3035755322,Hungary,Gilead Sciences,Laboratory service charge,2024-08-01,123973.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Morgan Stanley,Capital markets service,2024-08-01,123976.89,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Merck & Co.,Pharmacy bill,2024-08-01,123988.3,Self-employed,50
+GBP,GB45SCAM3035755322,France,Airbus,Aircraft maintenance,2024-08-01,123994.3,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 1c17eff2-375c-4b16-8e1d-ce5edc74b38f,2024-08-01,125596.3,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 4f011465-ee3c-4972-88f6-3733ad937ffe,2024-08-01,127198.3,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Phillips 66,Utility bill,2024-08-01,127266.21,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Microsoft,Software license fee payment,2024-08-01,127307.95,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6553aa64-3be5-4802-8f93-37b6750eff49,2024-08-01,128909.95,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BMW,Vehicle service charge,2024-08-01,128958.56,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 7fa5852e-0333-4424-8b64-ea68a470a005,2024-08-01,130560.56,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Daimler,Vehicle service charge,2024-08-01,130599.07,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 527f15aa-c3ab-49fd-b77a-a063720a8e09,2024-08-01,132201.07,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Microsoft,Web hosting fee,2024-08-01,132362.03,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: de734e6b-aed0-43e2-b280-b3a0290934be,2024-08-01,133964.03,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Sanofi,Drug order payment,2024-08-01,133974.87,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Phillips 66,Renewable energy subscription,2024-08-01,133992.49,Self-employed,50
+GBP,GB45SCAM3035755322,Hungary,Ella van der Wal,Birthday party expenses,2024-08-01,134001.01,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 37d6ddbc-63ad-4e3f-83f2-ec8e4b1d54b4,2024-08-01,135603.01,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Gilead Sciences,Laboratory service charge,2024-08-01,135623.3,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Volkswagen,Auto repair bill,2024-08-01,135655.46,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3e23c82b-412f-483d-8f42-9bc661b93e06,2024-08-01,137257.46,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Amazon,Subscription service,2024-08-01,137269.06,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Nadia Rubben,Birthday party expenses,2024-08-01,137273.06,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 4a24a1b2-0e71-42a5-bfb0-4e6308b5c7ba,2024-08-01,138875.06,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Dell Technologies,Web hosting fee,2024-08-01,138895.71,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Luka de Jong,Grocery money,2024-08-01,138907.52,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Alibaba,Subscription service,2024-08-01,138911.2,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Novartis,Drug order payment,2024-08-01,138915.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 7a5aff8f-a656-4ce5-9c2a-6ea3ba132864,2024-08-01,140517.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Huawei,Software license fee payment,2024-08-01,140521.4,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Procter & Gamble,Retail goods payment,2024-08-01,140528.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BMW,Auto repair bill,2024-08-01,140539.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 92880e13-1149-4f76-b3eb-98679e3ec2a4,2024-08-01,142141.1,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Bayer,Pharmacy bill,2024-08-01,142172.7,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Dirk Aarden-van Tuijl,Split vacation cost,2024-08-01,142181.49,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Cisco Systems,Web hosting fee,2024-08-01,142217.65,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: dad751bb-2da3-4d74-a647-9fe3a5b3bda9,2024-08-01,143819.65,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daimler,Car parts order,2024-08-01,143822.8,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Merck & Co.,Medication purchase,2024-08-01,143834.67,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Huawei,Software license fee payment,2024-08-01,143848.2,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Phillips 66,Electricity payment,2024-08-01,143856.41,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f50e368c-5d0f-4f4d-a4ca-ab13f301bd38,2024-08-01,145458.41,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,AT&T,Cable service subscription,2024-08-01,145649.67,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: cc2e7d19-a779-44c0-97db-77930de69b27,2024-08-01,147251.67,Self-employed,50
+GBP,GB45SCAM3035755322,Hungary,Amazon,E-commerce order,2024-08-01,147258.57,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Maurits de Koning-Uphus,Vacation expenses,2024-08-01,147268.83,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Joep Gnodde,Gift,2024-08-01,147279.56,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Roche,Drug order payment,2024-08-01,147295.75,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3eddc5a4-77f6-4035-8b4f-715197131e59,2024-08-01,148897.75,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Maartje Martens,Reimbursement for travel,2024-08-01,148916.72,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Roche,Healthcare prescription,2024-08-01,148982.63,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 2ab4ee2c-0486-4ed1-b5ad-03e85204f904,2024-08-01,150584.63,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Allianz,Insurance premium,2024-08-01,150600.21,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Duke Energy,Renewable energy subscription,2024-08-01,150609.49,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: baa10c70-e17f-4fa6-b16b-de2dcbec6a14,2024-08-01,152211.49,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Meta Platforms,Software license fee payment,2024-08-01,152224.26,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,AstraZeneca,Medication purchase,2024-08-01,152226.73,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b2fcea0a-1283-42cf-b117-d4c96beda423,2024-08-01,153828.73,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Amazon,Marketplace seller fee,2024-08-01,153841.09,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Apple Inc.,Software license fee payment,2024-08-01,153870.54,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 387e019e-959b-4f7f-bc85-3de159208cab,2024-08-01,155472.54,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Evy Steenbeek-Zwijsen,Loan to family,2024-08-01,155521.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9c7c7357-51c1-4120-bad6-181b0b050e8d,2024-08-01,157123.51,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Roche,Healthcare prescription,2024-08-01,157175.08,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Dave Molenaar,Rent deposit,2024-08-01,157245.83,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,GlaxoSmithKline,Medication purchase,2024-08-01,157252.55,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 61ced15a-7da8-4651-8406-e5cfa6756c02,2024-08-01,158854.55,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Procter & Gamble,Retail goods payment,2024-08-01,158863.38,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Elif Jacobi,Loan to friend,2024-09-01,158870.4,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Max Kok-Beernink,Grocery money,2024-09-01,158921.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3658bf30-d1c3-4cf6-b864-28b1cd87be2b,2024-09-01,160523.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 38654a5f-98f5-4220-b938-ed5869258d4d,2024-09-01,162125.1,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Verizon,Phone bill,2024-09-01,162188.64,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Johnson & Johnson,Medication purchase,2024-09-01,162203.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,AT&T,Data plan payment,2024-09-01,162216.87,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Demi Mulders-de Hoogh,Rent payment,2024-09-01,162229.99,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Sanofi,Pharmacy bill,2024-09-01,162261.49,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: d7e3ac25-30b3-4684-9bf7-06e57311ecd6,2024-09-01,163863.49,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Amazon,E-commerce order,2024-09-01,163886.64,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Verizon,Phone bill,2024-09-01,163888.66,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f3fc5c64-71a0-432a-a9f9-8426c6900bfb,2024-09-01,165490.66,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Tijmen van der Avoirt,Travel expenses,2024-09-01,165505.94,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mitsubishi,Corporate services payment,2024-09-01,165551.29,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Daimler,Auto repair bill,2024-09-01,165576.14,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3f8d0e9f-88a7-41a9-9152-a1c65ad0494b,2024-09-01,167178.14,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mitsubishi,Business unit invoice,2024-09-01,167180.44,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BMW,Vehicle service charge,2024-09-01,167182.28,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Toyota,Car parts order,2024-09-01,167288.33,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: dcd7384e-36b3-4749-a0f7-c96cffd1100c,2024-09-01,168890.33,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Stefan van Poppel,Shared ride expenses,2024-09-01,168909.33,Self-employed,50
+GBP,GB45SCAM3035755322,NL,SoftBank,Diversified company fee,2024-09-01,168928.48,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Mitsubishi,Business unit invoice,2024-09-01,168950.74,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: de220665-fd95-4067-8254-5a999fe9de7c,2024-09-01,170552.74,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Honeywell,Business unit invoice,2024-09-01,170575.52,Self-employed,50
+GBP,GB45SCAM3035755322,Hungary,Morgan Stanley,Investment fund entry,2024-09-01,170608.41,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: d902e83d-681c-42ad-a7a7-31a8859b1f23,2024-09-01,172210.41,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Isabella Broekhoven,Split restaurant bill,2024-09-01,172227.47,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 4e6d26db-f501-42f1-8914-b8051c981e35,2024-09-01,173829.47,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Accenture,Professional service invoice,2024-09-01,173883.37,Self-employed,50
+GBP,GB45SCAM3035755322,France,Morgan Stanley,Capital markets service,2024-09-01,173993.15,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b81dc204-c189-4db5-8d38-72a040038c3e,2024-09-01,175595.15,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Boeing,Aircraft maintenance,2024-09-01,175610.2,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Seth van Luxemburg-Greij,Rent payment,2024-09-01,175627.33,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Sanofi,Healthcare prescription,2024-09-01,175678.32,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 5dae2ce5-c966-4eb7-8233-a6ce18d43805,2024-09-01,177280.32,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Tristan van Heusden,Support money,2024-09-01,177289.39,Self-employed,50
+GBP,GB45SCAM3035755322,France,LVMH,Designer goods order,2024-09-01,177303.94,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ae0742cb-21b6-4263-a55d-049a11ea311e,2024-09-01,178905.94,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Goldman Sachs,Investment fund entry,2024-09-01,178935.28,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Novartis,Medication purchase,2024-09-01,178954.62,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Morgan Stanley,Brokerage fee,2024-09-01,178973.79,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: d58e46a2-4013-46bb-97cc-6309949a27b9,2024-09-01,180575.79,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Bristol-Myers Squibb,Drug order payment,2024-09-01,180589.82,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Merel Moensendijk,Shared utilities,2024-09-01,180618.01,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Microsoft,Technology services invoice payment,2024-09-01,180630.86,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 270051e6-53d4-446d-afc9-6edf444b90a2,2024-09-01,182232.86,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Lina de Roo,Emergency funds,2024-09-01,182241.12,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 6fb62016-7113-4613-ab40-170daf86f202,2024-09-01,183843.12,Self-employed,50
+GBP,GB45SCAM3035755322,NL,GlaxoSmithKline,Healthcare prescription,2024-09-01,183865.98,Self-employed,50
+GBP,GB45SCAM3035755322,NL,General Electric,Diversified company fee,2024-09-01,183877.12,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Verizon,Phone bill,2024-09-01,183877.91,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daimler,Car parts order,2024-09-01,183887.15,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 389d76d6-5447-449a-8866-45d08f669693,2024-09-01,185489.15,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Honeywell,Business unit invoice,2024-09-01,185509.09,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Renault,Car purchase,2024-09-01,185510.45,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Bristol-Myers Squibb,Medication purchase,2024-09-01,185514.39,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Oracle,Web hosting fee,2024-09-01,185529.73,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Honeywell,Corporate services payment,2024-09-01,185690.7,Self-employed,50
+GBP,GB45SCAM3035755322,NL,LVMH,Designer goods order,2024-09-01,185704.67,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ec7cbc98-2912-4ba6-8ad9-9574d88af162,2024-09-01,187306.67,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Honeywell,Business unit invoice,2024-09-01,187309.51,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Phillips 66,Renewable energy subscription,2024-09-01,187341.16,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 8f73cacd-89a1-4dd6-ab50-1e097e0a568a,2024-09-01,188943.16,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daimler,Car purchase,2024-09-01,188943.71,Self-employed,50
+GBP,GB45SCAM3035755322,NL,General Electric,Diversified company fee,2024-09-01,188949.5,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Sander van de Plas,Birthday party expenses,2024-09-01,188967.03,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Facebook,Premium account upgrade,2024-09-01,188977.57,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 27bbdaaf-5ec8-49a7-bdff-3490d328c064,2024-09-01,190579.57,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Allianz,Policy renewal fee,2024-09-01,190594.48,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 0dcfd133-1868-4bc4-bced-944af6fbb80e,2024-09-01,192196.48,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Alibaba,E-commerce order,2024-09-01,192208.63,Self-employed,50
+GBP,GB45SCAM3035755322,NL,3M,Corporate services payment,2024-09-01,192229.29,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Johannes van Ginkel,Loan repayment,2024-09-01,192234.64,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Meike van Santen,Emergency funds,2024-09-01,192244.35,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 98294041-f1fa-4e80-a371-6ad7b1ede1b4,2024-09-01,193846.35,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Boeing,Aircraft maintenance,2024-09-01,193856.36,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 1290fd49-b927-465c-81d3-321c86e9f74e,2024-09-01,195458.36,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Goldman Sachs,Capital markets service,2024-09-01,195498.2,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Huawei,Cloud storage subscription,2024-09-01,195506.88,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Novartis,Pharmacy bill,2024-09-01,195530.2,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: c7c2c81e-316e-44cb-a257-a9e43a87f110,2024-09-01,197132.2,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Tata Consultancy Services,System upgrade fee,2024-09-01,197151.75,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Sten van 't Riet,Shared subscription,2024-09-01,197158.62,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Floor van Brunswijk,Shared utilities,2024-09-01,197169.82,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f46c82f1-ac5a-4c80-aee1-8329f636ee5a,2024-09-01,198771.82,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BASF,Industrial chemicals purchase,2024-09-01,198800.6,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Pfizer,Drug order payment,2024-09-01,198812.43,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ba3544c5-5cfe-467d-b88d-913aafb558d6,2024-09-01,200414.43,Self-employed,50
+GBP,GB45SCAM3035755322,NL,LVMH,Exclusive brand fee,2024-09-01,200429.36,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Cisco Systems,Web hosting fee,2024-09-01,200464.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9fdb0a4b-865f-4b76-8bcc-f2f86bef67a2,2024-09-01,202066.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Renske Giselmeyer,Split vacation cost,2024-09-01,202081.52,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Cisco Systems,Technology services invoice payment,2024-09-01,202094.07,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: aa06007b-09ef-4111-82d5-8da072062273,2024-09-01,203696.07,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Goldman Sachs,Investment fund entry,2024-09-01,203708.84,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Sanofi,Drug order payment,2024-09-01,203718.59,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Phillips 66,Utility bill,2024-09-01,203725.69,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Renault,Car parts order,2024-09-01,203756.46,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: ae264bb3-9a1b-4e8a-b71b-5cfbcc94dcc2,2024-09-01,205358.46,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 2ff8ade6-267b-436f-8552-206af4087599,2024-09-01,206960.46,Self-employed,50
+GBP,GB45SCAM3035755322,Denmark,Tycho Bartels,Shared meal cost,2024-09-01,206999.13,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Isabelle Oennen,Reimbursement for travel,2024-09-01,207005.66,Self-employed,50
+GBP,GB45SCAM3035755322,Japan,Alphabet Inc.,Software license fee payment,2024-09-01,207018.3,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Microsoft,Cloud storage subscription,2024-09-01,207018.86,Self-employed,50
+GBP,GB45SCAM3035755322,France,Matthijs Heyne,Loan to friend,2024-09-01,207036.05,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 0b93a952-9529-4541-a37b-d06567e4f7f3,2024-09-01,208638.05,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,LVMH,High-end product buy,2024-09-01,208649.36,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Jill Spies-Koning,Child support,2024-09-01,208667.45,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Boeing,Aviation technology fee,2024-10-01,208673.1,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,General Electric,Conglomerate product order,2024-10-01,208685.04,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Honeywell,Diversified company fee,2024-10-01,208691.9,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 9dea640b-098b-4ec2-89a9-dd70ad954ac9,2024-10-01,210293.9,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Renault,Auto repair bill,2024-10-01,210358.71,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Alibaba,Online shopping,2024-10-01,210364.86,Self-employed,50
+GBP,GB45SCAM3035755322,Italy,Merck & Co.,Pharmacy bill,2024-10-01,210376.55,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: cfc86393-40fd-446b-9f13-c23ec13fa4d3,2024-10-01,211978.55,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Novartis,Pharmacy bill,2024-10-01,211995.15,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Boeing,Aviation technology fee,2024-10-01,212034.76,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Mohammed Haack,Dinner reimbursement,2024-10-01,212054.7,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 52ed6fa1-66b6-4bb4-84b4-00f6cd440f4c,2024-10-01,213656.7,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: e249a635-a541-4f3d-b1ea-cb4b62a5555c,2024-10-01,215258.7,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Ford Motor,Auto repair bill,2024-10-01,215582.78,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,ByteDance,Cloud storage subscription,2024-10-01,215607.56,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: bb0ab800-2ce0-4826-9627-8b88485bb004,2024-10-01,217209.56,Self-employed,50
+GBP,GB45SCAM3035755322,NL,AstraZeneca,Pharmacy bill,2024-10-01,217233.08,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 62e76006-99b7-4d04-8805-9060d1d7560a,2024-10-01,218835.08,Self-employed,50
+GBP,GB45SCAM3035755322,NL,General Electric,Corporate services payment,2024-10-01,218893.62,Self-employed,50
+GBP,GB45SCAM3035755322,Belgium,Cisco Systems,Software license fee payment,2024-10-01,218899.38,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Apple Inc.,Web hosting fee,2024-10-01,219371.13,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: cf6bbb7b-df05-4719-9a23-c2ba93f04ec0,2024-10-01,220973.13,Self-employed,50
+GBP,GB45SCAM3035755322,Spain,Novartis,Healthcare prescription,2024-10-01,220984.23,Self-employed,50
+GBP,GB45SCAM3035755322,United States,Dell Technologies,Cloud storage subscription,2024-10-01,220998.11,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 97893c4a-4d70-4293-abe4-2985d624de12,2024-10-01,222600.11,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Amazon,Subscription service,2024-10-01,222618.19,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Imke Veenendaal,Support for a family member,2024-10-01,222636.87,Self-employed,50
+GBP,GB45SCAM3035755322,Canada,Tata Consultancy Services,IT support fee,2024-10-01,222644.9,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 830f8cce-7d0b-44b2-a3bd-eac282c1c34a,2024-10-01,224246.9,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Daimler,Auto repair bill,2024-10-01,224292.06,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: 3ed23401-9ec8-4213-8fff-aeb8303266c3,2024-10-01,225894.06,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Gilead Sciences,Genetic testing kit,2024-10-01,225925.64,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Facebook,Social media service subscription,2024-10-01,225926.53,Self-employed,50
+GBP,GB45SCAM3035755322,Great Britain,Hannah Ulrich,Loan repayment,2024-10-01,225954.73,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: f11c2a6b-142e-4804-8c57-7f3a1ca9e3bc,2024-10-01,227556.73,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Apple Inc.,Web hosting fee,2024-10-01,227562.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: e157152b-f3fe-4772-8d44-2127e661e61c,2024-10-01,229164.23,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Novartis,Drug order payment,2024-10-01,229255.71,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,Rayan Kirpenstein,Family loan repayment,2024-10-01,229259.91,Self-employed,50
+GBP,GB45SCAM3035755322,Japan,BASF,Laboratory reagents buy,2024-10-01,229268.7,Self-employed,50
+GBP,GB45SCAM3035755322,Germany,IBM,Technology services invoice payment,2024-10-01,229278.63,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Geldmaat ATM,Geldmaat: b463ef4b-7da3-4f7a-91a2-0dcc2bed4d3c,2024-10-01,230880.63,Self-employed,50
+GBP,GB45SCAM3035755322,NL,Elias Gerritsen,Wedding gift,2024-10-01,230885.1,Self-employed,50
+GBP,GB45SCAM3035755322,NL,BASF,Laboratory reagents buy,2024-10-01,230916.06,Self-employed,50

@@ -1,0 +1,463 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL98BOER4173057191,Great Britain,Geldmaat ATM,Geldmaat: d62b34f6-df25-4c12-a6ac-34cdf2ff1200,2024-06-01,9961.01,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: abd389ee-4c20-4bdd-bc45-aa634f708bf0,2024-06-01,11691.01,Self-employed,50
+EUR,NL98BOER4173057191,NL,Zoë Maaswinkel,Loan to friend,2024-06-01,11717.01,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: cb8b7f15-ce52-4814-ae99-a531adcf09f3,2024-06-01,13447.01,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,13474.66,Self-employed,50
+EUR,NL98BOER4173057191,NL,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,13491.08,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,Geldmaat ATM,Geldmaat: 8ce8a855-183a-459d-a0b0-50af4880e958,2024-06-01,13689.69,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Nisa de Graaf,Support for a family member,2024-06-01,13728.25,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 22d7fc70-9028-49b3-837a-8849db3a3ee6,2024-06-01,15458.25,Self-employed,50
+EUR,NL98BOER4173057191,NL,Daimler,Car purchase,2024-06-01,15546.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 404af4b8-717d-436d-9d4b-b4ba7c970125,2024-06-01,17276.07,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,Sem Hoelen-Ariens,Shared meal cost,2024-06-01,17292.75,Self-employed,50
+EUR,NL98BOER4173057191,NL,Phillips 66,Utility bill,2024-06-01,17297.03,Self-employed,50
+EUR,NL98BOER4173057191,United States,Tim van de Biesenbos,Personal loan,2024-06-01,17304.38,Self-employed,50
+EUR,NL98BOER4173057191,NL,Apple Inc.,Technology services invoice payment,2024-06-01,17335.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 3cb570d3-b11a-4584-87ba-70e671fce017,2024-06-01,19065.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Berkshire Hathaway,Conglomerate product order,2024-06-01,19080.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: a6599359-41ed-4ff1-9217-04758fe1df0d,2024-06-01,20810.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 7f388e2e-dec9-4b32-bd39-c17d52469492,2024-06-01,20971.41,Self-employed,50
+EUR,NL98BOER4173057191,NL,GlaxoSmithKline,Medication purchase,2024-06-01,20993.96,Self-employed,50
+EUR,NL98BOER4173057191,NL,LVMH,Exclusive brand fee,2024-06-01,21051.12,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 29734197-878e-4340-8506-f2da93837d5c,2024-06-01,22781.12,Self-employed,50
+EUR,NL98BOER4173057191,NL,Procter & Gamble,Product purchase,2024-06-01,22821.91,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Alphabet Inc.,Technology services invoice payment,2024-06-01,22831.99,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4f69013e-3115-4583-b462-7046f7d74e7d,2024-06-01,24561.99,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 9c2da565-48a1-4065-932d-b61313aa69fd,2024-06-01,26291.99,Self-employed,50
+EUR,NL98BOER4173057191,Italy,Ryan Vertooren,Reimbursement for groceries,2024-06-01,26292.66,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,General Electric,Corporate services payment,2024-06-01,26337.47,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 1dcfd8f5-7666-4189-91bf-4ae065f4a9ca,2024-06-01,28067.47,Self-employed,50
+EUR,NL98BOER4173057191,NL,AstraZeneca,Healthcare prescription,2024-06-01,28128.46,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 1d515c7b-c41a-4aaa-9ea4-b6bf60bd3d05,2024-06-01,29858.46,Self-employed,50
+EUR,NL98BOER4173057191,NL,Procter & Gamble,Order payment,2024-06-01,29956.96,Self-employed,50
+EUR,NL98BOER4173057191,NL,Jari van Oostendorp,Vacation expenses,2024-06-01,29976.47,Self-employed,50
+EUR,NL98BOER4173057191,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,29982.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 812f4c0e-a100-4817-bea2-5dd53d1e7376,2024-06-01,31712.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,Facebook,Premium account upgrade,2024-06-01,31722.34,Self-employed,50
+EUR,NL98BOER4173057191,Italy,Jip Schakelaar-Jurrijens,Shared ride expenses,2024-06-01,31746.29,Self-employed,50
+EUR,NL98BOER4173057191,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,31753.64,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Bayer,Drug order payment,2024-06-01,31836.88,Self-employed,50
+EUR,NL98BOER4173057191,NL,Alphabet Inc.,Software license fee payment,2024-06-01,31850.18,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: a0d4dcaa-79cd-4ed5-91d3-46b243997d5d,2024-06-01,33580.18,Self-employed,50
+EUR,NL98BOER4173057191,NL,Daimler,Car purchase,2024-06-01,33623.25,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Procter & Gamble,Order payment,2024-06-01,33651.64,Self-employed,50
+EUR,NL98BOER4173057191,United States,Tata Consultancy Services,System upgrade fee,2024-06-01,33660.45,Self-employed,50
+EUR,NL98BOER4173057191,United States,AT&T,Cable service subscription,2024-06-01,33776.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,Boeing,Aerospace parts purchase,2024-06-01,33790.36,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6177f8aa-9b8a-42a6-8ff3-bb24172225ee,2024-06-01,35520.36,Self-employed,50
+EUR,NL98BOER4173057191,Canada,BMW,Car parts order,2024-06-01,35537.22,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4a046ca1-3b60-48cb-87c0-be6dfecb1407,2024-06-01,37267.22,Self-employed,50
+EUR,NL98BOER4173057191,NL,Microsoft,Technology services invoice payment,2024-06-01,37308.13,Self-employed,50
+EUR,NL98BOER4173057191,NL,Unilever,Order payment,2024-06-01,37423.22,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 43e9e551-e719-4d6e-98e7-4983da1b195e,2024-06-01,39153.22,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Sanofi,Pharmacy bill,2024-06-01,39159.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 7e9d4393-2e65-4ed0-a2b8-7828938e0058,2024-06-01,40889.07,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,Lieve Lemmens,Housewarming gift,2024-06-01,40931.05,Self-employed,50
+EUR,NL98BOER4173057191,NL,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,40953.71,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 0f4c2a05-717a-4257-9b7c-4b9418bbc8a4,2024-06-01,41170.7,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4df5a4dc-5ec7-45b3-9770-ea787eea502e,2024-06-01,42900.7,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tirza Mulder,Loan to family,2024-06-01,42902.35,Self-employed,50
+EUR,NL98BOER4173057191,NL,Renault,Car purchase,2024-06-01,42905.32,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e3a9719e-2013-44e1-a5a5-7604b6dfe574,2024-06-01,44635.32,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Ford Motor,Car purchase,2024-06-01,44650.91,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Pepijn Estey,Birthday party expenses,2024-06-01,44668.42,Self-employed,50
+EUR,NL98BOER4173057191,NL,Selena van 't Houteveen,Birthday gift,2024-06-01,44675.28,Self-employed,50
+EUR,NL98BOER4173057191,NL,Meta Platforms,Technology services invoice payment,2024-06-01,44686.44,Self-employed,50
+EUR,NL98BOER4173057191,NL,SoftBank,Diversified company fee,2024-06-01,44700.22,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 0d2157b8-d20d-4ef9-9680-893e68b9939d,2024-06-01,46430.22,Self-employed,50
+EUR,NL98BOER4173057191,NL,Airbus,Aviation technology fee,2024-06-01,46463.35,Self-employed,50
+EUR,NL98BOER4173057191,NL,PepsiCo,Restaurant bill,2024-06-01,46473.38,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6506c3ed-b79d-4f7c-886d-492aba8d113f,2024-06-01,48203.38,Self-employed,50
+EUR,NL98BOER4173057191,NL,SoftBank,Conglomerate product order,2024-06-01,48266.81,Self-employed,50
+EUR,NL98BOER4173057191,NL,Morgan Stanley,Investment fund entry,2024-06-01,48307.19,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 210c8724-8cdb-4242-a923-2f02e9c18025,2024-06-01,50037.19,Self-employed,50
+EUR,NL98BOER4173057191,NL,Phillips 66,Energy supply charge,2024-06-01,50046.62,Self-employed,50
+EUR,NL98BOER4173057191,NL,Toyota,Vehicle service charge,2024-06-01,50053.83,Self-employed,50
+EUR,NL98BOER4173057191,NL,Unilever,Order payment,2024-06-01,50090.69,Self-employed,50
+EUR,NL98BOER4173057191,NL,Procter & Gamble,Retail goods payment,2024-06-01,50103.42,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: b6ca76ce-09c3-47a9-ab9a-680a077a4a7a,2024-06-01,51833.42,Self-employed,50
+EUR,NL98BOER4173057191,Spain,BASF,Industrial chemicals purchase,2024-06-01,51846.92,Self-employed,50
+EUR,NL98BOER4173057191,NL,Victor Overdijk,Shared ride expenses,2024-06-01,51878.91,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 9a017895-8a47-42fa-b6b1-4416766303ad,2024-06-01,53608.91,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Daimler,Auto repair bill,2024-06-01,53624.66,Self-employed,50
+EUR,NL98BOER4173057191,NL,SoftBank,Corporate services payment,2024-06-01,53639.47,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 5bf4f593-9bd5-4746-a3ef-2b997e8aab8f,2024-06-01,55369.47,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Morgan Stanley,Brokerage fee,2024-06-01,55457.75,Self-employed,50
+EUR,NL98BOER4173057191,United States,Merijn de Boer-van der Leek,Wedding gift,2024-06-01,55481.95,Self-employed,50
+EUR,NL98BOER4173057191,NL,Toyota,Vehicle service charge,2024-06-01,55488.24,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 43636063-c723-4a18-8d72-f9c16257f37d,2024-06-01,57218.24,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,DuPont,Conglomerate product order,2024-06-01,57251.42,Self-employed,50
+EUR,NL98BOER4173057191,NL,Honeywell,Business unit invoice,2024-06-01,57298.8,Self-employed,50
+EUR,NL98BOER4173057191,NL,Unilever,Order payment,2024-06-01,57308.54,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c75fab9b-4779-415f-a18b-2c30a33645b6,2024-06-01,59038.54,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,Josephine Velderman-Keltenie,Child support,2024-06-01,59151.52,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c405a88f-6865-4246-968a-560bda80f197,2024-06-01,60881.52,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Ford Motor,Auto repair bill,2024-06-01,60894.92,Self-employed,50
+EUR,NL98BOER4173057191,NL,Apple Inc.,Web hosting fee,2024-06-01,60923.52,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: ab875808-e9d9-4974-bc40-61eeac716727,2024-06-01,62653.52,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Alibaba,Subscription service,2024-06-01,62694.23,Self-employed,50
+EUR,NL98BOER4173057191,NL,Roche,Pharmacy bill,2024-06-01,62706.23,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,62744.4,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 8d53804e-59a7-4ae8-b63a-27c4188bd71f,2024-06-01,64474.4,Self-employed,50
+EUR,NL98BOER4173057191,United States,Sanofi,Pharmacy bill,2024-06-01,64483.05,Self-employed,50
+EUR,NL98BOER4173057191,NL,Nike,Sportswear buy,2024-07-01,64498.15,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: cefb1c12-24e7-4470-9c6d-aa2bb3d2f4d6,2024-07-01,66228.15,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Accenture,Expert consultation fee,2024-07-01,66228.69,Self-employed,50
+EUR,NL98BOER4173057191,NL,Ford Motor,Car parts order,2024-07-01,66266.04,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,Danique Bos,Friend loan repayment,2024-07-01,66301.32,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 754c9ffe-ce0e-4a12-b2e6-9c5437559279,2024-07-01,68031.32,Self-employed,50
+EUR,NL98BOER4173057191,France,Facebook,Influencer collaboration fee,2024-07-01,68039.41,Self-employed,50
+EUR,NL98BOER4173057191,United States,Microsoft,Web hosting fee,2024-07-01,68057.96,Self-employed,50
+EUR,NL98BOER4173057191,NL,Duke Energy,Renewable energy subscription,2024-07-01,68096.41,Self-employed,50
+EUR,NL98BOER4173057191,NL,Procter & Gamble,Product purchase,2024-07-01,68104.11,Self-employed,50
+EUR,NL98BOER4173057191,NL,AT&T,Telecom invoice,2024-07-01,68120.61,Self-employed,50
+EUR,NL98BOER4173057191,NL,Pfizer,Drug order payment,2024-07-01,68132.79,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: ee1ed734-47bf-45e8-9956-3d3a697e3022,2024-07-01,69862.79,Self-employed,50
+EUR,NL98BOER4173057191,NL,PepsiCo,Catering service fee,2024-07-01,69874.58,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Procter & Gamble,Product purchase,2024-07-01,69881.27,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c82466e9-3186-45b5-b452-6ac496d0202d,2024-07-01,71611.27,Self-employed,50
+EUR,NL98BOER4173057191,NL,Rosa Geerts,Christmas gift,2024-07-01,71679.54,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Giovanni Verhoeven-Henric van den Nuwenhuse,Emergency funds,2024-07-01,71685.98,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tata Consultancy Services,Software development bill,2024-07-01,71717.8,Self-employed,50
+EUR,NL98BOER4173057191,NL,Daimler,Auto repair bill,2024-07-01,71728.96,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 8be70d9c-a8ac-4553-b242-2eaee450836f,2024-07-01,73458.96,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,Gilead Sciences,Clinical trial payment,2024-07-01,73472.97,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Laurens Kolster-Visser,Household expenses,2024-07-01,73486.45,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 18d02db6-1a81-406e-84cc-bb773cb5b6c2,2024-07-01,75216.45,Self-employed,50
+EUR,NL98BOER4173057191,NL,ByteDance,Web hosting fee,2024-07-01,75227.98,Self-employed,50
+EUR,NL98BOER4173057191,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,75231.87,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,IBM,Web hosting fee,2024-07-01,75305.17,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4ea93da2-9eca-40c4-ad6e-469115c570cc,2024-07-01,77035.17,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Roche,Pharmacy bill,2024-07-01,77044.48,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Toyota,Car purchase,2024-07-01,77083.65,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 1874d192-fb9f-499d-961b-eb62011a7a20,2024-07-01,78813.65,Self-employed,50
+EUR,NL98BOER4173057191,NL,PepsiCo,Catering service fee,2024-07-01,78825.87,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Microsoft,Cloud storage subscription,2024-07-01,78835.12,Self-employed,50
+EUR,NL98BOER4173057191,NL,Alibaba,Marketplace seller fee,2024-07-01,78863.59,Self-employed,50
+EUR,NL98BOER4173057191,NL,PepsiCo,Restaurant bill,2024-07-01,78868.17,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 2a5d2466-1efc-4bc6-b1ca-536a13d6d18f,2024-07-01,80598.17,Self-employed,50
+EUR,NL98BOER4173057191,NL,Microsoft,Technology services invoice payment,2024-07-01,80672.78,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 73e78fb9-59f3-44fc-88ee-16325778b9a9,2024-07-01,82402.78,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: b614322e-ee86-452a-b80b-75d500e305c0,2024-07-01,84132.78,Self-employed,50
+EUR,NL98BOER4173057191,NL,Alphabet Inc.,Cloud storage subscription,2024-07-01,84164.84,Self-employed,50
+EUR,NL98BOER4173057191,NL,Unilever,Retail goods payment,2024-07-01,84172.83,Self-employed,50
+EUR,NL98BOER4173057191,NL,Noor van Hostaden,Reimbursement for groceries,2024-07-01,84198.92,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6ea7faf9-070f-47a1-8cd7-bbc3d710895b,2024-07-01,85928.92,Self-employed,50
+EUR,NL98BOER4173057191,NL,Microsoft,Cloud storage subscription,2024-07-01,86049.01,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Vincent Roodesteijn,Split vacation cost,2024-07-01,86188.76,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 7f01dc84-1abd-4859-9465-c9e3a7282f64,2024-07-01,87918.76,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Geldmaat ATM,Geldmaat: 69943020-7a61-4ff4-bce6-f599af4c430f,2024-07-01,88020.78,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 77e56de0-4e7b-4845-92e5-c0cba2c66b0b,2024-07-01,89750.78,Self-employed,50
+EUR,NL98BOER4173057191,NL,Accenture,Consulting fee,2024-07-01,89765.72,Self-employed,50
+EUR,NL98BOER4173057191,France,Procter & Gamble,Product purchase,2024-07-01,89771.34,Self-employed,50
+EUR,NL98BOER4173057191,Spain,AT&T,Data plan payment,2024-07-01,89777.76,Self-employed,50
+EUR,NL98BOER4173057191,United States,Ayden Gerritsen,Emergency funds,2024-07-01,89801.28,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 25d024ca-1a6c-407e-94a8-5fb150bebb68,2024-07-01,91531.28,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Gilead Sciences,Biotech research fee,2024-07-01,91564.12,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Valerie van de Greef-van der Pol,Housewarming gift,2024-07-01,91576.6,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: d4cddc68-d27b-4d83-b900-4ce55a4b6c49,2024-07-01,93306.6,Self-employed,50
+EUR,NL98BOER4173057191,NL,Jelle Le Grand,Support for a family member,2024-07-01,93341.19,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Phillips 66,Utility bill,2024-07-01,93410.88,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 193f8124-c8dc-4abd-95f3-87cb3d7e47a5,2024-07-01,95140.88,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Berkshire Hathaway,Diversified company fee,2024-07-01,95208.9,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 07f41052-ce1a-40ae-b8da-cae39dd7b293,2024-07-01,96938.9,Self-employed,50
+EUR,NL98BOER4173057191,NL,Dell Technologies,Software license fee payment,2024-07-01,96986.37,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 3aab358a-3487-4b92-ab70-0420d7f6f3d4,2024-07-01,98716.37,Self-employed,50
+EUR,NL98BOER4173057191,France,Geldmaat ATM,Geldmaat: 525eb80c-3dc7-4c84-aaca-026ab20c7d77,2024-07-01,98721.97,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tata Consultancy Services,IT support fee,2024-07-01,98735.92,Self-employed,50
+EUR,NL98BOER4173057191,Canada,DuPont,Diversified company fee,2024-07-01,98762.62,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 26466268-0010-4651-9ac6-0eef4179aeb4,2024-07-01,100492.62,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 2fd2c046-4e2e-4aab-917f-dd49608342f5,2024-07-01,102222.62,Self-employed,50
+EUR,NL98BOER4173057191,NL,Toyota,Car parts order,2024-07-01,102257.41,Self-employed,50
+EUR,NL98BOER4173057191,NL,Amazon,E-commerce order,2024-07-01,102270.39,Self-employed,50
+EUR,NL98BOER4173057191,NL,Faye Breugelensis,Gas money,2024-07-01,102306.63,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 10b6db48-b047-4af8-ad0a-f56633a5054c,2024-07-01,104036.63,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,Merck & Co.,Drug order payment,2024-07-01,104045.23,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Amazon,Online shopping,2024-07-01,104048.45,Self-employed,50
+EUR,NL98BOER4173057191,NL,Sami Brizee-Eckhardt,Debt settlement,2024-07-01,104061.98,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: f5f40730-d8f3-4b1c-810d-02e6a2e9f4e5,2024-07-01,105791.98,Self-employed,50
+EUR,NL98BOER4173057191,NL,Procter & Gamble,Product purchase,2024-07-01,105883.58,Self-employed,50
+EUR,NL98BOER4173057191,NL,Sanofi,Medication purchase,2024-07-01,105986.2,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 496dc58f-5754-434f-8c1d-77eb69380630,2024-07-01,107716.2,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e1238d23-169c-4a03-a324-1cde6fcb0cc3,2024-07-01,109446.2,Self-employed,50
+EUR,NL98BOER4173057191,France,AT&T,Phone bill,2024-07-01,109498.54,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: a8e51caa-69be-4f1e-994f-97aca7ef9492,2024-07-01,111228.54,Self-employed,50
+EUR,NL98BOER4173057191,NL,Nora Emmen-Bartels,Child support,2024-07-01,111361.25,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e920542f-ba62-428a-92f8-3ff2056b20c5,2024-07-01,113091.25,Self-employed,50
+EUR,NL98BOER4173057191,NL,Aaron Vos,Reimbursement for shopping,2024-07-01,113125.05,Self-employed,50
+EUR,NL98BOER4173057191,NL,Huawei,Cloud storage subscription,2024-07-01,113138.5,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,3M,Diversified company fee,2024-07-01,113144.03,Self-employed,50
+EUR,NL98BOER4173057191,NL,Sanofi,Medication purchase,2024-07-01,113259.1,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 0cd2ed1f-6b5e-4c30-b648-3fa5cda9d280,2024-07-01,114989.1,Self-employed,50
+EUR,NL98BOER4173057191,France,GlaxoSmithKline,Drug order payment,2024-07-01,115004.41,Self-employed,50
+EUR,NL98BOER4173057191,NL,Phillips 66,Electricity payment,2024-07-01,115011.86,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,Stan Sas,Shared subscription,2024-07-01,115045.45,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: ebe51c6e-081d-43dc-b055-c47330aca245,2024-07-01,116775.45,Self-employed,50
+EUR,NL98BOER4173057191,NL,Gilead Sciences,Laboratory service charge,2024-07-01,116788.74,Self-employed,50
+EUR,NL98BOER4173057191,NL,BMW,Car purchase,2024-07-01,116804.83,Self-employed,50
+EUR,NL98BOER4173057191,Austria,Sanofi,Medication purchase,2024-07-01,116809.3,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: b0f166eb-e5a6-4e12-9311-c19ded75888f,2024-07-01,118539.3,Self-employed,50
+EUR,NL98BOER4173057191,United States,Honeywell,Conglomerate product order,2024-07-01,118577.16,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: ec3566fc-233e-442c-8309-60bcfd3361e9,2024-07-01,120307.16,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Toyota,Car purchase,2024-07-01,120314.08,Self-employed,50
+EUR,NL98BOER4173057191,NL,Abel Verhagen,Loan repayment,2024-07-01,120332.35,Self-employed,50
+EUR,NL98BOER4173057191,NL,SoftBank,Corporate services payment,2024-07-01,120368.94,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Tata Consultancy Services,IT support fee,2024-08-01,120400.11,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 7555d952-9711-4159-ad8b-7e6b46dbd44b,2024-08-01,122130.11,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Huawei,Technology services invoice payment,2024-08-01,122168.97,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,Merck & Co.,Drug order payment,2024-08-01,122173.67,Self-employed,50
+EUR,NL98BOER4173057191,NL,DuPont,Conglomerate product order,2024-08-01,122311.85,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 354086d9-c8fb-4316-a5a6-deed7ae81622,2024-08-01,124041.85,Self-employed,50
+EUR,NL98BOER4173057191,NL,Jort Middelkoop-van Bernicia,Birthday party expenses,2024-08-01,124200.47,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 41796e5d-3b5d-412c-8fa5-001c2d1d370d,2024-08-01,125930.47,Self-employed,50
+EUR,NL98BOER4173057191,NL,Emma Charon,Support money,2024-08-01,125991.26,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: f86de6cf-2a5b-4427-9ec8-26980bb3e71e,2024-08-01,127721.26,Self-employed,50
+EUR,NL98BOER4173057191,NL,Jasmijn van Nus,Loan repayment,2024-08-01,127753.61,Self-employed,50
+EUR,NL98BOER4173057191,Japan,Brian Puig-Brumleve,Medical bills,2024-08-01,127762.6,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e4a3ad85-c233-4ad9-9c01-44b1814c76ba,2024-08-01,129492.6,Self-employed,50
+EUR,NL98BOER4173057191,Canada,LVMH,Designer goods order,2024-08-01,129507.62,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Honeywell,Corporate services payment,2024-08-01,129523.59,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Microsoft,Web hosting fee,2024-08-01,129533.76,Self-employed,50
+EUR,NL98BOER4173057191,NL,Lisa Velderman-Timmerman,Reimbursement for dinner,2024-08-01,129548.4,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 458dd690-3084-4274-b2cc-2ac57ecdd331,2024-08-01,131278.4,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tata Consultancy Services,Software development bill,2024-08-01,131282.0,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Daniel Weerdenburg-van Berkum,Friend loan repayment,2024-08-01,131288.61,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 01efd7f3-bb0c-417c-9648-fbe2d6d1ac72,2024-08-01,133018.61,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Cisco Systems,Web hosting fee,2024-08-01,133027.05,Self-employed,50
+EUR,NL98BOER4173057191,France,Johnson & Johnson,Drug order payment,2024-08-01,133030.9,Self-employed,50
+EUR,NL98BOER4173057191,NL,Julian Opmans-van Dam,Reimbursement for medical expenses,2024-08-01,133061.9,Self-employed,50
+EUR,NL98BOER4173057191,NL,Ford Motor,Car purchase,2024-08-01,133080.1,Self-employed,50
+EUR,NL98BOER4173057191,Austria,General Electric,Conglomerate product order,2024-08-01,133106.66,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 9e2afbc1-247a-4aea-8619-6c2744cdfd31,2024-08-01,134836.66,Self-employed,50
+EUR,NL98BOER4173057191,NL,Chris van de Ven,Split restaurant bill,2024-08-01,134888.2,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6827df52-1e94-4a1d-9f5c-60efcff5fdc7,2024-08-01,136618.2,Self-employed,50
+EUR,NL98BOER4173057191,NL,Meta Platforms,Cloud storage subscription,2024-08-01,136628.23,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,DuPont,Corporate services payment,2024-08-01,136680.96,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 85de3448-8cc9-47b8-a682-cdee2a95ee25,2024-08-01,138410.96,Self-employed,50
+EUR,NL98BOER4173057191,France,Aaron de Vroege,Loan to family,2024-08-01,138412.35,Self-employed,50
+EUR,NL98BOER4173057191,United States,Janna Genefaas-Aertsz,Party contribution,2024-08-01,138414.24,Self-employed,50
+EUR,NL98BOER4173057191,NL,Airbus,Space exploration fee,2024-08-01,138421.53,Self-employed,50
+EUR,NL98BOER4173057191,NL,Puck Vastenhouw,Support for a family member,2024-08-01,138425.77,Self-employed,50
+EUR,NL98BOER4173057191,NL,Aya van Bovenen,Loan to family,2024-08-01,138439.35,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Toyota,Car purchase,2024-08-01,138469.0,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 94609ee4-c670-432c-b69b-f05dd462781d,2024-08-01,140199.0,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4c7773a4-4313-41f4-921c-54ece19b1daa,2024-08-01,141929.0,Self-employed,50
+EUR,NL98BOER4173057191,NL,Honeywell,Diversified company fee,2024-08-01,141953.44,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tristan Vos,Gas money,2024-08-01,141970.77,Self-employed,50
+EUR,NL98BOER4173057191,NL,LVMH,Luxury item purchase,2024-08-01,141984.97,Self-employed,50
+EUR,NL98BOER4173057191,NL,Goldman Sachs,Brokerage fee,2024-08-01,142018.6,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6099bac0-9799-4a19-9fc0-47953460982e,2024-08-01,143748.6,Self-employed,50
+EUR,NL98BOER4173057191,NL,Pfizer,Pharmacy bill,2024-08-01,143817.64,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Bayer,Pharmacy bill,2024-08-01,143827.79,Self-employed,50
+EUR,NL98BOER4173057191,NL,BASF,Industrial chemicals purchase,2024-08-01,143836.21,Self-employed,50
+EUR,NL98BOER4173057191,NL,General Electric,Conglomerate product order,2024-08-01,143854.19,Self-employed,50
+EUR,NL98BOER4173057191,United States,Fenne Schelvis,Reimbursement for medical expenses,2024-08-01,143863.36,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 66d3ee84-14d6-4646-bcf2-9e7b6a791c85,2024-08-01,145593.36,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Ashley van Susa,Medical bills,2024-08-01,145618.28,Self-employed,50
+EUR,NL98BOER4173057191,NL,BMW,Car purchase,2024-08-01,145629.83,Self-employed,50
+EUR,NL98BOER4173057191,NL,AT&T,Cable service subscription,2024-08-01,145652.27,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: d762bf12-be26-4a72-b149-2b8e1bfcf4e4,2024-08-01,147382.27,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 5ed72b7b-45fe-40d8-8188-3e4370960be6,2024-08-01,149112.27,Self-employed,50
+EUR,NL98BOER4173057191,NL,Johnson & Johnson,Drug order payment,2024-08-01,149130.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,Apple Inc.,Software license fee payment,2024-08-01,149257.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6b6f0261-6a98-416c-af5b-df4f30241e1c,2024-08-01,150987.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,Merck & Co.,Healthcare prescription,2024-08-01,151002.82,Self-employed,50
+EUR,NL98BOER4173057191,NL,Lisanne van Goerle,Family loan repayment,2024-08-01,151039.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Pfizer,Drug order payment,2024-08-01,151074.26,Self-employed,50
+EUR,NL98BOER4173057191,NL,Merck & Co.,Drug order payment,2024-08-01,151103.53,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 10b24651-d815-41a6-b214-8c64d6f3b935,2024-08-01,152833.53,Self-employed,50
+EUR,NL98BOER4173057191,NL,LVMH,High-end product buy,2024-08-01,152868.65,Self-employed,50
+EUR,NL98BOER4173057191,Spain,ByteDance,Technology services invoice payment,2024-08-01,152878.87,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 61f5abb0-361b-4748-b9ea-867f21730b23,2024-08-01,154608.87,Self-employed,50
+EUR,NL98BOER4173057191,NL,Volkswagen,Vehicle service charge,2024-08-01,154609.76,Self-employed,50
+EUR,NL98BOER4173057191,NL,ByteDance,Software license fee payment,2024-08-01,154611.05,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,Geldmaat ATM,Geldmaat: d42f9862-31d7-4b11-84d7-165604624642,2024-08-01,154683.61,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 306fa0be-d8bc-4ad6-ad25-32507db1520c,2024-08-01,156413.61,Self-employed,50
+EUR,NL98BOER4173057191,Japan,Renault,Auto repair bill,2024-08-01,156442.13,Self-employed,50
+EUR,NL98BOER4173057191,NL,Airbus,Space exploration fee,2024-08-01,156454.24,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: cbb3d7b7-c4d9-4c8d-a590-40e3c3a37808,2024-08-01,158184.24,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 574fb79a-5586-479f-91ec-e9f81d088b41,2024-08-01,159914.24,Self-employed,50
+EUR,NL98BOER4173057191,NL,Mitsubishi,Conglomerate product order,2024-08-01,159978.17,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6ceec333-dd5c-4c1c-b332-548b0a9e1bb4,2024-08-01,161708.17,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Geldmaat ATM,Geldmaat: eac8d9ca-ec76-4ff5-a1a1-c57c675d069d,2024-08-01,161782.92,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,3M,Corporate services payment,2024-08-01,161800.1,Self-employed,50
+EUR,NL98BOER4173057191,NL,Accenture,Advisory session charge,2024-08-01,161818.99,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e02f0b31-2ef9-4c67-a956-f60946009c37,2024-08-01,163548.99,Self-employed,50
+EUR,NL98BOER4173057191,Italy,Alibaba,Online shopping,2024-08-01,163586.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,DuPont,Corporate services payment,2024-08-01,163600.06,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Geldmaat ATM,Geldmaat: f554e3e3-8cfb-4df8-95c2-6d1132fddf1d,2024-08-01,163613.93,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Floor Ketting,Personal loan,2024-08-01,163618.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 7e6cff2e-f7a7-494a-a0b5-323b8163c481,2024-08-01,165348.94,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Toyota,Auto repair bill,2024-08-01,165386.3,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 87b4fdb8-bbce-4c61-87c4-6a42c7202c41,2024-08-01,167116.3,Self-employed,50
+EUR,NL98BOER4173057191,NL,Duke Energy,Renewable energy subscription,2024-08-01,167157.59,Self-employed,50
+EUR,NL98BOER4173057191,NL,Johnson & Johnson,Pharmacy bill,2024-08-01,167173.39,Self-employed,50
+EUR,NL98BOER4173057191,NL,Ford Motor,Vehicle service charge,2024-08-01,167185.9,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tata Consultancy Services,System upgrade fee,2024-08-01,167223.3,Self-employed,50
+EUR,NL98BOER4173057191,NL,Verizon,Cable service subscription,2024-08-01,167231.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,Sepp Stettyn,Vacation expenses,2024-08-01,167251.06,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 93b0bbef-65c8-4bdb-a44e-dfb7035b14cc,2024-08-01,168981.06,Self-employed,50
+EUR,NL98BOER4173057191,NL,Lucas Hoes,Grocery money,2024-08-01,169009.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Mees Risma-den Haag,Support for a friend,2024-08-01,169025.29,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c8a67688-f63f-490e-b3df-74c46aefd8ae,2024-08-01,170755.29,Self-employed,50
+EUR,NL98BOER4173057191,NL,Toyota,Car parts order,2024-08-01,170953.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 7102eae3-6e14-492e-a713-501e3401b2b8,2024-08-01,172683.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 218b093b-b3f7-47c9-ab63-433761fb33b1,2024-08-01,174413.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Verizon,Data plan payment,2024-08-01,174413.65,Self-employed,50
+EUR,NL98BOER4173057191,NL,General Electric,Business unit invoice,2024-08-01,174455.28,Self-employed,50
+EUR,NL98BOER4173057191,NL,Accenture,Advisory session charge,2024-08-01,174459.99,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Cisco Systems,Technology services invoice payment,2024-08-01,174482.72,Self-employed,50
+EUR,NL98BOER4173057191,France,Microsoft,Cloud storage subscription,2024-08-01,174483.82,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4edd7d74-9c50-451e-ad3d-e0293035620f,2024-08-01,176213.82,Self-employed,50
+EUR,NL98BOER4173057191,NL,Féline Mudden,Shared utilities,2024-08-01,176224.98,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,PepsiCo,Beverage order,2024-08-01,176279.25,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,BASF,Industrial chemicals purchase,2024-09-01,176285.24,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Mette Bernaards,Loan repayment,2024-09-01,176291.99,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 434642fb-4d11-4214-ac15-f4e4edbfcbbb,2024-09-01,178021.99,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Nisa Marchal,Reimbursement for bills,2024-09-01,178101.61,Self-employed,50
+EUR,NL98BOER4173057191,NL,Dell Technologies,Cloud storage subscription,2024-09-01,178180.37,Self-employed,50
+EUR,NL98BOER4173057191,France,IBM,Technology services invoice payment,2024-09-01,178194.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e96fc7d3-8f21-406d-bf8a-c5e414914fac,2024-09-01,179924.72,Self-employed,50
+EUR,NL98BOER4173057191,United States,Pfizer,Drug order payment,2024-09-01,179966.53,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 5d164444-ea37-4034-b9d6-7a4ac116b4bf,2024-09-01,181696.53,Self-employed,50
+EUR,NL98BOER4173057191,NL,Apple Inc.,Cloud storage subscription,2024-09-01,181734.64,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 46b64b69-0308-4273-b2cc-49da2615cb3d,2024-09-01,183464.64,Self-employed,50
+EUR,NL98BOER4173057191,NL,Airbus,Space exploration fee,2024-09-01,183482.28,Self-employed,50
+EUR,NL98BOER4173057191,NL,Tata Consultancy Services,Software development bill,2024-09-01,183498.41,Self-employed,50
+EUR,NL98BOER4173057191,France,IBM,Software license fee payment,2024-09-01,183508.67,Self-employed,50
+EUR,NL98BOER4173057191,United States,Nike,Sportswear buy,2024-09-01,183534.55,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c5526f2b-fd8e-4b3f-94e6-27905eb9d151,2024-09-01,185264.55,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 09461244-1a7a-4c22-babf-ef74be6e1ae6,2024-09-01,186994.55,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4345eda3-db70-4748-a526-0c0235f22ee9,2024-09-01,187297.55,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Procter & Gamble,Product purchase,2024-09-01,187458.21,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: d57efea3-a2ff-4ac8-9109-9bb3904845b1,2024-09-01,189188.21,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Huawei,Technology services invoice payment,2024-09-01,189268.95,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c02c98bb-8d7e-4d11-a5cf-25786e77dcac,2024-09-01,190998.95,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,Novartis,Medication purchase,2024-09-01,191009.39,Self-employed,50
+EUR,NL98BOER4173057191,NL,Sanofi,Medication purchase,2024-09-01,191065.14,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: b89a0a87-ae06-44ea-b18b-1d36b9d7baba,2024-09-01,192795.14,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 9965a611-62b1-4f50-8f3c-3dcaf0ac081d,2024-09-01,194525.14,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 3187318e-17a4-4ea6-9746-79643fb0c546,2024-09-01,194617.65,Self-employed,50
+EUR,NL98BOER4173057191,NL,Sanofi,Pharmacy bill,2024-09-01,194640.12,Self-employed,50
+EUR,NL98BOER4173057191,NL,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,194686.81,Self-employed,50
+EUR,NL98BOER4173057191,NL,Lizzy Bave-Bouwhuisen,Debt settlement,2024-09-01,194696.05,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6a6f6542-7c0a-4275-951c-837a30f17db7,2024-09-01,196426.05,Self-employed,50
+EUR,NL98BOER4173057191,NL,Berkshire Hathaway,Conglomerate product order,2024-09-01,196440.74,Self-employed,50
+EUR,NL98BOER4173057191,NL,Alphabet Inc.,Technology services invoice payment,2024-09-01,196462.2,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 06bcc9b8-041a-47c6-a0a0-eff82ad23c8f,2024-09-01,198192.2,Self-employed,50
+EUR,NL98BOER4173057191,NL,BMW,Car purchase,2024-09-01,198206.48,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,Toyota,Car parts order,2024-09-01,198215.11,Self-employed,50
+EUR,NL98BOER4173057191,NL,Merck & Co.,Pharmacy bill,2024-09-01,198227.33,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 9f6e3713-d849-4ab4-b0cd-afae7113456e,2024-09-01,199957.33,Self-employed,50
+EUR,NL98BOER4173057191,NL,Benjamin Ghoerle-van Geffen,Funeral expenses,2024-09-01,199987.02,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Apple Inc.,Software license fee payment,2024-09-01,200017.26,Self-employed,50
+EUR,NL98BOER4173057191,United States,Morgan Stanley,Stock purchase,2024-09-01,200026.9,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Geldmaat ATM,Geldmaat: 176fb614-8d36-4490-99ab-97d63695175a,2024-09-01,200033.63,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 0e6e1fd8-fe45-436a-b6f9-9ea8d3e2d8a9,2024-09-01,201763.63,Self-employed,50
+EUR,NL98BOER4173057191,NL,Toyota,Vehicle service charge,2024-09-01,201800.89,Self-employed,50
+EUR,NL98BOER4173057191,NL,Allianz,Claim settlement,2024-09-01,201810.9,Self-employed,50
+EUR,NL98BOER4173057191,NL,Huawei,Software license fee payment,2024-09-01,201828.7,Self-employed,50
+EUR,NL98BOER4173057191,NL,Merck & Co.,Medication purchase,2024-09-01,201873.21,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 9d0b4725-0e5b-4b0f-8f9a-19be2ddceb36,2024-09-01,203603.21,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Meta Platforms,Web hosting fee,2024-09-01,203610.0,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Silke van Berkel,Emergency funds,2024-09-01,203615.32,Self-employed,50
+EUR,NL98BOER4173057191,NL,Esmee Matthews,Debt settlement,2024-09-01,203623.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: fa23ee9c-f575-4c5f-a7df-d6404b15c3a5,2024-09-01,205353.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Jason Huijben,Household expenses,2024-09-01,205366.39,Self-employed,50
+EUR,NL98BOER4173057191,United States,Nike,Clothing purchase,2024-09-01,205380.79,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,ByteDance,Technology services invoice payment,2024-09-01,205395.86,Self-employed,50
+EUR,NL98BOER4173057191,NL,Berkshire Hathaway,Diversified company fee,2024-09-01,205432.5,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: fae979fc-5856-42b0-b855-4f7ba3259970,2024-09-01,207162.5,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6f8ca13e-44e2-44f1-b133-538f099aa6bf,2024-09-01,208892.5,Self-employed,50
+EUR,NL98BOER4173057191,NL,AstraZeneca,Healthcare prescription,2024-09-01,209000.71,Self-employed,50
+EUR,NL98BOER4173057191,NL,LVMH,Designer goods order,2024-09-01,209011.71,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 53bbdb3b-845f-4954-877a-e88c0b2e0858,2024-09-01,210741.71,Self-employed,50
+EUR,NL98BOER4173057191,NL,Gilead Sciences,Laboratory service charge,2024-09-01,210762.56,Self-employed,50
+EUR,NL98BOER4173057191,NL,Honeywell,Diversified company fee,2024-09-01,210784.43,Self-employed,50
+EUR,NL98BOER4173057191,United States,Nynke Lijn,Baby shower gift,2024-09-01,210847.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 280043d4-6f69-4f4b-9331-4ba1d7ddcf1f,2024-09-01,212577.72,Self-employed,50
+EUR,NL98BOER4173057191,Germany,Airbus,Aerospace parts purchase,2024-09-01,212581.98,Self-employed,50
+EUR,NL98BOER4173057191,NL,Noor Jansse,Support for a family member,2024-09-01,212820.56,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: dd9b8db1-42bb-4d5a-9c17-6acf7576f6bf,2024-09-01,214550.56,Self-employed,50
+EUR,NL98BOER4173057191,NL,Berkshire Hathaway,Business unit invoice,2024-09-01,214577.36,Self-employed,50
+EUR,NL98BOER4173057191,NL,David Honing-Hoedemakers,Support for a family member,2024-09-01,214796.54,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6474a096-4361-4d7f-92ce-bb20bd13256c,2024-09-01,216526.54,Self-employed,50
+EUR,NL98BOER4173057191,NL,GlaxoSmithKline,Pharmacy bill,2024-09-01,216531.49,Self-employed,50
+EUR,NL98BOER4173057191,NL,Dean van Salmen,Shared utilities,2024-09-01,216536.05,Self-employed,50
+EUR,NL98BOER4173057191,United States,Joey Mol-Zevenboom,Support money,2024-09-01,216580.95,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c9e672cf-7c36-4a4f-920e-e1031e6db8f2,2024-09-01,218310.95,Self-employed,50
+EUR,NL98BOER4173057191,NL,PepsiCo,Beverage order,2024-09-01,218322.93,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 362376a2-470b-4f78-957f-7e739504bc49,2024-09-01,220052.93,Self-employed,50
+EUR,NL98BOER4173057191,NL,Amazon,Subscription service,2024-09-01,220099.49,Self-employed,50
+EUR,NL98BOER4173057191,NL,AstraZeneca,Healthcare prescription,2024-09-01,220111.55,Self-employed,50
+EUR,NL98BOER4173057191,NL,Airbus,Aircraft maintenance,2024-09-01,220115.94,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4f22958d-1e68-4356-b69b-f9d83b67f4b2,2024-09-01,221845.94,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Daimler,Auto repair bill,2024-09-01,221862.27,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Nienke van de Weterink,Shared hotel room cost,2024-09-01,221889.31,Self-employed,50
+EUR,NL98BOER4173057191,Canada,BMW,Car parts order,2024-09-01,221890.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,BMW,Car purchase,2024-09-01,221895.43,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 39c2cce2-e43c-428c-8216-e33ad4aae868,2024-09-01,223625.43,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,Oracle,Web hosting fee,2024-09-01,223640.76,Self-employed,50
+EUR,NL98BOER4173057191,NL,DuPont,Conglomerate product order,2024-09-01,223673.87,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Mathijs Bresse,New baby gift,2024-09-01,223681.86,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Jente van Munster,Reimbursement for bills,2024-09-01,223687.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 0c829aa5-3c79-41b0-acbd-238d606d8329,2024-09-01,225417.07,Self-employed,50
+EUR,NL98BOER4173057191,NL,Facebook,Ad campaign funding,2024-09-01,225450.91,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Airbus,Aviation technology fee,2024-09-01,225463.55,Self-employed,50
+EUR,NL98BOER4173057191,Belgium,Tata Consultancy Services,System upgrade fee,2024-09-01,225493.81,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: a1bae236-c1a6-4f6f-9de5-051cb7f1137b,2024-09-01,227223.81,Self-employed,50
+EUR,NL98BOER4173057191,United States,Duke Energy,Electricity payment,2024-09-01,227234.39,Self-employed,50
+EUR,NL98BOER4173057191,Canada,PepsiCo,Catering service fee,2024-09-01,227242.77,Self-employed,50
+EUR,NL98BOER4173057191,NL,DuPont,Business unit invoice,2024-09-01,227299.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: c7c36a6b-3b9b-4608-a1fc-d1a481ddb89e,2024-09-01,229029.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 21b5af07-6e6e-422f-8fa6-73bdbc80d4ee,2024-09-01,230759.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,Dylan Mahieu,New baby gift,2024-09-01,230802.63,Self-employed,50
+EUR,NL98BOER4173057191,NL,Roche,Healthcare prescription,2024-09-01,230813.91,Self-employed,50
+EUR,NL98BOER4173057191,NL,AstraZeneca,Drug order payment,2024-10-01,230831.64,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: e0591bb0-0481-46cb-b087-73125d060660,2024-10-01,232561.64,Self-employed,50
+EUR,NL98BOER4173057191,Italy,Huawei,Technology services invoice payment,2024-10-01,232570.69,Self-employed,50
+EUR,NL98BOER4173057191,Denmark,BMW,Car purchase,2024-10-01,232594.4,Self-employed,50
+EUR,NL98BOER4173057191,NL,Renault,Car purchase,2024-10-01,232608.02,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 1a8ea01a-28ce-45be-8fe2-277b457f8e0d,2024-10-01,234338.02,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Morgan Stanley,Capital markets service,2024-10-01,234346.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,Hanna de Graaf,Child support,2024-10-01,234387.82,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,"Dean Werl-Arnsberg, van",Mortgage help,2024-10-01,234410.32,Self-employed,50
+EUR,NL98BOER4173057191,Spain,Procter & Gamble,Product purchase,2024-10-01,234421.21,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: b1029936-a98f-485d-b3ac-283ca7a8f7b5,2024-10-01,236151.21,Self-employed,50
+EUR,NL98BOER4173057191,NL,Boeing,Aerospace parts purchase,2024-10-01,236167.59,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Sem Uittenbosch,Rent deposit,2024-10-01,236179.46,Self-employed,50
+EUR,NL98BOER4173057191,NL,Airbus,Aircraft maintenance,2024-10-01,236197.15,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 6792425b-5353-4d0a-8c64-29e8eb0dc5bf,2024-10-01,237927.15,Self-employed,50
+EUR,NL98BOER4173057191,NL,Johnson & Johnson,Medication purchase,2024-10-01,237947.07,Self-employed,50
+EUR,NL98BOER4173057191,Canada,Selina van den Henst,Debt settlement,2024-10-01,237955.31,Self-employed,50
+EUR,NL98BOER4173057191,NL,Cornelia Brievingh,School fees,2024-10-01,237981.73,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: f9babbee-a9a1-4722-b6c9-2196084aea3e,2024-10-01,239711.73,Self-employed,50
+EUR,NL98BOER4173057191,NL,SoftBank,Conglomerate product order,2024-10-01,239720.84,Self-employed,50
+EUR,NL98BOER4173057191,NL,Cisco Systems,Software license fee payment,2024-10-01,239733.69,Self-employed,50
+EUR,NL98BOER4173057191,NL,Gilead Sciences,Genetic testing kit,2024-10-01,239753.95,Self-employed,50
+EUR,NL98BOER4173057191,NL,Gilead Sciences,Clinical trial payment,2024-10-01,239783.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 5a72360a-7db5-4dd6-a155-6f157ee02e8d,2024-10-01,241513.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,Phillips 66,Renewable energy subscription,2024-10-01,241622.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: fe8155b0-e839-4796-82d6-045accdd7f8b,2024-10-01,243352.09,Self-employed,50
+EUR,NL98BOER4173057191,NL,Abel Hoekstra,Support money,2024-10-01,243421.56,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 122c9194-6166-489d-ba87-a800198f2962,2024-10-01,245151.56,Self-employed,50
+EUR,NL98BOER4173057191,United States,Pepijn Grondel,Loan to friend,2024-10-01,245164.33,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 81beea10-f9c2-4ac2-883f-96e89c732ede,2024-10-01,246894.33,Self-employed,50
+EUR,NL98BOER4173057191,Hungary,Geldmaat ATM,Geldmaat: 7b102c14-b582-4b4e-8ad8-194e4966847b,2024-10-01,246931.04,Self-employed,50
+EUR,NL98BOER4173057191,NL,Michael Hanegraaff,Grocery money,2024-10-01,246948.82,Self-employed,50
+EUR,NL98BOER4173057191,Italy,Maarten Beernink,Shared meal cost,2024-10-01,246962.23,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 36e610e7-f597-46c5-8b81-d0f051f441cb,2024-10-01,248692.23,Self-employed,50
+EUR,NL98BOER4173057191,Great Britain,Duke Energy,Electricity payment,2024-10-01,248719.32,Self-employed,50
+EUR,NL98BOER4173057191,NL,Pfizer,Medication purchase,2024-10-01,248754.4,Self-employed,50
+EUR,NL98BOER4173057191,NL,Toyota,Vehicle service charge,2024-10-01,248762.61,Self-employed,50
+EUR,NL98BOER4173057191,NL,SoftBank,Corporate services payment,2024-10-01,248828.82,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 3a781c13-0081-4b27-a283-743dada3a5a9,2024-10-01,250558.82,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 4eac3881-8f08-4a18-84e8-9d118899ca42,2024-10-01,252288.82,Self-employed,50
+EUR,NL98BOER4173057191,NL,Dell Technologies,Web hosting fee,2024-10-01,252303.66,Self-employed,50
+EUR,NL98BOER4173057191,Italy,Ivan van Salmen-van Limburg,School fees,2024-10-01,252347.25,Self-employed,50
+EUR,NL98BOER4173057191,NL,AT&T,Telecom invoice,2024-10-01,252361.87,Self-employed,50
+EUR,NL98BOER4173057191,NL,Accenture,Consulting fee,2024-10-01,252375.17,Self-employed,50
+EUR,NL98BOER4173057191,NL,Geldmaat ATM,Geldmaat: 510abd0b-440e-4085-b1cd-03a6f9b69c6a,2024-10-01,254105.17,Self-employed,50
+EUR,NL98BOER4173057191,NL,Duke Energy,Renewable energy subscription,2024-10-01,254162.72,Self-employed,50
+EUR,NL98BOER4173057191,NL,AT&T,Telecom invoice,2024-10-01,254170.48,Self-employed,50

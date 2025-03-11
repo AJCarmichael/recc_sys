@@ -1,0 +1,402 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+J,JP77NISE3186395568,NL,Ford Motor,Car purchase,2024-06-01,1038.66,Self-employed,50
+J,JP77NISE3186395568,NL,Johnson & Johnson,Healthcare prescription,2024-06-01,1041.95,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: eb94ec52-6342-4b8a-ab77-a3c9a37097b4,2024-06-01,2859.95,Self-employed,50
+J,JP77NISE3186395568,Hungary,Geldmaat ATM,Geldmaat: dfca0861-cbf1-4fdc-b108-ce4e7558ec9a,2024-06-01,2880.71,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Morgan Stanley,Brokerage fee,2024-06-01,2898.24,Self-employed,50
+J,JP77NISE3186395568,NL,Nike,Apparel shopping,2024-06-01,2908.95,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b1159763-0d7d-4711-9871-6e5de9b86cae,2024-06-01,4726.95,Self-employed,50
+J,JP77NISE3186395568,United States,Novartis,Pharmacy bill,2024-06-01,4738.8,Self-employed,50
+J,JP77NISE3186395568,NL,Morgan Stanley,Investment fund entry,2024-06-01,4777.66,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 1431b938-617b-48c8-ba27-33067205d7eb,2024-06-01,6595.66,Self-employed,50
+J,JP77NISE3186395568,Italy,Honeywell,Business unit invoice,2024-06-01,6609.77,Self-employed,50
+J,JP77NISE3186395568,NL,BASF,Industrial chemicals purchase,2024-06-01,6684.64,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6d072a11-2738-4410-bc07-b1fda51be861,2024-06-01,8502.64,Self-employed,50
+J,JP77NISE3186395568,United States,Alibaba,E-commerce order,2024-06-01,8532.54,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7f7a321b-4bb8-4714-83e0-f1a34add1454,2024-06-01,10350.54,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3e46ef26-57e8-404c-b099-ec842d56f270,2024-06-01,10371.65,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 80704f3b-0df9-4c8f-8aeb-dd2f24e0e69e,2024-06-01,12189.65,Self-employed,50
+J,JP77NISE3186395568,Denmark,Berkshire Hathaway,Corporate services payment,2024-06-01,12204.44,Self-employed,50
+J,JP77NISE3186395568,NL,Tijs Buijs,Loan to family,2024-06-01,12226.36,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Sanofi,Pharmacy bill,2024-06-01,12238.72,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3855730b-4ccc-4f6a-b5f6-b44370703d84,2024-06-01,14056.72,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5d4b4fec-7848-4705-8381-4891db4e2474,2024-06-01,15874.72,Self-employed,50
+J,JP77NISE3186395568,NL,Sanofi,Pharmacy bill,2024-06-01,15889.09,Self-employed,50
+J,JP77NISE3186395568,Italy,Jacob Nollee,Reimbursement for bills,2024-06-01,15906.58,Self-employed,50
+J,JP77NISE3186395568,NL,3M,Business unit invoice,2024-06-01,15918.54,Self-employed,50
+J,JP77NISE3186395568,NL,Senn Weijland-Briere,Shared hotel room cost,2024-06-01,15945.91,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7a1174c4-645a-4e4d-a86f-d8ac6805c693,2024-06-01,17763.91,Self-employed,50
+J,JP77NISE3186395568,NL,Dell Technologies,Technology services invoice payment,2024-06-01,17779.91,Self-employed,50
+J,JP77NISE3186395568,NL,Dell Technologies,Software license fee payment,2024-06-01,17823.43,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 061a1e96-ee23-4ec3-8520-85d4cc4909d4,2024-06-01,19641.43,Self-employed,50
+J,JP77NISE3186395568,Spain,GlaxoSmithKline,Healthcare prescription,2024-06-01,19653.88,Self-employed,50
+J,JP77NISE3186395568,NL,AT&T,Phone bill,2024-06-01,19664.25,Self-employed,50
+J,JP77NISE3186395568,NL,Airbus,Space exploration fee,2024-06-01,19688.49,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c7fcc897-c024-4a2f-8b86-ebe46c669ce6,2024-06-01,21506.49,Self-employed,50
+J,JP77NISE3186395568,NL,Goldman Sachs,Investment fund entry,2024-06-01,21570.03,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 05679ac3-9de6-4bd3-95c4-45577a54e7f9,2024-06-01,23388.03,Self-employed,50
+J,JP77NISE3186395568,NL,Bristol-Myers Squibb,Drug order payment,2024-06-01,23415.47,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 41919039-3ebf-4e84-8217-c0644d40a90a,2024-06-01,25233.47,Self-employed,50
+J,JP77NISE3186395568,Canada,Renault,Car purchase,2024-06-01,25271.23,Self-employed,50
+J,JP77NISE3186395568,NL,Meta Platforms,Technology services invoice payment,2024-06-01,25279.09,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3686c0f9-3de1-409f-af69-c892d1f4a5ee,2024-06-01,27097.09,Self-employed,50
+J,JP77NISE3186395568,NL,Duke Energy,Energy supply charge,2024-06-01,27116.84,Self-employed,50
+J,JP77NISE3186395568,United States,Boeing,Aircraft maintenance,2024-06-01,27121.11,Self-employed,50
+J,JP77NISE3186395568,Germany,IBM,Web hosting fee,2024-06-01,27155.17,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 1e601450-e1e7-46ab-8148-14f43d358f69,2024-06-01,28973.17,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Geldmaat ATM,Geldmaat: 7773e271-cce0-46f7-87d2-cc21bae14f8a,2024-06-01,29001.97,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Accenture,Expert consultation fee,2024-06-01,29037.06,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 57ed43c3-9447-48c0-9840-da4250f683c4,2024-06-01,30855.06,Self-employed,50
+J,JP77NISE3186395568,NL,Unilever,Product purchase,2024-06-01,30882.34,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 64d0d144-68e7-48ff-afa3-5dc857626bc8,2024-06-01,32700.34,Self-employed,50
+J,JP77NISE3186395568,NL,Merijn Poncelet,Reimbursement for groceries,2024-06-01,32708.36,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Charlotte van der Horst,Pet expenses,2024-06-01,32713.38,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6c7f0ffd-c7b9-40d5-aab1-57b443e06ecf,2024-06-01,34531.38,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Retail goods payment,2024-06-01,34548.69,Self-employed,50
+J,JP77NISE3186395568,United States,AstraZeneca,Drug order payment,2024-06-01,34567.33,Self-employed,50
+J,JP77NISE3186395568,NL,Amazon,Marketplace seller fee,2024-06-01,34581.83,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 419c744a-c365-47ec-922b-3d99ba19151f,2024-06-01,36399.83,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5c4a62ff-be4e-4c92-a751-167fe7da0f71,2024-06-01,36403.79,Self-employed,50
+J,JP77NISE3186395568,NL,Maarten Wolffel-Hak,Household expenses,2024-06-01,36418.94,Self-employed,50
+J,JP77NISE3186395568,NL,PepsiCo,Food delivery,2024-06-01,36435.36,Self-employed,50
+J,JP77NISE3186395568,NL,Cisco Systems,Software license fee payment,2024-06-01,36446.55,Self-employed,50
+J,JP77NISE3186395568,NL,Pfizer,Medication purchase,2024-06-01,36462.83,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: a2515492-a871-48a2-9ef6-a3b66b5eb089,2024-06-01,38280.83,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: bf5f7cd6-9a40-40d0-8029-839725d1c7bc,2024-06-01,40098.83,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Retail goods payment,2024-06-01,40123.18,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Carlijn Saxo-Willems van Lier,Baby shower gift,2024-06-01,40138.95,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 23741268-1e3e-4593-bb20-2fb8775552c4,2024-06-01,41956.95,Self-employed,50
+J,JP77NISE3186395568,NL,Microsoft,Cloud storage subscription,2024-06-01,41995.71,Self-employed,50
+J,JP77NISE3186395568,France,Roche,Medication purchase,2024-06-01,42016.63,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 19cc3dc7-3b91-40c7-a8de-c5bdb1e25004,2024-06-01,43834.63,Self-employed,50
+J,JP77NISE3186395568,Germany,Mila Dennenberg,Rent payment,2024-06-01,43861.64,Self-employed,50
+J,JP77NISE3186395568,NL,3M,Diversified company fee,2024-06-01,43887.66,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b533699e-2fcd-4bed-8ea8-7fd5d53f6736,2024-06-01,43916.4,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 43aed1f5-1838-408a-a7b6-1a81acf4fead,2024-06-01,45734.4,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 0f235aa0-e79b-4de3-96bf-0bd3845b8419,2024-06-01,47552.4,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Duke Energy,Energy supply charge,2024-06-01,47620.92,Self-employed,50
+J,JP77NISE3186395568,United States,Mitsubishi,Diversified company fee,2024-06-01,47695.09,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b447c9f9-9c5a-4784-b105-26cf86cac1a4,2024-06-01,49513.09,Self-employed,50
+J,JP77NISE3186395568,France,Tata Consultancy Services,Software development bill,2024-06-01,49541.93,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d6e72b81-472e-4f52-a78a-6778a5dbbe36,2024-06-01,49588.13,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: a105a039-309c-4acb-834e-f97bc96dc29a,2024-06-01,51406.13,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 0e7a592e-9d10-4bb3-bd97-907f4222a263,2024-06-01,53224.13,Self-employed,50
+J,JP77NISE3186395568,NL,Alibaba,E-commerce order,2024-06-01,53258.13,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b288054d-2d6b-4c1f-9c7a-cd6a7bbf97bb,2024-06-01,55076.13,Self-employed,50
+J,JP77NISE3186395568,Austria,Luuk Zwijsen,Birthday party expenses,2024-06-01,55113.02,Self-employed,50
+J,JP77NISE3186395568,NL,PepsiCo,Food delivery,2024-06-01,55117.87,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 8eaf66f8-1093-4c02-b502-89dc5e76f6f4,2024-06-01,56935.87,Self-employed,50
+J,JP77NISE3186395568,United States,Amazon,Marketplace seller fee,2024-06-01,56950.78,Self-employed,50
+J,JP77NISE3186395568,NL,Phillips 66,Electricity payment,2024-06-01,56974.8,Self-employed,50
+J,JP77NISE3186395568,United States,Ecrin de Jode Vastraedsd,Loan to family,2024-06-01,56991.84,Self-employed,50
+J,JP77NISE3186395568,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,57042.41,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 48fea883-d91f-4544-81e2-1621210b525a,2024-07-01,57048.74,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 9ad149bc-c670-4691-9ff3-c760be6c1b45,2024-07-01,58866.74,Self-employed,50
+J,JP77NISE3186395568,NL,Pfizer,Healthcare prescription,2024-07-01,58906.96,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 60bdf1f4-1c33-4cf6-b2e0-1077efb3b315,2024-07-01,60724.96,Self-employed,50
+J,JP77NISE3186395568,Great Britain,BMW,Auto repair bill,2024-07-01,60735.11,Self-employed,50
+J,JP77NISE3186395568,France,AT&T,Cable service subscription,2024-07-01,60794.47,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c7b14ccd-df44-4fa3-b119-5634a8c3080b,2024-07-01,62612.47,Self-employed,50
+J,JP77NISE3186395568,Canada,Allianz,Insurance premium,2024-07-01,62662.95,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: a4a210fa-a2ae-4be9-bb8e-8c955b0676e4,2024-07-01,64480.95,Self-employed,50
+J,JP77NISE3186395568,NL,3M,Conglomerate product order,2024-07-01,64502.23,Self-employed,50
+J,JP77NISE3186395568,Germany,Johnson & Johnson,Drug order payment,2024-07-01,64521.24,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6d10461f-0748-47fb-b887-ae226c86748f,2024-07-01,66339.24,Self-employed,50
+J,JP77NISE3186395568,France,Roche,Drug order payment,2024-07-01,66353.08,Self-employed,50
+J,JP77NISE3186395568,Belgium,Roche,Medication purchase,2024-07-01,66397.37,Self-employed,50
+J,JP77NISE3186395568,Germany,Boeing,Aviation technology fee,2024-07-01,66423.32,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6725f8ca-d862-432f-aada-014f8a124f89,2024-07-01,68241.32,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Accenture,Advisory session charge,2024-07-01,68260.82,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b63ac74e-9f74-4d3a-9068-6d90a10c9b62,2024-07-01,70078.82,Self-employed,50
+J,JP77NISE3186395568,NL,Sem Koeman,Split restaurant bill,2024-07-01,70125.1,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 921e00a6-d26c-483b-b1f8-f1672290727b,2024-07-01,71943.1,Self-employed,50
+J,JP77NISE3186395568,NL,Daimler,Vehicle service charge,2024-07-01,72025.48,Self-employed,50
+J,JP77NISE3186395568,United States,Johnson & Johnson,Drug order payment,2024-07-01,72030.39,Self-employed,50
+J,JP77NISE3186395568,NL,Owen de Groot,Loan to family,2024-07-01,72045.31,Self-employed,50
+J,JP77NISE3186395568,Japan,Alphabet Inc.,Software license fee payment,2024-07-01,72058.57,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5b56c530-0673-4d32-8d17-d4092bfe9ada,2024-07-01,73876.57,Self-employed,50
+J,JP77NISE3186395568,NL,Aylin Wolfswinkel,Baby shower gift,2024-07-01,73883.67,Self-employed,50
+J,JP77NISE3186395568,NL,Volkswagen,Auto repair bill,2024-07-01,73983.14,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: dacf4eb6-a8fd-4dec-bca9-a57e907904bc,2024-07-01,75801.14,Self-employed,50
+J,JP77NISE3186395568,Belgium,Stijn van der Wal,Pet expenses,2024-07-01,75895.03,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 15e97d9d-eb5d-451c-b6ff-4f0068afb33a,2024-07-01,77713.03,Self-employed,50
+J,JP77NISE3186395568,United States,Verizon,Telecom invoice,2024-07-01,77905.62,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c405ac0e-f6dd-43c3-9301-f4805d41bbba,2024-07-01,79723.62,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 12ad6f63-de97-46ad-a781-0d1082a12c5f,2024-07-01,81541.62,Self-employed,50
+J,JP77NISE3186395568,NL,Sam Dachgelder,Travel expenses,2024-07-01,81609.75,Self-employed,50
+J,JP77NISE3186395568,Germany,Volkswagen,Vehicle service charge,2024-07-01,81630.62,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 1696c270-9b01-49b6-b7fc-c75c8e77de0b,2024-07-01,83448.62,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Boaz Vastenhouw,Grocery money,2024-07-01,83470.69,Self-employed,50
+J,JP77NISE3186395568,France,Ella Sam-Breugelensis,Shared ride expenses,2024-07-01,83479.75,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 84107efd-d1b6-4866-b85c-c13d69da9c70,2024-07-01,85297.75,Self-employed,50
+J,JP77NISE3186395568,NL,DuPont,Corporate services payment,2024-07-01,85357.38,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Meta Platforms,Technology services invoice payment,2024-07-01,85374.24,Self-employed,50
+J,JP77NISE3186395568,NL,Oracle,Software license fee payment,2024-07-01,85396.09,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3350da0d-d40e-4963-8bbb-29f667edf77c,2024-07-01,87214.09,Self-employed,50
+J,JP77NISE3186395568,NL,Alphabet Inc.,Web hosting fee,2024-07-01,87218.37,Self-employed,50
+J,JP77NISE3186395568,Italy,Sanofi,Healthcare prescription,2024-07-01,87250.42,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5aa2c895-2efa-406f-8aaa-c5f9b86543c1,2024-07-01,89068.42,Self-employed,50
+J,JP77NISE3186395568,NL,Accenture,Advisory session charge,2024-07-01,89108.96,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 049ed3ba-8096-4065-bef4-46d1d6b7cebc,2024-07-01,90926.96,Self-employed,50
+J,JP77NISE3186395568,United States,SoftBank,Business unit invoice,2024-07-01,90940.24,Self-employed,50
+J,JP77NISE3186395568,Germany,Airbus,Space exploration fee,2024-07-01,90953.82,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Oracle,Technology services invoice payment,2024-07-01,90968.26,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 0ab173a9-df31-4341-a788-73863bdf70d5,2024-07-01,92786.26,Self-employed,50
+J,JP77NISE3186395568,NL,Novartis,Healthcare prescription,2024-07-01,92830.37,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: da4f71f5-a3cb-40a7-858f-642051fb6482,2024-07-01,94648.37,Self-employed,50
+J,JP77NISE3186395568,NL,Niels Aelftrud van Wessex,Support for a family member,2024-07-01,94661.47,Self-employed,50
+J,JP77NISE3186395568,NL,BASF,Laboratory reagents buy,2024-07-01,94670.11,Self-employed,50
+J,JP77NISE3186395568,NL,Daimler,Car parts order,2024-07-01,94754.29,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c2aaaa4a-ac18-4643-bbf4-7eecb3a50f67,2024-07-01,96572.29,Self-employed,50
+J,JP77NISE3186395568,NL,Microsoft,Technology services invoice payment,2024-07-01,96582.53,Self-employed,50
+J,JP77NISE3186395568,NL,Volkswagen,Car parts order,2024-07-01,96603.5,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b90e8bf3-2951-4026-9b94-5bf2ee4bfd80,2024-07-01,98421.5,Self-employed,50
+J,JP77NISE3186395568,Canada,Geldmaat ATM,Geldmaat: 79b5825c-aaf6-4dd3-be1d-90c285257f67,2024-07-01,98438.66,Self-employed,50
+J,JP77NISE3186395568,Hungary,Merck & Co.,Medication purchase,2024-07-01,98484.35,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 4512a20b-46e7-461f-8ed0-78469fc55375,2024-07-01,100302.35,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: ef1c0beb-5528-4603-908f-ba3a0e2d1549,2024-07-01,102120.35,Self-employed,50
+J,JP77NISE3186395568,NL,Duke Energy,Utility bill,2024-07-01,102147.56,Self-employed,50
+J,JP77NISE3186395568,Hungary,Honeywell,Diversified company fee,2024-07-01,102171.1,Self-employed,50
+J,JP77NISE3186395568,NL,Bastiaan Scharroo,Travel expenses,2024-07-01,102234.26,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 9ddd16f8-1278-44df-9024-6158d73996b3,2024-07-01,104052.26,Self-employed,50
+J,JP77NISE3186395568,Hungary,Daimler,Car parts order,2024-07-01,104065.64,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Geldmaat ATM,Geldmaat: d1986bd4-efbc-435c-afc4-c9005bbc08f2,2024-07-01,104078.42,Self-employed,50
+J,JP77NISE3186395568,Denmark,Honeywell,Diversified company fee,2024-07-01,104107.36,Self-employed,50
+J,JP77NISE3186395568,Japan,PepsiCo,Catering service fee,2024-07-01,104111.77,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 067db8c2-a41b-4aca-8a72-6cb975de6ed8,2024-07-01,105929.77,Self-employed,50
+J,JP77NISE3186395568,NL,Tata Consultancy Services,Software development bill,2024-07-01,106026.51,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: e1a1d9a7-0560-4c71-a669-42558535cd33,2024-07-01,107844.51,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Mirte Genefaas,Funeral expenses,2024-07-01,107875.0,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: a5c083a1-01a4-4ab8-99f7-cf015a5cb3c2,2024-07-01,109693.0,Self-employed,50
+J,JP77NISE3186395568,NL,Ali van de Klashorst,Support for a friend,2024-07-01,109837.74,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: fc47c05c-527d-4d56-a99d-a6c5c4075b6a,2024-07-01,111655.74,Self-employed,50
+J,JP77NISE3186395568,United States,Bryan Smits,Pet expenses,2024-07-01,111664.86,Self-employed,50
+J,JP77NISE3186395568,Great Britain,AstraZeneca,Healthcare prescription,2024-07-01,111693.52,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5a65e2e3-2706-4ecc-b3a3-a43beae55ac8,2024-07-01,113511.52,Self-employed,50
+J,JP77NISE3186395568,NL,General Electric,Corporate services payment,2024-07-01,113530.08,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7b7dd450-e618-49cc-8b92-4ef7a94c6a70,2024-07-01,115348.08,Self-employed,50
+J,JP77NISE3186395568,Spain,Volkswagen,Vehicle service charge,2024-07-01,115376.15,Self-employed,50
+J,JP77NISE3186395568,NL,Bayer,Pharmacy bill,2024-08-01,115399.92,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: ecba70b2-8422-49dd-9666-3e41223e72a2,2024-08-01,117217.92,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 58d31248-3c4c-49f0-95b2-cdba6027269f,2024-08-01,117267.14,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 73519a44-f358-4288-8e0a-6672508de554,2024-08-01,119085.14,Self-employed,50
+J,JP77NISE3186395568,NL,Pfizer,Pharmacy bill,2024-08-01,119115.44,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Pfizer,Healthcare prescription,2024-08-01,119157.34,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 2a2d4819-d6d9-4349-8399-d2609fce37f6,2024-08-01,120975.34,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5b71cd27-674b-4586-ba33-abd8ed8ac801,2024-08-01,122793.34,Self-employed,50
+J,JP77NISE3186395568,NL,Cisco Systems,Cloud storage subscription,2024-08-01,122810.54,Self-employed,50
+J,JP77NISE3186395568,NL,Siem le Gulcher,Loan to friend,2024-08-01,122837.47,Self-employed,50
+J,JP77NISE3186395568,NL,SoftBank,Conglomerate product order,2024-08-01,122848.39,Self-employed,50
+J,JP77NISE3186395568,Denmark,SoftBank,Business unit invoice,2024-08-01,122887.46,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 4c3348a9-078b-44c9-a6eb-7589b3435265,2024-08-01,124705.46,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6be8c06f-e3d2-4cbb-976f-eb6330698624,2024-08-01,126523.46,Self-employed,50
+J,JP77NISE3186395568,NL,Renault,Car parts order,2024-08-01,126539.8,Self-employed,50
+J,JP77NISE3186395568,Canada,Geldmaat ATM,Geldmaat: d494bbd0-5a6f-4163-9b15-ce547b6a4c5f,2024-08-01,126545.14,Self-employed,50
+J,JP77NISE3186395568,NL,Meta Platforms,Cloud storage subscription,2024-08-01,126554.2,Self-employed,50
+J,JP77NISE3186395568,Denmark,Morgan Stanley,Capital markets service,2024-08-01,126643.12,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b30a4652-d02a-4f35-8248-0023fbc78190,2024-08-01,128461.12,Self-employed,50
+J,JP77NISE3186395568,NL,Bristol-Myers Squibb,Healthcare prescription,2024-08-01,128498.24,Self-employed,50
+J,JP77NISE3186395568,NL,BMW,Auto repair bill,2024-08-01,128520.19,Self-employed,50
+J,JP77NISE3186395568,NL,Goldman Sachs,Capital markets service,2024-08-01,128533.2,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 43722ec5-f796-4fbf-a7c3-a009104208f8,2024-08-01,130351.2,Self-employed,50
+J,JP77NISE3186395568,NL,GlaxoSmithKline,Healthcare prescription,2024-08-01,130365.61,Self-employed,50
+J,JP77NISE3186395568,NL,Amazon,Online shopping,2024-08-01,130367.7,Self-employed,50
+J,JP77NISE3186395568,Denmark,Meta Platforms,Cloud storage subscription,2024-08-01,130387.41,Self-employed,50
+J,JP77NISE3186395568,NL,Goldman Sachs,Brokerage fee,2024-08-01,130401.82,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 973dc64b-7303-4925-9d10-3f792b6b4767,2024-08-01,132219.82,Self-employed,50
+J,JP77NISE3186395568,NL,Karlijn Hermans,Gift,2024-08-01,132261.69,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c823c4fd-1a44-489f-ab54-68b7eaa5f3fb,2024-08-01,134079.69,Self-employed,50
+J,JP77NISE3186395568,NL,SoftBank,Corporate services payment,2024-08-01,134162.4,Self-employed,50
+J,JP77NISE3186395568,Italy,Wessel van Bunschoten,Reimbursement for dinner,2024-08-01,134180.14,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 4d8133ec-d1c9-49d8-bbc9-acafcd3e6378,2024-08-01,135998.14,Self-employed,50
+J,JP77NISE3186395568,Hungary,Geldmaat ATM,Geldmaat: f03db1ef-b9d1-40ba-912c-e5ceb67be174,2024-08-01,136008.53,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7ade17f8-7c93-4ead-ad06-01314ea48cad,2024-08-01,137826.53,Self-employed,50
+J,JP77NISE3186395568,NL,Ford Motor,Car purchase,2024-08-01,137839.02,Self-employed,50
+J,JP77NISE3186395568,Great Britain,IBM,Cloud storage subscription,2024-08-01,137851.01,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 39c1db89-ddcb-4a08-8bf4-e0903eb60f4d,2024-08-01,139669.01,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Retail goods payment,2024-08-01,139713.73,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 984099f6-8dfd-42a4-a29f-567f629997fb,2024-08-01,141531.73,Self-employed,50
+J,JP77NISE3186395568,Canada,Bristol-Myers Squibb,Healthcare prescription,2024-08-01,141617.03,Self-employed,50
+J,JP77NISE3186395568,NL,Roche,Drug order payment,2024-08-01,141642.18,Self-employed,50
+J,JP77NISE3186395568,NL,Gilead Sciences,Laboratory service charge,2024-08-01,141670.58,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5aa4c1a3-46f8-4ccd-a425-38059eeab299,2024-08-01,143488.58,Self-employed,50
+J,JP77NISE3186395568,Japan,Sofie van der Laan-Tirie,Reimbursement for travel,2024-08-01,143493.6,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: de0454ad-da31-43c9-b15f-09ba21f49d50,2024-08-01,143512.02,Self-employed,50
+J,JP77NISE3186395568,Denmark,Elena Adelaar,Travel expenses,2024-08-01,143520.84,Self-employed,50
+J,JP77NISE3186395568,NL,Julius Brouwer,Personal loan,2024-08-01,143539.7,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 42c2f6b3-07ad-494d-90dc-7d6a393589f5,2024-08-01,145357.7,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d9b24b24-8149-4c49-b292-8eda1332e8ad,2024-08-01,147175.7,Self-employed,50
+J,JP77NISE3186395568,NL,AT&T,Telecom invoice,2024-08-01,147211.22,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 43d9c903-ff62-40ff-96fe-00646b39568f,2024-08-01,147220.22,Self-employed,50
+J,JP77NISE3186395568,NL,Merck & Co.,Drug order payment,2024-08-01,147227.73,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 678a263d-b20f-46d7-ad36-c518f3eb21ac,2024-08-01,147249.08,Self-employed,50
+J,JP77NISE3186395568,NL,Microsoft,Web hosting fee,2024-08-01,147254.92,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7dc23a1b-8e45-42ce-88eb-3522b903e79b,2024-08-01,147260.53,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 0b7ca7f7-63a6-42a6-8ded-e9f237339559,2024-08-01,149078.53,Self-employed,50
+J,JP77NISE3186395568,NL,Sanofi,Healthcare prescription,2024-08-01,149242.66,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 1bf0f144-e0e5-4687-b7cc-433d9946569e,2024-08-01,151060.66,Self-employed,50
+J,JP77NISE3186395568,Italy,Unilever,Product purchase,2024-08-01,151088.83,Self-employed,50
+J,JP77NISE3186395568,NL,Apple Inc.,Technology services invoice payment,2024-08-01,151125.59,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5b79b2f5-146b-425c-bbe1-997b3f616ab7,2024-08-01,152943.59,Self-employed,50
+J,JP77NISE3186395568,Canada,Fedde Françoise,Christmas gift,2024-08-01,153036.11,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 992c540e-3130-4411-8107-92e904269888,2024-08-01,154854.11,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Product purchase,2024-08-01,154870.32,Self-employed,50
+J,JP77NISE3186395568,NL,Senna Reijers,Medical bills,2024-08-01,154887.56,Self-employed,50
+J,JP77NISE3186395568,NL,Alphabet Inc.,Software license fee payment,2024-08-01,154896.73,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 25c6d0a0-28a2-499b-857a-2669365cb8b6,2024-08-01,156714.73,Self-employed,50
+J,JP77NISE3186395568,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,156767.86,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6b466b67-8361-4433-acc4-b931d5b379de,2024-08-01,158585.86,Self-employed,50
+J,JP77NISE3186395568,United States,Ayoub Schouten-van der Klijn,Personal loan,2024-08-01,158613.93,Self-employed,50
+J,JP77NISE3186395568,Italy,Selena Rijn-van der Heijden,Emergency funds,2024-08-01,158620.52,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 5dc38872-a36b-44b8-bc76-afe269787e5e,2024-08-01,160438.52,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3efe4986-5d5a-446d-a87c-467de2b0d4a9,2024-08-01,162256.52,Self-employed,50
+J,JP77NISE3186395568,Denmark,LVMH,Exclusive brand fee,2024-08-01,162320.4,Self-employed,50
+J,JP77NISE3186395568,United States,Oracle,Cloud storage subscription,2024-08-01,162407.21,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: ef7a27fd-3dd4-4e86-b24f-a5c742a4d020,2024-08-01,164225.21,Self-employed,50
+J,JP77NISE3186395568,NL,Phillips 66,Energy supply charge,2024-08-01,164278.66,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: cc36cb97-1958-412b-9b00-9e62686e3674,2024-08-01,166096.66,Self-employed,50
+J,JP77NISE3186395568,Spain,Tata Consultancy Services,IT support fee,2024-08-01,166097.59,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 8b116995-8576-478d-9b00-7e6fa5470fe2,2024-08-01,167915.59,Self-employed,50
+J,JP77NISE3186395568,Canada,Roche,Medication purchase,2024-08-01,167950.71,Self-employed,50
+J,JP77NISE3186395568,Belgium,Koen Die Bont,Household expenses,2024-08-01,167964.12,Self-employed,50
+J,JP77NISE3186395568,NL,Esmee Wouters-Backer,Mortgage help,2024-08-01,167995.57,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 91d0ea20-63e1-4207-a91d-8536ea4f03a4,2024-08-01,169813.57,Self-employed,50
+J,JP77NISE3186395568,Canada,Dell Technologies,Technology services invoice payment,2024-08-01,169826.71,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Subscription box service,2024-08-01,169835.01,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c883f08d-41c0-445b-9e1b-2e8bada77bc7,2024-08-01,169850.58,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 86d8813d-309a-49ea-89ca-26b7e21d44a4,2024-08-01,171668.58,Self-employed,50
+J,JP77NISE3186395568,Canada,Oracle,Web hosting fee,2024-08-01,171705.68,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7ac030a2-f338-41f7-b430-cca25ea30df4,2024-08-01,173523.68,Self-employed,50
+J,JP77NISE3186395568,NL,Mitsubishi,Conglomerate product order,2024-08-01,173560.95,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Geldmaat ATM,Geldmaat: f8e6360d-5a02-4ace-a2c1-216d3628a856,2024-09-01,173563.39,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 4ac2145f-60fc-4905-ada1-8eac113c821b,2024-09-01,175381.39,Self-employed,50
+J,JP77NISE3186395568,NL,Noa van Bergen,Family loan repayment,2024-09-01,175432.54,Self-employed,50
+J,JP77NISE3186395568,United States,Bristol-Myers Squibb,Drug order payment,2024-09-01,175488.62,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3d9b1865-30f5-464e-9b41-f386f8ca7151,2024-09-01,177306.62,Self-employed,50
+J,JP77NISE3186395568,NL,Stijn Gervais,Shared meal cost,2024-09-01,177328.42,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 068cf188-ecd7-4a8f-823c-404dfe0ecca8,2024-09-01,179146.42,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Apple Inc.,Software license fee payment,2024-09-01,179173.64,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Airbus,Aerospace parts purchase,2024-09-01,179188.11,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 44733897-4868-4691-a235-75c252641544,2024-09-01,181006.11,Self-employed,50
+J,JP77NISE3186395568,Germany,Goldman Sachs,Investment fund entry,2024-09-01,181161.6,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: f328bb28-5cc9-4f29-97e3-6ec06bb2055b,2024-09-01,182979.6,Self-employed,50
+J,JP77NISE3186395568,United States,Guusje Verschut-Tirie,Shared ride expenses,2024-09-01,183015.25,Self-employed,50
+J,JP77NISE3186395568,NL,Jonas Le Grand-Zuidweg,Loan to family,2024-09-01,183028.15,Self-employed,50
+J,JP77NISE3186395568,Great Britain,General Electric,Conglomerate product order,2024-09-01,183056.06,Self-employed,50
+J,JP77NISE3186395568,NL,Toyota,Auto repair bill,2024-09-01,183073.22,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: cc953ae9-699a-48eb-9114-ed8295940bc9,2024-09-01,184891.22,Self-employed,50
+J,JP77NISE3186395568,NL,Volkswagen,Vehicle service charge,2024-09-01,184901.32,Self-employed,50
+J,JP77NISE3186395568,NL,Unilever,Subscription box service,2024-09-01,184908.23,Self-employed,50
+J,JP77NISE3186395568,NL,Marinus de Ruiter-de Reede,Reimbursement for groceries,2024-09-01,184932.97,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b8e1e604-fe21-47dd-97e4-0b9007a32235,2024-09-01,186750.97,Self-employed,50
+J,JP77NISE3186395568,NL,Pfizer,Medication purchase,2024-09-01,186874.08,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d70740a3-1694-42a1-bb31-9d3358b17de6,2024-09-01,188692.08,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 7e9cc65f-85f1-4880-9d3c-1b5731ca9132,2024-09-01,190510.08,Self-employed,50
+J,JP77NISE3186395568,Hungary,Merck & Co.,Medication purchase,2024-09-01,190521.29,Self-employed,50
+J,JP77NISE3186395568,NL,Facebook,Premium account upgrade,2024-09-01,190554.74,Self-employed,50
+J,JP77NISE3186395568,France,Duke Energy,Utility bill,2024-09-01,190595.13,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 055265a8-18f1-4ae6-b5db-a9205a030bed,2024-09-01,192413.13,Self-employed,50
+J,JP77NISE3186395568,NL,Berkshire Hathaway,Corporate services payment,2024-09-01,192435.92,Self-employed,50
+J,JP77NISE3186395568,Japan,Apple Inc.,Technology services invoice payment,2024-09-01,192470.43,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 551b392b-d1cb-4b07-a5ba-c6a76da8844e,2024-09-01,194288.43,Self-employed,50
+J,JP77NISE3186395568,NL,Dell Technologies,Cloud storage subscription,2024-09-01,194412.81,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 43596703-f619-4bf3-bfd3-972951e9b053,2024-09-01,196230.81,Self-employed,50
+J,JP77NISE3186395568,NL,Maartje Ulrich-Lips,Housewarming gift,2024-09-01,196243.18,Self-employed,50
+J,JP77NISE3186395568,NL,Phillips 66,Renewable energy subscription,2024-09-01,196263.89,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d3faa159-c2f4-4878-93a7-bfa48244d429,2024-09-01,198081.89,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Toyota,Car parts order,2024-09-01,198092.87,Self-employed,50
+J,JP77NISE3186395568,NL,Huawei,Technology services invoice payment,2024-09-01,198099.96,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Subscription box service,2024-09-01,198122.82,Self-employed,50
+J,JP77NISE3186395568,NL,3M,Conglomerate product order,2024-09-01,198152.08,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 150770e2-8901-4eab-89a2-cd766e38e989,2024-09-01,199970.08,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Phillips 66,Utility bill,2024-09-01,200027.68,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 68e0583e-6e5b-48bd-8848-e395ca1e78c9,2024-09-01,201845.68,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Microsoft,Cloud storage subscription,2024-09-01,201861.46,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3c3a5777-b46d-4ff6-a114-bce2d63e71e9,2024-09-01,203679.46,Self-employed,50
+J,JP77NISE3186395568,NL,Renault,Auto repair bill,2024-09-01,203691.0,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Geldmaat ATM,Geldmaat: 1155a163-49f5-4010-a24b-4dc9ccb84435,2024-09-01,203700.05,Self-employed,50
+J,JP77NISE3186395568,Germany,Merck & Co.,Pharmacy bill,2024-09-01,203729.42,Self-employed,50
+J,JP77NISE3186395568,NL,Tata Consultancy Services,Software development bill,2024-09-01,203739.4,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d2b7d3df-22b2-495a-aacd-df311d703fc0,2024-09-01,205557.4,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Robin Mallien,Shared meal cost,2024-09-01,205580.0,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 93d1ce12-baac-445c-93bd-85cdec490bbd,2024-09-01,207398.0,Self-employed,50
+J,JP77NISE3186395568,NL,Merck & Co.,Healthcare prescription,2024-09-01,207419.3,Self-employed,50
+J,JP77NISE3186395568,NL,Zoey Geneart,Vacation expenses,2024-09-01,207453.64,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 4a475005-98a9-4673-bab5-4cc7948b221f,2024-09-01,209271.64,Self-employed,50
+J,JP77NISE3186395568,NL,AT&T,Data plan payment,2024-09-01,209277.31,Self-employed,50
+J,JP77NISE3186395568,Spain,Novartis,Pharmacy bill,2024-09-01,209289.4,Self-employed,50
+J,JP77NISE3186395568,NL,AT&T,Data plan payment,2024-09-01,209300.92,Self-employed,50
+J,JP77NISE3186395568,NL,Unilever,Retail goods payment,2024-09-01,209311.03,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: f9a2c464-257c-478f-8de3-5f06ef775065,2024-09-01,211129.03,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: f8d39ab1-50da-4e0f-bc7f-08e7731cb734,2024-09-01,211152.45,Self-employed,50
+J,JP77NISE3186395568,Canada,Volkswagen,Auto repair bill,2024-09-01,211154.37,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 75eb4ee0-9fe9-4d72-8fa2-65f2fa392e25,2024-09-01,212972.37,Self-employed,50
+J,JP77NISE3186395568,NL,Fenne Schilt-Ouwerkerk,Support money,2024-09-01,213004.42,Self-employed,50
+J,JP77NISE3186395568,NL,Puck Leguit,Debt settlement,2024-09-01,213014.76,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 2f229808-a9d3-4d2d-8176-0f9d42757427,2024-09-01,214832.76,Self-employed,50
+J,JP77NISE3186395568,NL,Nike,Sportswear buy,2024-09-01,214864.69,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 553481a8-868d-486b-b161-d4a48004b22e,2024-09-01,216682.69,Self-employed,50
+J,JP77NISE3186395568,Canada,Boeing,Aviation technology fee,2024-09-01,216694.47,Self-employed,50
+J,JP77NISE3186395568,Japan,Procter & Gamble,Retail goods payment,2024-09-01,216713.83,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 6e6de0cd-70ff-4733-bbc9-6700c49c1eac,2024-09-01,218531.83,Self-employed,50
+J,JP77NISE3186395568,NL,Amber Wunderink-Guit,Reimbursement for shopping,2024-09-01,218588.56,Self-employed,50
+J,JP77NISE3186395568,Austria,Mitsubishi,Diversified company fee,2024-09-01,218596.55,Self-employed,50
+J,JP77NISE3186395568,NL,Berkshire Hathaway,Conglomerate product order,2024-09-01,218633.52,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 1a17c70a-bd33-4b8c-82bf-61e9112ff5a1,2024-09-01,220451.52,Self-employed,50
+J,JP77NISE3186395568,NL,BMW,Vehicle service charge,2024-09-01,220456.52,Self-employed,50
+J,JP77NISE3186395568,NL,Cisco Systems,Cloud storage subscription,2024-09-01,220469.65,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c548eb91-011a-4065-ad4b-579258efce85,2024-09-01,222287.65,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 92ee4685-2093-447b-9adb-4ef401ead350,2024-09-01,222312.35,Self-employed,50
+J,JP77NISE3186395568,NL,Honeywell,Diversified company fee,2024-09-01,222315.72,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Bram van Westfalen,Reimbursement for bills,2024-09-01,222337.3,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 2201132d-7b95-446f-8fb4-0e2e1e6020a7,2024-09-01,224155.3,Self-employed,50
+J,JP77NISE3186395568,Spain,Jamie Leguit,Rent payment,2024-09-01,224166.41,Self-employed,50
+J,JP77NISE3186395568,United States,Honeywell,Conglomerate product order,2024-09-01,224187.72,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: cb0800f5-18c2-4d26-98e6-291fe838271f,2024-09-01,226005.72,Self-employed,50
+J,JP77NISE3186395568,NL,Volkswagen,Car parts order,2024-09-01,226068.28,Self-employed,50
+J,JP77NISE3186395568,NL,Cisco Systems,Web hosting fee,2024-09-01,226090.37,Self-employed,50
+J,JP77NISE3186395568,Hungary,Berkshire Hathaway,Conglomerate product order,2024-09-01,226110.77,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 1479874e-7e27-4374-beb3-a7d85223526f,2024-09-01,227928.77,Self-employed,50
+J,JP77NISE3186395568,Canada,PepsiCo,Beverage order,2024-09-01,227963.96,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: b62d3ff9-4b35-4cc6-963b-a237667f70dc,2024-09-01,229781.96,Self-employed,50
+J,JP77NISE3186395568,NL,Dell Technologies,Web hosting fee,2024-10-01,229800.69,Self-employed,50
+J,JP77NISE3186395568,NL,Selina van Spreuwel,Rent assistance,2024-10-01,229833.9,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d95c9dbb-187f-46a1-b29c-4119a74afc4a,2024-10-01,231651.9,Self-employed,50
+J,JP77NISE3186395568,Canada,Elize Rademaker,Reimbursement for bills,2024-10-01,231671.33,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: e5cf8127-24ec-4107-b6ff-713686d108b1,2024-10-01,233489.33,Self-employed,50
+J,JP77NISE3186395568,NL,Procter & Gamble,Retail goods payment,2024-10-01,233502.06,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 360fef39-479b-4460-b090-9af85107b489,2024-10-01,235320.06,Self-employed,50
+J,JP77NISE3186395568,NL,Nike,Sportswear buy,2024-10-01,235382.42,Self-employed,50
+J,JP77NISE3186395568,NL,SoftBank,Business unit invoice,2024-10-01,235391.87,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: eb082eb9-5116-4f62-b4d5-da702b536f24,2024-10-01,237209.87,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Amazon,Marketplace seller fee,2024-10-01,237225.78,Self-employed,50
+J,JP77NISE3186395568,NL,Morgan Stanley,Brokerage fee,2024-10-01,237284.3,Self-employed,50
+J,JP77NISE3186395568,NL,Jacob Totwiller,Wedding gift,2024-10-01,237289.94,Self-employed,50
+J,JP77NISE3186395568,NL,Meta Platforms,Cloud storage subscription,2024-10-01,237322.97,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: e1d7312b-edf4-463c-8a0e-909f98b8b194,2024-10-01,239140.97,Self-employed,50
+J,JP77NISE3186395568,Italy,Merck & Co.,Drug order payment,2024-10-01,239156.6,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: bc26ea2e-5c67-4a46-841b-9f2b82ca3b5a,2024-10-01,239159.25,Self-employed,50
+J,JP77NISE3186395568,NL,IBM,Cloud storage subscription,2024-10-01,239199.94,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 3ec09671-4511-4061-bb7c-d3ad729fe75c,2024-10-01,241017.94,Self-employed,50
+J,JP77NISE3186395568,NL,Duke Energy,Utility bill,2024-10-01,241045.12,Self-employed,50
+J,JP77NISE3186395568,NL,Airbus,Aerospace parts purchase,2024-10-01,241056.61,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 28037962-62f3-4d4b-b256-99f307886f12,2024-10-01,241066.27,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 45a9e7f8-51a6-4221-af64-58dc56151248,2024-10-01,242884.27,Self-employed,50
+J,JP77NISE3186395568,NL,Daimler,Auto repair bill,2024-10-01,242897.21,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 824d2545-c8c5-4451-afbe-c07670e7b6ab,2024-10-01,244715.21,Self-employed,50
+J,JP77NISE3186395568,Hungary,Daimler,Vehicle service charge,2024-10-01,244744.77,Self-employed,50
+J,JP77NISE3186395568,Great Britain,Bristol-Myers Squibb,Pharmacy bill,2024-10-01,244747.11,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: 17c1e805-3b09-4ab6-8a0e-3b6f6d2e31fd,2024-10-01,246565.11,Self-employed,50
+J,JP77NISE3186395568,NL,Goldman Sachs,Capital markets service,2024-10-01,246611.82,Self-employed,50
+J,JP77NISE3186395568,NL,Dell Technologies,Technology services invoice payment,2024-10-01,246649.73,Self-employed,50
+J,JP77NISE3186395568,Canada,Apple Inc.,Cloud storage subscription,2024-10-01,246665.63,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: c70cf04b-5516-4294-97ea-65a5c36fa5b2,2024-10-01,248483.63,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: ae65a15e-3b22-4fa6-93b7-6d8df8cb3831,2024-10-01,250301.63,Self-employed,50
+J,JP77NISE3186395568,NL,Amira Broeders-Rubben,Reimbursement for dinner,2024-10-01,250368.88,Self-employed,50
+J,JP77NISE3186395568,NL,General Electric,Conglomerate product order,2024-10-01,250378.1,Self-employed,50
+J,JP77NISE3186395568,NL,Giovanni Lijn,Family loan repayment,2024-10-01,250393.65,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: d0537722-e097-4fc3-bdeb-1a95fcf322dc,2024-10-01,252211.65,Self-employed,50
+J,JP77NISE3186395568,NL,Jasmijn Ramaker,Personal loan,2024-10-01,252231.5,Self-employed,50
+J,JP77NISE3186395568,Canada,IBM,Software license fee payment,2024-10-01,252245.73,Self-employed,50
+J,JP77NISE3186395568,NL,AT&T,Data plan payment,2024-10-01,252286.15,Self-employed,50
+J,JP77NISE3186395568,NL,Geldmaat ATM,Geldmaat: bad7f97f-13a5-4dad-9835-9d2ce361e2a3,2024-10-01,254104.15,Self-employed,50

@@ -1,0 +1,434 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+J,JP77NISE3333940397,NL,General Electric,Conglomerate product order,2024-06-01,3755.58,Retail worker,28
+J,JP77NISE3333940397,NL,Daimler,Car parts order,2024-06-01,3771.67,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: a9371ed0-944f-4d21-83e8-f6931abc573f,2024-06-01,6350.67,Retail worker,28
+J,JP77NISE3333940397,NL,BASF,Laboratory reagents buy,2024-06-01,6421.53,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 4ff49a8e-a3dc-450d-a1e6-8e9582b68244,2024-06-01,9000.53,Retail worker,28
+J,JP77NISE3333940397,NL,Apple Inc.,Web hosting fee,2024-06-01,9047.1,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 517a304f-86b1-4fe1-b2eb-dca9fdae7951,2024-06-01,11626.1,Retail worker,28
+J,JP77NISE3333940397,NL,Leon Dekker,Pet expenses,2024-06-01,11627.99,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Roche,Pharmacy bill,2024-06-01,11632.35,Retail worker,28
+J,JP77NISE3333940397,NL,Kyra Schulten,Medical bills,2024-06-01,11643.46,Retail worker,28
+J,JP77NISE3333940397,United States,General Electric,Business unit invoice,2024-06-01,11646.17,Retail worker,28
+J,JP77NISE3333940397,Great Britain,AT&T,Data plan payment,2024-06-01,11726.04,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 032c710b-7d11-4c48-8e6e-928a99fb513f,2024-06-01,14305.04,Retail worker,28
+J,JP77NISE3333940397,NL,Duke Energy,Electricity payment,2024-06-01,14313.82,Retail worker,28
+J,JP77NISE3333940397,NL,BASF,Chemical supply order,2024-06-01,14360.34,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c9525039-c89f-4ce6-8eaf-516025636a51,2024-06-01,16939.34,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 01eb5bd7-a533-4d76-9282-fd85b03b229c,2024-06-01,19518.34,Retail worker,28
+J,JP77NISE3333940397,United States,Pfizer,Drug order payment,2024-06-01,19569.89,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5283f312-f6c1-49d3-a823-07e9157959e5,2024-06-01,22148.89,Retail worker,28
+J,JP77NISE3333940397,Belgium,Apple Inc.,Cloud storage subscription,2024-06-01,22241.54,Retail worker,28
+J,JP77NISE3333940397,NL,BASF,Cleaning products order,2024-06-01,22316.3,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: e1389571-91b6-4a14-9fca-2b9f204fe769,2024-06-01,24895.3,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 65df5429-bfbf-4cbb-9ee0-3f5a4cf0fb23,2024-06-01,27474.3,Retail worker,28
+J,JP77NISE3333940397,France,Geldmaat ATM,Geldmaat: 14999faf-f675-4bc8-97a6-a8dea100b91b,2024-06-01,27629.95,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 64302096-e31b-46b4-99d3-4b1d13b356f4,2024-06-01,30208.95,Retail worker,28
+J,JP77NISE3333940397,NL,AstraZeneca,Drug order payment,2024-06-01,30269.39,Retail worker,28
+J,JP77NISE3333940397,NL,Feline van Geffen,Reimbursement for groceries,2024-06-01,30281.01,Retail worker,28
+J,JP77NISE3333940397,NL,Duke Energy,Electricity payment,2024-06-01,30374.94,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 2141e510-3712-4ac0-a636-ed7e7b69f893,2024-06-01,32953.94,Retail worker,28
+J,JP77NISE3333940397,NL,BASF,Chemical supply order,2024-06-01,32962.3,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3b88d7b0-040a-4e85-9141-5962afb1fd62,2024-06-01,35541.3,Retail worker,28
+J,JP77NISE3333940397,NL,Olivia van der Brink-Willemsen,Birthday party expenses,2024-06-01,35563.75,Retail worker,28
+J,JP77NISE3333940397,NL,Chloë van Noordeloos,Debt settlement,2024-06-01,35572.85,Retail worker,28
+J,JP77NISE3333940397,Canada,Berkshire Hathaway,Conglomerate product order,2024-06-01,35582.4,Retail worker,28
+J,JP77NISE3333940397,NL,Dex Adriaansen,Housewarming gift,2024-06-01,35616.14,Retail worker,28
+J,JP77NISE3333940397,NL,Lisanne Phillipsen,Split vacation cost,2024-06-01,35637.51,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 05838909-21c7-4331-952a-7846c181d6e0,2024-06-01,38216.51,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 12f547ed-653f-470a-877b-3f3967b4bdad,2024-06-01,40795.51,Retail worker,28
+J,JP77NISE3333940397,Spain,AstraZeneca,Pharmacy bill,2024-06-01,41660.14,Retail worker,28
+J,JP77NISE3333940397,NL,Philip Chrodtrud-Roodesteijn,Reimbursement for travel,2024-06-01,41698.5,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: e757e951-4405-4d5b-bbfe-8b7a4c96ef9a,2024-06-01,44277.5,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 8136b3de-8d2a-4b98-9264-ae674ef5a020,2024-06-01,46856.5,Retail worker,28
+J,JP77NISE3333940397,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,46875.08,Retail worker,28
+J,JP77NISE3333940397,Hungary,Nick van Opper-Lotharingen,Birthday gift,2024-06-01,46961.29,Retail worker,28
+J,JP77NISE3333940397,France,Gilead Sciences,Clinical trial payment,2024-06-01,47032.07,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: d3bca9da-43ef-4a9b-a48e-cf0f94bc7329,2024-06-01,49611.07,Retail worker,28
+J,JP77NISE3333940397,NL,BASF,Laboratory reagents buy,2024-06-01,49611.71,Retail worker,28
+J,JP77NISE3333940397,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,49618.5,Retail worker,28
+J,JP77NISE3333940397,NL,LVMH,Designer goods order,2024-06-01,49619.35,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: ed43959f-0f9b-4860-9aa4-71486323768e,2024-06-01,52198.35,Retail worker,28
+J,JP77NISE3333940397,NL,Ford Motor,Car purchase,2024-06-01,52257.06,Retail worker,28
+J,JP77NISE3333940397,NL,Anne Kriens-Schotte,New baby gift,2024-06-01,52295.43,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c88e102b-e407-4638-b93e-978ee65e44fd,2024-06-01,54874.43,Retail worker,28
+J,JP77NISE3333940397,NL,Amazon,Subscription service,2024-06-01,54891.31,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7cdb3d3b-a2d6-48ff-b484-525d8ec638ca,2024-06-01,57470.31,Retail worker,28
+J,JP77NISE3333940397,NL,Mitsubishi,Business unit invoice,2024-06-01,57514.89,Retail worker,28
+J,JP77NISE3333940397,NL,Quinten Wildschut-Marchand,Loan repayment,2024-06-01,57590.05,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 1c90da78-442a-43c6-9b88-95ec5d2c295c,2024-06-01,60169.05,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 15121530-1cce-4670-a803-70cdc57bc895,2024-06-01,62748.05,Retail worker,28
+J,JP77NISE3333940397,Hungary,PepsiCo,Catering service fee,2024-06-01,62778.27,Retail worker,28
+J,JP77NISE3333940397,NL,Berkshire Hathaway,Conglomerate product order,2024-06-01,62811.28,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: d1366529-804a-4d35-aedb-e8d01b27b282,2024-06-01,65390.28,Retail worker,28
+J,JP77NISE3333940397,NL,Sami Die Bont,Reimbursement for shopping,2024-06-01,65400.15,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: d1ff5bac-1a4f-4497-a030-ae8b7fd09b90,2024-06-01,67979.15,Retail worker,28
+J,JP77NISE3333940397,NL,Faas de Bruijn,Gift,2024-06-01,68029.67,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: eb3d3049-24bf-4ef1-87ab-17630c3bcb64,2024-06-01,70608.67,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Phillips 66,Energy supply charge,2024-06-01,70622.29,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 77fab4bb-35cb-4646-8ab8-bd2a28515d76,2024-06-01,70648.58,Retail worker,28
+J,JP77NISE3333940397,NL,Olivier van Dijk-Middelkoop,Dinner reimbursement,2024-06-01,70658.2,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5c43922c-4919-49ff-ba23-b46bac208733,2024-06-01,73237.2,Retail worker,28
+J,JP77NISE3333940397,NL,Ruben Dekker,Shared subscription,2024-06-01,73272.48,Retail worker,28
+J,JP77NISE3333940397,Austria,Airbus,Aerospace parts purchase,2024-06-01,73298.39,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Volkswagen,Auto repair bill,2024-06-01,73305.62,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3e7c4b2d-5737-4e9c-a714-835edee6d503,2024-06-01,75884.62,Retail worker,28
+J,JP77NISE3333940397,United States,PepsiCo,Beverage order,2024-06-01,75935.32,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 2ec4bf1a-4cac-431b-8beb-792fa116dbef,2024-06-01,75997.02,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: b850f748-22b7-454c-b49d-bb5fa7621ff5,2024-06-01,78576.02,Retail worker,28
+J,JP77NISE3333940397,NL,ByteDance,Technology services invoice payment,2024-06-01,78608.02,Retail worker,28
+J,JP77NISE3333940397,Japan,Amazon,Subscription service,2024-06-01,78611.79,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 273aeba7-1c6c-44aa-a76e-d8893210b513,2024-06-01,81190.79,Retail worker,28
+J,JP77NISE3333940397,Spain,Cornelis Stamrood-Ooms,Reimbursement for shopping,2024-06-01,81195.13,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Zakaria Kwaadland-Leguit,Shared hotel room cost,2024-06-01,81203.78,Retail worker,28
+J,JP77NISE3333940397,United States,Johnson & Johnson,Medication purchase,2024-06-01,81269.57,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3199883c-fc7c-48ed-82d8-b9d10dc75c54,2024-06-01,83848.57,Retail worker,28
+J,JP77NISE3333940397,Belgium,Jesse van Munster-van Es,Shared hotel room cost,2024-07-01,83857.05,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c0557faf-d613-4ebf-be8c-7fd2c3c632d3,2024-07-01,86436.05,Retail worker,28
+J,JP77NISE3333940397,Hungary,Victor de Haas,Anniversary gift,2024-07-01,86464.93,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 36c174e0-9eb6-4aa3-85b3-55924b1d35c3,2024-07-01,89043.93,Retail worker,28
+J,JP77NISE3333940397,NL,Noëlle Heijman-Mulders,Family loan repayment,2024-07-01,89114.29,Retail worker,28
+J,JP77NISE3333940397,NL,Ecrin van Henegouwen,Friend loan repayment,2024-07-01,89181.12,Retail worker,28
+J,JP77NISE3333940397,NL,Mustafa Simonis,Birthday gift,2024-07-01,89193.01,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: b07c2151-42fa-4ed0-b368-7d39c011fbf0,2024-07-01,91772.01,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 818f50e4-71f1-4f46-a166-10376c21f935,2024-07-01,94351.01,Retail worker,28
+J,JP77NISE3333940397,NL,Dani Claesner,Medical bills,2024-07-01,94412.53,Retail worker,28
+J,JP77NISE3333940397,Canada,Roche,Healthcare prescription,2024-07-01,94421.09,Retail worker,28
+J,JP77NISE3333940397,NL,Oracle,Software license fee payment,2024-07-01,94435.91,Retail worker,28
+J,JP77NISE3333940397,NL,Dell Technologies,Technology services invoice payment,2024-07-01,94457.82,Retail worker,28
+J,JP77NISE3333940397,Belgium,Boeing,Aviation technology fee,2024-07-01,94458.41,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: ec9fc1bf-c4bb-4f54-9915-cd524cdca142,2024-07-01,97037.41,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 8c2f0066-5d7c-4e7e-a434-05693163af91,2024-07-01,99616.41,Retail worker,28
+J,JP77NISE3333940397,NL,SoftBank,Conglomerate product order,2024-07-01,99673.7,Retail worker,28
+J,JP77NISE3333940397,NL,Accenture,Expert consultation fee,2024-07-01,99684.58,Retail worker,28
+J,JP77NISE3333940397,NL,LVMH,Designer goods order,2024-07-01,99712.79,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 23907f79-167c-4f2a-9f39-e81c963ca5e1,2024-07-01,102291.79,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 9b1bfcf9-cc6e-4c49-8435-f5770fdd6251,2024-07-01,104870.79,Retail worker,28
+J,JP77NISE3333940397,NL,Amazon,Marketplace seller fee,2024-07-01,104937.54,Retail worker,28
+J,JP77NISE3333940397,United States,Meta Platforms,Software license fee payment,2024-07-01,104947.54,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: e1516214-6c87-45ad-beab-75bf80660e82,2024-07-01,107526.54,Retail worker,28
+J,JP77NISE3333940397,NL,Merck & Co.,Pharmacy bill,2024-07-01,107536.51,Retail worker,28
+J,JP77NISE3333940397,NL,Bristol-Myers Squibb,Medication purchase,2024-07-01,107540.77,Retail worker,28
+J,JP77NISE3333940397,NL,PepsiCo,Food delivery,2024-07-01,107544.66,Retail worker,28
+J,JP77NISE3333940397,Japan,Norah van Mook,Shared utilities,2024-07-01,107560.85,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Mehmet Hoekstra,Wedding gift,2024-07-01,107605.94,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 82a3e842-3ee4-4805-9f09-b4032ad2b28c,2024-07-01,110184.94,Retail worker,28
+J,JP77NISE3333940397,NL,Tata Consultancy Services,Technical service charge,2024-07-01,110194.48,Retail worker,28
+J,JP77NISE3333940397,NL,Tata Consultancy Services,Technical service charge,2024-07-01,110205.82,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Airbus,Aviation technology fee,2024-07-01,110214.26,Retail worker,28
+J,JP77NISE3333940397,Germany,Hidde Steenbakkers-Jacobs,Travel expenses,2024-07-01,110220.51,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 56a89cf1-fdae-4d6f-922d-6a4777eff1e4,2024-07-01,112799.51,Retail worker,28
+J,JP77NISE3333940397,NL,Luca Korsman,Housewarming gift,2024-07-01,112803.37,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7a44b617-2db8-40bb-8349-c8bde1116886,2024-07-01,115382.37,Retail worker,28
+J,JP77NISE3333940397,NL,Oracle,Technology services invoice payment,2024-07-01,115465.32,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 902e577f-9aed-42a0-bd2f-e76ae1e12514,2024-07-01,118044.32,Retail worker,28
+J,JP77NISE3333940397,NL,Airbus,Aerospace parts purchase,2024-07-01,118151.17,Retail worker,28
+J,JP77NISE3333940397,Belgium,Toyota,Auto repair bill,2024-07-01,118242.26,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: b5c6ee3c-368c-4d8a-86fd-faafc31a03b6,2024-07-01,120821.26,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 0522da26-e92f-4a0d-a1ff-374222658300,2024-07-01,123400.26,Retail worker,28
+J,JP77NISE3333940397,NL,Phillips 66,Renewable energy subscription,2024-07-01,123432.77,Retail worker,28
+J,JP77NISE3333940397,Italy,Merck & Co.,Drug order payment,2024-07-01,123474.32,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: d0f9b457-0c11-4180-88f3-938b55da2302,2024-07-01,126053.32,Retail worker,28
+J,JP77NISE3333940397,United States,Nadine Doesburg,Support money,2024-07-01,126132.79,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3f0ac4a6-0dc8-43ea-873f-89b5655331a7,2024-07-01,128711.79,Retail worker,28
+J,JP77NISE3333940397,NL,Dani Schipper-Hermans,Vacation expenses,2024-07-01,128724.19,Retail worker,28
+J,JP77NISE3333940397,NL,Fien Louws,Reimbursement for travel,2024-07-01,128748.83,Retail worker,28
+J,JP77NISE3333940397,Belgium,Unilever,Product purchase,2024-07-01,128784.31,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: bd252dd1-6bcc-493c-8e71-4a31b7631af2,2024-07-01,131363.31,Retail worker,28
+J,JP77NISE3333940397,NL,Mitsubishi,Diversified company fee,2024-07-01,131370.02,Retail worker,28
+J,JP77NISE3333940397,Canada,Novartis,Medication purchase,2024-07-01,131461.15,Retail worker,28
+J,JP77NISE3333940397,NL,Berkshire Hathaway,Corporate services payment,2024-07-01,131465.65,Retail worker,28
+J,JP77NISE3333940397,NL,Tijs Rubben,Support money,2024-07-01,131475.14,Retail worker,28
+J,JP77NISE3333940397,NL,Mitsubishi,Business unit invoice,2024-07-01,131481.21,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: b455bae1-000e-4090-a4f6-91df7998f841,2024-07-01,134060.21,Retail worker,28
+J,JP77NISE3333940397,Germany,Pfizer,Drug order payment,2024-07-01,134064.09,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: aebd115f-bfb2-4019-b7c0-806e618613c8,2024-07-01,136643.09,Retail worker,28
+J,JP77NISE3333940397,NL,Eva Schroeff-Vastenhouw,Loan to family,2024-07-01,136689.01,Retail worker,28
+J,JP77NISE3333940397,Japan,3M,Business unit invoice,2024-07-01,136696.15,Retail worker,28
+J,JP77NISE3333940397,Canada,Cisco Systems,Software license fee payment,2024-07-01,136713.94,Retail worker,28
+J,JP77NISE3333940397,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,136741.22,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 4a0e9895-c5cb-4dcc-8c49-74d9463dc3b5,2024-07-01,139320.22,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 6894fb69-eab9-4b19-a982-6d85a1772b9a,2024-07-01,141899.22,Retail worker,28
+J,JP77NISE3333940397,Hungary,Zeynep de Wit,Pet expenses,2024-07-01,141962.58,Retail worker,28
+J,JP77NISE3333940397,Canada,Allianz,Coverage update charge,2024-07-01,142009.22,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Dewi Alpaidis,Mortgage help,2024-07-01,142028.41,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: f0641c37-194c-41ba-94fd-4dd04dfb5793,2024-07-01,144607.41,Retail worker,28
+J,JP77NISE3333940397,Germany,AstraZeneca,Healthcare prescription,2024-07-01,144610.49,Retail worker,28
+J,JP77NISE3333940397,NL,BMW,Car purchase,2024-07-01,144631.65,Retail worker,28
+J,JP77NISE3333940397,Hungary,Kai Hexspoor,Rent assistance,2024-07-01,144642.73,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 96b2ae69-b15f-442c-bf8c-f773e60167db,2024-07-01,147221.73,Retail worker,28
+J,JP77NISE3333940397,Spain,Alibaba,Online shopping,2024-07-01,147224.48,Retail worker,28
+J,JP77NISE3333940397,NL,Nike,Sportswear buy,2024-07-01,147229.57,Retail worker,28
+J,JP77NISE3333940397,Italy,Novartis,Pharmacy bill,2024-07-01,147246.73,Retail worker,28
+J,JP77NISE3333940397,NL,Huawei,Web hosting fee,2024-07-01,147258.15,Retail worker,28
+J,JP77NISE3333940397,NL,AstraZeneca,Drug order payment,2024-07-01,147287.45,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 0d18de56-44c8-477f-81bb-4ba273df5451,2024-07-01,149866.45,Retail worker,28
+J,JP77NISE3333940397,NL,Berkshire Hathaway,Corporate services payment,2024-07-01,149922.23,Retail worker,28
+J,JP77NISE3333940397,NL,Helena Martel,Rent deposit,2024-07-01,149927.61,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 77ba9140-fc47-4bb9-a11c-d429ed06229c,2024-07-01,152506.61,Retail worker,28
+J,JP77NISE3333940397,NL,Sophia van der Heyden,Travel expenses,2024-07-01,152534.37,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 939a1f9b-6ad3-442d-86aa-bd88b5b4e36d,2024-07-01,155113.37,Retail worker,28
+J,JP77NISE3333940397,NL,Alibaba,E-commerce order,2024-07-01,155143.55,Retail worker,28
+J,JP77NISE3333940397,France,Verizon,Cable service subscription,2024-07-01,155191.49,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: aa6f2330-e6e0-43fb-90ea-7996eb4f1a26,2024-07-01,157770.49,Retail worker,28
+J,JP77NISE3333940397,Canada,Microsoft,Web hosting fee,2024-07-01,157822.99,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: f255d23f-591e-4e47-b3bf-6b3852fdd37b,2024-07-01,160401.99,Retail worker,28
+J,JP77NISE3333940397,NL,Alphabet Inc.,Software license fee payment,2024-07-01,160419.6,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5319eaee-a9ce-4cba-ae7d-d60b6e766376,2024-07-01,162998.6,Retail worker,28
+J,JP77NISE3333940397,NL,Mitsubishi,Diversified company fee,2024-07-01,162999.28,Retail worker,28
+J,JP77NISE3333940397,NL,Sanofi,Pharmacy bill,2024-07-01,163015.11,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Merck & Co.,Healthcare prescription,2024-07-01,163040.31,Retail worker,28
+J,JP77NISE3333940397,NL,Meta Platforms,Web hosting fee,2024-07-01,163079.84,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 390cdfba-9cf7-4035-9707-97c94be3a56e,2024-07-01,165658.84,Retail worker,28
+J,JP77NISE3333940397,NL,ByteDance,Software license fee payment,2024-08-01,165707.81,Retail worker,28
+J,JP77NISE3333940397,Great Britain,GlaxoSmithKline,Drug order payment,2024-08-01,165712.49,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3137bc08-0254-4261-b745-d73760c8c93b,2024-08-01,168291.49,Retail worker,28
+J,JP77NISE3333940397,NL,Gilead Sciences,Clinical trial payment,2024-08-01,168309.09,Retail worker,28
+J,JP77NISE3333940397,NL,Huawei,Cloud storage subscription,2024-08-01,168332.83,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: be2726a0-2bbd-4b1e-9a8e-888c71377997,2024-08-01,170911.83,Retail worker,28
+J,JP77NISE3333940397,NL,Ford Motor,Auto repair bill,2024-08-01,170918.14,Retail worker,28
+J,JP77NISE3333940397,Denmark,Nadia Schrant-van Dooren,Dinner reimbursement,2024-08-01,170956.0,Retail worker,28
+J,JP77NISE3333940397,NL,Amelia Merckx,Baby shower gift,2024-08-01,170963.69,Retail worker,28
+J,JP77NISE3333940397,NL,ByteDance,Software license fee payment,2024-08-01,170971.03,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: a7f68644-3827-4a91-905f-02ebeb3d91b1,2024-08-01,173550.03,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: df9fb8ce-b484-4308-a37f-365567663b03,2024-08-01,176129.03,Retail worker,28
+J,JP77NISE3333940397,NL,Facebook,Ad campaign funding,2024-08-01,176254.7,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: dc930e96-81ba-49eb-b2df-fa270a490522,2024-08-01,178833.7,Retail worker,28
+J,JP77NISE3333940397,NL,Bas de Vrome,Emergency funds,2024-08-01,178896.42,Retail worker,28
+J,JP77NISE3333940397,NL,Stef Kamper,Anniversary gift,2024-08-01,178946.58,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 2a1407a2-dfae-486b-8f46-0e18c3be63dc,2024-08-01,181525.58,Retail worker,28
+J,JP77NISE3333940397,NL,Microsoft,Technology services invoice payment,2024-08-01,181538.52,Retail worker,28
+J,JP77NISE3333940397,NL,Merck & Co.,Healthcare prescription,2024-08-01,181551.02,Retail worker,28
+J,JP77NISE3333940397,NL,ByteDance,Software license fee payment,2024-08-01,181561.3,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: f9af0c76-61e4-4647-97a7-fbc4ca55c6cc,2024-08-01,184140.3,Retail worker,28
+J,JP77NISE3333940397,NL,AT&T,Cable service subscription,2024-08-01,184142.24,Retail worker,28
+J,JP77NISE3333940397,Denmark,Vajèn Genefaas,Reimbursement for groceries,2024-08-01,184150.95,Retail worker,28
+J,JP77NISE3333940397,NL,Berend van den Bosch,Reimbursement for medical expenses,2024-08-01,184151.81,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 2c1ae913-ff24-467c-aa43-1a0b81a60278,2024-08-01,186730.81,Retail worker,28
+J,JP77NISE3333940397,United States,LVMH,Designer goods order,2024-08-01,186746.63,Retail worker,28
+J,JP77NISE3333940397,Germany,Pleun Arent,Wedding gift,2024-08-01,186756.6,Retail worker,28
+J,JP77NISE3333940397,Italy,General Electric,Corporate services payment,2024-08-01,186759.46,Retail worker,28
+J,JP77NISE3333940397,NL,Microsoft,Web hosting fee,2024-08-01,186765.34,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: e6832448-ed0e-4fe5-9b87-f31e389f9fa2,2024-08-01,189344.34,Retail worker,28
+J,JP77NISE3333940397,Great Britain,3M,Conglomerate product order,2024-08-01,189382.62,Retail worker,28
+J,JP77NISE3333940397,Spain,3M,Corporate services payment,2024-08-01,189388.83,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 4ea0f55e-821b-4713-8f24-a4bb119510ee,2024-08-01,191967.83,Retail worker,28
+J,JP77NISE3333940397,NL,Toyota,Car parts order,2024-08-01,192110.3,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: ba42641a-a2a8-40c6-a590-c6d72b5a208b,2024-08-01,194689.3,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Geldmaat ATM,Geldmaat: b31f460d-7d92-43bd-914a-ea705eb2e3db,2024-08-01,194831.14,Retail worker,28
+J,JP77NISE3333940397,NL,Renault,Car purchase,2024-08-01,194868.53,Retail worker,28
+J,JP77NISE3333940397,NL,Emma Dorsman,Reimbursement for bills,2024-08-01,194873.32,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 15e8022f-8207-4865-95f5-a3a100146810,2024-08-01,197452.32,Retail worker,28
+J,JP77NISE3333940397,NL,Simon Aalts,Shared utilities,2024-08-01,197485.57,Retail worker,28
+J,JP77NISE3333940397,NL,Amazon,Subscription service,2024-08-01,197489.72,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7d5f1057-9be4-4638-8b41-f0de88c04c83,2024-08-01,200068.72,Retail worker,28
+J,JP77NISE3333940397,France,Accenture,Advisory session charge,2024-08-01,200170.78,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 77a85712-2b84-4ede-a49e-03e5ac4e60da,2024-08-01,202749.78,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 34762632-7af8-4db0-934b-6c86b838655c,2024-08-01,205328.78,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Sep van Laon,Birthday party expenses,2024-08-01,205348.28,Retail worker,28
+J,JP77NISE3333940397,NL,Volkswagen,Auto repair bill,2024-08-01,205353.73,Retail worker,28
+J,JP77NISE3333940397,Hungary,Airbus,Space exploration fee,2024-08-01,205379.12,Retail worker,28
+J,JP77NISE3333940397,Italy,Hugo Duivenvoorden-van Gelder,Gas money,2024-08-01,205444.99,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7dfad49c-ce6e-4541-8638-839992838385,2024-08-01,208023.99,Retail worker,28
+J,JP77NISE3333940397,United States,Nike,Apparel shopping,2024-08-01,208077.89,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3fb34cbe-32aa-4ae2-b524-dc3381acc03d,2024-08-01,210656.89,Retail worker,28
+J,JP77NISE3333940397,France,Arie Moensendijk,Shared subscription,2024-08-01,210667.08,Retail worker,28
+J,JP77NISE3333940397,NL,Mitsubishi,Diversified company fee,2024-08-01,210673.63,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 0898a077-f6e6-4b0f-99f3-eb6c4b9b1e60,2024-08-01,213252.63,Retail worker,28
+J,JP77NISE3333940397,NL,Nike,Apparel shopping,2024-08-01,213314.7,Retail worker,28
+J,JP77NISE3333940397,NL,ByteDance,Software license fee payment,2024-08-01,213349.18,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Oracle,Technology services invoice payment,2024-08-01,213353.42,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 591e3197-5109-4e82-9513-3aea0acbf257,2024-08-01,215932.42,Retail worker,28
+J,JP77NISE3333940397,NL,Procter & Gamble,Subscription box service,2024-08-01,215985.98,Retail worker,28
+J,JP77NISE3333940397,NL,Ford Motor,Auto repair bill,2024-08-01,215998.22,Retail worker,28
+J,JP77NISE3333940397,NL,Unilever,Product purchase,2024-08-01,216027.37,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 6fb61edd-3e76-4acd-9000-bf324d6b1b7b,2024-08-01,218606.37,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5043fcc3-f96d-4fe9-b755-031b57e7b70e,2024-08-01,221185.37,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Verizon,Telecom invoice,2024-08-01,221217.09,Retail worker,28
+J,JP77NISE3333940397,NL,Nike,Clothing purchase,2024-08-01,221240.01,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 272261c5-0d37-4283-9178-33621684300f,2024-08-01,221309.82,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5767a1fc-5f5b-4bef-9c63-98b7e56cda90,2024-08-01,223888.82,Retail worker,28
+J,JP77NISE3333940397,United States,IBM,Web hosting fee,2024-08-01,223953.06,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: d73a09d2-f244-4041-91a6-768c7a117a45,2024-08-01,226532.06,Retail worker,28
+J,JP77NISE3333940397,NL,PepsiCo,Catering service fee,2024-08-01,226592.72,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 0180ccf0-2b82-4421-ad20-6f9ecd1aa4bf,2024-08-01,229171.72,Retail worker,28
+J,JP77NISE3333940397,NL,Berkshire Hathaway,Diversified company fee,2024-08-01,229188.2,Retail worker,28
+J,JP77NISE3333940397,NL,Alibaba,Subscription service,2024-08-01,229198.09,Retail worker,28
+J,JP77NISE3333940397,NL,Unilever,Retail goods payment,2024-08-01,229205.47,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: f4bc3f82-db12-4c61-883a-bce7d709d936,2024-08-01,231784.47,Retail worker,28
+J,JP77NISE3333940397,NL,Airbus,Aerospace parts purchase,2024-08-01,231792.04,Retail worker,28
+J,JP77NISE3333940397,United States,Daniel van de Water,Shared utilities,2024-08-01,231847.25,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 33c6b41b-6e52-408d-a320-8b9c5b6b6d3a,2024-08-01,234426.25,Retail worker,28
+J,JP77NISE3333940397,NL,Johnson & Johnson,Drug order payment,2024-08-01,234457.1,Retail worker,28
+J,JP77NISE3333940397,Canada,BASF,Chemical supply order,2024-08-01,234460.33,Retail worker,28
+J,JP77NISE3333940397,Canada,BMW,Vehicle service charge,2024-08-01,234481.66,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 1c99ee41-4342-49aa-85ef-6e5175e5d521,2024-08-01,237060.66,Retail worker,28
+J,JP77NISE3333940397,Germany,Jill de Haas-Hofman,Gift,2024-08-01,237079.44,Retail worker,28
+J,JP77NISE3333940397,NL,PepsiCo,Restaurant bill,2024-08-01,237093.87,Retail worker,28
+J,JP77NISE3333940397,Canada,ByteDance,Web hosting fee,2024-08-01,237099.7,Retail worker,28
+J,JP77NISE3333940397,NL,Wouter Kuilenburg,Reimbursement for bills,2024-08-01,237103.03,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 34394fc5-6ed7-47f9-a353-2317b379b960,2024-08-01,239682.03,Retail worker,28
+J,JP77NISE3333940397,United States,Airbus,Aircraft maintenance,2024-08-01,239697.2,Retail worker,28
+J,JP77NISE3333940397,NL,Mitsubishi,Diversified company fee,2024-08-01,239701.17,Retail worker,28
+J,JP77NISE3333940397,NL,Alphabet Inc.,Cloud storage subscription,2024-08-01,239702.72,Retail worker,28
+J,JP77NISE3333940397,NL,Verizon,Telecom invoice,2024-08-01,239711.28,Retail worker,28
+J,JP77NISE3333940397,Germany,Novartis,Medication purchase,2024-08-01,239715.75,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 1b92c594-dc67-40a6-b2d3-9a18817e6182,2024-08-01,242294.75,Retail worker,28
+J,JP77NISE3333940397,Canada,Sven Riem,Birthday gift,2024-08-01,242307.18,Retail worker,28
+J,JP77NISE3333940397,NL,Meta Platforms,Software license fee payment,2024-08-01,242312.25,Retail worker,28
+J,JP77NISE3333940397,NL,Duke Energy,Electricity payment,2024-08-01,242833.32,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: e712dd74-c06f-4722-aecc-876e6e08a6b6,2024-08-01,245412.32,Retail worker,28
+J,JP77NISE3333940397,NL,PepsiCo,Catering service fee,2024-08-01,245417.89,Retail worker,28
+J,JP77NISE3333940397,NL,SoftBank,Business unit invoice,2024-08-01,245424.0,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: dc0e6100-14ec-45dd-966a-469285e72f17,2024-08-01,248003.0,Retail worker,28
+J,JP77NISE3333940397,NL,Goldman Sachs,Investment fund entry,2024-08-01,248058.64,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 510f9fa0-60c1-45f6-8a50-52577bd057dd,2024-09-01,250637.64,Retail worker,28
+J,JP77NISE3333940397,NL,Morgan Stanley,Investment fund entry,2024-09-01,250660.83,Retail worker,28
+J,JP77NISE3333940397,NL,AT&T,Telecom invoice,2024-09-01,250706.44,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c5a81ecb-14ce-4c8e-8a31-efce10a4722e,2024-09-01,253285.44,Retail worker,28
+J,JP77NISE3333940397,NL,Pfizer,Pharmacy bill,2024-09-01,253307.87,Retail worker,28
+J,JP77NISE3333940397,Denmark,Ibrahim Doyle,Support for a friend,2024-09-01,253314.3,Retail worker,28
+J,JP77NISE3333940397,NL,Cisco Systems,Technology services invoice payment,2024-09-01,253322.39,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c20bb2e3-905a-470a-8363-67f9ff96bcac,2024-09-01,255901.39,Retail worker,28
+J,JP77NISE3333940397,Germany,AT&T,Cable service subscription,2024-09-01,255986.53,Retail worker,28
+J,JP77NISE3333940397,United States,Renault,Auto repair bill,2024-09-01,256047.39,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 549b333d-bb84-4b46-ac96-aef16dd274a6,2024-09-01,258626.39,Retail worker,28
+J,JP77NISE3333940397,Japan,Procter & Gamble,Order payment,2024-09-01,258636.84,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Sophia Rouwenhorst,Loan repayment,2024-09-01,258673.43,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 281f8632-3d64-4daf-bfb1-c28ae4113f43,2024-09-01,261252.43,Retail worker,28
+J,JP77NISE3333940397,NL,Alibaba,E-commerce order,2024-09-01,261255.88,Retail worker,28
+J,JP77NISE3333940397,NL,Sara Ooms,Graduation gift,2024-09-01,261261.08,Retail worker,28
+J,JP77NISE3333940397,NL,Johnson & Johnson,Medication purchase,2024-09-01,261282.98,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: a74ff6c9-c68a-4b29-ad57-987b99e975d7,2024-09-01,263861.98,Retail worker,28
+J,JP77NISE3333940397,Germany,Oracle,Web hosting fee,2024-09-01,263868.19,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Novartis,Pharmacy bill,2024-09-01,263877.43,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: b8b09fa8-ad01-4c2b-aced-6a42591eb7d6,2024-09-01,266456.43,Retail worker,28
+J,JP77NISE3333940397,NL,DuPont,Conglomerate product order,2024-09-01,266473.15,Retail worker,28
+J,JP77NISE3333940397,NL,Morgan Stanley,Brokerage fee,2024-09-01,266474.11,Retail worker,28
+J,JP77NISE3333940397,NL,Riley van der Pouw,Child support,2024-09-01,266522.36,Retail worker,28
+J,JP77NISE3333940397,Belgium,Alphabet Inc.,Web hosting fee,2024-09-01,266527.3,Retail worker,28
+J,JP77NISE3333940397,NL,Duke Energy,Utility bill,2024-09-01,266539.51,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 851fc81c-1333-477b-a7e7-5906d97abe39,2024-09-01,269118.51,Retail worker,28
+J,JP77NISE3333940397,NL,Microsoft,Cloud storage subscription,2024-09-01,269137.09,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Huawei,Cloud storage subscription,2024-09-01,269144.35,Retail worker,28
+J,JP77NISE3333940397,NL,Allianz,Insurance premium,2024-09-01,269152.89,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: a9c701d2-0296-4535-9dd6-5d6de1c8d736,2024-09-01,269167.62,Retail worker,28
+J,JP77NISE3333940397,Denmark,Goldman Sachs,Capital markets service,2024-09-01,269189.67,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c81a7c80-1fdd-447c-8880-65ee94f6ba60,2024-09-01,271768.67,Retail worker,28
+J,JP77NISE3333940397,NL,Honeywell,Business unit invoice,2024-09-01,271775.93,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 87ea0c61-1ee0-48c8-80ac-2c9b79e2fd98,2024-09-01,274354.93,Retail worker,28
+J,JP77NISE3333940397,NL,Duke Energy,Utility bill,2024-09-01,274358.86,Retail worker,28
+J,JP77NISE3333940397,NL,Sepp Verkade,Party contribution,2024-09-01,274398.16,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 6d49b5b1-e509-4019-9415-ebc9532c495f,2024-09-01,276977.16,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Bayer,Drug order payment,2024-09-01,277035.05,Retail worker,28
+J,JP77NISE3333940397,NL,Senn van Luinenburg-Postma,Debt settlement,2024-09-01,277060.77,Retail worker,28
+J,JP77NISE3333940397,NL,Unilever,Order payment,2024-09-01,277072.1,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: bdb31d01-32dc-4e9d-9172-3f7909d8e2a7,2024-09-01,279651.1,Retail worker,28
+J,JP77NISE3333940397,NL,Lara Teunissen-Heribert van Laon,Reimbursement for dinner,2024-09-01,279661.42,Retail worker,28
+J,JP77NISE3333940397,NL,DuPont,Conglomerate product order,2024-09-01,279677.73,Retail worker,28
+J,JP77NISE3333940397,Canada,Boeing,Aerospace parts purchase,2024-09-01,279738.07,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 02c248b9-c1c4-4eab-9084-34f722da1915,2024-09-01,282317.07,Retail worker,28
+J,JP77NISE3333940397,NL,Facebook,Social media service subscription,2024-09-01,282330.19,Retail worker,28
+J,JP77NISE3333940397,NL,Amira den Buytelaar,Loan to friend,2024-09-01,282344.43,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 60086619-45bb-4c42-afa1-2207ee631903,2024-09-01,284923.43,Retail worker,28
+J,JP77NISE3333940397,NL,IBM,Software license fee payment,2024-09-01,284932.53,Retail worker,28
+J,JP77NISE3333940397,Italy,Rens Wever-van der Smeede,Reimbursement for travel,2024-09-01,284937.79,Retail worker,28
+J,JP77NISE3333940397,Japan,Amazon,Subscription service,2024-09-01,284953.73,Retail worker,28
+J,JP77NISE3333940397,Germany,Alphabet Inc.,Technology services invoice payment,2024-09-01,285041.91,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 0f3eacda-c9e9-46fe-8504-f54785958c0e,2024-09-01,287620.91,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 4eba70ae-ef83-4a9c-a4bf-4eb1a719dac4,2024-09-01,290199.91,Retail worker,28
+J,JP77NISE3333940397,Canada,Geldmaat ATM,Geldmaat: 1e88615b-3bd2-4eb1-882f-ee94f50b0360,2024-09-01,290214.75,Retail worker,28
+J,JP77NISE3333940397,NL,Alibaba,Online shopping,2024-09-01,290252.23,Retail worker,28
+J,JP77NISE3333940397,NL,Microsoft,Software license fee payment,2024-09-01,290260.37,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: f43511e6-bbd4-4570-b816-18ae57febb76,2024-09-01,292839.37,Retail worker,28
+J,JP77NISE3333940397,Canada,Geldmaat ATM,Geldmaat: e3aaca62-4d9f-4e24-8296-c550fcecaf67,2024-09-01,292942.31,Retail worker,28
+J,JP77NISE3333940397,NL,Volkswagen,Vehicle service charge,2024-09-01,292944.81,Retail worker,28
+J,JP77NISE3333940397,NL,Roche,Healthcare prescription,2024-09-01,292947.42,Retail worker,28
+J,JP77NISE3333940397,United States,DuPont,Business unit invoice,2024-09-01,292964.13,Retail worker,28
+J,JP77NISE3333940397,NL,Romy Kramer,Shared meal cost,2024-09-01,293023.64,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 8f59d800-8b14-47f9-825c-fc89e10a388e,2024-09-01,295602.64,Retail worker,28
+J,JP77NISE3333940397,Germany,Morgan Stanley,Investment fund entry,2024-09-01,295607.61,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 8a7b6aa6-0474-4463-adce-057d017d8918,2024-09-01,298186.61,Retail worker,28
+J,JP77NISE3333940397,NL,Alphabet Inc.,Software license fee payment,2024-09-01,298199.19,Retail worker,28
+J,JP77NISE3333940397,Hungary,Mitsubishi,Business unit invoice,2024-09-01,298224.55,Retail worker,28
+J,JP77NISE3333940397,NL,Cisco Systems,Cloud storage subscription,2024-09-01,298231.41,Retail worker,28
+J,JP77NISE3333940397,France,Amazon,Subscription service,2024-09-01,298233.15,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5887141a-c109-4e2a-9153-d3687e50a42e,2024-09-01,300812.15,Retail worker,28
+J,JP77NISE3333940397,United States,Bristol-Myers Squibb,Pharmacy bill,2024-09-01,300891.29,Retail worker,28
+J,JP77NISE3333940397,NL,Berend Fiere-Verhagen,Medical bills,2024-09-01,300913.0,Retail worker,28
+J,JP77NISE3333940397,NL,Sanofi,Pharmacy bill,2024-09-01,300927.44,Retail worker,28
+J,JP77NISE3333940397,Denmark,AstraZeneca,Pharmacy bill,2024-09-01,300940.72,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 14ec7ea7-7eff-40a9-bfc3-44d0631e964f,2024-09-01,303519.72,Retail worker,28
+J,JP77NISE3333940397,NL,Sil Matthews,Housewarming gift,2024-09-01,303537.46,Retail worker,28
+J,JP77NISE3333940397,NL,Procter & Gamble,Subscription box service,2024-09-01,303548.15,Retail worker,28
+J,JP77NISE3333940397,NL,Honeywell,Corporate services payment,2024-09-01,303555.56,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 8744ed07-3521-4eed-a1aa-0315caf88569,2024-09-01,306134.56,Retail worker,28
+J,JP77NISE3333940397,NL,Oracle,Cloud storage subscription,2024-09-01,306139.64,Retail worker,28
+J,JP77NISE3333940397,NL,Amazon,E-commerce order,2024-09-01,306148.27,Retail worker,28
+J,JP77NISE3333940397,United States,Pfizer,Pharmacy bill,2024-09-01,306164.04,Retail worker,28
+J,JP77NISE3333940397,NL,Amazon,Subscription service,2024-09-01,306174.17,Retail worker,28
+J,JP77NISE3333940397,NL,GlaxoSmithKline,Medication purchase,2024-09-01,306180.61,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 0cf2f141-7411-4590-8413-5033ad778aab,2024-09-01,308759.61,Retail worker,28
+J,JP77NISE3333940397,NL,Huawei,Web hosting fee,2024-09-01,308764.08,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Mila van Gemert,Birthday gift,2024-09-01,308770.2,Retail worker,28
+J,JP77NISE3333940397,NL,PepsiCo,Catering service fee,2024-09-01,308809.63,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 5bb64953-12b4-4491-ac4b-dddda42a8089,2024-09-01,311388.63,Retail worker,28
+J,JP77NISE3333940397,NL,Roos Rippey,Shared utilities,2024-09-01,311419.11,Retail worker,28
+J,JP77NISE3333940397,Canada,Geldmaat ATM,Geldmaat: 70208617-0cda-4766-b11a-fbf664e51c3d,2024-09-01,311452.03,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: ec1759fd-6b69-402b-a0ca-f51ff3e1d7cd,2024-09-01,314031.03,Retail worker,28
+J,JP77NISE3333940397,NL,Catharina Kuilenburg,Shared ride expenses,2024-09-01,314082.45,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7fd18e3c-f3e3-422c-9f99-6c33c4aba1a8,2024-09-01,316661.45,Retail worker,28
+J,JP77NISE3333940397,NL,Alphabet Inc.,Technology services invoice payment,2024-09-01,316672.18,Retail worker,28
+J,JP77NISE3333940397,NL,Goldman Sachs,Brokerage fee,2024-09-01,316961.68,Retail worker,28
+J,JP77NISE3333940397,Canada,Alphabet Inc.,Web hosting fee,2024-09-01,316968.8,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c44eea42-0194-419e-8d43-ad0cd349acf1,2024-09-01,319547.8,Retail worker,28
+J,JP77NISE3333940397,NL,Mirthe Smeets-de Beer,Shared hotel room cost,2024-09-01,319592.61,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 70431820-e3a1-4fdb-984a-92238c6610ee,2024-09-01,322171.61,Retail worker,28
+J,JP77NISE3333940397,Great Britain,IBM,Web hosting fee,2024-09-01,322182.71,Retail worker,28
+J,JP77NISE3333940397,NL,Toyota,Car parts order,2024-09-01,322190.18,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: a42fd7a0-f4b4-4e42-a220-cec5d2c946ea,2024-09-01,324769.18,Retail worker,28
+J,JP77NISE3333940397,NL,AT&T,Telecom invoice,2024-09-01,324819.87,Retail worker,28
+J,JP77NISE3333940397,NL,GlaxoSmithKline,Healthcare prescription,2024-09-01,324858.7,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7dd212b2-a5c9-4af1-8703-cd6d2147f195,2024-09-01,327437.7,Retail worker,28
+J,JP77NISE3333940397,Germany,Meta Platforms,Technology services invoice payment,2024-09-01,327448.46,Retail worker,28
+J,JP77NISE3333940397,NL,Phillips 66,Energy supply charge,2024-10-01,327452.83,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c2095d1c-6d21-4810-92be-7d99a5264eae,2024-10-01,330031.83,Retail worker,28
+J,JP77NISE3333940397,NL,Roche,Healthcare prescription,2024-10-01,330067.67,Retail worker,28
+J,JP77NISE3333940397,NL,Alphabet Inc.,Web hosting fee,2024-10-01,330099.37,Retail worker,28
+J,JP77NISE3333940397,United States,Procter & Gamble,Subscription box service,2024-10-01,330166.75,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 235d3ae8-d1a7-42e4-9c9c-a910e625f537,2024-10-01,332745.75,Retail worker,28
+J,JP77NISE3333940397,NL,Morgan Stanley,Investment fund entry,2024-10-01,332768.46,Retail worker,28
+J,JP77NISE3333940397,NL,Rick Lansink,Party contribution,2024-10-01,332797.77,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: fc056365-6876-4215-b724-4c65d83402f5,2024-10-01,335376.77,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 1ba532d6-bf9b-4b82-8a09-3f0ec166e583,2024-10-01,337955.77,Retail worker,28
+J,JP77NISE3333940397,NL,IBM,Web hosting fee,2024-10-01,337993.9,Retail worker,28
+J,JP77NISE3333940397,NL,Morgan Stanley,Capital markets service,2024-10-01,337997.54,Retail worker,28
+J,JP77NISE3333940397,NL,Thomas van der Stael de Jonge,Housewarming gift,2024-10-01,338055.62,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 7bddeec3-7df7-4635-bf28-421798e7e4e2,2024-10-01,340634.62,Retail worker,28
+J,JP77NISE3333940397,Italy,Bryan Fechant,Mortgage help,2024-10-01,340636.92,Retail worker,28
+J,JP77NISE3333940397,NL,Boeing,Aviation technology fee,2024-10-01,340650.71,Retail worker,28
+J,JP77NISE3333940397,NL,Daimler,Auto repair bill,2024-10-01,340747.36,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 12482d30-9d6f-4c58-8cee-a81057ca8219,2024-10-01,343326.36,Retail worker,28
+J,JP77NISE3333940397,Spain,3M,Corporate services payment,2024-10-01,343367.18,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: a5ab8edb-abd1-4435-ace2-acd6d338f819,2024-10-01,345946.18,Retail worker,28
+J,JP77NISE3333940397,Canada,Morgan Stanley,Brokerage fee,2024-10-01,345960.43,Retail worker,28
+J,JP77NISE3333940397,NL,Alibaba,Online shopping,2024-10-01,346082.87,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 2e77f47a-317a-42fb-9efc-348073861bec,2024-10-01,348661.87,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: b16b5fd0-4f42-43ea-ae78-33b3c1757ebd,2024-10-01,351240.87,Retail worker,28
+J,JP77NISE3333940397,NL,Apple Inc.,Technology services invoice payment,2024-10-01,351300.06,Retail worker,28
+J,JP77NISE3333940397,NL,ByteDance,Software license fee payment,2024-10-01,351314.96,Retail worker,28
+J,JP77NISE3333940397,NL,Nike,Clothing purchase,2024-10-01,351322.07,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 3fda1f55-b6fa-4748-a373-21b48ff9afbd,2024-10-01,353901.07,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Geldmaat ATM,Geldmaat: 33a245d2-a6db-4c2d-b4d5-dbd498bb954e,2024-10-01,354019.82,Retail worker,28
+J,JP77NISE3333940397,United States,General Electric,Conglomerate product order,2024-10-01,354047.0,Retail worker,28
+J,JP77NISE3333940397,NL,Oracle,Web hosting fee,2024-10-01,354064.12,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: c65f6922-74a1-43da-acf3-02aa890292d5,2024-10-01,356643.12,Retail worker,28
+J,JP77NISE3333940397,Spain,Apple Inc.,Cloud storage subscription,2024-10-01,356647.9,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 6dc8d140-8d44-40ae-bdb3-a9150abdf700,2024-10-01,359226.9,Retail worker,28
+J,JP77NISE3333940397,NL,Oscar Brands,Split restaurant bill,2024-10-01,359235.41,Retail worker,28
+J,JP77NISE3333940397,NL,PepsiCo,Restaurant bill,2024-10-01,359249.63,Retail worker,28
+J,JP77NISE3333940397,NL,Marit Elsemulder,Reimbursement for shopping,2024-10-01,359254.39,Retail worker,28
+J,JP77NISE3333940397,NL,Airbus,Space exploration fee,2024-10-01,359260.35,Retail worker,28
+J,JP77NISE3333940397,Germany,Quinn Vrancken-Lathrope,School fees,2024-10-01,359281.92,Retail worker,28
+J,JP77NISE3333940397,Great Britain,Liv van Rooij,Support money,2024-10-01,359290.6,Retail worker,28
+J,JP77NISE3333940397,NL,Geldmaat ATM,Geldmaat: 43e485a1-a9ab-458c-bc44-e6a4c7a760b7,2024-10-01,361869.6,Retail worker,28

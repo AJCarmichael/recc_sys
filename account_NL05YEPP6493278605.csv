@@ -1,0 +1,477 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL05YEPP6493278605,Great Britain,IBM,Web hosting fee,2024-06-01,8859.53,Retail worker,28
+EUR,NL05YEPP6493278605,NL,3M,Diversified company fee,2024-06-01,8878.48,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Sanofi,Medication purchase,2024-06-01,8910.01,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 3b3f1897-622d-411f-8323-6946d4ee138d,2024-06-01,11495.01,Retail worker,28
+EUR,NL05YEPP6493278605,France,Novartis,Pharmacy bill,2024-06-01,11503.72,Retail worker,28
+EUR,NL05YEPP6493278605,NL,SoftBank,Business unit invoice,2024-06-01,11513.01,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Bayer,Pharmacy bill,2024-06-01,11536.57,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Dell Technologies,Cloud storage subscription,2024-06-01,11547.02,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BASF,Industrial chemicals purchase,2024-06-01,11556.83,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 27ac7fea-fcdb-4438-8134-c47ed768fde2,2024-06-01,14141.83,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: cad4fff6-099d-43c3-951d-1d77d8634c1c,2024-06-01,16726.83,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ivan Heyne,Shared meal cost,2024-06-01,16743.81,Retail worker,28
+EUR,NL05YEPP6493278605,NL,LVMH,Luxury item purchase,2024-06-01,16759.94,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Boeing,Aerospace parts purchase,2024-06-01,16771.32,Retail worker,28
+EUR,NL05YEPP6493278605,France,Lotte Coreth von und zu Coredo und Starkenberg,Vacation expenses,2024-06-01,16777.02,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,LVMH,Exclusive brand fee,2024-06-01,16783.2,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Sterre Nollee,Household expenses,2024-06-01,16794.45,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 362d8a28-04f0-4b53-af5b-82285bb1b563,2024-06-01,19379.45,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alyssa Konings,Graduation gift,2024-06-01,19391.11,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Olivier Geerts-Stamrood,Shared subscription,2024-06-01,19401.85,Retail worker,28
+EUR,NL05YEPP6493278605,Japan,DuPont,Diversified company fee,2024-06-01,19420.03,Retail worker,28
+EUR,NL05YEPP6493278605,Belgium,Nike,Clothing purchase,2024-06-01,19433.95,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Toyota,Vehicle service charge,2024-06-01,19441.46,Retail worker,28
+EUR,NL05YEPP6493278605,Japan,Alibaba,Subscription service,2024-06-01,19470.96,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 3f74d59a-cb29-4743-87d9-b2103b8a65b2,2024-06-01,22055.96,Retail worker,28
+EUR,NL05YEPP6493278605,Hungary,Meta Platforms,Cloud storage subscription,2024-06-01,22096.37,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AT&T,Telecom invoice,2024-06-01,22104.04,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Gilead Sciences,Biotech research fee,2024-06-01,22155.92,Retail worker,28
+EUR,NL05YEPP6493278605,Spain,Gilead Sciences,Biotech research fee,2024-06-01,22157.06,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: fe8a4e80-ee4d-44a9-b48e-af0ed2fca955,2024-06-01,24742.06,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Elizabeth Weerdenburg,Support for a friend,2024-06-01,24807.86,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 45bca416-46e8-4fba-af79-643fc7bd733e,2024-06-01,27392.86,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Thom Overeem,Mortgage help,2024-06-01,27406.47,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 90deac5b-4ee7-4edd-89b5-524255aaacf3,2024-06-01,29991.47,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BASF,Industrial chemicals purchase,2024-06-01,30099.24,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Amazon,Online shopping,2024-06-01,30145.47,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 27f42732-6f1a-4486-a1f3-d152cc657827,2024-06-01,32730.47,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,GlaxoSmithKline,Medication purchase,2024-06-01,32737.89,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Merck & Co.,Healthcare prescription,2024-06-01,32791.51,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 163789e4-c305-498b-ae3e-e6977680d4ab,2024-06-01,35376.51,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 4bbead83-a602-4c68-91a3-6d620ece6ff3,2024-06-01,37961.51,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Daimler,Auto repair bill,2024-06-01,38013.8,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Cisco Systems,Web hosting fee,2024-06-01,38083.05,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Procter & Gamble,Subscription box service,2024-06-01,38095.83,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 0ee9cd7c-e638-433f-bbb7-671ff4dbf0a7,2024-06-01,40680.83,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d6335cef-10b3-4e33-88a2-1de91436caef,2024-06-01,43265.83,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ford Motor,Auto repair bill,2024-06-01,43351.3,Retail worker,28
+EUR,NL05YEPP6493278605,France,Dell Technologies,Cloud storage subscription,2024-06-01,43500.07,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 4fc2a791-f839-426d-a24c-915277855314,2024-06-01,46085.07,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Toyota,Vehicle service charge,2024-06-01,46129.4,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Verizon,Telecom invoice,2024-06-01,46143.87,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 02bc8e9f-31d2-4c57-ae15-ae45a4e85c7a,2024-06-01,48728.87,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Giel Wouters van Eijndhoven,Split vacation cost,2024-06-01,48742.39,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Airbus,Aviation technology fee,2024-06-01,48750.62,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Johnson & Johnson,Medication purchase,2024-06-01,48904.03,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d8040cf9-3bfe-4e20-886e-2e15c9da1eac,2024-06-01,51489.03,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Nike,Apparel shopping,2024-06-01,51501.56,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Alibaba,Marketplace seller fee,2024-06-01,51545.92,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 47069527-9530-4fe7-a50f-63a52120762c,2024-06-01,54130.92,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Goldman Sachs,Stock purchase,2024-06-01,54140.86,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Roche,Medication purchase,2024-06-01,54146.51,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Geldmaat ATM,Geldmaat: 32ac2356-684d-42c8-be8a-518486b2dc87,2024-06-01,54156.73,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: cef8a68f-c933-4b32-b0c8-a81ae4b05aa6,2024-06-01,56741.73,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Goldman Sachs,Brokerage fee,2024-06-01,56768.66,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Livia Loep-Janssen,Vacation expenses,2024-06-01,56778.14,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Casper Doyle-van Gorp,Shared subscription,2024-06-01,56832.47,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Evie Terry,School fees,2024-06-01,56854.6,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AT&T,Phone bill,2024-06-01,56867.91,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Hailey de Vos,Anniversary gift,2024-06-01,56904.73,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 85cc3600-04a2-4d0d-9ef7-d18fc664b7da,2024-06-01,59489.73,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Volkswagen,Vehicle service charge,2024-06-01,59496.51,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Berkshire Hathaway,Corporate services payment,2024-06-01,59539.99,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Cisco Systems,Web hosting fee,2024-06-01,59569.05,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 7ce58268-96b4-4e6e-bce9-fd0904825d2e,2024-06-01,62154.05,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Verizon,Data plan payment,2024-06-01,62189.36,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 167ce519-d3ad-4be6-9a91-b184296ac845,2024-06-01,64774.36,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Kiki Boeser,Friend loan repayment,2024-06-01,64781.69,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Boeing,Aerospace parts purchase,2024-06-01,64801.18,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Renault,Auto repair bill,2024-06-01,64841.0,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Jasmijn Claesner,Family loan repayment,2024-06-01,64849.79,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Pfizer,Healthcare prescription,2024-06-01,64852.72,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 5b5cb51b-d964-4e23-93fc-9d143577b66d,2024-06-01,67437.72,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Volkswagen,Car purchase,2024-06-01,67441.16,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Huawei,Web hosting fee,2024-06-01,67453.56,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 6ad411cd-9954-4a96-9499-716d0ae59774,2024-06-01,70038.56,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Amazon,Online shopping,2024-06-01,70044.56,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Apple Inc.,Technology services invoice payment,2024-06-01,70057.81,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Honeywell,Conglomerate product order,2024-06-01,70066.07,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AT&T,Phone bill,2024-06-01,70073.2,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 3062c749-a138-4e21-9bc2-0196d5b0a266,2024-06-01,72658.2,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Merck & Co.,Medication purchase,2024-06-01,72714.55,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Facebook,Premium account upgrade,2024-06-01,72730.42,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 21402659-9249-4636-b33e-3d39554f9dda,2024-06-01,75315.42,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,75351.74,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Microsoft,Technology services invoice payment,2024-06-01,75357.89,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,GlaxoSmithKline,Healthcare prescription,2024-06-01,75393.87,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Apple Inc.,Technology services invoice payment,2024-06-01,75417.15,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Mitsubishi,Corporate services payment,2024-06-01,75440.46,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 3292ace4-e847-4ff2-a95b-e22cf1f11cc8,2024-06-01,78025.46,Retail worker,28
+EUR,NL05YEPP6493278605,NL,PepsiCo,Food delivery,2024-06-01,78065.22,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Rik van Northeim,Loan repayment,2024-06-01,78071.09,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Accenture,Consulting fee,2024-06-01,78085.06,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 1436b5b5-322f-4ab5-be98-898a982d2db9,2024-06-01,80670.06,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Airbus,Aviation technology fee,2024-06-01,80679.16,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 8fd1fef0-e15b-4b58-a5c6-d1510cafca6b,2024-06-01,83264.16,Retail worker,28
+EUR,NL05YEPP6493278605,NL,General Electric,Conglomerate product order,2024-06-01,83315.09,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ford Motor,Car purchase,2024-06-01,83333.22,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Brent van Gemert,Shared meal cost,2024-06-01,83338.3,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Airbus,Space exploration fee,2024-06-01,83388.96,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Novartis,Drug order payment,2024-06-01,83409.24,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: e8e6e394-81a0-443e-9291-63fdd2774f43,2024-06-01,85994.24,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 1b076052-84d6-436e-835b-8e59675dfd52,2024-06-01,88579.24,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BMW,Vehicle service charge,2024-06-01,88591.3,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Honeywell,Corporate services payment,2024-06-01,88654.7,Retail worker,28
+EUR,NL05YEPP6493278605,NL,"Milo West-Francië, van-van Dijk",Shared utilities,2024-07-01,88687.81,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Verizon,Telecom invoice,2024-07-01,88737.08,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 822c4257-1e3d-4562-acb4-8ab3ba034574,2024-07-01,91322.08,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BMW,Car purchase,2024-07-01,91327.55,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Angelina Leene,Reimbursement for shopping,2024-07-01,91339.72,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BMW,Auto repair bill,2024-07-01,91347.06,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Lola Peronne,Gift,2024-07-01,91350.93,Retail worker,28
+EUR,NL05YEPP6493278605,NL,General Electric,Diversified company fee,2024-07-01,91361.66,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: da3cb1d0-b0de-4402-82f2-c1d7526ca070,2024-07-01,93946.66,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Louise Labado,Graduation gift,2024-07-01,93957.85,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alphabet Inc.,Cloud storage subscription,2024-07-01,93964.55,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Honeywell,Corporate services payment,2024-07-01,93974.46,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Duke Energy,Electricity payment,2024-07-01,94077.85,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ea0fd14a-be6e-43e3-a124-391672d1c7bc,2024-07-01,96662.85,Retail worker,28
+EUR,NL05YEPP6493278605,NL,SoftBank,Corporate services payment,2024-07-01,96724.04,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: e733a9f0-4f54-4a62-b3c1-49eae7a62db9,2024-07-01,99309.04,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Berkshire Hathaway,Diversified company fee,2024-07-01,99343.39,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 5747c56d-795d-46af-bd89-1b6a44a88467,2024-07-01,101928.39,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AstraZeneca,Drug order payment,2024-07-01,101959.16,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Bayer,Healthcare prescription,2024-07-01,102073.34,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 1230a336-09cc-40c2-b1db-867debd72238,2024-07-01,104658.34,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Meta Platforms,Software license fee payment,2024-07-01,104687.32,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Oracle,Technology services invoice payment,2024-07-01,104730.3,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 210b0b50-4cd4-4932-b7c0-5cc0caeff2c7,2024-07-01,107315.3,Retail worker,28
+EUR,NL05YEPP6493278605,NL,General Electric,Conglomerate product order,2024-07-01,107351.68,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: c25a3d90-efc6-439b-9271-c8693cefacc6,2024-07-01,109936.68,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,109948.16,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Microsoft,Cloud storage subscription,2024-07-01,109960.26,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Procter & Gamble,Subscription box service,2024-07-01,109996.4,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 1d099cc1-fb17-454e-ba81-236630ddc3a8,2024-07-01,112581.4,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,Morgan Stanley,Stock purchase,2024-07-01,112621.51,Retail worker,28
+EUR,NL05YEPP6493278605,Belgium,Fay Jacobs-van de Pol,Mortgage help,2024-07-01,112626.77,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Hamza Vergeer,Reimbursement for groceries,2024-07-01,112696.45,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 975b0b53-25ab-4df6-ab58-430db312ac44,2024-07-01,115281.45,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Bradley van Mil,Party contribution,2024-07-01,115331.68,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: f501c5ed-ebd6-491e-a09d-b5b9df47b12a,2024-07-01,117916.68,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d2ef9603-ab57-41fc-b6c8-6e11365e3989,2024-07-01,120501.68,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BMW,Auto repair bill,2024-07-01,120594.11,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Airbus,Aircraft maintenance,2024-07-01,120602.03,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Allianz,Policy renewal fee,2024-07-01,120614.21,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Nora Peters,Loan repayment,2024-07-01,120617.61,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 3095fbe2-dd13-4a7c-88bb-e2ab551ddc52,2024-07-01,123202.61,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Jonathan Steenbeek,Reimbursement for shopping,2024-07-01,123211.3,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Maarten Krabbe-van Poppel,Shared ride expenses,2024-07-01,123224.06,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Verizon,Data plan payment,2024-07-01,123236.86,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Hendrik van de Kooij-de Gruijl,Reimbursement for bills,2024-07-01,123247.65,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Airbus,Aerospace parts purchase,2024-07-01,123264.71,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Johnson & Johnson,Drug order payment,2024-07-01,123272.69,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Amazon,Subscription service,2024-07-01,123284.25,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Jordy Rubben,Loan to friend,2024-07-01,123296.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 71b45237-2dfd-4a59-9e7a-170a78db8b16,2024-07-01,125881.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 370f653d-fabf-41bc-80b3-5590fc179c57,2024-07-01,128466.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Novartis,Medication purchase,2024-07-01,128479.96,Retail worker,28
+EUR,NL05YEPP6493278605,NL,IBM,Web hosting fee,2024-07-01,128523.35,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Unilever,Order payment,2024-07-01,128537.24,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Pieter Diesbergen,Gift,2024-07-01,128540.85,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Novartis,Healthcare prescription,2024-07-01,128644.45,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 52e82538-cd7f-46d2-9a9e-71d60bec285c,2024-07-01,131229.45,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Mitsubishi,Corporate services payment,2024-07-01,131275.52,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 2092e0f9-604d-4737-9f2a-0b8099238638,2024-07-01,133860.52,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Annemijn Heere,Personal loan,2024-07-01,133910.65,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 8d324129-34b9-4f6c-a9e8-ffa993670da2,2024-07-01,136495.65,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alphabet Inc.,Web hosting fee,2024-07-01,136542.46,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Muhammed Bolkesteijn,Birthday party expenses,2024-07-01,136573.36,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,DuPont,Corporate services payment,2024-07-01,136586.33,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Novartis,Healthcare prescription,2024-07-01,136599.78,Retail worker,28
+EUR,NL05YEPP6493278605,France,Dylan van Landen,Reimbursement for groceries,2024-07-01,136613.67,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 803ea557-19eb-4131-81a1-3893d9cd4afc,2024-07-01,139198.67,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Sjoerd van Noordeloos,Vacation expenses,2024-07-01,139216.94,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 8b12871c-11c0-419b-927c-d91223d8520d,2024-07-01,141801.94,Retail worker,28
+EUR,NL05YEPP6493278605,Hungary,Geldmaat ATM,Geldmaat: 80b6a869-3d6f-4d29-bc67-df604d8ca250,2024-07-01,141859.78,Retail worker,28
+EUR,NL05YEPP6493278605,NL,"Lucy Bourgondië, van",Reimbursement for shopping,2024-07-01,141885.24,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 6c57a0d0-6b80-40aa-9bfb-b5f5bb2767e2,2024-07-01,144470.24,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Renault,Car purchase,2024-07-01,144501.56,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Merck & Co.,Healthcare prescription,2024-07-01,144513.46,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,Unilever,Order payment,2024-07-01,144523.02,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: a3d6d779-832b-461a-aea6-3b14ea4177fb,2024-07-01,147108.02,Retail worker,28
+EUR,NL05YEPP6493278605,NL,ByteDance,Software license fee payment,2024-07-01,147135.98,Retail worker,28
+EUR,NL05YEPP6493278605,Belgium,Maurits van Holland,Family loan repayment,2024-07-01,147142.01,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Jacob Courtier,Shared ride expenses,2024-07-01,147155.13,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 27de12d1-c890-43a0-9ec4-d7d60859078f,2024-07-01,149740.13,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Yasmine Schiffer,Funeral expenses,2024-07-01,149828.14,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BASF,Industrial chemicals purchase,2024-07-01,149837.23,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d4bbf50d-4873-41f1-84d6-539eeb2dc01e,2024-07-01,152422.23,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AstraZeneca,Healthcare prescription,2024-07-01,152433.08,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BASF,Cleaning products order,2024-07-01,152463.82,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AstraZeneca,Drug order payment,2024-07-01,152470.54,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Meta Platforms,Software license fee payment,2024-07-01,152510.76,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Pfizer,Pharmacy bill,2024-07-01,152520.26,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Unilever,Product purchase,2024-07-01,152531.5,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Huawei,Technology services invoice payment,2024-07-01,152541.02,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d6b41cba-225f-455b-b2fb-26b2c147f9ff,2024-07-01,155126.02,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Pfizer,Healthcare prescription,2024-07-01,155142.64,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Esther van den Brink,Baby shower gift,2024-07-01,155154.78,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Boeing,Aerospace parts purchase,2024-07-01,155162.46,Retail worker,28
+EUR,NL05YEPP6493278605,Belgium,Ford Motor,Car purchase,2024-07-01,155169.18,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Honeywell,Diversified company fee,2024-07-01,155174.54,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 22cee5dc-7562-4359-bbf8-67633e674537,2024-07-01,157759.54,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 1f9d24dc-7186-492d-8dc9-a3a8fea27371,2024-07-01,160344.54,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Mirte van der Meer,Birthday party expenses,2024-07-01,160386.93,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Roche,Drug order payment,2024-07-01,160459.72,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Sofia Courtier,Grocery money,2024-07-01,160469.85,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 001f6013-b246-4e78-8fa2-9f9ab47c5a54,2024-07-01,163054.85,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Gilead Sciences,Biotech research fee,2024-07-01,163070.49,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alibaba,E-commerce order,2024-07-01,163079.61,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Allianz,Insurance premium,2024-07-01,163097.23,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Mila Bruggeman-van der Flaas,Pet expenses,2024-07-01,163123.95,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 38f3a8c0-126e-41d0-948e-7c983fed90b0,2024-07-01,165708.95,Retail worker,28
+EUR,NL05YEPP6493278605,Belgium,Chloë Knoers,Family loan repayment,2024-07-01,165751.82,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: fb121a08-5072-405b-ad48-d442e9b7d777,2024-07-01,168336.82,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Cisco Systems,Software license fee payment,2024-07-01,168354.98,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Volkswagen,Auto repair bill,2024-07-01,168360.02,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BMW,Auto repair bill,2024-07-01,168412.88,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Berkshire Hathaway,Corporate services payment,2024-07-01,168415.96,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d616db76-9adf-4252-8990-ae9f91e5a85e,2024-07-01,171000.96,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Meta Platforms,Cloud storage subscription,2024-07-01,171006.53,Retail worker,28
+EUR,NL05YEPP6493278605,Japan,AT&T,Cable service subscription,2024-08-01,171026.8,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Phillips 66,Energy supply charge,2024-08-01,171065.57,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 181a8b43-6e35-409a-a46a-0ce81e686d56,2024-08-01,173650.57,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Esther Steenbakkers-van Northeim,New baby gift,2024-08-01,173675.89,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Oracle,Technology services invoice payment,2024-08-01,173706.29,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 9f1d1e36-9d0d-4bc8-b387-de7d0748f998,2024-08-01,176291.29,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Duke Energy,Utility bill,2024-08-01,176314.59,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Gilead Sciences,Clinical trial payment,2024-08-01,176392.61,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: de080321-f394-4432-9984-1739ad3c0ea9,2024-08-01,178977.61,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Tata Consultancy Services,System upgrade fee,2024-08-01,179019.87,Retail worker,28
+EUR,NL05YEPP6493278605,Belgium,Dean Thatcher,Medical bills,2024-08-01,179064.23,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 54c8b75b-65fb-4aa4-baba-266a144b52f5,2024-08-01,181649.23,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ab812638-2190-4cb7-8d2b-b6ba5e0c9578,2024-08-01,184234.23,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Lenn Bruggeman,Support for a family member,2024-08-01,184249.94,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alphabet Inc.,Cloud storage subscription,2024-08-01,184287.1,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Bristol-Myers Squibb,Drug order payment,2024-08-01,184354.33,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Elias de Reede,Reimbursement for bills,2024-08-01,184364.11,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Novartis,Medication purchase,2024-08-01,184379.78,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 7f828b08-5b74-4ce5-a8ff-2f063ddc2d93,2024-08-01,186964.78,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Jolijn Hendriks,Pet expenses,2024-08-01,186992.78,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 462293bf-0095-4927-a5f1-3d13667ef0c6,2024-08-01,189577.78,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Honeywell,Diversified company fee,2024-08-01,189594.26,Retail worker,28
+EUR,NL05YEPP6493278605,NL,BASF,Chemical supply order,2024-08-01,189606.03,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Dani van Enschot,Rent deposit,2024-08-01,189616.29,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,BASF,Industrial chemicals purchase,2024-08-01,189633.0,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ford Motor,Vehicle service charge,2024-08-01,189649.25,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,General Electric,Business unit invoice,2024-08-01,189691.56,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 501fc9a5-e3f0-4406-b432-4ac7ea9e1db6,2024-08-01,192276.56,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Koen Rijcken,Personal loan,2024-08-01,192320.34,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 42434877-b844-4f8d-bfa8-a64072477d07,2024-08-01,194905.34,Retail worker,28
+EUR,NL05YEPP6493278605,NL,General Electric,Conglomerate product order,2024-08-01,194924.76,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Honeywell,Corporate services payment,2024-08-01,194928.21,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Julius van de Veen,Gas money,2024-08-01,194948.94,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Renault,Vehicle service charge,2024-08-01,194959.86,Retail worker,28
+EUR,NL05YEPP6493278605,Japan,Apple Inc.,Software license fee payment,2024-08-01,194975.5,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: f2f800f0-2566-4c25-a44c-684c73a22beb,2024-08-01,197560.5,Retail worker,28
+EUR,NL05YEPP6493278605,France,Geldmaat ATM,Geldmaat: 527d87fa-a3fa-415c-b94a-bd044c607941,2024-08-01,197569.34,Retail worker,28
+EUR,NL05YEPP6493278605,NL,3M,Corporate services payment,2024-08-01,197608.08,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 1c8e93f5-b3da-45bd-8289-ccec7254fc9b,2024-08-01,200193.08,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Airbus,Aerospace parts purchase,2024-08-01,200215.32,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Tessa Winnrich-de Hoogh,Funeral expenses,2024-08-01,200287.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 9e44517d-74b3-4a43-8205-4a5315f1f56d,2024-08-01,202872.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ab2f460c-1715-4122-b151-57fd0154920d,2024-08-01,205457.79,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Morgan Stanley,Brokerage fee,2024-08-01,205483.46,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Senna van Laar,Gas money,2024-08-01,205530.42,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Morgan Stanley,Capital markets service,2024-08-01,205546.36,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Nike,Fashion brand order,2024-08-01,205555.53,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Meta Platforms,Software license fee payment,2024-08-01,205667.68,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: b9076aef-86df-4995-b179-c76969cf6a2a,2024-08-01,208252.68,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Duuk Höning,Support money,2024-08-01,208264.73,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 0b37693d-be3b-4fdf-9360-e7fa04577af0,2024-08-01,210849.73,Retail worker,28
+EUR,NL05YEPP6493278605,NL,3M,Corporate services payment,2024-08-01,210893.89,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Volkswagen,Car purchase,2024-08-01,210913.21,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 783803bd-f8ea-4277-8fe4-811456a106c4,2024-08-01,213498.21,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Nike,Sportswear buy,2024-08-01,213572.68,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Sanofi,Medication purchase,2024-08-01,213645.87,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 16252e7f-0f04-40af-98e6-b2bc797766e1,2024-08-01,216230.87,Retail worker,28
+EUR,NL05YEPP6493278605,NL,LVMH,Luxury item purchase,2024-08-01,216304.8,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 204e0ac2-c129-45e6-af06-cddfcb8a76e6,2024-08-01,218889.8,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Morgan Stanley,Capital markets service,2024-08-01,218901.26,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Goldman Sachs,Investment fund entry,2024-08-01,218925.05,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Elin Jerusalem,Loan repayment,2024-08-01,218936.35,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Leon Hendrikse,School fees,2024-08-01,218956.55,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 33d7c6df-abf9-456f-86aa-de3379159686,2024-08-01,221541.55,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Verizon,Cable service subscription,2024-08-01,221583.91,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 7d276d52-fac8-4621-8b27-0ee844db3a49,2024-08-01,224168.91,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Meta Platforms,Cloud storage subscription,2024-08-01,224177.45,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Daan Kalman,Dinner reimbursement,2024-08-01,224190.89,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Gilead Sciences,Laboratory service charge,2024-08-01,224232.27,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 0a42ac71-3792-4e8e-a207-62204cad8c82,2024-08-01,226817.27,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Roche,Healthcare prescription,2024-08-01,226925.87,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: bede1b3a-16fa-4aa6-9c77-f529068d2150,2024-08-01,229510.87,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,Verizon,Data plan payment,2024-08-01,229520.79,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Alphabet Inc.,Software license fee payment,2024-08-01,229562.95,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ae38349b-274c-4602-8a3e-22683b1aa99e,2024-08-01,232147.95,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Aiden Molen,Friend loan repayment,2024-08-01,232155.39,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Pfizer,Medication purchase,2024-08-01,232160.25,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 7b9da64b-7b7e-4107-8abf-19f1c43fcfd5,2024-08-01,234745.25,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Mitsubishi,Business unit invoice,2024-08-01,234807.49,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Daimler,Vehicle service charge,2024-08-01,234824.28,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ee14760d-ee09-49e0-a5f9-d64e5b665bab,2024-08-01,237409.28,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AstraZeneca,Healthcare prescription,2024-08-01,237502.9,Retail worker,28
+EUR,NL05YEPP6493278605,Spain,LVMH,Designer goods order,2024-08-01,237517.53,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Apple Inc.,Technology services invoice payment,2024-08-01,237535.45,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Stella van Drenthe,Christmas gift,2024-08-01,237539.7,Retail worker,28
+EUR,NL05YEPP6493278605,France,Phillips 66,Electricity payment,2024-08-01,237548.95,Retail worker,28
+EUR,NL05YEPP6493278605,NL,AT&T,Telecom invoice,2024-08-01,237578.71,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 7efd6769-76e0-430c-97be-6445d4321bbf,2024-08-01,240163.71,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Sanofi,Medication purchase,2024-08-01,240211.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: df1ea76b-306b-45c4-a6eb-5bea1d29d340,2024-08-01,242796.79,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Alphabet Inc.,Software license fee payment,2024-08-01,242840.43,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Renault,Car purchase,2024-08-01,242870.18,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Novartis,Pharmacy bill,2024-08-01,242921.54,Retail worker,28
+EUR,NL05YEPP6493278605,NL,GlaxoSmithKline,Healthcare prescription,2024-08-01,242939.66,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ee73498d-604f-467e-955f-b76db930ba30,2024-08-01,245524.66,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Nike,Sportswear buy,2024-08-01,245534.04,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Toyota,Vehicle service charge,2024-08-01,245614.09,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Nadine Ariens Ansems,Housewarming gift,2024-08-01,245633.71,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 0fbf7ede-0251-47a0-9cf3-a85d2d39948e,2024-08-01,248218.71,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Geldmaat ATM,Geldmaat: de21ce5a-38f3-47fe-93a4-fa6895c75b55,2024-08-01,248236.7,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Daimler,Auto repair bill,2024-08-01,248274.38,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: fe5feab1-1a2a-4f1e-b675-e53abd09428b,2024-08-01,250859.38,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Toyota,Auto repair bill,2024-08-01,250914.39,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 835b5833-b7b2-47a5-8296-16d93c71ec27,2024-08-01,253499.39,Retail worker,28
+EUR,NL05YEPP6493278605,Austria,Goldman Sachs,Brokerage fee,2024-09-01,253539.16,Retail worker,28
+EUR,NL05YEPP6493278605,NL,PepsiCo,Catering service fee,2024-09-01,253558.21,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Arthur van Ooyen,Pet expenses,2024-09-01,253572.41,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 5f1aa5aa-ebd0-4d26-9f35-7407b5f1372e,2024-09-01,256157.41,Retail worker,28
+EUR,NL05YEPP6493278605,NL,PepsiCo,Food delivery,2024-09-01,256179.34,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Procter & Gamble,Order payment,2024-09-01,256231.38,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: c8535d1c-b089-4610-b278-d9e9524def58,2024-09-01,258816.38,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Amazon,Marketplace seller fee,2024-09-01,258855.07,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Meta Platforms,Software license fee payment,2024-09-01,258862.31,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Microsoft,Cloud storage subscription,2024-09-01,258878.83,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 2baadae5-e530-4e18-868a-b3671d857fb7,2024-09-01,261463.83,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,Femke Oosterhout,Party contribution,2024-09-01,261466.66,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: b9bec43e-efd8-469e-bfe0-a94ebcd38c22,2024-09-01,264051.66,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,Volkswagen,Car parts order,2024-09-01,264118.5,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Dell Technologies,Web hosting fee,2024-09-01,264140.43,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Accenture,Advisory session charge,2024-09-01,264206.82,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ad4f503b-8e39-4f76-b7f1-42a1be5aa782,2024-09-01,266791.82,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 63c5a637-afd1-4c13-b5ad-f8f5c0bf4fc7,2024-09-01,269376.82,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Suze van Berkum,Support for a friend,2024-09-01,269395.99,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,269397.22,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Novartis,Drug order payment,2024-09-01,269435.86,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Sanofi,Medication purchase,2024-09-01,269473.6,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: c1b244be-bdb2-4c7f-a26f-d5d62473b069,2024-09-01,272058.6,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Facebook,Social media service subscription,2024-09-01,272077.51,Retail worker,28
+EUR,NL05YEPP6493278605,NL,SoftBank,Diversified company fee,2024-09-01,272111.47,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Quinn Bosch,Rent deposit,2024-09-01,272153.93,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d9e4a294-6623-4d90-928b-5163ad6b65d0,2024-09-01,274738.93,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Unilever,Subscription box service,2024-09-01,274748.93,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Facebook,Ad campaign funding,2024-09-01,274764.61,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alibaba,E-commerce order,2024-09-01,274775.32,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ford Motor,Auto repair bill,2024-09-01,274809.44,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 46d6cd54-38bd-4bc8-bc53-697facbce158,2024-09-01,277394.44,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Selena Goudriaan,Split vacation cost,2024-09-01,277437.79,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 0ae200ff-3af6-4927-9ac2-3f2806ee1455,2024-09-01,280022.79,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Microsoft,Technology services invoice payment,2024-09-01,280026.41,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Annabel Wilson,Reimbursement for bills,2024-09-01,280029.58,Retail worker,28
+EUR,NL05YEPP6493278605,United States,Procter & Gamble,Product purchase,2024-09-01,280067.29,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: a23250bc-7a88-401e-a190-67b0cc45296a,2024-09-01,282652.29,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Gilead Sciences,Laboratory service charge,2024-09-01,282685.98,Retail worker,28
+EUR,NL05YEPP6493278605,NL,ByteDance,Cloud storage subscription,2024-09-01,282742.86,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: b017db3d-e9e4-4836-865e-7fb3d9e69cac,2024-09-01,285327.86,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Renault,Car parts order,2024-09-01,285361.46,Retail worker,28
+EUR,NL05YEPP6493278605,NL,PepsiCo,Beverage order,2024-09-01,285382.47,Retail worker,28
+EUR,NL05YEPP6493278605,NL,GlaxoSmithKline,Healthcare prescription,2024-09-01,285391.02,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Phillips 66,Electricity payment,2024-09-01,285394.68,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Yassin Bezemer,Support for a friend,2024-09-01,285406.72,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 6f4d6e24-4a2d-40fa-88f4-9b33c6c3605e,2024-09-01,287991.72,Retail worker,28
+EUR,NL05YEPP6493278605,Japan,Novartis,Healthcare prescription,2024-09-01,288031.49,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: c30503ea-78df-4771-a540-865cde54f4bc,2024-09-01,290616.49,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,GlaxoSmithKline,Pharmacy bill,2024-09-01,290628.79,Retail worker,28
+EUR,NL05YEPP6493278605,France,Toyota,Car purchase,2024-09-01,290634.27,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Geldmaat ATM,Geldmaat: 3e813c83-466b-4c3d-9cfb-f73acaa71584,2024-09-01,290940.77,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 9aae3c8f-d1e0-44f2-94c0-56ff9f87183f,2024-09-01,293525.77,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 63bbc876-c772-40ff-be36-927cfa60bb62,2024-09-01,296110.77,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Gijs Unruoch Hunerik,Friend loan repayment,2024-09-01,296239.26,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: b6349489-eb0b-4f0c-b566-91236ef8af52,2024-09-01,298824.26,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Tata Consultancy Services,Technical service charge,2024-09-01,298918.03,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Renault,Auto repair bill,2024-09-01,298962.11,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 6411f907-6659-46ac-88d6-10a74091178b,2024-09-01,301547.11,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,Yassin van Emmelen-Janssen,Split restaurant bill,2024-09-01,301557.13,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Meta Platforms,Software license fee payment,2024-09-01,301580.83,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: c91c4c6f-26a2-4398-b2d6-7e3ed10454f7,2024-09-01,304165.83,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Faye Rijcken,Support for a friend,2024-09-01,304173.62,Retail worker,28
+EUR,NL05YEPP6493278605,Japan,Pfizer,Pharmacy bill,2024-09-01,304225.06,Retail worker,28
+EUR,NL05YEPP6493278605,Hungary,Berkshire Hathaway,Diversified company fee,2024-09-01,304285.74,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: a1e54745-f554-4ecc-a95d-c796340be92a,2024-09-01,306870.74,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Pfizer,Healthcare prescription,2024-09-01,306881.36,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 60acd398-f9dc-4258-827d-91e29e018660,2024-09-01,309466.36,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Apple Inc.,Cloud storage subscription,2024-09-01,309592.89,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Honeywell,Business unit invoice,2024-09-01,309613.58,Retail worker,28
+EUR,NL05YEPP6493278605,Denmark,Pfizer,Drug order payment,2024-09-01,309633.56,Retail worker,28
+EUR,NL05YEPP6493278605,France,Volkswagen,Vehicle service charge,2024-09-01,309634.08,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Arie van Berkum,Shared utilities,2024-09-01,309645.02,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Procter & Gamble,Product purchase,2024-09-01,309662.26,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Microsoft,Web hosting fee,2024-09-01,309666.45,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 52c7dbd9-3535-431c-819d-74a969be61c1,2024-09-01,312251.45,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Berkshire Hathaway,Conglomerate product order,2024-09-01,312261.36,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: ab19552f-c88f-49ed-9428-257fb928f87a,2024-09-01,314846.36,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Vajèn van de Plas,Personal loan,2024-09-01,314897.29,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Airbus,Aviation technology fee,2024-09-01,314910.05,Retail worker,28
+EUR,NL05YEPP6493278605,NL,General Electric,Diversified company fee,2024-09-01,315050.56,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 0b8cfc59-8ea6-4db0-8404-79f46f673101,2024-09-01,317635.56,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Duke Energy,Renewable energy subscription,2024-09-01,317694.84,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: c7d8b093-b97e-4b14-89cf-37b4d0748b8c,2024-09-01,320279.84,Retail worker,28
+EUR,NL05YEPP6493278605,Spain,Jurre Koret-Hak,Dinner reimbursement,2024-09-01,320292.18,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d7429b90-4079-4cea-856f-bfa029555d69,2024-09-01,322877.18,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Allianz,Insurance premium,2024-09-01,322890.97,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,3M,Corporate services payment,2024-09-01,322913.92,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Apple Inc.,Software license fee payment,2024-09-01,322932.3,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Cornelia Palman,Rent deposit,2024-09-01,322987.69,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 95188e2c-e491-4ace-aa3b-08567a1734bc,2024-09-01,325572.69,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 07debd6e-0e1e-460d-841d-ea3104385c84,2024-09-01,328157.69,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alibaba,Online shopping,2024-09-01,328322.96,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,BASF,Industrial chemicals purchase,2024-09-01,328349.38,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 56d3e351-d9e4-452a-9061-2eae44bebed8,2024-09-01,330934.38,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Pfizer,Drug order payment,2024-09-01,330939.55,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ford Motor,Car purchase,2024-09-01,330963.22,Retail worker,28
+EUR,NL05YEPP6493278605,NL,SoftBank,Diversified company fee,2024-09-01,330993.53,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Microsoft,Web hosting fee,2024-09-01,331041.27,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: f496cfa4-4c5d-4490-82f6-021b6ce7254a,2024-09-01,333626.27,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Leon Verhoeven-de Groot,Shared utilities,2024-10-01,333644.28,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: bbb3713b-4c93-4b26-ad02-5c1b7672b829,2024-10-01,336229.28,Retail worker,28
+EUR,NL05YEPP6493278605,NL,3M,Conglomerate product order,2024-10-01,336278.91,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 51c9fcad-340a-4e73-b08f-b340a6fea381,2024-10-01,338863.91,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Juliette Huijbrechts-Loreal,Birthday gift,2024-10-01,338985.91,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Geldmaat ATM,Geldmaat: 02d89984-ee1d-40f5-bc69-046d10d908d9,2024-10-01,339016.43,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Liz Bouhuizen,Wedding gift,2024-10-01,339034.82,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Luke van den Pol,Reimbursement for shopping,2024-10-01,339055.72,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 3027b4b7-0c36-4abf-b921-7a08954c94fe,2024-10-01,341640.72,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Merck & Co.,Pharmacy bill,2024-10-01,341656.21,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: d77c8dbf-3467-4b21-afd6-eec86b4c437b,2024-10-01,344241.21,Retail worker,28
+EUR,NL05YEPP6493278605,France,Oracle,Cloud storage subscription,2024-10-01,344285.94,Retail worker,28
+EUR,NL05YEPP6493278605,NL,General Electric,Corporate services payment,2024-10-01,344295.51,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Daimler,Car purchase,2024-10-01,344302.15,Retail worker,28
+EUR,NL05YEPP6493278605,Italy,GlaxoSmithKline,Healthcare prescription,2024-10-01,344313.54,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Nikki de Gruil-Lether,Shared hotel room cost,2024-10-01,344341.43,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: a0b4fe5b-bf4b-4d1e-8fb0-75bdb88e02df,2024-10-01,346926.43,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 333b2d2e-3999-4a81-b8de-e702d17709d4,2024-10-01,349511.43,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,GlaxoSmithKline,Medication purchase,2024-10-01,349570.5,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Berkshire Hathaway,Conglomerate product order,2024-10-01,349586.49,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: be934fbe-dbca-48cc-8c07-fedf6edba8ca,2024-10-01,352171.49,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Berkshire Hathaway,Diversified company fee,2024-10-01,352184.6,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Alibaba,E-commerce order,2024-10-01,352185.26,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Dell Technologies,Cloud storage subscription,2024-10-01,352202.79,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Tess Wilson-Dijkman,Mortgage help,2024-10-01,352203.97,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 6f71490f-b8f6-472f-b5d9-4090f1c5aab4,2024-10-01,354788.97,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Cisco Systems,Software license fee payment,2024-10-01,354827.89,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Ruben van Dagsburg-Neuteboom,Housewarming gift,2024-10-01,354831.76,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Accenture,Consulting fee,2024-10-01,354985.95,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: f0396813-aa42-4a46-85d1-8f4f35c05c75,2024-10-01,357570.95,Retail worker,28
+EUR,NL05YEPP6493278605,Germany,Daimler,Car purchase,2024-10-01,357625.02,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: af114619-bad5-4aa3-a3bc-9d2e621a3bef,2024-10-01,360210.02,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Amazon,E-commerce order,2024-10-01,360244.58,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Toyota,Car parts order,2024-10-01,360272.2,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 8a566149-02c7-4079-b234-60ade55443ef,2024-10-01,362857.2,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Boeing,Aviation technology fee,2024-10-01,362867.7,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 071d2e5c-0ce9-4228-a366-f904c7c23cee,2024-10-01,365452.7,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Facebook,Ad campaign funding,2024-10-01,365521.94,Retail worker,28
+EUR,NL05YEPP6493278605,Canada,Procter & Gamble,Order payment,2024-10-01,365528.73,Retail worker,28
+EUR,NL05YEPP6493278605,Great Britain,Geldmaat ATM,Geldmaat: 8d0eaec3-80c3-4481-9985-d44f9ab48297,2024-10-01,368113.73,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Silke Zwijsen,Child support,2024-10-01,368124.92,Retail worker,28
+EUR,NL05YEPP6493278605,NL,Elise Remmers,Gas money,2024-10-01,368163.39,Retail worker,28

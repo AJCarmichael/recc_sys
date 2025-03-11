@@ -1,0 +1,566 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+CAD,CA81VANC8720013705,NL,Microsoft,Technology services invoice payment,2024-06-01,142.11,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 57526f80-61b6-4165-a401-09097233b53f,2024-06-01,4327.11,Professional,45
+CAD,CA81VANC8720013705,Great Britain,3M,Conglomerate product order,2024-06-01,4389.92,Professional,45
+CAD,CA81VANC8720013705,NL,Airbus,Aerospace parts purchase,2024-06-01,4396.39,Professional,45
+CAD,CA81VANC8720013705,NL,BASF,Chemical supply order,2024-06-01,4439.85,Professional,45
+CAD,CA81VANC8720013705,NL,Tyler van den Nyeuwenhuysen-Schellekens,Household expenses,2024-06-01,4455.29,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Novartis,Drug order payment,2024-06-01,4498.92,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 05f3d706-61c1-4cd5-b2b8-7226a0a6e99f,2024-06-01,8683.92,Professional,45
+CAD,CA81VANC8720013705,Hungary,Novartis,Pharmacy bill,2024-06-01,8799.31,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f784be93-c8aa-43c0-8d19-8934e5034d76,2024-06-01,12984.31,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: e2cae0b8-1aa1-42e7-a5d1-1314ae54768a,2024-06-01,17169.31,Professional,45
+CAD,CA81VANC8720013705,Germany,Rosalie van der Linden,Christmas gift,2024-06-01,17173.21,Professional,45
+CAD,CA81VANC8720013705,Hungary,Geldmaat ATM,Geldmaat: a6a1b19a-078e-46ba-b33e-17717eafb0d1,2024-06-01,17256.54,Professional,45
+CAD,CA81VANC8720013705,NL,Ties Meyer,Shared hotel room cost,2024-06-01,17314.01,Professional,45
+CAD,CA81VANC8720013705,NL,LVMH,High-end product buy,2024-06-01,17334.49,Professional,45
+CAD,CA81VANC8720013705,Great Britain,General Electric,Diversified company fee,2024-06-01,17358.18,Professional,45
+CAD,CA81VANC8720013705,NL,BASF,Laboratory reagents buy,2024-06-01,17412.9,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 35f8476b-e03d-4174-a923-02664905f675,2024-06-01,21597.9,Professional,45
+CAD,CA81VANC8720013705,NL,Honeywell,Conglomerate product order,2024-06-01,21614.34,Professional,45
+CAD,CA81VANC8720013705,France,Volkswagen,Vehicle service charge,2024-06-01,21666.9,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 0aeac1f6-321e-4ecb-ad2f-0e15c1f308fe,2024-06-01,25851.9,Professional,45
+CAD,CA81VANC8720013705,NL,Carlijn Huijs,Housewarming gift,2024-06-01,25856.26,Professional,45
+CAD,CA81VANC8720013705,NL,Tara Kuijpers,Gas money,2024-06-01,25875.79,Professional,45
+CAD,CA81VANC8720013705,United States,Goldman Sachs,Investment fund entry,2024-06-01,25915.12,Professional,45
+CAD,CA81VANC8720013705,NL,Volkswagen,Auto repair bill,2024-06-01,25922.9,Professional,45
+CAD,CA81VANC8720013705,United States,Alphabet Inc.,Cloud storage subscription,2024-06-01,26003.02,Professional,45
+CAD,CA81VANC8720013705,NL,Amazon,Marketplace seller fee,2024-06-01,26005.56,Professional,45
+CAD,CA81VANC8720013705,NL,Sanofi,Medication purchase,2024-06-01,26021.33,Professional,45
+CAD,CA81VANC8720013705,France,Novartis,Drug order payment,2024-06-01,26023.74,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: e6ee8713-3731-465d-9aff-59683468b674,2024-06-01,30208.74,Professional,45
+CAD,CA81VANC8720013705,United States,Nike,Fashion brand order,2024-06-01,30261.38,Professional,45
+CAD,CA81VANC8720013705,Spain,Jacob van Cuijck,Vacation expenses,2024-06-01,30268.67,Professional,45
+CAD,CA81VANC8720013705,United States,Daimler,Car parts order,2024-06-01,30278.7,Professional,45
+CAD,CA81VANC8720013705,NL,Ford Motor,Auto repair bill,2024-06-01,30309.82,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 71e4e894-bcb3-4512-9545-bd9cd7013fc0,2024-06-01,34494.82,Professional,45
+CAD,CA81VANC8720013705,Italy,Mees van Embden,Shared ride expenses,2024-06-01,34497.07,Professional,45
+CAD,CA81VANC8720013705,NL,Sanofi,Drug order payment,2024-06-01,34500.86,Professional,45
+CAD,CA81VANC8720013705,Japan,Duke Energy,Renewable energy subscription,2024-06-01,34529.52,Professional,45
+CAD,CA81VANC8720013705,NL,Boeing,Space exploration fee,2024-06-01,34531.25,Professional,45
+CAD,CA81VANC8720013705,NL,Elisa Claassen,Reimbursement for bills,2024-06-01,34586.53,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 51bc2588-44a2-471f-9ad0-4ef0f5e0e731,2024-06-01,38771.53,Professional,45
+CAD,CA81VANC8720013705,NL,Alibaba,E-commerce order,2024-06-01,38857.86,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 679ea5f6-985b-427b-a762-c1507650ac85,2024-06-01,43042.86,Professional,45
+CAD,CA81VANC8720013705,NL,Livia van de Wiel,Shared subscription,2024-06-01,43063.33,Professional,45
+CAD,CA81VANC8720013705,NL,ByteDance,Software license fee payment,2024-06-01,43069.93,Professional,45
+CAD,CA81VANC8720013705,Canada,Bayer,Drug order payment,2024-06-01,43073.94,Professional,45
+CAD,CA81VANC8720013705,Japan,Duke Energy,Electricity payment,2024-06-01,43126.78,Professional,45
+CAD,CA81VANC8720013705,NL,Ella Leene,Birthday gift,2024-06-01,43139.15,Professional,45
+CAD,CA81VANC8720013705,NL,Airbus,Aerospace parts purchase,2024-06-01,43139.75,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 81c290b2-e2e1-4dc0-8ea2-aee5d36578a1,2024-06-01,47324.75,Professional,45
+CAD,CA81VANC8720013705,NL,3M,Business unit invoice,2024-06-01,47330.07,Professional,45
+CAD,CA81VANC8720013705,Canada,Loïs van Straaten,Reimbursement for medical expenses,2024-06-01,47332.34,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6bae41b1-ce68-4f8a-880f-bbf1cbae1ae8,2024-06-01,51517.34,Professional,45
+CAD,CA81VANC8720013705,Italy,Oracle,Cloud storage subscription,2024-06-01,51594.7,Professional,45
+CAD,CA81VANC8720013705,NL,Milan Meijer,Reimbursement for dinner,2024-06-01,51598.28,Professional,45
+CAD,CA81VANC8720013705,Italy,Ford Motor,Vehicle service charge,2024-06-01,51657.0,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: c8db344c-44ae-4f16-8362-52d8d276a1c4,2024-06-01,55842.0,Professional,45
+CAD,CA81VANC8720013705,NL,Huawei,Web hosting fee,2024-06-01,55884.72,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 15d92dac-6cb0-4c72-8786-74c0cdea5354,2024-06-01,60069.72,Professional,45
+CAD,CA81VANC8720013705,NL,Annabel Evers,Travel expenses,2024-06-01,60665.01,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Ford Motor,Auto repair bill,2024-06-01,60699.25,Professional,45
+CAD,CA81VANC8720013705,NL,Duke Energy,Renewable energy subscription,2024-06-01,60721.87,Professional,45
+CAD,CA81VANC8720013705,NL,Ford Motor,Vehicle service charge,2024-06-01,60785.65,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 2ede6d67-8d1d-4800-b9a5-5e58d567355e,2024-06-01,64970.65,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Novartis,Drug order payment,2024-06-01,64989.25,Professional,45
+CAD,CA81VANC8720013705,NL,Anouk Meeres,Friend loan repayment,2024-06-01,65004.11,Professional,45
+CAD,CA81VANC8720013705,NL,Airbus,Aerospace parts purchase,2024-06-01,65020.36,Professional,45
+CAD,CA81VANC8720013705,NL,SoftBank,Diversified company fee,2024-06-01,65033.77,Professional,45
+CAD,CA81VANC8720013705,United States,Alphabet Inc.,Software license fee payment,2024-06-01,65055.23,Professional,45
+CAD,CA81VANC8720013705,France,General Electric,Corporate services payment,2024-06-01,65063.6,Professional,45
+CAD,CA81VANC8720013705,NL,Noah Spies,Birthday party expenses,2024-06-01,65085.46,Professional,45
+CAD,CA81VANC8720013705,NL,Maja Lijn,Split restaurant bill,2024-06-01,65133.43,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 101c3132-a4e3-4785-811d-60b5c495ff02,2024-06-01,69318.43,Professional,45
+CAD,CA81VANC8720013705,Great Britain,BASF,Chemical supply order,2024-06-01,69380.59,Professional,45
+CAD,CA81VANC8720013705,NL,Daimler,Car purchase,2024-06-01,69441.56,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 5a214acf-be63-43b4-8b92-f4b41f580c4c,2024-06-01,73626.56,Professional,45
+CAD,CA81VANC8720013705,Italy,Tata Consultancy Services,System upgrade fee,2024-06-01,73631.04,Professional,45
+CAD,CA81VANC8720013705,United States,AT&T,Data plan payment,2024-06-01,73679.06,Professional,45
+CAD,CA81VANC8720013705,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,73683.56,Professional,45
+CAD,CA81VANC8720013705,NL,Nynke Kirpenstein,Support for a family member,2024-06-01,73692.18,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: ee510d11-1a8c-4e16-b541-aeee72b5a297,2024-06-01,77877.18,Professional,45
+CAD,CA81VANC8720013705,NL,Volkswagen,Car parts order,2024-06-01,77891.56,Professional,45
+CAD,CA81VANC8720013705,Italy,GlaxoSmithKline,Medication purchase,2024-06-01,77902.62,Professional,45
+CAD,CA81VANC8720013705,Canada,Cisco Systems,Software license fee payment,2024-06-01,77930.39,Professional,45
+CAD,CA81VANC8720013705,NL,Johnson & Johnson,Healthcare prescription,2024-06-01,77951.26,Professional,45
+CAD,CA81VANC8720013705,United States,AT&T,Data plan payment,2024-06-01,77957.52,Professional,45
+CAD,CA81VANC8720013705,NL,Maurits Symons,Medical bills,2024-06-01,77985.6,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Pfizer,Healthcare prescription,2024-06-01,77989.4,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: abea31c5-8b82-41da-a7b3-e1c94bc58600,2024-06-01,82174.4,Professional,45
+CAD,CA81VANC8720013705,NL,Pfizer,Drug order payment,2024-06-01,82459.63,Professional,45
+CAD,CA81VANC8720013705,NL,Roche,Healthcare prescription,2024-06-01,82467.15,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 8f986db9-74bb-457b-9caf-f3b68c024c6c,2024-06-01,86652.15,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6eeafe9d-cd79-49e9-92da-9ab31a4a06fb,2024-06-01,90837.15,Professional,45
+CAD,CA81VANC8720013705,NL,Nike,Apparel shopping,2024-06-01,90931.28,Professional,45
+CAD,CA81VANC8720013705,Canada,Bristol-Myers Squibb,Drug order payment,2024-06-01,90937.86,Professional,45
+CAD,CA81VANC8720013705,NL,Oracle,Cloud storage subscription,2024-06-01,90943.07,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 06eeac5b-f826-4c62-99d7-112be5cc26b5,2024-06-01,95128.07,Professional,45
+CAD,CA81VANC8720013705,NL,Oracle,Technology services invoice payment,2024-06-01,95166.71,Professional,45
+CAD,CA81VANC8720013705,NL,Dana Fiere,Reimbursement for groceries,2024-06-01,95206.31,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Lindsey Meyer,Shared ride expenses,2024-06-01,95255.49,Professional,45
+CAD,CA81VANC8720013705,NL,Novartis,Drug order payment,2024-06-01,95259.89,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 3034d9da-edf9-4c03-b38f-e69b79c52222,2024-06-01,99444.89,Professional,45
+CAD,CA81VANC8720013705,NL,Huawei,Web hosting fee,2024-06-01,99501.78,Professional,45
+CAD,CA81VANC8720013705,Belgium,Procter & Gamble,Product purchase,2024-06-01,99543.78,Professional,45
+CAD,CA81VANC8720013705,France,Kyara Carnotte-Gemen,Pet expenses,2024-06-01,99591.01,Professional,45
+CAD,CA81VANC8720013705,NL,Novartis,Healthcare prescription,2024-06-01,99663.86,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f87d1b6f-89e7-496d-9a05-fa0abb926862,2024-06-01,103848.86,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Premium account upgrade,2024-06-01,103884.17,Professional,45
+CAD,CA81VANC8720013705,Denmark,Microsoft,Software license fee payment,2024-06-01,103886.25,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 85372cd4-1f11-469a-84e9-4521b9cc3628,2024-06-01,108071.25,Professional,45
+CAD,CA81VANC8720013705,NL,Apple Inc.,Cloud storage subscription,2024-06-01,108095.67,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Nathan Otto,Vacation expenses,2024-06-01,108165.21,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Ad campaign funding,2024-06-01,108171.7,Professional,45
+CAD,CA81VANC8720013705,NL,AstraZeneca,Drug order payment,2024-06-01,108208.0,Professional,45
+CAD,CA81VANC8720013705,NL,Huawei,Software license fee payment,2024-06-01,108258.29,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: a7cabc62-2ae2-4127-98ba-f7a3a607da04,2024-06-01,112443.29,Professional,45
+CAD,CA81VANC8720013705,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,112447.62,Professional,45
+CAD,CA81VANC8720013705,NL,Sylvie Shupe,Friend loan repayment,2024-06-01,112554.64,Professional,45
+CAD,CA81VANC8720013705,Germany,Alphabet Inc.,Software license fee payment,2024-06-01,112558.79,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 1f81c3a6-a12d-45c1-bcd0-78d07d0256fa,2024-06-01,116743.79,Professional,45
+CAD,CA81VANC8720013705,NL,Nienke Hagendoorn,Loan to family,2024-06-01,116749.22,Professional,45
+CAD,CA81VANC8720013705,Japan,Jayda van Enschot,Shared hotel room cost,2024-06-01,116803.65,Professional,45
+CAD,CA81VANC8720013705,NL,Amazon,Online shopping,2024-06-01,116910.6,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 40bc4fad-5916-4af1-813d-cfeefbebf068,2024-06-01,121095.6,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Huawei,Cloud storage subscription,2024-06-01,121214.08,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: e23c3378-a2e8-4c72-ba0b-6bb721a26b2e,2024-06-01,125399.08,Professional,45
+CAD,CA81VANC8720013705,NL,Nike,Sportswear buy,2024-06-01,125462.0,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Influencer collaboration fee,2024-06-01,125470.43,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 29ee72e1-0560-45cd-ad7f-797c9aa2c61e,2024-06-01,129655.43,Professional,45
+CAD,CA81VANC8720013705,Italy,Bristol-Myers Squibb,Medication purchase,2024-07-01,129698.45,Professional,45
+CAD,CA81VANC8720013705,NL,Dirk Breugelensis,Support for a friend,2024-07-01,129773.91,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 226e9fd2-a179-4a6d-966b-6245957d2113,2024-07-01,133958.91,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Social media service subscription,2024-07-01,133961.31,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: 032953cf-5cf3-4f29-8217-6277e8bf8c77,2024-07-01,133978.32,Professional,45
+CAD,CA81VANC8720013705,France,Gilead Sciences,Clinical trial payment,2024-07-01,134020.07,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: cc854665-b085-433c-9bae-433985a158de,2024-07-01,138205.07,Professional,45
+CAD,CA81VANC8720013705,NL,Yinthe van Gelder,Rent payment,2024-07-01,138215.49,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Dell Technologies,Cloud storage subscription,2024-07-01,138225.38,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Daimler,Vehicle service charge,2024-07-01,138227.17,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 48b3224f-5ca0-4d29-97ac-815ca98a526d,2024-07-01,142412.17,Professional,45
+CAD,CA81VANC8720013705,NL,Honeywell,Diversified company fee,2024-07-01,142486.59,Professional,45
+CAD,CA81VANC8720013705,Canada,Microsoft,Technology services invoice payment,2024-07-01,142559.3,Professional,45
+CAD,CA81VANC8720013705,NL,Mara Appelman-Huijzing,Gas money,2024-07-01,142601.97,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 80983890-38c9-4e46-bf97-b7dbe0bf3f38,2024-07-01,146786.97,Professional,45
+CAD,CA81VANC8720013705,NL,LVMH,High-end product buy,2024-07-01,146848.58,Professional,45
+CAD,CA81VANC8720013705,NL,Microsoft,Software license fee payment,2024-07-01,146886.18,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: da0fb1e7-0450-4129-819e-c28cd287c27b,2024-07-01,151071.18,Professional,45
+CAD,CA81VANC8720013705,NL,Toyota,Auto repair bill,2024-07-01,151152.97,Professional,45
+CAD,CA81VANC8720013705,NL,LVMH,Exclusive brand fee,2024-07-01,151156.89,Professional,45
+CAD,CA81VANC8720013705,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,151160.35,Professional,45
+CAD,CA81VANC8720013705,NL,Bayer,Drug order payment,2024-07-01,151163.42,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: de13959a-2601-4b1d-89ec-8f204b041155,2024-07-01,155348.42,Professional,45
+CAD,CA81VANC8720013705,NL,Pfizer,Medication purchase,2024-07-01,155365.91,Professional,45
+CAD,CA81VANC8720013705,France,Silke van Tours,Support for a friend,2024-07-01,155392.21,Professional,45
+CAD,CA81VANC8720013705,Denmark,Tygo Soos-Ellis,Debt settlement,2024-07-01,155445.36,Professional,45
+CAD,CA81VANC8720013705,NL,Dell Technologies,Technology services invoice payment,2024-07-01,156108.78,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 163e3fa0-9d20-4de3-9060-376c74710b2a,2024-07-01,160293.78,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: 2f981291-3e71-47d5-8c82-20221fe03f3e,2024-07-01,160301.8,Professional,45
+CAD,CA81VANC8720013705,NL,Alphabet Inc.,Web hosting fee,2024-07-01,160372.81,Professional,45
+CAD,CA81VANC8720013705,NL,Wout van Gastel,Shared meal cost,2024-07-01,160375.65,Professional,45
+CAD,CA81VANC8720013705,NL,Meta Platforms,Technology services invoice payment,2024-07-01,160380.66,Professional,45
+CAD,CA81VANC8720013705,France,Apple Inc.,Web hosting fee,2024-07-01,160386.05,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 287ad230-9532-42f8-885a-301cb7bf18f8,2024-07-01,164571.05,Professional,45
+CAD,CA81VANC8720013705,NL,Sanofi,Medication purchase,2024-07-01,164618.81,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Facebook,Premium account upgrade,2024-07-01,164622.56,Professional,45
+CAD,CA81VANC8720013705,Great Britain,DuPont,Corporate services payment,2024-07-01,164690.02,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 48643830-2086-4080-a12a-e5e25f58d511,2024-07-01,168875.02,Professional,45
+CAD,CA81VANC8720013705,NL,Phillips 66,Renewable energy subscription,2024-07-01,168896.53,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: bd6140b6-4e03-409e-91d8-fdf591d78040,2024-07-01,173081.53,Professional,45
+CAD,CA81VANC8720013705,NL,AT&T,Telecom invoice,2024-07-01,173162.95,Professional,45
+CAD,CA81VANC8720013705,NL,LVMH,High-end product buy,2024-07-01,173198.92,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: ed53245e-3e5b-4936-a005-ccb6d82042ab,2024-07-01,177383.92,Professional,45
+CAD,CA81VANC8720013705,NL,Tyler 's Gravensande-Mol,Loan repayment,2024-07-01,177402.86,Professional,45
+CAD,CA81VANC8720013705,NL,Allianz,Policy renewal fee,2024-07-01,177503.21,Professional,45
+CAD,CA81VANC8720013705,NL,Bayer,Drug order payment,2024-07-01,177583.29,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: abfd02c7-a09c-40bc-a251-b9f65539b500,2024-07-01,181768.29,Professional,45
+CAD,CA81VANC8720013705,Spain,Samuel Broeders,Reimbursement for dinner,2024-07-01,181795.38,Professional,45
+CAD,CA81VANC8720013705,NL,Honeywell,Conglomerate product order,2024-07-01,181909.23,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 612e1f22-bc15-483f-a92c-ea2436a861da,2024-07-01,186094.23,Professional,45
+CAD,CA81VANC8720013705,NL,Roche,Healthcare prescription,2024-07-01,186145.02,Professional,45
+CAD,CA81VANC8720013705,NL,Volkswagen,Car purchase,2024-07-01,186147.1,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6f382869-742b-4290-962b-9d5323936fa6,2024-07-01,190332.1,Professional,45
+CAD,CA81VANC8720013705,NL,Morgan Stanley,Investment fund entry,2024-07-01,190333.84,Professional,45
+CAD,CA81VANC8720013705,NL,General Electric,Diversified company fee,2024-07-01,190338.34,Professional,45
+CAD,CA81VANC8720013705,NL,Duke Energy,Electricity payment,2024-07-01,190368.46,Professional,45
+CAD,CA81VANC8720013705,NL,Meta Platforms,Web hosting fee,2024-07-01,190369.65,Professional,45
+CAD,CA81VANC8720013705,NL,Procter & Gamble,Order payment,2024-07-01,190380.33,Professional,45
+CAD,CA81VANC8720013705,NL,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,190442.51,Professional,45
+CAD,CA81VANC8720013705,NL,Juul François,Loan to family,2024-07-01,190475.33,Professional,45
+CAD,CA81VANC8720013705,United States,Hamza de Nijs-van Tours,Shared meal cost,2024-07-01,190484.11,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6bbf0c55-eedf-4d96-8a89-34b75ecb3f9f,2024-07-01,194669.11,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 711e0eee-1a08-4170-b68c-8d4ec30f2192,2024-07-01,198854.11,Professional,45
+CAD,CA81VANC8720013705,NL,Roche,Pharmacy bill,2024-07-01,198983.2,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Ize Keijzer,Medical bills,2024-07-01,199005.64,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: fff9cf3a-c539-4f0c-b1cf-7d88c1f8e725,2024-07-01,203190.64,Professional,45
+CAD,CA81VANC8720013705,Denmark,Johnson & Johnson,Healthcare prescription,2024-07-01,203261.74,Professional,45
+CAD,CA81VANC8720013705,NL,PepsiCo,Catering service fee,2024-07-01,203387.54,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 0739ad1a-7c95-4126-9e06-9136b6e260b3,2024-07-01,207572.54,Professional,45
+CAD,CA81VANC8720013705,NL,AstraZeneca,Healthcare prescription,2024-07-01,207607.19,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: e530b874-2e12-4de2-a907-2c8461ad4693,2024-07-01,207663.41,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: de003b49-9b7d-4b21-931f-1b83eeb8fae7,2024-07-01,211848.41,Professional,45
+CAD,CA81VANC8720013705,Spain,Duke Energy,Energy supply charge,2024-07-01,211852.09,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 7ac47c16-496f-46a3-aa4a-d0e08d2df117,2024-07-01,216037.09,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Unilever,Subscription box service,2024-07-01,216201.56,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Oracle,Technology services invoice payment,2024-07-01,216204.07,Professional,45
+CAD,CA81VANC8720013705,Canada,Airbus,Aircraft maintenance,2024-07-01,216205.16,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Saar van Dommelen-Brumleve,Wedding gift,2024-07-01,216231.01,Professional,45
+CAD,CA81VANC8720013705,Belgium,Apple Inc.,Software license fee payment,2024-07-01,216253.52,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: a69ec355-d3ef-4be5-9023-3f2622be2bca,2024-07-01,220438.52,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Meta Platforms,Software license fee payment,2024-07-01,220472.31,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 44c835ea-e8b7-494c-8276-03c120deeb9b,2024-07-01,224657.31,Professional,45
+CAD,CA81VANC8720013705,Belgium,LVMH,Designer goods order,2024-07-01,224661.21,Professional,45
+CAD,CA81VANC8720013705,NL,Bibi van den Henst,Split vacation cost,2024-07-01,224741.42,Professional,45
+CAD,CA81VANC8720013705,Italy,Joshua Huijbrechts-de Bruijn,Mortgage help,2024-07-01,224793.13,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 50318c82-d4ae-4b36-a50d-170613fb10bb,2024-07-01,228978.13,Professional,45
+CAD,CA81VANC8720013705,NL,Rosalie de Jong,Christmas gift,2024-07-01,228991.39,Professional,45
+CAD,CA81VANC8720013705,Japan,Pfizer,Pharmacy bill,2024-07-01,229034.97,Professional,45
+CAD,CA81VANC8720013705,NL,Nora de Bont,Party contribution,2024-07-01,229038.49,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Joël van den Wittenboer,Mortgage help,2024-07-01,229044.81,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Merck & Co.,Drug order payment,2024-07-01,229078.96,Professional,45
+CAD,CA81VANC8720013705,NL,Iris van Voorhout,Travel expenses,2024-07-01,229159.21,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 43a73e95-1b3b-44a7-abe5-2a4403c5bec5,2024-07-01,233344.21,Professional,45
+CAD,CA81VANC8720013705,NL,Pfizer,Healthcare prescription,2024-07-01,233444.11,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6af61b23-cd43-4026-8228-4b792939f06d,2024-07-01,237629.11,Professional,45
+CAD,CA81VANC8720013705,NL,Accenture,Expert consultation fee,2024-07-01,237678.91,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: b41ab963-564c-406c-b9c3-67ae27887fe0,2024-07-01,241863.91,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Mitsubishi,Business unit invoice,2024-07-01,241914.84,Professional,45
+CAD,CA81VANC8720013705,Denmark,Wessel van Amstel,Dinner reimbursement,2024-07-01,241919.91,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: b3844e9d-9060-47b6-b3a6-dc16196405d6,2024-07-01,246104.91,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Daimler,Auto repair bill,2024-07-01,246110.07,Professional,45
+CAD,CA81VANC8720013705,NL,Johanna Haring,Split vacation cost,2024-07-01,246147.47,Professional,45
+CAD,CA81VANC8720013705,Canada,Nike,Apparel shopping,2024-07-01,246150.46,Professional,45
+CAD,CA81VANC8720013705,NL,Daimler,Car purchase,2024-07-01,246190.19,Professional,45
+CAD,CA81VANC8720013705,NL,Bayer,Healthcare prescription,2024-07-01,246204.62,Professional,45
+CAD,CA81VANC8720013705,United States,Amazon,E-commerce order,2024-07-01,246209.01,Professional,45
+CAD,CA81VANC8720013705,Italy,Mitsubishi,Diversified company fee,2024-07-01,246212.31,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6978f7fb-5669-4a6c-92c7-58f8b114c569,2024-07-01,250397.31,Professional,45
+CAD,CA81VANC8720013705,Belgium,IBM,Technology services invoice payment,2024-07-01,250400.27,Professional,45
+CAD,CA81VANC8720013705,NL,PepsiCo,Catering service fee,2024-07-01,250464.65,Professional,45
+CAD,CA81VANC8720013705,NL,Roche,Drug order payment,2024-07-01,250531.4,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: ade9e211-bd0c-4cc3-825f-7e4413912ba2,2024-07-01,254716.4,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Boeing,Aircraft maintenance,2024-07-01,254770.65,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Renault,Car parts order,2024-07-01,254781.94,Professional,45
+CAD,CA81VANC8720013705,NL,Beau Verheuvel,Medical bills,2024-07-01,254814.57,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Influencer collaboration fee,2024-07-01,254866.72,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 7e29af08-e7b4-4d56-9e1c-bbc4c4e18ff4,2024-07-01,259051.72,Professional,45
+CAD,CA81VANC8720013705,NL,AT&T,Cable service subscription,2024-07-01,259066.79,Professional,45
+CAD,CA81VANC8720013705,Italy,Lieve van Goerle-Courtier,Split vacation cost,2024-07-01,259072.1,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: 7c883c01-727e-4486-b26e-a58b907e496d,2024-07-01,259073.62,Professional,45
+CAD,CA81VANC8720013705,NL,Toyota,Auto repair bill,2024-07-01,259078.57,Professional,45
+CAD,CA81VANC8720013705,NL,Verizon,Phone bill,2024-07-01,259085.17,Professional,45
+CAD,CA81VANC8720013705,NL,Rik Barents,Medical bills,2024-07-01,259109.11,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Bristol-Myers Squibb,Pharmacy bill,2024-07-01,259179.1,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 74c9e61c-b619-4f3c-9e96-fe3d49099ebd,2024-07-01,263364.1,Professional,45
+CAD,CA81VANC8720013705,NL,Amin van Olst,Rent payment,2024-08-01,263373.4,Professional,45
+CAD,CA81VANC8720013705,NL,Microsoft,Web hosting fee,2024-08-01,263385.63,Professional,45
+CAD,CA81VANC8720013705,NL,Rosalie Serra-de Boer,Support for a friend,2024-08-01,263390.72,Professional,45
+CAD,CA81VANC8720013705,NL,Valentijn Meis,Graduation gift,2024-08-01,263400.04,Professional,45
+CAD,CA81VANC8720013705,NL,Marit Eckhardt,Loan to friend,2024-08-01,263448.87,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 4b287734-a310-43a1-81ad-329a7c595d7a,2024-08-01,267633.87,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6f58a504-f700-46e5-98cd-e7fe49f12514,2024-08-01,271818.87,Professional,45
+CAD,CA81VANC8720013705,NL,Alibaba,Subscription service,2024-08-01,271844.57,Professional,45
+CAD,CA81VANC8720013705,NL,Goldman Sachs,Stock purchase,2024-08-01,271848.14,Professional,45
+CAD,CA81VANC8720013705,NL,Verizon,Data plan payment,2024-08-01,271868.91,Professional,45
+CAD,CA81VANC8720013705,NL,PepsiCo,Beverage order,2024-08-01,271910.91,Professional,45
+CAD,CA81VANC8720013705,Germany,Dell Technologies,Technology services invoice payment,2024-08-01,271912.36,Professional,45
+CAD,CA81VANC8720013705,Italy,Sanofi,Drug order payment,2024-08-01,271936.83,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: a8a25450-58f4-4141-a3b8-c800910491f0,2024-08-01,276121.83,Professional,45
+CAD,CA81VANC8720013705,NL,Microsoft,Cloud storage subscription,2024-08-01,276223.49,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Pfizer,Drug order payment,2024-08-01,276272.27,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: d12bfeea-f2ac-427a-a195-6e9a4bce7f0d,2024-08-01,280457.27,Professional,45
+CAD,CA81VANC8720013705,NL,Sanofi,Medication purchase,2024-08-01,280496.46,Professional,45
+CAD,CA81VANC8720013705,NL,Phillips 66,Utility bill,2024-08-01,280501.57,Professional,45
+CAD,CA81VANC8720013705,France,Phillips 66,Renewable energy subscription,2024-08-01,280503.57,Professional,45
+CAD,CA81VANC8720013705,NL,Lieke van Egisheim-Hehl,Loan to family,2024-08-01,280510.62,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: d0db571b-7e8b-425f-91fc-884303dc3031,2024-08-01,284695.62,Professional,45
+CAD,CA81VANC8720013705,NL,Lieke Elberts,Medical bills,2024-08-01,284800.48,Professional,45
+CAD,CA81VANC8720013705,France,Vince Geerling,Shared utilities,2024-08-01,284812.27,Professional,45
+CAD,CA81VANC8720013705,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,284817.94,Professional,45
+CAD,CA81VANC8720013705,NL,GlaxoSmithKline,Medication purchase,2024-08-01,284917.42,Professional,45
+CAD,CA81VANC8720013705,NL,Allianz,Claim settlement,2024-08-01,284926.4,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 647e9ba9-0c5e-4b48-8855-9c261fc1e7b0,2024-08-01,289111.4,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f48addd4-1816-4a45-8020-ce77e9b79094,2024-08-01,293296.4,Professional,45
+CAD,CA81VANC8720013705,NL,Collin van Duvenvoirde-van der Heiden,Rent payment,2024-08-01,293379.75,Professional,45
+CAD,CA81VANC8720013705,NL,Arthur Charon-Jurrijens,Birthday gift,2024-08-01,293457.75,Professional,45
+CAD,CA81VANC8720013705,NL,Procter & Gamble,Subscription box service,2024-08-01,293481.64,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: bfdeb061-b5f7-417e-b01c-5e1afc7494dd,2024-08-01,297666.64,Professional,45
+CAD,CA81VANC8720013705,NL,Daimler,Car purchase,2024-08-01,297695.46,Professional,45
+CAD,CA81VANC8720013705,NL,Sebastiaan Weerdenburg,Anniversary gift,2024-08-01,297698.82,Professional,45
+CAD,CA81VANC8720013705,NL,IBM,Software license fee payment,2024-08-01,297725.07,Professional,45
+CAD,CA81VANC8720013705,United States,Dell Technologies,Web hosting fee,2024-08-01,297730.26,Professional,45
+CAD,CA81VANC8720013705,Great Britain,AT&T,Telecom invoice,2024-08-01,297733.75,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 66ebc5df-c229-4467-84b6-f179164cd396,2024-08-01,301918.75,Professional,45
+CAD,CA81VANC8720013705,Italy,Bayer,Drug order payment,2024-08-01,301925.56,Professional,45
+CAD,CA81VANC8720013705,NL,Morgan Stanley,Stock purchase,2024-08-01,301939.55,Professional,45
+CAD,CA81VANC8720013705,NL,Nike,Fashion brand order,2024-08-01,301958.2,Professional,45
+CAD,CA81VANC8720013705,Belgium,Unilever,Order payment,2024-08-01,302007.74,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: 93f52e1d-5aa2-44da-ba46-578bc026893b,2024-08-01,302056.28,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Alibaba,E-commerce order,2024-08-01,302058.36,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 3e85a141-8a53-461e-9078-30efaea2aef7,2024-08-01,306243.36,Professional,45
+CAD,CA81VANC8720013705,NL,GlaxoSmithKline,Medication purchase,2024-08-01,306278.12,Professional,45
+CAD,CA81VANC8720013705,NL,SoftBank,Diversified company fee,2024-08-01,306290.14,Professional,45
+CAD,CA81VANC8720013705,United States,Apple Inc.,Technology services invoice payment,2024-08-01,306349.42,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Corporate services payment,2024-08-01,306403.08,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f84e5804-c2f7-4ce1-8e23-c29f89607915,2024-08-01,310588.08,Professional,45
+CAD,CA81VANC8720013705,NL,Maartje Bekbergen,Medical bills,2024-08-01,310615.2,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: 2c748e62-34f3-4528-ae5a-2013636b9e01,2024-08-01,310661.15,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: c4c43bb6-df54-4d98-bc52-c9ecb54e8070,2024-08-01,314846.15,Professional,45
+CAD,CA81VANC8720013705,NL,Colin Weeldenburg,Loan to friend,2024-08-01,314846.7,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Meta Platforms,Web hosting fee,2024-08-01,314868.48,Professional,45
+CAD,CA81VANC8720013705,NL,Bayer,Drug order payment,2024-08-01,314885.25,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: ef6a9e8c-f8ed-4e5a-a50c-fad12fc4bda2,2024-08-01,319070.25,Professional,45
+CAD,CA81VANC8720013705,Belgium,Phillips 66,Utility bill,2024-08-01,319075.56,Professional,45
+CAD,CA81VANC8720013705,NL,Toyota,Vehicle service charge,2024-08-01,319131.17,Professional,45
+CAD,CA81VANC8720013705,NL,Sam van Wessex,Anniversary gift,2024-08-01,319137.34,Professional,45
+CAD,CA81VANC8720013705,NL,Apple Inc.,Technology services invoice payment,2024-08-01,319190.0,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Phillips 66,Utility bill,2024-08-01,319193.35,Professional,45
+CAD,CA81VANC8720013705,NL,Alibaba,Marketplace seller fee,2024-08-01,319263.21,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: bb6c46fd-1277-4394-b313-5f0d9fff497c,2024-08-01,323448.21,Professional,45
+CAD,CA81VANC8720013705,NL,Michael van de Veen,Household expenses,2024-08-01,323487.61,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: d644a058-6fd5-448d-91f5-ce188a03024f,2024-08-01,327672.61,Professional,45
+CAD,CA81VANC8720013705,NL,Microsoft,Web hosting fee,2024-08-01,327720.6,Professional,45
+CAD,CA81VANC8720013705,Canada,Alibaba,Online shopping,2024-08-01,327766.59,Professional,45
+CAD,CA81VANC8720013705,Italy,Duke Energy,Energy supply charge,2024-08-01,327802.21,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Tata Consultancy Services,Technical service charge,2024-08-01,327812.55,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: e8e1eeb0-30ea-4f9d-a30f-3030286a16e1,2024-08-01,331997.55,Professional,45
+CAD,CA81VANC8720013705,NL,Unilever,Order payment,2024-08-01,332023.31,Professional,45
+CAD,CA81VANC8720013705,NL,Goldman Sachs,Investment fund entry,2024-08-01,332034.01,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: a88f53fb-3a7e-491d-b984-25bf3474d894,2024-08-01,332091.83,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 3e00baf8-2f5e-4871-beed-df9a878fd6c3,2024-08-01,336276.83,Professional,45
+CAD,CA81VANC8720013705,Denmark,Ashley Westerburg,Grocery money,2024-08-01,336384.83,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 0914c410-04a7-4724-adf4-6c3003a2684b,2024-08-01,340569.83,Professional,45
+CAD,CA81VANC8720013705,NL,DuPont,Diversified company fee,2024-08-01,340589.86,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: fa49f2ca-e64a-4f77-abf5-b779b5321f27,2024-08-01,344774.86,Professional,45
+CAD,CA81VANC8720013705,NL,Dell Technologies,Cloud storage subscription,2024-08-01,344816.79,Professional,45
+CAD,CA81VANC8720013705,Germany,Boeing,Space exploration fee,2024-08-01,344852.2,Professional,45
+CAD,CA81VANC8720013705,NL,Boeing,Aviation technology fee,2024-08-01,344866.36,Professional,45
+CAD,CA81VANC8720013705,NL,Huawei,Web hosting fee,2024-08-01,344972.51,Professional,45
+CAD,CA81VANC8720013705,Canada,Accenture,Consulting fee,2024-08-01,344974.01,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 1645cc5a-082f-4156-9865-3065b0066b3e,2024-08-01,349159.01,Professional,45
+CAD,CA81VANC8720013705,NL,Dewi Schwartsbach,Loan to family,2024-08-01,349238.69,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 64a83c49-0846-4280-be5c-8f67b95ae5da,2024-08-01,353423.69,Professional,45
+CAD,CA81VANC8720013705,France,Cisco Systems,Technology services invoice payment,2024-08-01,353450.88,Professional,45
+CAD,CA81VANC8720013705,Belgium,AT&T,Phone bill,2024-08-01,353454.7,Professional,45
+CAD,CA81VANC8720013705,NL,Johanna Konings,Emergency funds,2024-08-01,353524.11,Professional,45
+CAD,CA81VANC8720013705,NL,Unilever,Retail goods payment,2024-08-01,353567.23,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: a1efdcd7-b5c3-4d3e-bfde-41406bb7350d,2024-08-01,357752.23,Professional,45
+CAD,CA81VANC8720013705,NL,Johnson & Johnson,Drug order payment,2024-08-01,357833.23,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 351473dc-483c-48c6-8465-d105005842a4,2024-08-01,362018.23,Professional,45
+CAD,CA81VANC8720013705,NL,Ella van Goerle,Household expenses,2024-08-01,362021.06,Professional,45
+CAD,CA81VANC8720013705,NL,Mehmet Rijcken-Wipstrik,Reimbursement for dinner,2024-08-01,362070.21,Professional,45
+CAD,CA81VANC8720013705,NL,3M,Corporate services payment,2024-08-01,362092.35,Professional,45
+CAD,CA81VANC8720013705,NL,Amazon,E-commerce order,2024-08-01,362135.22,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 3cc26d77-7098-45b4-b22b-f364d42963fe,2024-08-01,366320.22,Professional,45
+CAD,CA81VANC8720013705,NL,Boeing,Aircraft maintenance,2024-08-01,366345.52,Professional,45
+CAD,CA81VANC8720013705,Spain,Nike,Clothing purchase,2024-08-01,366347.89,Professional,45
+CAD,CA81VANC8720013705,NL,IBM,Cloud storage subscription,2024-08-01,366354.31,Professional,45
+CAD,CA81VANC8720013705,NL,Boeing,Aircraft maintenance,2024-08-01,366369.27,Professional,45
+CAD,CA81VANC8720013705,NL,Cisco Systems,Technology services invoice payment,2024-08-01,366419.18,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 5dc07174-b344-4ad8-8608-04e556360c7c,2024-08-01,370604.18,Professional,45
+CAD,CA81VANC8720013705,NL,ByteDance,Software license fee payment,2024-08-01,370629.82,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 5d6c3fc0-0215-4441-817e-1f172f745772,2024-08-01,374814.82,Professional,45
+CAD,CA81VANC8720013705,NL,Verizon,Phone bill,2024-08-01,374891.25,Professional,45
+CAD,CA81VANC8720013705,NL,Nikki Westermann,Rent assistance,2024-08-01,374986.94,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: a4b38fea-27f1-4cd6-be04-156bc398dd3c,2024-08-01,379171.94,Professional,45
+CAD,CA81VANC8720013705,United States,Boeing,Aviation technology fee,2024-08-01,379228.03,Professional,45
+CAD,CA81VANC8720013705,NL,Huawei,Cloud storage subscription,2024-08-01,379282.36,Professional,45
+CAD,CA81VANC8720013705,NL,Duke Energy,Electricity payment,2024-08-01,379299.47,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 11d01df9-883d-4a6f-9967-ac9f875b06d9,2024-08-01,383484.47,Professional,45
+CAD,CA81VANC8720013705,NL,BASF,Cleaning products order,2024-08-01,383487.01,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 7a78f949-f195-4fec-90e6-3c8e147c024e,2024-08-01,387672.01,Professional,45
+CAD,CA81VANC8720013705,Spain,Bayer,Pharmacy bill,2024-08-01,387676.04,Professional,45
+CAD,CA81VANC8720013705,Spain,Huawei,Software license fee payment,2024-08-01,387680.93,Professional,45
+CAD,CA81VANC8720013705,NL,DuPont,Conglomerate product order,2024-08-01,387752.9,Professional,45
+CAD,CA81VANC8720013705,NL,Volkswagen,Car parts order,2024-08-01,387819.25,Professional,45
+CAD,CA81VANC8720013705,Hungary,Duke Energy,Utility bill,2024-08-01,387827.96,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Influencer collaboration fee,2024-08-01,387860.61,Professional,45
+CAD,CA81VANC8720013705,NL,Bayer,Drug order payment,2024-08-01,387890.47,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: ef00c6bd-7ca1-441a-844f-a62b7273e5ec,2024-08-01,392075.47,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Corporate services payment,2024-08-01,392104.22,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Oracle,Technology services invoice payment,2024-08-01,392108.26,Professional,45
+CAD,CA81VANC8720013705,Germany,Muhammed Jacobi-van Orleans,Gas money,2024-08-01,392140.12,Professional,45
+CAD,CA81VANC8720013705,Canada,Yasmin Brouwer,Loan to family,2024-08-01,392153.71,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 71c0f7af-a65c-44b1-9b32-f6a045105d7f,2024-08-01,396338.71,Professional,45
+CAD,CA81VANC8720013705,NL,Pfizer,Medication purchase,2024-08-01,396350.31,Professional,45
+CAD,CA81VANC8720013705,Germany,Annabel Risma,Christmas gift,2024-08-01,396352.38,Professional,45
+CAD,CA81VANC8720013705,NL,Ford Motor,Car parts order,2024-08-01,396400.31,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: ce5449d5-8df6-4df6-b75b-4e72f190a12c,2024-09-01,400585.31,Professional,45
+CAD,CA81VANC8720013705,NL,3M,Corporate services payment,2024-09-01,400633.82,Professional,45
+CAD,CA81VANC8720013705,NL,Toyota,Car purchase,2024-09-01,400662.53,Professional,45
+CAD,CA81VANC8720013705,NL,Faye van de Leemput-Martel,Child support,2024-09-01,400701.58,Professional,45
+CAD,CA81VANC8720013705,NL,Milan Booden,Reimbursement for dinner,2024-09-01,400704.01,Professional,45
+CAD,CA81VANC8720013705,United States,Boeing,Aircraft maintenance,2024-09-01,400758.86,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Goldman Sachs,Investment fund entry,2024-09-01,400784.26,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 5b8b2e5d-c76c-418f-869f-d4b9d4ef7799,2024-09-01,404969.26,Professional,45
+CAD,CA81VANC8720013705,Austria,Merck & Co.,Healthcare prescription,2024-09-01,404990.7,Professional,45
+CAD,CA81VANC8720013705,NL,Cisco Systems,Web hosting fee,2024-09-01,405002.69,Professional,45
+CAD,CA81VANC8720013705,United States,Alibaba,Marketplace seller fee,2024-09-01,405072.12,Professional,45
+CAD,CA81VANC8720013705,NL,Renault,Car purchase,2024-09-01,405075.32,Professional,45
+CAD,CA81VANC8720013705,NL,Merck & Co.,Drug order payment,2024-09-01,405089.0,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 532f0c5b-0845-48e9-b14d-ea0f87a922ce,2024-09-01,409274.0,Professional,45
+CAD,CA81VANC8720013705,NL,GlaxoSmithKline,Medication purchase,2024-09-01,409351.7,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: a32d01b4-a3f0-4d68-b900-3121f9c09f49,2024-09-01,413536.7,Professional,45
+CAD,CA81VANC8720013705,NL,Novartis,Pharmacy bill,2024-09-01,413539.8,Professional,45
+CAD,CA81VANC8720013705,Spain,Hugo Shupe,Reimbursement for dinner,2024-09-01,413915.61,Professional,45
+CAD,CA81VANC8720013705,Canada,PepsiCo,Beverage order,2024-09-01,413931.0,Professional,45
+CAD,CA81VANC8720013705,Italy,Verizon,Cable service subscription,2024-09-01,413960.4,Professional,45
+CAD,CA81VANC8720013705,NL,Nike,Apparel shopping,2024-09-01,413985.03,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 1094f119-1303-4859-b2cd-d28a3a3110af,2024-09-01,418170.03,Professional,45
+CAD,CA81VANC8720013705,Great Britain,PepsiCo,Restaurant bill,2024-09-01,418176.03,Professional,45
+CAD,CA81VANC8720013705,NL,Morgan Stanley,Stock purchase,2024-09-01,418243.76,Professional,45
+CAD,CA81VANC8720013705,NL,Alexander Janssen,Personal loan,2024-09-01,418265.37,Professional,45
+CAD,CA81VANC8720013705,Italy,Unilever,Order payment,2024-09-01,418274.24,Professional,45
+CAD,CA81VANC8720013705,NL,AstraZeneca,Healthcare prescription,2024-09-01,418291.71,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f2ce307c-a9d0-4463-9f20-d14c79f8735d,2024-09-01,422476.71,Professional,45
+CAD,CA81VANC8720013705,NL,Allianz,Claim settlement,2024-09-01,422500.69,Professional,45
+CAD,CA81VANC8720013705,NL,PepsiCo,Beverage order,2024-09-01,422507.17,Professional,45
+CAD,CA81VANC8720013705,NL,Bristol-Myers Squibb,Medication purchase,2024-09-01,422548.85,Professional,45
+CAD,CA81VANC8720013705,NL,Lot van Geenen,Loan to friend,2024-09-01,422556.04,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 41db7a24-9983-41a9-bd12-06219150c1b9,2024-09-01,426741.04,Professional,45
+CAD,CA81VANC8720013705,NL,Tom van Geffen,Party contribution,2024-09-01,427148.56,Professional,45
+CAD,CA81VANC8720013705,NL,Apple Inc.,Technology services invoice payment,2024-09-01,427191.54,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 9cc190b4-a1de-498c-b4f2-3987d26d5a38,2024-09-01,431376.54,Professional,45
+CAD,CA81VANC8720013705,NL,Alibaba,Subscription service,2024-09-01,431447.74,Professional,45
+CAD,CA81VANC8720013705,NL,Allianz,Coverage update charge,2024-09-01,431492.42,Professional,45
+CAD,CA81VANC8720013705,NL,Gilead Sciences,Clinical trial payment,2024-09-01,431503.26,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 0c6f6e6e-722b-41f0-8863-984257a03540,2024-09-01,435688.26,Professional,45
+CAD,CA81VANC8720013705,Denmark,Huawei,Software license fee payment,2024-09-01,435694.14,Professional,45
+CAD,CA81VANC8720013705,NL,Alibaba,E-commerce order,2024-09-01,435757.71,Professional,45
+CAD,CA81VANC8720013705,Great Britain,AstraZeneca,Pharmacy bill,2024-09-01,435789.48,Professional,45
+CAD,CA81VANC8720013705,Japan,Meta Platforms,Cloud storage subscription,2024-09-01,435834.95,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 1e927d9a-07fe-4fc1-bec5-c69dd9dd9940,2024-09-01,440019.95,Professional,45
+CAD,CA81VANC8720013705,NL,Merck & Co.,Drug order payment,2024-09-01,440034.37,Professional,45
+CAD,CA81VANC8720013705,NL,Huawei,Technology services invoice payment,2024-09-01,440038.02,Professional,45
+CAD,CA81VANC8720013705,NL,Lars Scheer,Support money,2024-09-01,440133.53,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6387ee7f-e659-4025-a2b5-498796b73081,2024-09-01,444318.53,Professional,45
+CAD,CA81VANC8720013705,United States,Nike,Apparel shopping,2024-09-01,444375.95,Professional,45
+CAD,CA81VANC8720013705,Italy,Meta Platforms,Web hosting fee,2024-09-01,444385.96,Professional,45
+CAD,CA81VANC8720013705,NL,Ford Motor,Car parts order,2024-09-01,444393.35,Professional,45
+CAD,CA81VANC8720013705,NL,Merck & Co.,Drug order payment,2024-09-01,444451.68,Professional,45
+CAD,CA81VANC8720013705,NL,Johannes Huls,Dinner reimbursement,2024-09-01,444462.44,Professional,45
+CAD,CA81VANC8720013705,NL,Amazon,Marketplace seller fee,2024-09-01,444530.7,Professional,45
+CAD,CA81VANC8720013705,Canada,IBM,Web hosting fee,2024-09-01,444534.28,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: e0780e29-8dd4-4cad-a22f-b78923975766,2024-09-01,448719.28,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 4f493b50-9a9c-495e-af84-ee400888d3bd,2024-09-01,452904.28,Professional,45
+CAD,CA81VANC8720013705,NL,Cisco Systems,Cloud storage subscription,2024-09-01,452970.12,Professional,45
+CAD,CA81VANC8720013705,Italy,Honeywell,Corporate services payment,2024-09-01,453015.37,Professional,45
+CAD,CA81VANC8720013705,NL,Honeywell,Business unit invoice,2024-09-01,453055.69,Professional,45
+CAD,CA81VANC8720013705,NL,Pfizer,Medication purchase,2024-09-01,453063.2,Professional,45
+CAD,CA81VANC8720013705,NL,Renault,Car parts order,2024-09-01,453087.51,Professional,45
+CAD,CA81VANC8720013705,United States,Mitsubishi,Business unit invoice,2024-09-01,453097.11,Professional,45
+CAD,CA81VANC8720013705,NL,Dell Technologies,Technology services invoice payment,2024-09-01,453104.14,Professional,45
+CAD,CA81VANC8720013705,Canada,BASF,Chemical supply order,2024-09-01,453109.0,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: d34adf2b-72a8-4e83-9738-eee5dec0aa8a,2024-09-01,457294.0,Professional,45
+CAD,CA81VANC8720013705,NL,Lucy Verharen-Totwiller,Debt settlement,2024-09-01,457299.82,Professional,45
+CAD,CA81VANC8720013705,NL,Sanofi,Pharmacy bill,2024-09-01,457304.17,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: c7a11b14-ee16-40b8-ac3e-d7f9be299521,2024-09-01,457366.28,Professional,45
+CAD,CA81VANC8720013705,NL,GlaxoSmithKline,Medication purchase,2024-09-01,457370.88,Professional,45
+CAD,CA81VANC8720013705,NL,Honeywell,Conglomerate product order,2024-09-01,457468.35,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 9467d870-0808-410d-b9e7-2e1f1990e27f,2024-09-01,461653.35,Professional,45
+CAD,CA81VANC8720013705,NL,Johnson & Johnson,Drug order payment,2024-09-01,461653.87,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Boris Willems-Coenen,Travel expenses,2024-09-01,461768.88,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: de3d437d-e4cf-40c8-88b0-e70d9ffcf4d8,2024-09-01,465953.88,Professional,45
+CAD,CA81VANC8720013705,NL,Berkshire Hathaway,Corporate services payment,2024-09-01,465996.53,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 260f0974-70b3-4bd3-bc64-1a0480fc810e,2024-09-01,470181.53,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Business unit invoice,2024-09-01,470190.48,Professional,45
+CAD,CA81VANC8720013705,NL,Alibaba,Marketplace seller fee,2024-09-01,470219.3,Professional,45
+CAD,CA81VANC8720013705,Japan,Renault,Car parts order,2024-09-01,470234.24,Professional,45
+CAD,CA81VANC8720013705,NL,Berkshire Hathaway,Conglomerate product order,2024-09-01,470320.26,Professional,45
+CAD,CA81VANC8720013705,NL,AT&T,Cable service subscription,2024-09-01,470326.28,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 70ea7b73-b94c-4400-8024-5b49e26bffbf,2024-09-01,474511.28,Professional,45
+CAD,CA81VANC8720013705,NL,Airbus,Aviation technology fee,2024-09-01,474621.16,Professional,45
+CAD,CA81VANC8720013705,Spain,Airbus,Aerospace parts purchase,2024-09-01,474635.2,Professional,45
+CAD,CA81VANC8720013705,United States,GlaxoSmithKline,Drug order payment,2024-09-01,474681.44,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 57a855c5-1ce3-4096-bc21-c4d8611361ad,2024-09-01,478866.44,Professional,45
+CAD,CA81VANC8720013705,Great Britain,PepsiCo,Restaurant bill,2024-09-01,478896.32,Professional,45
+CAD,CA81VANC8720013705,NL,Lucas van Noort,Anniversary gift,2024-09-01,478907.8,Professional,45
+CAD,CA81VANC8720013705,NL,Ford Motor,Car purchase,2024-09-01,478912.14,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f69f8736-b279-47d3-b789-27d683d8874c,2024-09-01,483097.14,Professional,45
+CAD,CA81VANC8720013705,Hungary,Roche,Medication purchase,2024-09-01,483154.31,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 7495d63f-5e5d-4ac1-b2c3-de20f5042de3,2024-09-01,487339.31,Professional,45
+CAD,CA81VANC8720013705,NL,Julian Schatteleijn,Reimbursement for medical expenses,2024-09-01,487406.52,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Diversified company fee,2024-09-01,487419.28,Professional,45
+CAD,CA81VANC8720013705,NL,SoftBank,Business unit invoice,2024-09-01,487438.62,Professional,45
+CAD,CA81VANC8720013705,Japan,Accenture,Professional service invoice,2024-09-01,487465.03,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: fc467ae3-851b-4db8-a3c9-46a8d1576467,2024-09-01,487551.23,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: b9e7bf80-77c8-4099-8962-065ea3163e41,2024-09-01,491736.23,Professional,45
+CAD,CA81VANC8720013705,United States,Gilead Sciences,Genetic testing kit,2024-09-01,491797.91,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 0b5532c2-1b5f-4e9c-a870-0216517cb2f9,2024-09-01,495982.91,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Conglomerate product order,2024-09-01,495999.09,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Volkswagen,Vehicle service charge,2024-09-01,496017.98,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: c9473192-14bf-47cf-95af-9da90ff125f5,2024-09-01,500202.98,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Luca de Wit,Shared utilities,2024-09-01,500330.24,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Microsoft,Web hosting fee,2024-09-01,500464.04,Professional,45
+CAD,CA81VANC8720013705,NL,Phillips 66,Energy supply charge,2024-09-01,500487.1,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: e57f09cb-8020-4c32-b687-fd15e191f240,2024-09-01,504672.1,Professional,45
+CAD,CA81VANC8720013705,NL,PepsiCo,Food delivery,2024-09-01,504675.34,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Corporate services payment,2024-09-01,504773.45,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Geldmaat ATM,Geldmaat: 4ecc57d8-3832-435e-a8b1-9336288cb651,2024-09-01,504837.13,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 84edfc98-a342-4c06-a118-a1368ec7bf3f,2024-09-01,509022.13,Professional,45
+CAD,CA81VANC8720013705,NL,Accenture,Professional service invoice,2024-09-01,509075.45,Professional,45
+CAD,CA81VANC8720013705,France,Johnson & Johnson,Drug order payment,2024-09-01,509134.48,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: cca1f006-bdec-4f4a-879e-635c55fb4ac1,2024-09-01,513319.48,Professional,45
+CAD,CA81VANC8720013705,Canada,Mitsubishi,Business unit invoice,2024-09-01,513373.88,Professional,45
+CAD,CA81VANC8720013705,NL,Meta Platforms,Web hosting fee,2024-09-01,513384.51,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 4da4a173-a0d8-4d02-8efa-c0a7ea44df24,2024-09-01,517569.51,Professional,45
+CAD,CA81VANC8720013705,NL,DuPont,Business unit invoice,2024-09-01,517667.54,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Influencer collaboration fee,2024-09-01,517788.3,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 4feb1f85-cbef-49b6-8f6f-44834b829ddc,2024-09-01,521973.3,Professional,45
+CAD,CA81VANC8720013705,NL,Apple Inc.,Cloud storage subscription,2024-09-01,522002.46,Professional,45
+CAD,CA81VANC8720013705,NL,Dion Jorrisen,New baby gift,2024-09-01,522033.77,Professional,45
+CAD,CA81VANC8720013705,NL,Oracle,Technology services invoice payment,2024-09-01,522054.63,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: fb7e1b29-45d3-4f9c-9b56-a4867ba69a1e,2024-09-01,526239.63,Professional,45
+CAD,CA81VANC8720013705,NL,Willem Post,Birthday gift,2024-09-01,526259.66,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Bristol-Myers Squibb,Healthcare prescription,2024-10-01,526415.59,Professional,45
+CAD,CA81VANC8720013705,NL,Jayden Leguit,Family loan repayment,2024-10-01,526424.16,Professional,45
+CAD,CA81VANC8720013705,NL,Apple Inc.,Software license fee payment,2024-10-01,526436.68,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 378705fa-a54e-4540-835b-e564589671e4,2024-10-01,530621.68,Professional,45
+CAD,CA81VANC8720013705,NL,Mees Wouters-van de Berg,School fees,2024-10-01,530641.93,Professional,45
+CAD,CA81VANC8720013705,NL,Nike,Sportswear buy,2024-10-01,530683.24,Professional,45
+CAD,CA81VANC8720013705,Germany,Nadine Bartels,New baby gift,2024-10-01,530687.24,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 60964e71-1ca6-4542-8986-3aaf388f7d20,2024-10-01,534872.24,Professional,45
+CAD,CA81VANC8720013705,United States,Mats Boddaugh,Wedding gift,2024-10-01,534896.87,Professional,45
+CAD,CA81VANC8720013705,NL,Berkshire Hathaway,Corporate services payment,2024-10-01,534914.61,Professional,45
+CAD,CA81VANC8720013705,United States,Allianz,Insurance premium,2024-10-01,534948.96,Professional,45
+CAD,CA81VANC8720013705,NL,ByteDance,Web hosting fee,2024-10-01,534990.25,Professional,45
+CAD,CA81VANC8720013705,Canada,Volkswagen,Auto repair bill,2024-10-01,534994.54,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 28bdbe34-67f2-4bbb-9233-d2f6547ca568,2024-10-01,539179.54,Professional,45
+CAD,CA81VANC8720013705,NL,Facebook,Influencer collaboration fee,2024-10-01,539187.36,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: f3ee3e6c-499a-4797-a051-b82785ab82ec,2024-10-01,543372.36,Professional,45
+CAD,CA81VANC8720013705,Italy,Phillips 66,Energy supply charge,2024-10-01,543402.62,Professional,45
+CAD,CA81VANC8720013705,NL,Geldmaat ATM,Geldmaat: 0334e0fc-5a86-464a-a6b4-b5ad615cbb02,2024-10-01,543458.16,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 895844f7-16fd-4087-99ed-d18f729d7bc2,2024-10-01,547643.16,Professional,45
+CAD,CA81VANC8720013705,Canada,Bristol-Myers Squibb,Drug order payment,2024-10-01,547647.36,Professional,45
+CAD,CA81VANC8720013705,NL,Mitsubishi,Business unit invoice,2024-10-01,547656.99,Professional,45
+CAD,CA81VANC8720013705,NL,Phillips 66,Energy supply charge,2024-10-01,547718.86,Professional,45
+CAD,CA81VANC8720013705,NL,Floortje van der Berg-Geldens,Reimbursement for bills,2024-10-01,547730.74,Professional,45
+CAD,CA81VANC8720013705,Austria,IBM,Cloud storage subscription,2024-10-01,547757.67,Professional,45
+CAD,CA81VANC8720013705,NL,Allianz,Coverage update charge,2024-10-01,547806.05,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: b7587b7b-a8b1-4d64-ac88-1135680de6ec,2024-10-01,551991.05,Professional,45
+CAD,CA81VANC8720013705,Denmark,Lorenzo Hoogers-Wilson,Shared hotel room cost,2024-10-01,552019.67,Professional,45
+CAD,CA81VANC8720013705,Denmark,Wesley van Brunswijk,Birthday party expenses,2024-10-01,552078.76,Professional,45
+CAD,CA81VANC8720013705,Spain,Tata Consultancy Services,Technical service charge,2024-10-01,552110.68,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 95564fd5-9550-4ff9-a07d-bed9032ca91b,2024-10-01,556295.68,Professional,45
+CAD,CA81VANC8720013705,NL,Bristol-Myers Squibb,Healthcare prescription,2024-10-01,556435.74,Professional,45
+CAD,CA81VANC8720013705,Italy,ByteDance,Technology services invoice payment,2024-10-01,556526.77,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: cc15f2b9-96bb-4263-8e76-9be40d74db86,2024-10-01,560711.77,Professional,45
+CAD,CA81VANC8720013705,Great Britain,Pfizer,Healthcare prescription,2024-10-01,560718.21,Professional,45
+CAD,CA81VANC8720013705,Spain,Wessel Westerbeek,Loan repayment,2024-10-01,560723.58,Professional,45
+CAD,CA81VANC8720013705,NL,Daimler,Auto repair bill,2024-10-01,560810.54,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 2f442141-6a65-45ea-a125-7c198229caf4,2024-10-01,564995.54,Professional,45
+CAD,CA81VANC8720013705,NL,Volkswagen,Auto repair bill,2024-10-01,565007.22,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 8dbba668-9fa4-4514-99b3-627d004257d1,2024-10-01,569192.22,Professional,45
+CAD,CA81VANC8720013705,France,Sienna Pierson,Birthday gift,2024-10-01,569214.5,Professional,45
+CAD,CA81VANC8720013705,NL,Rens Verwoert-van Haarlem,Shared subscription,2024-10-01,569281.49,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 7ea23559-6f0b-489e-a5fd-9b1a898f5976,2024-10-01,573466.49,Professional,45
+CAD,CA81VANC8720013705,NL,IBM,Web hosting fee,2024-10-01,573520.45,Professional,45
+CAD,CA81VANC8720013705,Italy,Sanofi,Medication purchase,2024-10-01,573561.18,Professional,45
+CAD,CA81VANC8720013705,Italy,Ford Motor,Vehicle service charge,2024-10-01,573648.36,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 449e3915-862f-4bbe-acc4-ce89ea977f21,2024-10-01,577833.36,Professional,45
+CAD,CA81VANC8720013705,NL,Verizon,Cable service subscription,2024-10-01,577851.14,Professional,45
+CAD,CA81VANC8720013705,NL,Microsoft,Technology services invoice payment,2024-10-01,577866.38,Professional,45
+CAD,CA81VANC8720013705,NL,Bristol-Myers Squibb,Healthcare prescription,2024-10-01,577917.37,Professional,45
+CAD,CA81VANC8720013705,NL,Microsoft,Software license fee payment,2024-10-01,577951.07,Professional,45
+CAD,CA81VANC8720013705,Canada,Geldmaat ATM,Geldmaat: 6bd3dea1-7ab3-4229-add3-d05ee17c07f1,2024-10-01,582136.07,Professional,45

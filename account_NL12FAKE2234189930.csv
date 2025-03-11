@@ -1,0 +1,499 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL12FAKE2234189930,NL,Geldmaat ATM,Geldmaat: 50f708a8-da76-486a-b011-875e6fb6c0d2,2024-06-01,4891.15,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alphabet Inc.,Cloud storage subscription,2024-06-01,4915.29,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a2d8221c-84ed-45dd-bc9e-8b584e361af8,2024-06-01,7009.29,Retail worker,28
+EUR,NL12FAKE2234189930,NL,DuPont,Conglomerate product order,2024-06-01,7026.87,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a387b798-95e3-450a-ad5f-af8ecd4f14a1,2024-06-01,9120.87,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Goldman Sachs,Investment fund entry,2024-06-01,9217.05,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Noud van Luxemburg,Split vacation cost,2024-06-01,9308.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 1a0664d4-6124-48b2-89b2-ddb7f903c6b9,2024-06-01,11402.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Verizon,Phone bill,2024-06-01,11456.58,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: c08cef50-d153-4fcb-9f14-f47170d10e67,2024-06-01,13550.58,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Roche,Medication purchase,2024-06-01,13559.37,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 9ef584c2-aabe-45b8-8fd3-dd4cd4afc813,2024-06-01,15653.37,Retail worker,28
+EUR,NL12FAKE2234189930,Hungary,Sil Molegraaf,Household expenses,2024-06-01,15695.58,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Berkshire Hathaway,Corporate services payment,2024-06-01,15706.54,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,BASF,Industrial chemicals purchase,2024-06-01,15715.13,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Esther Timmermans,Loan repayment,2024-06-01,15730.03,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Casper van den Nuwenhuijzen,Party contribution,2024-06-01,15740.27,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: f6168c50-41a3-4878-9d05-d5868c554512,2024-06-01,17834.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Facebook,Premium account upgrade,2024-06-01,17854.24,Retail worker,28
+EUR,NL12FAKE2234189930,France,Volkswagen,Auto repair bill,2024-06-01,17862.29,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Danique Marchal,Split vacation cost,2024-06-01,17880.74,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Subscription service,2024-06-01,17889.4,Retail worker,28
+EUR,NL12FAKE2234189930,NL,SoftBank,Conglomerate product order,2024-06-01,17903.35,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 4c20a7d5-36b7-4c9d-a9f2-c28bbe310b49,2024-06-01,19997.35,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Tycho Brugman,Reimbursement for travel,2024-06-01,20012.9,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Utility bill,2024-06-01,20018.25,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 4988597d-070e-4ca1-802c-cb62c8dad0ba,2024-06-01,22112.25,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Megan van den Bergh,Split restaurant bill,2024-06-01,22215.59,Retail worker,28
+EUR,NL12FAKE2234189930,NL,ByteDance,Cloud storage subscription,2024-06-01,22253.46,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Pfizer,Pharmacy bill,2024-06-01,22263.27,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 70b4fe85-50ff-493a-beed-6f5c5cb8c860,2024-06-01,24357.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Subscription service,2024-06-01,24423.82,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Cisco Systems,Software license fee payment,2024-06-01,24438.98,Retail worker,28
+EUR,NL12FAKE2234189930,NL,ByteDance,Technology services invoice payment,2024-06-01,24445.0,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Eline Schokman,Gift,2024-06-01,24487.73,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 878a37e0-b96a-4034-8404-fb51aecf37ce,2024-06-01,26581.73,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: e89595a8-99ec-4159-ae5d-4e70ada2b983,2024-06-01,28675.73,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Procter & Gamble,Order payment,2024-06-01,28677.17,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Accenture,Consulting fee,2024-06-01,28824.16,Retail worker,28
+EUR,NL12FAKE2234189930,France,General Electric,Corporate services payment,2024-06-01,28827.18,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Cato Suijker-van den Nyeuwenhuysen,Baby shower gift,2024-06-01,28877.51,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Phillips 66,Electricity payment,2024-06-01,28888.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 9084e76d-bd2d-4152-abdf-893854d919ef,2024-06-01,30982.47,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Tata Consultancy Services,Software development bill,2024-06-01,30995.5,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Nike,Fashion brand order,2024-06-01,31009.62,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,AstraZeneca,Pharmacy bill,2024-06-01,31016.61,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Apple Inc.,Software license fee payment,2024-06-01,31028.69,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 08b15aec-122e-487d-805c-b9587228a1ae,2024-06-01,33122.69,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 94a40218-bbe8-4103-b589-943292a78da2,2024-06-01,35216.69,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Juliette Winnrich-van Beeck Beeckmans,Household expenses,2024-06-01,35227.42,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Dex Heymans,Child support,2024-06-01,35231.9,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BMW,Vehicle service charge,2024-06-01,35268.66,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Bristol-Myers Squibb,Drug order payment,2024-06-01,35272.55,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: c4de3b02-7f14-4f53-ac3a-f5fa0abf6782,2024-06-01,37366.55,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Nisa Tillmanno,New baby gift,2024-06-01,37392.49,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Allianz,Insurance premium,2024-06-01,37428.1,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Aimée Teunissen,Support for a family member,2024-06-01,37454.61,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Sam Alpaidis,Anniversary gift,2024-06-01,37487.49,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: ce24f98b-1b58-4ad0-b35d-fa5fad293a22,2024-06-01,39581.49,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Bayer,Drug order payment,2024-06-01,39594.03,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Novartis,Medication purchase,2024-06-01,39618.79,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: fed4c9e1-12c0-47d6-9cac-a5be8f6615f3,2024-06-01,41712.79,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Renault,Vehicle service charge,2024-06-01,41730.15,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Phillips 66,Renewable energy subscription,2024-06-01,41756.21,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 02556efd-994a-4947-a60a-73673f069bc5,2024-06-01,43850.21,Retail worker,28
+EUR,NL12FAKE2234189930,Austria,3M,Diversified company fee,2024-06-01,43865.25,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Dell Technologies,Software license fee payment,2024-06-01,43899.6,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Amazon,Subscription service,2024-06-01,43913.95,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Sanofi,Pharmacy bill,2024-06-01,43922.82,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 78a64687-5775-4bbf-81a7-b18282ef3e6b,2024-06-01,46016.82,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,46054.15,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Gilead Sciences,Biotech research fee,2024-06-01,46060.78,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Drug order payment,2024-06-01,46144.61,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: cb3e1455-2bd7-45e0-9c7d-6587680fa18a,2024-06-01,48238.61,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Inaya Potters-Marchand,Split vacation cost,2024-06-01,48252.06,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Renault,Auto repair bill,2024-06-01,48265.78,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: c0ec11da-5d6c-4cff-91f7-b4f496096141,2024-06-01,50359.78,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,50376.04,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Pharmacy bill,2024-06-01,50412.09,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Marketplace seller fee,2024-06-01,50429.2,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: bee1226a-9ef7-4867-9c35-ebad075e9667,2024-06-01,52523.2,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a324fe6c-fd5f-485f-9bb2-d4acaae28005,2024-06-01,54617.2,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Ford Motor,Car parts order,2024-06-01,54701.58,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Toyota,Car purchase,2024-06-01,54808.5,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 4337a8ed-efdb-4755-8805-dfab837cd509,2024-06-01,56902.5,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Jolijn Lankle,Split restaurant bill,2024-06-01,56950.9,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 4526179b-f980-4b9d-8bdc-01ed120b9f23,2024-06-01,59044.9,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 8f93b4ea-e6ae-44ce-9541-f4d266065a2d,2024-06-01,61138.9,Retail worker,28
+EUR,NL12FAKE2234189930,NL,LVMH,Exclusive brand fee,2024-06-01,61218.52,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Unilever,Retail goods payment,2024-06-01,61229.92,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6251b07b-fecf-4a0f-bb25-5c3de1fdcdcb,2024-06-01,63323.92,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Novartis,Drug order payment,2024-06-01,63335.53,Retail worker,28
+EUR,NL12FAKE2234189930,NL,LVMH,High-end product buy,2024-06-01,63337.96,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Daimler,Vehicle service charge,2024-06-01,63355.49,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Puk de Plantard-Vallenduuk,Reimbursement for dinner,2024-06-01,63357.72,Retail worker,28
+EUR,NL12FAKE2234189930,France,Alibaba,E-commerce order,2024-06-01,63365.88,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Electricity payment,2024-06-01,63380.45,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a9f140ff-b54f-4825-a25d-7c9f47acd25e,2024-06-01,65474.45,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Dylan van Maaren-Lommert,Shared meal cost,2024-06-01,65552.8,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Medication purchase,2024-06-01,65563.87,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Subscription service,2024-06-01,65642.9,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merck & Co.,Medication purchase,2024-06-01,65652.89,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Rosalie Genefaas,Funeral expenses,2024-06-01,65656.43,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 00102496-0946-4069-90a1-f3705f71a805,2024-06-01,67750.43,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Huawei,Software license fee payment,2024-06-01,67758.97,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Volkswagen,Auto repair bill,2024-06-01,67767.06,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BMW,Vehicle service charge,2024-06-01,67780.7,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,PepsiCo,Beverage order,2024-06-01,67794.02,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,3M,Business unit invoice,2024-06-01,67801.88,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 3d044259-2eff-4667-bd77-789a52c42fed,2024-06-01,69895.88,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alibaba,Marketplace seller fee,2024-06-01,69898.71,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Apple Inc.,Cloud storage subscription,2024-06-01,69903.88,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Novartis,Drug order payment,2024-07-01,69911.02,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Apple Inc.,Technology services invoice payment,2024-07-01,69917.07,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,AstraZeneca,Drug order payment,2024-07-01,69929.84,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Rayan Vallenduuk-Lutterveld,Vacation expenses,2024-07-01,69943.31,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a7fcb2dc-7068-477d-88c9-33b8239d86de,2024-07-01,72037.31,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 32fd7ead-35ca-4512-8f49-05e25769d0a1,2024-07-01,74131.31,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Jente Neuteboom-Kok,Emergency funds,2024-07-01,74140.94,Retail worker,28
+EUR,NL12FAKE2234189930,NL,SoftBank,Diversified company fee,2024-07-01,74177.23,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 5609804a-bb3d-4170-bab8-2c38e4148f22,2024-07-01,76271.23,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Amazon,Subscription service,2024-07-01,76284.45,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BASF,Industrial chemicals purchase,2024-07-01,76320.81,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Johnson & Johnson,Medication purchase,2024-07-01,76328.91,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 3af2d284-eba5-4bdc-9d2e-634ee70b598b,2024-07-01,78422.91,Retail worker,28
+EUR,NL12FAKE2234189930,NL,LVMH,High-end product buy,2024-07-01,78474.07,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alexander Roessink-Vierdag,Support for a family member,2024-07-01,78501.02,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Ilse Merckx,Anniversary gift,2024-07-01,78539.94,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 18ed8d04-8f0b-432a-b250-1cfcbb8063dc,2024-07-01,80633.94,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,PepsiCo,Food delivery,2024-07-01,80639.31,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Toyota,Vehicle service charge,2024-07-01,80646.47,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Volkswagen,Car parts order,2024-07-01,80671.57,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Laurens Everde,Funeral expenses,2024-07-01,80682.34,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Pfizer,Healthcare prescription,2024-07-01,80704.44,Retail worker,28
+EUR,NL12FAKE2234189930,NL,AT&T,Telecom invoice,2024-07-01,80720.37,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Meta Platforms,Technology services invoice payment,2024-07-01,80744.25,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 16afc07b-6731-4012-84b3-82ff0450dd40,2024-07-01,82838.25,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Lola VI-van der Schuijt,Anniversary gift,2024-07-01,82851.22,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Procter & Gamble,Order payment,2024-07-01,83304.79,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 66315860-79b9-4818-b9d5-e06aefa642ef,2024-07-01,85398.79,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Gilead Sciences,Laboratory service charge,2024-07-01,85427.75,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Renault,Car purchase,2024-07-01,85429.45,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Goldman Sachs,Capital markets service,2024-07-01,85447.43,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 2059029b-988d-458d-b0e2-9276fa5eebfb,2024-07-01,87541.43,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,IBM,Software license fee payment,2024-07-01,87550.94,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Amazon,Marketplace seller fee,2024-07-01,87565.07,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Dean van de Klashorst,Reimbursement for travel,2024-07-01,87582.32,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Tom Arent-Furda,Loan to family,2024-07-01,87590.6,Retail worker,28
+EUR,NL12FAKE2234189930,France,Linn van Ommeren,Loan to family,2024-07-01,87599.66,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Marketplace seller fee,2024-07-01,87612.21,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 7c3e4779-cf43-4b48-b589-7c6cfcc885f9,2024-07-01,89706.21,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Roche,Drug order payment,2024-07-01,89713.7,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Allianz,Policy renewal fee,2024-07-01,89726.86,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Meta Platforms,Software license fee payment,2024-07-01,89735.96,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 2e19a587-83f8-42c3-bdc8-a27db96d6f60,2024-07-01,91829.96,Retail worker,28
+EUR,NL12FAKE2234189930,NL,General Electric,Business unit invoice,2024-07-01,91832.88,Retail worker,28
+EUR,NL12FAKE2234189930,France,AstraZeneca,Pharmacy bill,2024-07-01,91844.83,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Sep Wright,Grocery money,2024-07-01,91854.18,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,BASF,Industrial chemicals purchase,2024-07-01,91858.25,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Sanofi,Healthcare prescription,2024-07-01,91869.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 471619ae-989d-4efb-ab55-9eabef240ec1,2024-07-01,93963.47,Retail worker,28
+EUR,NL12FAKE2234189930,NL,PepsiCo,Beverage order,2024-07-01,93983.99,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Unilever,Retail goods payment,2024-07-01,93995.48,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Nike,Clothing purchase,2024-07-01,94011.17,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,PepsiCo,Beverage order,2024-07-01,94020.53,Retail worker,28
+EUR,NL12FAKE2234189930,NL,3M,Business unit invoice,2024-07-01,94031.07,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,ByteDance,Cloud storage subscription,2024-07-01,94046.68,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: b0ab71d0-bc22-4530-89e9-ad492e6ac3be,2024-07-01,96140.68,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Berkshire Hathaway,Diversified company fee,2024-07-01,96156.55,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: bb1c5e1f-df3c-4811-bc87-e1c4683a6149,2024-07-01,98250.55,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Allianz,Claim settlement,2024-07-01,98300.55,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Sanofi,Medication purchase,2024-07-01,98303.19,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Roche,Healthcare prescription,2024-07-01,98328.1,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Honeywell,Business unit invoice,2024-07-01,98348.04,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6192973b-dd7f-451c-a88c-be37844db169,2024-07-01,100442.04,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Accenture,Consulting fee,2024-07-01,100455.58,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 571f3f0b-1c3c-4761-99f6-1093b3c0c54b,2024-07-01,102549.58,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,102582.03,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Tata Consultancy Services,System upgrade fee,2024-07-01,102604.02,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Boeing,Aerospace parts purchase,2024-07-01,102607.77,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,102631.09,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Benthe van Engelen-Cornelisse,Reimbursement for medical expenses,2024-07-01,102645.54,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 60795cef-c1e5-44f6-b735-6b14dd2b4518,2024-07-01,104739.54,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,AstraZeneca,Healthcare prescription,2024-07-01,104750.06,Retail worker,28
+EUR,NL12FAKE2234189930,NL,AstraZeneca,Pharmacy bill,2024-07-01,104800.43,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a3c56df3-55b2-451c-bf26-f6d50dc24e76,2024-07-01,106894.43,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Gilead Sciences,Laboratory service charge,2024-07-01,106898.96,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Amazon,E-commerce order,2024-07-01,106910.58,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Volkswagen,Auto repair bill,2024-07-01,106920.26,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Youssef van der Laar,Rent deposit,2024-07-01,106947.68,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Microsoft,Technology services invoice payment,2024-07-01,106949.7,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Subscription service,2024-07-01,106953.76,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alphabet Inc.,Software license fee payment,2024-07-01,106964.57,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Dave van Berkum,Reimbursement for bills,2024-07-01,106981.11,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a466575e-63b5-4e42-92d3-195df34f96d2,2024-07-01,109075.11,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,DuPont,Business unit invoice,2024-07-01,109098.05,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Gilead Sciences,Biotech research fee,2024-07-01,109139.23,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 3841a5ed-d2bf-4bb4-ba6a-19d0d3187aab,2024-07-01,111233.23,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Toyota,Vehicle service charge,2024-07-01,111289.51,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bayer,Pharmacy bill,2024-07-01,111301.13,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 4ffa16af-81dd-49e8-a49c-dd054e705a18,2024-07-01,113395.13,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Nadia Jorrisen,Dinner reimbursement,2024-07-01,113431.46,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Morgan Stanley,Stock purchase,2024-07-01,113446.5,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: b92d23f6-c93b-4f10-a69e-9caac4e9e8f6,2024-07-01,115540.5,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 9f7b7d71-a818-4c77-b6b6-5bb74117d38b,2024-07-01,117634.5,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Airbus,Aerospace parts purchase,2024-07-01,117645.09,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Toyota,Auto repair bill,2024-07-01,117684.02,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Yassin Schuurmans,Debt settlement,2024-07-01,117733.58,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a1cf7845-f995-4e0c-9d77-768f29efd69a,2024-07-01,119827.58,Retail worker,28
+EUR,NL12FAKE2234189930,Hungary,Quinn Beernink,Travel expenses,2024-07-01,119841.19,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Verizon,Cable service subscription,2024-07-01,119843.2,Retail worker,28
+EUR,NL12FAKE2234189930,United States,IBM,Cloud storage subscription,2024-07-01,119911.38,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BMW,Car purchase,2024-07-01,119926.41,Retail worker,28
+EUR,NL12FAKE2234189930,NL,IBM,Web hosting fee,2024-07-01,119936.2,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 8a01bff2-54ee-4c76-9d7e-eb670d4f6fe1,2024-07-01,122030.2,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bayer,Pharmacy bill,2024-07-01,122102.39,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: fc63697c-1eb8-41e3-865f-ef7b259a6571,2024-07-01,124196.39,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Accenture,Advisory session charge,2024-07-01,124273.23,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: d7a45d78-d3c8-4929-bd2a-7d85b0f0cf87,2024-07-01,126367.23,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Accenture,Advisory session charge,2024-07-01,126381.09,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Apple Inc.,Technology services invoice payment,2024-07-01,126415.69,Retail worker,28
+EUR,NL12FAKE2234189930,NL,AstraZeneca,Healthcare prescription,2024-07-01,126420.16,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: e45bf897-14c9-4daf-bf55-52ae951b09b8,2024-07-01,128514.16,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Goldman Sachs,Brokerage fee,2024-07-01,128543.6,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Healthcare prescription,2024-07-01,128560.59,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Imke Gemen,Loan repayment,2024-07-01,128574.45,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: bbb4d111-f800-473a-920d-fb18ed74ab7c,2024-07-01,130668.45,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Johnson & Johnson,Healthcare prescription,2024-07-01,130709.82,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Novartis,Drug order payment,2024-07-01,130738.49,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: d9d22eda-88e2-4993-b77f-1b7c7aea5c8a,2024-07-01,132832.49,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Accenture,Advisory session charge,2024-07-01,132886.78,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6710320d-9d67-40cc-85a4-5f790f969b20,2024-07-01,134980.78,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Mika Stichter,Rent assistance,2024-07-01,135011.4,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Volkswagen,Car parts order,2024-07-01,135013.88,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Cisco Systems,Cloud storage subscription,2024-07-01,135018.95,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Novartis,Pharmacy bill,2024-07-01,135032.52,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Morgan Stanley,Brokerage fee,2024-07-01,135043.54,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: b9f1c868-9c0b-42c5-841e-b2ac23c389c7,2024-07-01,137137.54,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,137148.37,Retail worker,28
+EUR,NL12FAKE2234189930,France,Apple Inc.,Web hosting fee,2024-07-01,137152.54,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Allianz,Policy renewal fee,2024-07-01,137160.69,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: bee9bbdf-83e0-4ca9-8671-c3e9eb967ede,2024-08-01,139254.69,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Lex Rijn,Graduation gift,2024-08-01,139320.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Thijmen Lommert-Janse,Shared ride expenses,2024-08-01,139350.7,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 5a73012c-f1f4-48e3-ab21-adb7a8f268b5,2024-08-01,141444.7,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Honeywell,Corporate services payment,2024-08-01,141456.3,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Sil van Nimwegen-Oosterhek,School fees,2024-08-01,141504.94,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 1db65edf-0403-48ee-bfda-e0d2098874c9,2024-08-01,143598.94,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Pfizer,Healthcare prescription,2024-08-01,143630.54,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Mehmet Jacobs,Party contribution,2024-08-01,143644.16,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6504a9b4-07d4-4037-a64a-7d09d91386b2,2024-08-01,145738.16,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Unilever,Subscription box service,2024-08-01,145758.85,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Duke Energy,Energy supply charge,2024-08-01,145807.56,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,AstraZeneca,Drug order payment,2024-08-01,145811.47,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Bayer,Medication purchase,2024-08-01,145821.02,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: e59a48a8-9e0e-4101-a2f8-2883d3123772,2024-08-01,147915.02,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Louise Zwijsen,Wedding gift,2024-08-01,148001.78,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 03e9a394-49fb-42fd-8358-d74981c6b691,2024-08-01,150095.78,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Daimler,Auto repair bill,2024-08-01,150125.3,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 119bf3e0-731f-402f-aa1d-2c656ebea1d5,2024-08-01,152219.3,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Gilead Sciences,Genetic testing kit,2024-08-01,152257.02,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Bristol-Myers Squibb,Drug order payment,2024-08-01,152260.83,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merck & Co.,Drug order payment,2024-08-01,152370.25,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 445c78d5-b779-4932-aebd-64dff5c47ead,2024-08-01,154464.25,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Kyara de Nijs,Anniversary gift,2024-08-01,154474.19,Retail worker,28
+EUR,NL12FAKE2234189930,NL,3M,Conglomerate product order,2024-08-01,154522.72,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6cfb2553-9443-4a9f-bbf9-293877ab9c29,2024-08-01,156616.72,Retail worker,28
+EUR,NL12FAKE2234189930,NL,ByteDance,Technology services invoice payment,2024-08-01,156667.17,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alphabet Inc.,Web hosting fee,2024-08-01,156678.08,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Roche,Medication purchase,2024-08-01,156689.0,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 03617396-a594-4a0f-969b-1a8da5059fc1,2024-08-01,158783.0,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Chris Scherms,Housewarming gift,2024-08-01,158796.37,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Hidde van Ooyen,Reimbursement for dinner,2024-08-01,158803.89,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Liam Luster,Loan to friend,2024-08-01,158817.8,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Valerie van Duivenvoorde,Friend loan repayment,2024-08-01,158835.07,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 9bde148d-10a9-4cc8-ab41-111a59e1d1c2,2024-08-01,160929.07,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Boeing,Aviation technology fee,2024-08-01,160936.91,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Procter & Gamble,Retail goods payment,2024-08-01,160966.63,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Thomas van Geest,Rent assistance,2024-08-01,160985.68,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 61592575-5f6c-41c5-bc57-a087a192a7a7,2024-08-01,163079.68,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Niek van de Berg,Shared utilities,2024-08-01,163092.24,Retail worker,28
+EUR,NL12FAKE2234189930,Japan,Mitsubishi,Conglomerate product order,2024-08-01,163113.72,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Emir de Bruijn,Family loan repayment,2024-08-01,163142.85,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 5adb1982-8469-407d-abf4-8fced2fb6109,2024-08-01,165236.85,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BMW,Auto repair bill,2024-08-01,165245.62,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Facebook,Social media service subscription,2024-08-01,165253.68,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Unilever,Subscription box service,2024-08-01,165259.46,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 46e4afd1-4944-489f-b9b5-ab40abb87815,2024-08-01,167353.46,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Abel Wouters van Eijndhoven-Hexspoor,Family loan repayment,2024-08-01,167355.81,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Honeywell,Diversified company fee,2024-08-01,167405.7,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Volkswagen,Car purchase,2024-08-01,167407.64,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Geldmaat ATM,Geldmaat: 1f1b5d9b-684e-4663-9314-1d6854c81167,2024-08-01,167590.41,Retail worker,28
+EUR,NL12FAKE2234189930,France,Roche,Pharmacy bill,2024-08-01,167615.57,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a0611fdb-b376-492d-bc04-f0faa76bae0d,2024-08-01,169709.57,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: b4f10e81-cb9f-44be-9f5d-4ce86b94a35b,2024-08-01,171803.57,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bayer,Healthcare prescription,2024-08-01,171804.54,Retail worker,28
+EUR,NL12FAKE2234189930,NL,AT&T,Data plan payment,2024-08-01,171850.75,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Kyra Meijer,Shared meal cost,2024-08-01,171907.66,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bayer,Pharmacy bill,2024-08-01,171923.1,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: c4c35d53-7666-44aa-ba3c-eb1dd4bf23b6,2024-08-01,174017.1,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: d73872c0-26ce-41e8-8837-2bc92654c5ca,2024-08-01,176111.1,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Energy supply charge,2024-08-01,176151.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Charlotte Schokman,Graduation gift,2024-08-01,176162.44,Retail worker,28
+EUR,NL12FAKE2234189930,NL,PepsiCo,Restaurant bill,2024-08-01,176171.6,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Unilever,Subscription box service,2024-08-01,176180.99,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: b7f84fff-9cf5-4ba0-970e-5bdbbb8be0aa,2024-08-01,178274.99,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Lynn Kunen-Heymans,Reimbursement for shopping,2024-08-01,178297.17,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Alphabet Inc.,Cloud storage subscription,2024-08-01,178308.68,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Microsoft,Software license fee payment,2024-08-01,178316.94,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BASF,Chemical supply order,2024-08-01,178333.03,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 20cc6537-780a-4f18-9ce1-9d947974467f,2024-08-01,180427.03,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Roche,Drug order payment,2024-08-01,180455.09,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BASF,Chemical supply order,2024-08-01,180528.92,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: b0772cfe-9f4b-48cb-93be-55b213bee9ea,2024-08-01,182622.92,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Mitsubishi,Business unit invoice,2024-08-01,182642.43,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Morgan Stanley,Brokerage fee,2024-08-01,182656.2,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: edd52200-2679-42f0-9c0d-aaa7613c4b79,2024-08-01,184750.2,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Johnson & Johnson,Healthcare prescription,2024-08-01,184762.92,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Ecrin Kamp,Rent payment,2024-08-01,184769.28,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Dell Technologies,Cloud storage subscription,2024-08-01,184805.93,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Mitsubishi,Conglomerate product order,2024-08-01,184813.73,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: ee287d71-3668-4a59-b518-76b533cce577,2024-08-01,186907.73,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Utility bill,2024-08-01,186910.91,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Jip van der Brink,Reimbursement for medical expenses,2024-08-01,186922.52,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Allianz,Insurance premium,2024-08-01,186946.62,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Dani van Wallaert-Moet,Travel expenses,2024-08-01,186958.06,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 0457f79b-31c8-444b-9c3e-11e699792f59,2024-08-01,189052.06,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Vigo van Santen,Funeral expenses,2024-08-01,189093.77,Retail worker,28
+EUR,NL12FAKE2234189930,NL,3M,Conglomerate product order,2024-08-01,189100.05,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 69093733-a438-4d5b-ad43-f7646258bd4f,2024-08-01,191194.05,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Chloé Fredriks,Friend loan repayment,2024-08-01,191213.97,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Geldmaat ATM,Geldmaat: d554dad0-c367-4726-b0e6-17d9caa29489,2024-08-01,191402.72,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Johnson & Johnson,Pharmacy bill,2024-08-01,191409.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Nike,Sportswear buy,2024-08-01,191435.22,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 2cf6bfa3-2cde-4ce6-9418-f1979ce82475,2024-08-01,193529.22,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Renske van der Spaendonck,Shared subscription,2024-08-01,193539.26,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Medication purchase,2024-08-01,193544.75,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Lisanne de Bock,Dinner reimbursement,2024-08-01,193559.38,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Mara Vandenbergh-van Haeften,Personal loan,2024-08-01,193639.15,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: fd57b464-0a4c-4750-be91-0f70254675a6,2024-08-01,195733.15,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Aimée Martens,Reimbursement for bills,2024-08-01,195839.13,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 0cd640d4-1771-4741-8fb8-03631c747168,2024-08-01,197933.13,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,3M,Conglomerate product order,2024-08-01,197938.07,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merle Rackham-van der Spaendonck,Household expenses,2024-08-01,197980.4,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 478b7c06-f640-4401-8ff4-868ad594f072,2024-08-01,200074.4,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Novartis,Pharmacy bill,2024-08-01,200134.03,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 28979f7a-4646-4b82-bcd4-322f4a4aac16,2024-08-01,202228.03,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Unilever,Order payment,2024-08-01,202243.9,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Bristol-Myers Squibb,Drug order payment,2024-08-01,202295.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6625f9aa-8c0c-42a5-a930-61249769a620,2024-08-01,204389.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Allianz,Policy renewal fee,2024-09-01,204482.51,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: cd583891-9da2-4a8c-9c03-bfa439b16c4f,2024-09-01,206576.51,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Pien Alpaidis,Shared subscription,2024-09-01,206603.9,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: da6fa243-6d25-4455-a407-87fdd4480565,2024-09-01,208697.9,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,SoftBank,Business unit invoice,2024-09-01,208810.58,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Geldmaat ATM,Geldmaat: 28d77cef-3a5e-426d-bbeb-4dcf2cd7cc8e,2024-09-01,209033.2,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 3f62f9fe-f966-42b5-a0c7-593bb407b231,2024-09-01,211127.2,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Boeing,Aerospace parts purchase,2024-09-01,211130.12,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Robin van den Eijssel,Shared hotel room cost,2024-09-01,211149.92,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 87bd9637-42d8-4087-aa52-50fe2c72f70b,2024-09-01,213243.92,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Berkshire Hathaway,Conglomerate product order,2024-09-01,213255.05,Retail worker,28
+EUR,NL12FAKE2234189930,NL,AT&T,Cable service subscription,2024-09-01,213262.91,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Volkswagen,Auto repair bill,2024-09-01,213359.83,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merck & Co.,Drug order payment,2024-09-01,213474.14,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 5786b2bb-3fcb-4a2b-a640-2881c054e88f,2024-09-01,215568.14,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Bjorn Steenbeek,Debt settlement,2024-09-01,215577.06,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Mitsubishi,Conglomerate product order,2024-09-01,215665.29,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: d16752e6-8540-471c-abbf-1bc5814c548a,2024-09-01,217759.29,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BASF,Cleaning products order,2024-09-01,217797.24,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 5c2916b4-49ca-485f-95c9-1407b8064cc7,2024-09-01,219891.24,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Lise Molegraaf,Birthday party expenses,2024-09-01,219927.13,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 16e7aa31-a391-4dce-9820-13e67143c050,2024-09-01,222021.13,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Melissa Speijer,Anniversary gift,2024-09-01,222035.41,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Berkshire Hathaway,Diversified company fee,2024-09-01,222050.29,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Ivan Alpaidis,Split restaurant bill,2024-09-01,222089.28,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 916595df-82e7-4b8e-aa00-4381e669590d,2024-09-01,224183.28,Retail worker,28
+EUR,NL12FAKE2234189930,NL,General Electric,Corporate services payment,2024-09-01,224243.47,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Oracle,Cloud storage subscription,2024-09-01,224371.6,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 6b226c07-949e-4bc3-b01a-dd68d527145b,2024-09-01,226465.6,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Toyota,Auto repair bill,2024-09-01,226470.41,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Sanofi,Pharmacy bill,2024-09-01,226484.27,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 820786a5-2c8a-4abd-88a1-af6553aef792,2024-09-01,228578.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Oracle,Technology services invoice payment,2024-09-01,228605.4,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Berkshire Hathaway,Diversified company fee,2024-09-01,228611.73,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Alibaba,Subscription service,2024-09-01,228618.82,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 5f659919-f17c-4d1a-9632-547c3971e1d1,2024-09-01,230712.82,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,AstraZeneca,Pharmacy bill,2024-09-01,230765.98,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Kyra van Ghoerle,Grocery money,2024-09-01,230799.36,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Huawei,Web hosting fee,2024-09-01,230834.1,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 51b621fa-a4e8-4087-a497-b5c9616d1ade,2024-09-01,232928.1,Retail worker,28
+EUR,NL12FAKE2234189930,Belgium,Amazon,Online shopping,2024-09-01,232949.6,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Pfizer,Pharmacy bill,2024-09-01,232953.29,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 131d25ca-b441-4ebd-8510-22e284e18645,2024-09-01,235047.29,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,3M,Diversified company fee,2024-09-01,235067.83,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Jayson Scardino,Graduation gift,2024-09-01,235078.96,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Drug order payment,2024-09-01,235087.96,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Apple Inc.,Technology services invoice payment,2024-09-01,235119.51,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Oracle,Software license fee payment,2024-09-01,235123.68,Retail worker,28
+EUR,NL12FAKE2234189930,NL,DuPont,Business unit invoice,2024-09-01,235198.27,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 9380de8c-6763-42c1-a2e1-f721839ee1b9,2024-09-01,237292.27,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Geldmaat ATM,Geldmaat: d5d9adc6-9f76-447d-926d-36b2bbf4c9b0,2024-09-01,237477.05,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 11c07581-79c8-4e11-a923-f92868ec9c39,2024-09-01,239571.05,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Ivy Butselaar,Friend loan repayment,2024-09-01,239586.53,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Daimler,Car parts order,2024-09-01,239610.66,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 024f172a-4eb5-46ce-83e1-a2ef9f7558c2,2024-09-01,241704.66,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Geldmaat ATM,Geldmaat: 2e77d564-2830-40b3-bd2b-ec28c65449d1,2024-09-01,241857.13,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Berkshire Hathaway,Corporate services payment,2024-09-01,241867.16,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Pfizer,Healthcare prescription,2024-09-01,241894.32,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 73a1acba-28aa-44ea-ae6b-7d366a0da635,2024-09-01,243988.32,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Procter & Gamble,Order payment,2024-09-01,244000.67,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Luuk Jansen,Child support,2024-09-01,244004.92,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Nike,Fashion brand order,2024-09-01,244021.47,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 2005fa41-eab3-4728-b59d-c13f7cafb6af,2024-09-01,246115.47,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Geldmaat ATM,Geldmaat: 89b66922-8638-4c7d-b747-9f0054e0ad2d,2024-09-01,246221.39,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Daimler,Auto repair bill,2024-09-01,246222.23,Retail worker,28
+EUR,NL12FAKE2234189930,Hungary,Honeywell,Business unit invoice,2024-09-01,246244.66,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 080147b8-a8ca-4d85-8869-e16d03361b5d,2024-09-01,248338.66,Retail worker,28
+EUR,NL12FAKE2234189930,NL,PepsiCo,Food delivery,2024-09-01,248376.31,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Unilever,Product purchase,2024-09-01,248409.56,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Procter & Gamble,Order payment,2024-09-01,248511.99,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 520bd173-4b57-4656-b8d1-d45d94e5f882,2024-09-01,250605.99,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 69359f83-d5a3-4e5e-80b8-f2d7da180734,2024-09-01,252699.99,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Juliette Buijs,Grocery money,2024-09-01,252754.57,Retail worker,28
+EUR,NL12FAKE2234189930,NL,BASF,Cleaning products order,2024-09-01,252819.89,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 41ef68aa-5d12-4288-8d5a-a44f30466845,2024-09-01,254913.89,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,Subscription service,2024-09-01,254927.01,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Ivan Veenstra-van Liendert,Gas money,2024-09-01,254945.72,Retail worker,28
+EUR,NL12FAKE2234189930,Austria,Daimler,Auto repair bill,2024-09-01,254986.37,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Cisco Systems,Technology services invoice payment,2024-09-01,254987.22,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Amazon,E-commerce order,2024-09-01,254993.09,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 42655a5b-b222-41d3-b2ff-faee8708867b,2024-09-01,257087.09,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Daimler,Auto repair bill,2024-09-01,257155.57,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: bb33468a-f0f8-4c26-bb96-0b97b183a8bf,2024-09-01,259249.57,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Lynn Moet,Travel expenses,2024-09-01,259263.18,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Honeywell,Corporate services payment,2024-09-01,259332.17,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Berkshire Hathaway,Corporate services payment,2024-09-01,259342.41,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 45f3d962-99e5-4c37-8ae7-03c177b81db2,2024-09-01,261436.41,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Boeing,Space exploration fee,2024-09-01,261549.63,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: ecf879f0-f516-4d69-9160-2c8fae331454,2024-09-01,263643.63,Retail worker,28
+EUR,NL12FAKE2234189930,France,Kai van Haspengouw,Household expenses,2024-09-01,263769.57,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 3401b855-607d-41df-b766-df3e924f3447,2024-09-01,265863.57,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Julie van Schevinghuizen,Reimbursement for dinner,2024-09-01,265872.93,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Goldman Sachs,Investment fund entry,2024-09-01,265876.61,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Energy supply charge,2024-09-01,265926.55,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Renault,Auto repair bill,2024-09-01,265938.77,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Yara Bosman,Gas money,2024-09-01,265940.0,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Robin Brizee,Debt settlement,2024-09-01,265955.29,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: f22dcf03-d9ee-4a49-9280-03db486875f0,2024-09-01,268049.29,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Renault,Vehicle service charge,2024-09-01,268054.29,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Nina Kisman,Reimbursement for groceries,2024-09-01,268060.64,Retail worker,28
+EUR,NL12FAKE2234189930,Spain,Nadia Roukes,Rent payment,2024-09-01,268067.87,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merck & Co.,Drug order payment,2024-09-01,268098.48,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 172bac35-67ee-4ff8-9053-6b86a1c19495,2024-09-01,270192.48,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Arthur Molenaar-Puig,Split restaurant bill,2024-09-01,270201.86,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Aimée van Beieren,Support for a friend,2024-10-01,270237.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merck & Co.,Drug order payment,2024-10-01,270276.29,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 1baf7164-2d4a-46a3-96f6-504c85323fdb,2024-10-01,272370.29,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Bristol-Myers Squibb,Medication purchase,2024-10-01,272375.09,Retail worker,28
+EUR,NL12FAKE2234189930,Great Britain,Boeing,Space exploration fee,2024-10-01,272422.65,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: c129783f-fe6e-44fb-95ce-023f7207623d,2024-10-01,274516.65,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Accenture,Consulting fee,2024-10-01,274527.82,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Unilever,Product purchase,2024-10-01,274549.12,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 276f9e16-5f35-4180-b3e7-2e1ce4d0c73d,2024-10-01,276643.12,Retail worker,28
+EUR,NL12FAKE2234189930,Austria,Victoria Kuijpers,Reimbursement for bills,2024-10-01,276679.8,Retail worker,28
+EUR,NL12FAKE2234189930,NL,GlaxoSmithKline,Healthcare prescription,2024-10-01,276740.66,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 85b76b9d-53c0-438a-8f95-48b749f4083d,2024-10-01,278834.66,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Allianz,Claim settlement,2024-10-01,278843.94,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Airbus,Aircraft maintenance,2024-10-01,278867.77,Retail worker,28
+EUR,NL12FAKE2234189930,Austria,ByteDance,Software license fee payment,2024-10-01,278877.28,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: e47d9271-7f3d-447a-bcbe-fafe93543e97,2024-10-01,280971.28,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,3M,Conglomerate product order,2024-10-01,280973.8,Retail worker,28
+EUR,NL12FAKE2234189930,Germany,Morgan Stanley,Investment fund entry,2024-10-01,281044.6,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: e31b0cfa-6f52-4c40-aa41-c95504573b6e,2024-10-01,283138.6,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Alphabet Inc.,Web hosting fee,2024-10-01,283168.48,Retail worker,28
+EUR,NL12FAKE2234189930,Canada,Johnson & Johnson,Pharmacy bill,2024-10-01,283173.93,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Meta Platforms,Cloud storage subscription,2024-10-01,283214.04,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: a9fe167e-ff17-44d1-8c43-87412a9bb445,2024-10-01,285308.04,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Nike,Clothing purchase,2024-10-01,285321.27,Retail worker,28
+EUR,NL12FAKE2234189930,NL,LVMH,Exclusive brand fee,2024-10-01,285372.18,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: ad8b969b-904f-486f-82a8-c6388876af18,2024-10-01,287466.18,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Energy supply charge,2024-10-01,287490.9,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Oracle,Cloud storage subscription,2024-10-01,287512.72,Retail worker,28
+EUR,NL12FAKE2234189930,NL,IBM,Cloud storage subscription,2024-10-01,287524.1,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: fae8eb6e-10e4-4a78-9e2e-34f5cb6048d8,2024-10-01,289618.1,Retail worker,28
+EUR,NL12FAKE2234189930,Denmark,Verizon,Phone bill,2024-10-01,289651.91,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 9661d430-495c-4916-b4bc-8981adbb63b0,2024-10-01,291745.91,Retail worker,28
+EUR,NL12FAKE2234189930,Italy,Roche,Drug order payment,2024-10-01,291762.07,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Renewable energy subscription,2024-10-01,291772.77,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 7ed99f60-84cc-4a86-9546-24b9e661f297,2024-10-01,293866.77,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Phillips 66,Electricity payment,2024-10-01,293879.67,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Mitsubishi,Corporate services payment,2024-10-01,293924.52,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Unilever,Subscription box service,2024-10-01,293964.88,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 388097d0-69eb-4b23-ba54-e6bf4804321a,2024-10-01,296058.88,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Merijn Frerichs,Reimbursement for bills,2024-10-01,296077.43,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Airbus,Aircraft maintenance,2024-10-01,296095.32,Retail worker,28
+EUR,NL12FAKE2234189930,United States,Geldmaat ATM,Geldmaat: 8ff714fd-c183-46ac-8087-4d41838f6ec7,2024-10-01,298189.32,Retail worker,28
+EUR,NL12FAKE2234189930,NL,Ravi Ridder,Christmas gift,2024-10-01,298197.21,Retail worker,28
+EUR,NL12FAKE2234189930,NL,General Electric,Business unit invoice,2024-10-01,298220.39,Retail worker,28

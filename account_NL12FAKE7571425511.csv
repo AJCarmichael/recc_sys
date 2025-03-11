@@ -1,0 +1,536 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL12FAKE7571425511,United States,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,2522.12,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: d6efe471-5fce-4405-a24b-19496f29e4d5,2024-06-01,7506.12,Professional,45
+EUR,NL12FAKE7571425511,NL,Gilead Sciences,Laboratory service charge,2024-06-01,7558.82,Professional,45
+EUR,NL12FAKE7571425511,NL,Boeing,Aviation technology fee,2024-06-01,7615.02,Professional,45
+EUR,NL12FAKE7571425511,NL,Phillips 66,Energy supply charge,2024-06-01,7660.14,Professional,45
+EUR,NL12FAKE7571425511,NL,Unilever,Retail goods payment,2024-06-01,7662.82,Professional,45
+EUR,NL12FAKE7571425511,NL,Cisco Systems,Technology services invoice payment,2024-06-01,7664.63,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 216d5cb4-f8c1-495e-980a-0212c267b1b8,2024-06-01,12648.63,Professional,45
+EUR,NL12FAKE7571425511,NL,Sanofi,Drug order payment,2024-06-01,12667.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Facebook,Influencer collaboration fee,2024-06-01,12758.05,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6445a54e-1b81-4c63-9f56-7a495efbef49,2024-06-01,17742.05,Professional,45
+EUR,NL12FAKE7571425511,NL,Pfizer,Pharmacy bill,2024-06-01,17803.99,Professional,45
+EUR,NL12FAKE7571425511,NL,Oracle,Cloud storage subscription,2024-06-01,17842.12,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 4a01c737-c6a2-4df2-9586-fe299954412d,2024-06-01,22826.12,Professional,45
+EUR,NL12FAKE7571425511,United States,Allianz,Policy renewal fee,2024-06-01,23047.91,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 43ffb595-f10c-4a29-8fec-9aea9ecff015,2024-06-01,28031.91,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ddca7ce4-a393-4853-901b-25e186cbec8d,2024-06-01,33015.91,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Facebook,Social media service subscription,2024-06-01,33078.15,Professional,45
+EUR,NL12FAKE7571425511,Hungary,Evelien van den Hoek,Baby shower gift,2024-06-01,33096.94,Professional,45
+EUR,NL12FAKE7571425511,Germany,3M,Corporate services payment,2024-06-01,33144.6,Professional,45
+EUR,NL12FAKE7571425511,NL,Dell Technologies,Technology services invoice payment,2024-06-01,33202.94,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 2c08edd5-0570-4e55-8e7e-fbba5950f8f8,2024-06-01,38186.94,Professional,45
+EUR,NL12FAKE7571425511,NL,Daniël Prins-Room,Dinner reimbursement,2024-06-01,38196.05,Professional,45
+EUR,NL12FAKE7571425511,NL,PepsiCo,Catering service fee,2024-06-01,38274.51,Professional,45
+EUR,NL12FAKE7571425511,NL,Berkshire Hathaway,Conglomerate product order,2024-06-01,38281.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 4f253c5c-bf17-47c0-8de8-878cd5723534,2024-06-01,43265.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Alphabet Inc.,Web hosting fee,2024-06-01,43275.88,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Gilead Sciences,Clinical trial payment,2024-06-01,43330.68,Professional,45
+EUR,NL12FAKE7571425511,United States,Roche,Pharmacy bill,2024-06-01,43359.15,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Roche,Medication purchase,2024-06-01,43361.31,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 77c54208-787b-4b21-914e-686d00df5fa1,2024-06-01,48345.31,Professional,45
+EUR,NL12FAKE7571425511,NL,Renault,Car purchase,2024-06-01,48365.96,Professional,45
+EUR,NL12FAKE7571425511,NL,3M,Business unit invoice,2024-06-01,48368.39,Professional,45
+EUR,NL12FAKE7571425511,NL,Duke Energy,Electricity payment,2024-06-01,48421.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 8255a85c-56fe-44ec-8148-4d76b04b6d22,2024-06-01,53405.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Valentijn Martens-Oversteeg,Support for a friend,2024-06-01,53414.09,Professional,45
+EUR,NL12FAKE7571425511,NL,Berkshire Hathaway,Corporate services payment,2024-06-01,53471.94,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: d34ca62f-4ea4-45e6-8569-a59197941bb9,2024-06-01,58455.94,Professional,45
+EUR,NL12FAKE7571425511,NL,Gilead Sciences,Biotech research fee,2024-06-01,58510.99,Professional,45
+EUR,NL12FAKE7571425511,NL,Allianz,Coverage update charge,2024-06-01,58534.37,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 0485a933-13ce-4d32-b2fc-6092e21bf214,2024-06-01,63518.37,Professional,45
+EUR,NL12FAKE7571425511,NL,SoftBank,Corporate services payment,2024-06-01,63606.37,Professional,45
+EUR,NL12FAKE7571425511,NL,Bayer,Healthcare prescription,2024-06-01,63634.38,Professional,45
+EUR,NL12FAKE7571425511,United States,BASF,Cleaning products order,2024-06-01,63675.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Jack Loep-van Dongen,Friend loan repayment,2024-06-01,63689.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: bb1103fe-1ae0-4618-9520-db0dbbc1a306,2024-06-01,68673.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Mare le Gulcher-Sire,Loan repayment,2024-06-01,68685.77,Professional,45
+EUR,NL12FAKE7571425511,NL,Boeing,Aviation technology fee,2024-06-01,68729.17,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 5a5a8783-f255-4ba6-958a-a7900d6ec455,2024-06-01,73713.17,Professional,45
+EUR,NL12FAKE7571425511,NL,Chloë van Hostaden,Rent assistance,2024-06-01,73777.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: db47f07c-5e77-4e79-a11f-01b8f1319ffe,2024-06-01,78761.21,Professional,45
+EUR,NL12FAKE7571425511,Canada,Apple Inc.,Technology services invoice payment,2024-06-01,78817.17,Professional,45
+EUR,NL12FAKE7571425511,NL,Novartis,Healthcare prescription,2024-06-01,78854.38,Professional,45
+EUR,NL12FAKE7571425511,NL,Selina Bastiaense,Split vacation cost,2024-06-01,78858.95,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: eae6e59d-2dda-4aaa-a5d0-2129efdedae8,2024-06-01,83842.95,Professional,45
+EUR,NL12FAKE7571425511,NL,Airbus,Space exploration fee,2024-06-01,83876.86,Professional,45
+EUR,NL12FAKE7571425511,NL,Emma Tirie-Bruijne van der Veen,Wedding gift,2024-06-01,83877.96,Professional,45
+EUR,NL12FAKE7571425511,Spain,Duke Energy,Utility bill,2024-06-01,83909.25,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: f4973623-a84c-4bd1-9dbc-5f1c2e06e98c,2024-06-01,88893.25,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Consulting fee,2024-06-01,89002.35,Professional,45
+EUR,NL12FAKE7571425511,NL,Apple Inc.,Web hosting fee,2024-06-01,89045.66,Professional,45
+EUR,NL12FAKE7571425511,NL,Sten van den Nuwenhuijzen,Emergency funds,2024-06-01,89061.28,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Huawei,Cloud storage subscription,2024-06-01,89096.6,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 198cd371-1945-4c1a-a6bf-4f35f153ccc9,2024-06-01,94080.6,Professional,45
+EUR,NL12FAKE7571425511,France,Duuk van Saksen,Travel expenses,2024-06-01,94161.43,Professional,45
+EUR,NL12FAKE7571425511,Germany,Unilever,Subscription box service,2024-06-01,94168.0,Professional,45
+EUR,NL12FAKE7571425511,Germany,Mitsubishi,Diversified company fee,2024-06-01,94171.85,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 2a9d5c04-0b01-4e01-8908-d3c8889e841a,2024-06-01,99155.85,Professional,45
+EUR,NL12FAKE7571425511,NL,Alibaba,E-commerce order,2024-06-01,99163.59,Professional,45
+EUR,NL12FAKE7571425511,NL,Amir Westerbeek,Reimbursement for bills,2024-06-01,99165.38,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Goldman Sachs,Stock purchase,2024-06-01,99214.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Goldman Sachs,Stock purchase,2024-06-01,99219.87,Professional,45
+EUR,NL12FAKE7571425511,NL,Amazon,Marketplace seller fee,2024-06-01,99220.77,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: aea0042e-c002-4837-8b63-fb571bb1b810,2024-06-01,104204.77,Professional,45
+EUR,NL12FAKE7571425511,NL,Amazon,Subscription service,2024-06-01,104242.25,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,GlaxoSmithKline,Pharmacy bill,2024-06-01,104246.97,Professional,45
+EUR,NL12FAKE7571425511,NL,DuPont,Diversified company fee,2024-06-01,104258.05,Professional,45
+EUR,NL12FAKE7571425511,NL,Daimler,Vehicle service charge,2024-06-01,104301.44,Professional,45
+EUR,NL12FAKE7571425511,Germany,Roche,Healthcare prescription,2024-06-01,104305.44,Professional,45
+EUR,NL12FAKE7571425511,NL,ByteDance,Cloud storage subscription,2024-06-01,104342.45,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6538f3dd-0e57-4ae2-998b-5e8a15f58de6,2024-06-01,109326.45,Professional,45
+EUR,NL12FAKE7571425511,NL,Goldman Sachs,Capital markets service,2024-06-01,109345.71,Professional,45
+EUR,NL12FAKE7571425511,NL,Oscar Freshour,Shared meal cost,2024-06-01,109416.96,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Allianz,Claim settlement,2024-06-01,109418.88,Professional,45
+EUR,NL12FAKE7571425511,NL,AstraZeneca,Medication purchase,2024-06-01,109439.56,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6a03418a-a53e-4e4f-8031-14f106e6b109,2024-06-01,114423.56,Professional,45
+EUR,NL12FAKE7571425511,NL,Jill Le Grand,Family loan repayment,2024-06-01,114442.05,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Airbus,Space exploration fee,2024-06-01,114533.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 5cea170a-183c-4bd2-b894-ad2c972a6fab,2024-06-01,119517.27,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Pfizer,Healthcare prescription,2024-06-01,119529.83,Professional,45
+EUR,NL12FAKE7571425511,NL,Daniël Die Bont,Reimbursement for groceries,2024-06-01,119684.34,Professional,45
+EUR,NL12FAKE7571425511,NL,Oracle,Cloud storage subscription,2024-06-01,119708.95,Professional,45
+EUR,NL12FAKE7571425511,NL,Tata Consultancy Services,Software development bill,2024-06-01,119722.35,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 925d55e6-5b2f-4fce-b17c-b9decc1a24a5,2024-06-01,124706.35,Professional,45
+EUR,NL12FAKE7571425511,NL,BASF,Industrial chemicals purchase,2024-06-01,124794.71,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ed9505c6-9f4a-4f8a-b92b-49d69d041308,2024-06-01,129778.71,Professional,45
+EUR,NL12FAKE7571425511,Germany,BMW,Car purchase,2024-06-01,129781.96,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Renault,Car parts order,2024-06-01,129858.31,Professional,45
+EUR,NL12FAKE7571425511,NL,Meta Platforms,Web hosting fee,2024-06-01,129880.85,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,129887.83,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b16b4b23-9d99-4de8-ae3b-d81169937b4a,2024-06-01,134871.83,Professional,45
+EUR,NL12FAKE7571425511,NL,Tycho Marchand,Shared hotel room cost,2024-06-01,134961.95,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: f11a823f-cba8-43d3-a161-c42a387ae70f,2024-06-01,139945.95,Professional,45
+EUR,NL12FAKE7571425511,Spain,Facebook,Influencer collaboration fee,2024-06-01,139987.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 72b410dd-ac77-40c0-af5b-ba1685f2236e,2024-06-01,144971.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Daimler,Car purchase,2024-06-01,144978.5,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Volkswagen,Vehicle service charge,2024-06-01,144997.05,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,GlaxoSmithKline,Healthcare prescription,2024-06-01,145027.8,Professional,45
+EUR,NL12FAKE7571425511,NL,Merck & Co.,Medication purchase,2024-06-01,145044.79,Professional,45
+EUR,NL12FAKE7571425511,NL,Tata Consultancy Services,IT support fee,2024-06-01,145068.53,Professional,45
+EUR,NL12FAKE7571425511,Germany,Airbus,Aerospace parts purchase,2024-06-01,145097.95,Professional,45
+EUR,NL12FAKE7571425511,NL,Meta Platforms,Cloud storage subscription,2024-06-01,145183.27,Professional,45
+EUR,NL12FAKE7571425511,Canada,Marit Vertoor-Nek,Loan to friend,2024-06-01,145187.79,Professional,45
+EUR,NL12FAKE7571425511,NL,Meta Platforms,Software license fee payment,2024-06-01,145245.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 0aae5869-2c4b-4963-ae0c-e611bada71e8,2024-06-01,150229.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 00076641-1a65-4d21-b996-15841ba5e169,2024-06-01,150237.18,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: dc24c527-5ccc-45b3-accd-9bbe153aeac3,2024-06-01,155221.18,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Merck & Co.,Drug order payment,2024-06-01,155348.93,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Renault,Auto repair bill,2024-06-01,155362.15,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: fa963e7b-8786-4a66-8bd0-3f9c28339179,2024-07-01,160346.15,Professional,45
+EUR,NL12FAKE7571425511,Italy,Apple Inc.,Cloud storage subscription,2024-07-01,160464.43,Professional,45
+EUR,NL12FAKE7571425511,NL,Noah Bartels-Huijben,Anniversary gift,2024-07-01,160479.8,Professional,45
+EUR,NL12FAKE7571425511,NL,Kyano Weyland,Personal loan,2024-07-01,160482.13,Professional,45
+EUR,NL12FAKE7571425511,NL,Victoria van Gastel,Split restaurant bill,2024-07-01,160490.97,Professional,45
+EUR,NL12FAKE7571425511,NL,Facebook,Social media service subscription,2024-07-01,160547.4,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 5cbf661a-ad19-4bb4-bd94-19242d731dd8,2024-07-01,165531.4,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Accenture,Professional service invoice,2024-07-01,165536.68,Professional,45
+EUR,NL12FAKE7571425511,Canada,Daimler,Auto repair bill,2024-07-01,165543.39,Professional,45
+EUR,NL12FAKE7571425511,Hungary,Vincent die Witte,Emergency funds,2024-07-01,165621.42,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: be8a8a37-544a-4c80-a529-f89173e13470,2024-07-01,170605.42,Professional,45
+EUR,NL12FAKE7571425511,NL,BMW,Auto repair bill,2024-07-01,170659.41,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b7dc52fc-6e43-4a0e-99b6-97e7c77092f2,2024-07-01,175643.41,Professional,45
+EUR,NL12FAKE7571425511,NL,Goldman Sachs,Capital markets service,2024-07-01,175674.33,Professional,45
+EUR,NL12FAKE7571425511,NL,Microsoft,Technology services invoice payment,2024-07-01,175691.96,Professional,45
+EUR,NL12FAKE7571425511,NL,Pfizer,Healthcare prescription,2024-07-01,175699.7,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Verizon,Telecom invoice,2024-07-01,175752.36,Professional,45
+EUR,NL12FAKE7571425511,NL,Tata Consultancy Services,Software development bill,2024-07-01,175759.42,Professional,45
+EUR,NL12FAKE7571425511,NL,Sanofi,Drug order payment,2024-07-01,175766.63,Professional,45
+EUR,NL12FAKE7571425511,NL,Phillips 66,Utility bill,2024-07-01,175773.22,Professional,45
+EUR,NL12FAKE7571425511,United States,Nike,Clothing purchase,2024-07-01,175792.13,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 267e4227-f4d2-471b-9d56-41350708268f,2024-07-01,180776.13,Professional,45
+EUR,NL12FAKE7571425511,NL,Fien Saxo,Split vacation cost,2024-07-01,180778.93,Professional,45
+EUR,NL12FAKE7571425511,NL,Maxim van Evelingen,Family loan repayment,2024-07-01,180834.74,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 65d520cf-a6e8-42d5-913a-c5a03013974d,2024-07-01,185818.74,Professional,45
+EUR,NL12FAKE7571425511,NL,Mats Wolters,Debt settlement,2024-07-01,185882.46,Professional,45
+EUR,NL12FAKE7571425511,NL,Sanofi,Pharmacy bill,2024-07-01,185969.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: c5977d40-ccbd-4447-a5b1-6c4eace2ee83,2024-07-01,190953.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Lauren Estey-van Velthoven,Gift,2024-07-01,191064.81,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: e6bb3de2-07e2-40a4-a832-02c9945a66bb,2024-07-01,196048.81,Professional,45
+EUR,NL12FAKE7571425511,NL,Tata Consultancy Services,Software development bill,2024-07-01,196064.26,Professional,45
+EUR,NL12FAKE7571425511,NL,Roche,Pharmacy bill,2024-07-01,196082.56,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: df9a7546-b269-4ddd-911c-c4031cb8bdb8,2024-07-01,201066.56,Professional,45
+EUR,NL12FAKE7571425511,NL,Liza Frankhuizen,Loan repayment,2024-07-01,201068.56,Professional,45
+EUR,NL12FAKE7571425511,Canada,Geldmaat ATM,Geldmaat: d318d592-ce07-4c89-bc8c-d58861e2af01,2024-07-01,201076.69,Professional,45
+EUR,NL12FAKE7571425511,Germany,Alibaba,Marketplace seller fee,2024-07-01,201114.33,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6d017920-1dcd-48cb-9569-169ddbfe22a1,2024-07-01,201146.4,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b0b84fb2-b57a-44e7-99a9-ccb993774af8,2024-07-01,201151.24,Professional,45
+EUR,NL12FAKE7571425511,NL,Duke Energy,Utility bill,2024-07-01,201174.09,Professional,45
+EUR,NL12FAKE7571425511,NL,Giel van Bergen,Split restaurant bill,2024-07-01,201382.96,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6e4faf49-f26b-4589-8109-92571c601348,2024-07-01,206366.96,Professional,45
+EUR,NL12FAKE7571425511,NL,3M,Conglomerate product order,2024-07-01,206626.64,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: da7cdb10-a46f-43ff-9ba1-69468bd74e2d,2024-07-01,211610.64,Professional,45
+EUR,NL12FAKE7571425511,NL,Koen Glasses,Loan to family,2024-07-01,211613.16,Professional,45
+EUR,NL12FAKE7571425511,Italy,Jacob Stettyn-van Maasgouw,Rent deposit,2024-07-01,211703.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: e93cdf08-b8ee-4628-8e1c-aa1f22e47245,2024-07-01,216687.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Verizon,Data plan payment,2024-07-01,216687.84,Professional,45
+EUR,NL12FAKE7571425511,NL,DuPont,Conglomerate product order,2024-07-01,216699.53,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: c1ddceaa-f3e9-44e1-a34f-da618faae018,2024-07-01,221683.53,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Expert consultation fee,2024-07-01,221781.83,Professional,45
+EUR,NL12FAKE7571425511,NL,Thijs van Beeck Beeckmans,Party contribution,2024-07-01,221920.0,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 63901470-0e45-477e-bbbd-2aed429a9781,2024-07-01,226904.0,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: d1d95ffb-8ebd-4a04-b906-960e65c0924c,2024-07-01,231888.0,Professional,45
+EUR,NL12FAKE7571425511,NL,Alphabet Inc.,Web hosting fee,2024-07-01,232027.41,Professional,45
+EUR,NL12FAKE7571425511,NL,General Electric,Corporate services payment,2024-07-01,232117.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 1cc1b294-f62a-45cd-a9ed-3d6fed458f09,2024-07-01,237101.67,Professional,45
+EUR,NL12FAKE7571425511,Austria,Apple Inc.,Technology services invoice payment,2024-07-01,237130.54,Professional,45
+EUR,NL12FAKE7571425511,NL,Tata Consultancy Services,Software development bill,2024-07-01,237167.53,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: a24990f8-18d4-4564-a261-bf730844df1b,2024-07-01,242151.53,Professional,45
+EUR,NL12FAKE7571425511,NL,Kaylee de Smit,Support money,2024-07-01,242222.43,Professional,45
+EUR,NL12FAKE7571425511,Canada,Renault,Auto repair bill,2024-07-01,242244.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Boeing,Space exploration fee,2024-07-01,242258.95,Professional,45
+EUR,NL12FAKE7571425511,NL,AstraZeneca,Healthcare prescription,2024-07-01,242336.25,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: dcb9ba05-89d3-4220-8e33-608038a0a4b5,2024-07-01,247320.25,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Phillips 66,Electricity payment,2024-07-01,247379.77,Professional,45
+EUR,NL12FAKE7571425511,NL,Amazon,Online shopping,2024-07-01,247453.18,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 8e5fcd4b-bfec-4b5c-9d42-d7297cde6b2d,2024-07-01,252437.18,Professional,45
+EUR,NL12FAKE7571425511,Canada,Julie Boogaerts-van Luin,Reimbursement for groceries,2024-07-01,252493.1,Professional,45
+EUR,NL12FAKE7571425511,Canada,Johnson & Johnson,Healthcare prescription,2024-07-01,252552.54,Professional,45
+EUR,NL12FAKE7571425511,NL,Airbus,Space exploration fee,2024-07-01,252568.36,Professional,45
+EUR,NL12FAKE7571425511,NL,Merck & Co.,Drug order payment,2024-07-01,252571.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: deeaa3ce-c3b4-407e-8553-ba702ce310b7,2024-07-01,257555.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Mirthe Knuf-Phillipsen,Gift,2024-07-01,257679.6,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 508ed42d-1b17-41f4-8ca8-61aa12670206,2024-07-01,262663.6,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 3f202790-5ab8-4b5e-aad5-a8922b71b1bc,2024-07-01,267647.6,Professional,45
+EUR,NL12FAKE7571425511,France,Pfizer,Healthcare prescription,2024-07-01,268576.54,Professional,45
+EUR,NL12FAKE7571425511,Canada,Huawei,Cloud storage subscription,2024-07-01,268613.26,Professional,45
+EUR,NL12FAKE7571425511,NL,Dewi van der Hoeven,New baby gift,2024-07-01,268661.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: bde79436-120f-45de-8b28-d447c0c8b8f0,2024-07-01,273645.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Mitsubishi,Business unit invoice,2024-07-01,273706.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: c3a15e85-e822-42a9-ab27-8560a18f9021,2024-07-01,278690.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 9b7d1a99-9606-471f-ac90-2d5828aae9f6,2024-07-01,278722.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Amazon,Marketplace seller fee,2024-07-01,278745.06,Professional,45
+EUR,NL12FAKE7571425511,NL,Pfizer,Pharmacy bill,2024-07-01,278842.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: a9bacb22-6ea8-455d-87aa-9cd03b841570,2024-07-01,283826.27,Professional,45
+EUR,NL12FAKE7571425511,Italy,Renault,Car purchase,2024-07-01,283831.85,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: cf1dae46-ca85-46b4-a6f4-218d9a8acaab,2024-07-01,288815.85,Professional,45
+EUR,NL12FAKE7571425511,Japan,Daimler,Car parts order,2024-07-01,288836.73,Professional,45
+EUR,NL12FAKE7571425511,NL,Gilead Sciences,Laboratory service charge,2024-07-01,288912.11,Professional,45
+EUR,NL12FAKE7571425511,NL,Sofie Oostveen,Reimbursement for dinner,2024-07-01,288929.23,Professional,45
+EUR,NL12FAKE7571425511,NL,Toyota,Auto repair bill,2024-07-01,288939.15,Professional,45
+EUR,NL12FAKE7571425511,NL,Tata Consultancy Services,IT support fee,2024-07-01,288962.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Duke Energy,Renewable energy subscription,2024-07-01,289012.24,Professional,45
+EUR,NL12FAKE7571425511,Canada,Honeywell,Diversified company fee,2024-07-01,289033.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 04368350-944f-4d69-8ef9-89bfc93d9ff2,2024-07-01,294017.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Unilever,Product purchase,2024-07-01,294077.57,Professional,45
+EUR,NL12FAKE7571425511,United States,Accenture,Expert consultation fee,2024-07-01,294081.03,Professional,45
+EUR,NL12FAKE7571425511,NL,Airbus,Space exploration fee,2024-07-01,294125.49,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: da30fb7a-6303-49f8-a6ee-75e75019d8bb,2024-07-01,299109.49,Professional,45
+EUR,NL12FAKE7571425511,NL,Unilever,Subscription box service,2024-07-01,299123.49,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Professional service invoice,2024-07-01,299125.93,Professional,45
+EUR,NL12FAKE7571425511,NL,Honeywell,Business unit invoice,2024-07-01,299131.28,Professional,45
+EUR,NL12FAKE7571425511,France,LVMH,Designer goods order,2024-07-01,299168.68,Professional,45
+EUR,NL12FAKE7571425511,Canada,Ford Motor,Car purchase,2024-07-01,299189.78,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 17c31725-4edf-4830-9761-ffc1a63e3a8f,2024-07-01,304173.78,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 20bd3f13-ba79-49d3-a0a1-bccc4a721b90,2024-07-01,309157.78,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Geldmaat ATM,Geldmaat: e1470dd5-85a9-4da1-baef-b2fa6cd2a3f4,2024-07-01,309264.18,Professional,45
+EUR,NL12FAKE7571425511,United States,Valerie Westermann,Reimbursement for travel,2024-07-01,309408.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 61e70185-40df-4144-a602-9dffac3197f4,2024-07-01,314392.04,Professional,45
+EUR,NL12FAKE7571425511,Canada,General Electric,Corporate services payment,2024-08-01,314448.09,Professional,45
+EUR,NL12FAKE7571425511,NL,Johnson & Johnson,Pharmacy bill,2024-08-01,314490.74,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 13582bfe-71d7-4d6a-8abc-ecf03efe1efe,2024-08-01,319474.74,Professional,45
+EUR,NL12FAKE7571425511,NL,Facebook,Ad campaign funding,2024-08-01,319483.4,Professional,45
+EUR,NL12FAKE7571425511,Italy,Procter & Gamble,Retail goods payment,2024-08-01,319626.74,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 60003f9a-37e3-434f-9958-c4359acb627c,2024-08-01,324610.74,Professional,45
+EUR,NL12FAKE7571425511,France,Oracle,Cloud storage subscription,2024-08-01,324616.61,Professional,45
+EUR,NL12FAKE7571425511,United States,DuPont,Diversified company fee,2024-08-01,324662.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ff8ec7a0-7508-4905-8d8a-f94bc894c75d,2024-08-01,329646.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Mitsubishi,Business unit invoice,2024-08-01,329679.45,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Stefan Huijben,Support money,2024-08-01,329703.28,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Noor van Engelen,Pet expenses,2024-08-01,329792.5,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 3d0e1cc8-ecd2-4794-9c8f-24e6f105c166,2024-08-01,334776.5,Professional,45
+EUR,NL12FAKE7571425511,Japan,Berkshire Hathaway,Diversified company fee,2024-08-01,334779.4,Professional,45
+EUR,NL12FAKE7571425511,United States,Mohammed Adryaens,Loan repayment,2024-08-01,334846.01,Professional,45
+EUR,NL12FAKE7571425511,NL,Oracle,Software license fee payment,2024-08-01,334932.49,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 84eef4e4-11a6-4df1-a484-027af40db4ac,2024-08-01,339916.49,Professional,45
+EUR,NL12FAKE7571425511,United States,Morgan Stanley,Stock purchase,2024-08-01,339937.69,Professional,45
+EUR,NL12FAKE7571425511,NL,Volkswagen,Auto repair bill,2024-08-01,340017.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: cfe93082-8d8d-4cc6-80bb-c44e17b590dc,2024-08-01,345001.21,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Mees Spaan,Reimbursement for medical expenses,2024-08-01,345011.4,Professional,45
+EUR,NL12FAKE7571425511,NL,PepsiCo,Catering service fee,2024-08-01,345014.03,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ee37a4dd-65bc-4312-ad06-e88082a10111,2024-08-01,349998.03,Professional,45
+EUR,NL12FAKE7571425511,NL,Gilead Sciences,Clinical trial payment,2024-08-01,350088.43,Professional,45
+EUR,NL12FAKE7571425511,Canada,Alexander Thatcher-Vertooren,Emergency funds,2024-08-01,350108.83,Professional,45
+EUR,NL12FAKE7571425511,NL,Boeing,Aircraft maintenance,2024-08-01,350218.5,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: a283a5fb-7c08-4565-ae05-22bba3a2eb26,2024-08-01,355202.5,Professional,45
+EUR,NL12FAKE7571425511,Germany,Boeing,Aerospace parts purchase,2024-08-01,355209.6,Professional,45
+EUR,NL12FAKE7571425511,NL,Airbus,Space exploration fee,2024-08-01,355272.28,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Geldmaat ATM,Geldmaat: 6ff93a45-9282-41e0-af7a-0553490e4666,2024-08-01,355341.59,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: dd361e1b-fc90-4cc5-b8fb-f4288059870a,2024-08-01,360325.59,Professional,45
+EUR,NL12FAKE7571425511,United States,Huawei,Technology services invoice payment,2024-08-01,360355.59,Professional,45
+EUR,NL12FAKE7571425511,United States,Maya van Luinenburg,Rent assistance,2024-08-01,360393.02,Professional,45
+EUR,NL12FAKE7571425511,United States,Allianz,Insurance premium,2024-08-01,360437.55,Professional,45
+EUR,NL12FAKE7571425511,NL,Apple Inc.,Technology services invoice payment,2024-08-01,360476.68,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 97cb232e-43eb-48dc-bb34-197ae3e4f536,2024-08-01,365460.68,Professional,45
+EUR,NL12FAKE7571425511,Hungary,Geldmaat ATM,Geldmaat: 84aee009-a4e5-4393-90f6-115963d224b5,2024-08-01,365816.55,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: add9862e-2f01-4b2e-b4f7-b192906cfa1a,2024-08-01,370800.55,Professional,45
+EUR,NL12FAKE7571425511,NL,Pepijn Kolster,Anniversary gift,2024-08-01,370804.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Linn Vink-van Dijk,Child support,2024-08-01,370830.61,Professional,45
+EUR,NL12FAKE7571425511,NL,Morgan Stanley,Brokerage fee,2024-08-01,370846.47,Professional,45
+EUR,NL12FAKE7571425511,NL,Toyota,Auto repair bill,2024-08-01,370872.55,Professional,45
+EUR,NL12FAKE7571425511,NL,Alphabet Inc.,Technology services invoice payment,2024-08-01,370892.41,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 73a44c16-fe27-4dbf-b629-8b8331325077,2024-08-01,375876.41,Professional,45
+EUR,NL12FAKE7571425511,Canada,Renault,Auto repair bill,2024-08-01,375889.49,Professional,45
+EUR,NL12FAKE7571425511,United States,Nora Sestig,Child support,2024-08-01,375895.92,Professional,45
+EUR,NL12FAKE7571425511,Japan,Johnson & Johnson,Medication purchase,2024-08-01,375898.74,Professional,45
+EUR,NL12FAKE7571425511,Japan,Volkswagen,Car parts order,2024-08-01,375914.38,Professional,45
+EUR,NL12FAKE7571425511,NL,AstraZeneca,Medication purchase,2024-08-01,375947.9,Professional,45
+EUR,NL12FAKE7571425511,NL,Alphabet Inc.,Cloud storage subscription,2024-08-01,375978.22,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 34402293-a7ac-4a4c-af33-c6f876efe70a,2024-08-01,380962.22,Professional,45
+EUR,NL12FAKE7571425511,Spain,General Electric,Business unit invoice,2024-08-01,380988.65,Professional,45
+EUR,NL12FAKE7571425511,NL,Novartis,Healthcare prescription,2024-08-01,380990.41,Professional,45
+EUR,NL12FAKE7571425511,Canada,LVMH,Exclusive brand fee,2024-08-01,381040.57,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 42218ad5-3826-4607-8010-f201c4073f47,2024-08-01,386024.57,Professional,45
+EUR,NL12FAKE7571425511,NL,Meta Platforms,Cloud storage subscription,2024-08-01,386075.26,Professional,45
+EUR,NL12FAKE7571425511,NL,Jort Lucas,Graduation gift,2024-08-01,386082.02,Professional,45
+EUR,NL12FAKE7571425511,NL,Tyler Scardino,Dinner reimbursement,2024-08-01,386159.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Oracle,Technology services invoice payment,2024-08-01,386160.68,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: c6cedc2f-94bc-4f3e-bc65-4a350b7f088a,2024-08-01,391144.68,Professional,45
+EUR,NL12FAKE7571425511,NL,Renault,Auto repair bill,2024-08-01,391147.56,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Floor Oversteeg,Wedding gift,2024-08-01,391172.02,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 4947810e-980a-44e6-b3b3-5f037fdb18df,2024-08-01,396156.02,Professional,45
+EUR,NL12FAKE7571425511,NL,Verizon,Data plan payment,2024-08-01,396171.24,Professional,45
+EUR,NL12FAKE7571425511,NL,Isabel Doorhof,Medical bills,2024-08-01,396180.97,Professional,45
+EUR,NL12FAKE7571425511,NL,Loïs van de Noordmark,Emergency funds,2024-08-01,396189.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Roche,Drug order payment,2024-08-01,396208.85,Professional,45
+EUR,NL12FAKE7571425511,Germany,Jasper van den Brink,Rent deposit,2024-08-01,396221.42,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Cisco Systems,Technology services invoice payment,2024-08-01,396223.97,Professional,45
+EUR,NL12FAKE7571425511,NL,Volkswagen,Car purchase,2024-08-01,396260.36,Professional,45
+EUR,NL12FAKE7571425511,France,3M,Corporate services payment,2024-08-01,396324.2,Professional,45
+EUR,NL12FAKE7571425511,NL,Luca Hendriks,Child support,2024-08-01,396334.52,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 98075799-38f1-4029-a344-ff9ace73c661,2024-08-01,401318.52,Professional,45
+EUR,NL12FAKE7571425511,NL,Microsoft,Software license fee payment,2024-08-01,401358.31,Professional,45
+EUR,NL12FAKE7571425511,NL,Amber Momberg,Reimbursement for dinner,2024-08-01,401458.01,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: dc054e38-848d-42bd-a980-996d22102c29,2024-08-01,406442.01,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 678183ea-713f-4bdb-83fd-5dca34c9ffbf,2024-08-01,411426.01,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Geldmaat ATM,Geldmaat: 85408857-9dc5-48ad-a7f4-7ae27e230581,2024-08-01,411556.91,Professional,45
+EUR,NL12FAKE7571425511,NL,Honeywell,Business unit invoice,2024-08-01,411562.28,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Pfizer,Healthcare prescription,2024-08-01,411630.49,Professional,45
+EUR,NL12FAKE7571425511,NL,Goldman Sachs,Capital markets service,2024-08-01,411666.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: a313aa80-3680-4225-8466-602d9bf5955a,2024-08-01,416650.21,Professional,45
+EUR,NL12FAKE7571425511,United States,Verizon,Phone bill,2024-08-01,416666.39,Professional,45
+EUR,NL12FAKE7571425511,NL,Kai de Bock,Reimbursement for shopping,2024-08-01,416670.67,Professional,45
+EUR,NL12FAKE7571425511,NL,BMW,Auto repair bill,2024-08-01,416684.07,Professional,45
+EUR,NL12FAKE7571425511,NL,Allianz,Claim settlement,2024-08-01,416701.33,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 09a3cfe8-3799-42df-8532-3a772054b105,2024-08-01,421685.33,Professional,45
+EUR,NL12FAKE7571425511,NL,Unilever,Order payment,2024-08-01,421690.37,Professional,45
+EUR,NL12FAKE7571425511,NL,Nike,Clothing purchase,2024-08-01,421720.89,Professional,45
+EUR,NL12FAKE7571425511,NL,Alibaba,Marketplace seller fee,2024-08-01,421725.92,Professional,45
+EUR,NL12FAKE7571425511,Spain,Toyota,Car purchase,2024-08-01,421765.93,Professional,45
+EUR,NL12FAKE7571425511,NL,Novartis,Medication purchase,2024-08-01,421841.08,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 1f68e918-679c-4db5-ad4e-7c48c772b7f6,2024-08-01,426825.08,Professional,45
+EUR,NL12FAKE7571425511,Canada,Alibaba,Online shopping,2024-08-01,426826.72,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Cisco Systems,Technology services invoice payment,2024-08-01,426832.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Mia Hexspoor,Party contribution,2024-08-01,426893.19,Professional,45
+EUR,NL12FAKE7571425511,Spain,Matthijs Perrono,Reimbursement for dinner,2024-08-01,426898.94,Professional,45
+EUR,NL12FAKE7571425511,NL,Ford Motor,Car parts order,2024-08-01,426910.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 974e97bd-0917-45f5-a3ef-6e003a2f8fdb,2024-08-01,431894.75,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Bradley van Landen,Christmas gift,2024-08-01,431898.19,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 1ef70d0b-206d-4b7b-ba92-2e34f822f5b6,2024-08-01,432020.19,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Advisory session charge,2024-08-01,432075.97,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 54510a8b-3126-43a9-9720-c3b9f23ef58c,2024-08-01,437059.97,Professional,45
+EUR,NL12FAKE7571425511,NL,Stef Hendrikse,Reimbursement for travel,2024-08-01,437063.09,Professional,45
+EUR,NL12FAKE7571425511,Canada,AT&T,Cable service subscription,2024-08-01,437078.0,Professional,45
+EUR,NL12FAKE7571425511,NL,Linde van der Stael,Gas money,2024-08-01,437152.47,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 1d15fde2-6ff6-4cb9-a287-93d294148e93,2024-08-01,442136.47,Professional,45
+EUR,NL12FAKE7571425511,NL,BMW,Car parts order,2024-08-01,442149.51,Professional,45
+EUR,NL12FAKE7571425511,NL,Pfizer,Drug order payment,2024-08-01,442253.46,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 618c0291-edeb-4a51-a9cd-c8d6eaf19c23,2024-08-01,447237.46,Professional,45
+EUR,NL12FAKE7571425511,NL,Jet van Hoevel en van Zwindrecht-van Metz,Grocery money,2024-08-01,447253.07,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 9a726e09-10c4-4fa6-bf33-97f3b45619b2,2024-08-01,452237.07,Professional,45
+EUR,NL12FAKE7571425511,Canada,Roche,Pharmacy bill,2024-08-01,452289.33,Professional,45
+EUR,NL12FAKE7571425511,NL,Berkshire Hathaway,Conglomerate product order,2024-08-01,452295.57,Professional,45
+EUR,NL12FAKE7571425511,NL,Procter & Gamble,Subscription box service,2024-08-01,452389.06,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 025c2a3d-4905-439c-81f6-e4becc5c4388,2024-08-01,457373.06,Professional,45
+EUR,NL12FAKE7571425511,NL,Goldman Sachs,Stock purchase,2024-08-01,457376.94,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Sanofi,Pharmacy bill,2024-08-01,457380.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ab4dc565-fae6-4597-b9d7-d2c4a5dc1427,2024-08-01,462364.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Microsoft,Cloud storage subscription,2024-08-01,462527.31,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Airbus,Aircraft maintenance,2024-08-01,462551.46,Professional,45
+EUR,NL12FAKE7571425511,NL,GlaxoSmithKline,Drug order payment,2024-08-01,462633.69,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Bristol-Myers Squibb,Medication purchase,2024-08-01,462650.32,Professional,45
+EUR,NL12FAKE7571425511,Canada,Roche,Healthcare prescription,2024-08-01,462651.1,Professional,45
+EUR,NL12FAKE7571425511,United States,Cisco Systems,Cloud storage subscription,2024-08-01,462653.3,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 09608193-6fb4-4223-b75d-172d075f9dd5,2024-08-01,467637.3,Professional,45
+EUR,NL12FAKE7571425511,United States,Luke Ariens,Pet expenses,2024-08-01,467832.03,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b4cdf046-9810-41e6-a515-4fec1c86f735,2024-08-01,472816.03,Professional,45
+EUR,NL12FAKE7571425511,NL,Tijs van der Klein,Rent deposit,2024-08-01,472820.02,Professional,45
+EUR,NL12FAKE7571425511,NL,Ivan van Duyvenvoorde,Reimbursement for medical expenses,2024-09-01,472922.54,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b867f3de-bb2f-41b0-ad63-1bbd86ad4e30,2024-09-01,477906.54,Professional,45
+EUR,NL12FAKE7571425511,United States,Gilead Sciences,Clinical trial payment,2024-09-01,477950.59,Professional,45
+EUR,NL12FAKE7571425511,NL,Sanofi,Drug order payment,2024-09-01,477988.24,Professional,45
+EUR,NL12FAKE7571425511,NL,AstraZeneca,Medication purchase,2024-09-01,477995.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ed70582e-67f2-4683-8b31-8eb44944a54d,2024-09-01,482979.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Jip Meijer,Family loan repayment,2024-09-01,482984.66,Professional,45
+EUR,NL12FAKE7571425511,Japan,Louise de Werd,Child support,2024-09-01,482989.27,Professional,45
+EUR,NL12FAKE7571425511,NL,AstraZeneca,Pharmacy bill,2024-09-01,483066.45,Professional,45
+EUR,NL12FAKE7571425511,Denmark,LVMH,High-end product buy,2024-09-01,483073.72,Professional,45
+EUR,NL12FAKE7571425511,Italy,LVMH,Luxury item purchase,2024-09-01,483077.7,Professional,45
+EUR,NL12FAKE7571425511,NL,Berkshire Hathaway,Conglomerate product order,2024-09-01,483084.55,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: d9c39fd4-468c-4831-915d-5a1de9ef8b17,2024-09-01,488068.55,Professional,45
+EUR,NL12FAKE7571425511,NL,AstraZeneca,Healthcare prescription,2024-09-01,488075.17,Professional,45
+EUR,NL12FAKE7571425511,NL,Allianz,Claim settlement,2024-09-01,488357.66,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 466f2196-8817-4d7e-9d15-67ebd0939ca8,2024-09-01,493341.66,Professional,45
+EUR,NL12FAKE7571425511,NL,Airbus,Aerospace parts purchase,2024-09-01,493367.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 4f7cba10-7c70-4d0d-a4d0-0a01b405e2eb,2024-09-01,498351.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Noëlle de Keijser,Pet expenses,2024-09-01,498411.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6825aa14-a9a8-4167-950b-4165b748d0c1,2024-09-01,503395.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Sophie Veenstra,Shared meal cost,2024-09-01,503488.91,Professional,45
+EUR,NL12FAKE7571425511,NL,James Jones,New baby gift,2024-09-01,503496.62,Professional,45
+EUR,NL12FAKE7571425511,United States,Procter & Gamble,Retail goods payment,2024-09-01,503515.03,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Gilead Sciences,Clinical trial payment,2024-09-01,503539.09,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Kiki van Emmelen,Wedding gift,2024-09-01,503540.28,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: eace4f9b-7ae9-4666-ac13-8fa960395397,2024-09-01,508524.28,Professional,45
+EUR,NL12FAKE7571425511,NL,Josephine van Dongen,Anniversary gift,2024-09-01,508599.73,Professional,45
+EUR,NL12FAKE7571425511,Canada,Cisco Systems,Cloud storage subscription,2024-09-01,508655.95,Professional,45
+EUR,NL12FAKE7571425511,NL,AT&T,Cable service subscription,2024-09-01,508660.71,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 1b0cd2a9-ba7d-4dd7-8c7c-6969d4d20794,2024-09-01,513644.71,Professional,45
+EUR,NL12FAKE7571425511,NL,Sanofi,Healthcare prescription,2024-09-01,513678.21,Professional,45
+EUR,NL12FAKE7571425511,NL,Jacob Smit,Reimbursement for groceries,2024-09-01,513690.29,Professional,45
+EUR,NL12FAKE7571425511,United States,Apple Inc.,Cloud storage subscription,2024-09-01,513726.59,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Nike,Sportswear buy,2024-09-01,513780.26,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Procter & Gamble,Order payment,2024-09-01,513816.25,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 80fcbcea-983d-42d5-9c36-15d68ff6d1b6,2024-09-01,518800.25,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: e98fac61-b361-4452-92ba-2c14232d8c05,2024-09-01,523784.25,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Jari van der Spaendonc,Birthday gift,2024-09-01,523801.32,Professional,45
+EUR,NL12FAKE7571425511,Canada,Rens Bierstraten,Personal loan,2024-09-01,523817.49,Professional,45
+EUR,NL12FAKE7571425511,NL,LVMH,High-end product buy,2024-09-01,523894.02,Professional,45
+EUR,NL12FAKE7571425511,NL,Merck & Co.,Pharmacy bill,2024-09-01,523956.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Max Klomp Jan,Loan to friend,2024-09-01,523963.38,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 492f7abc-db54-458f-bc27-7d3a93ce5f2c,2024-09-01,528947.38,Professional,45
+EUR,NL12FAKE7571425511,NL,BMW,Auto repair bill,2024-09-01,528977.86,Professional,45
+EUR,NL12FAKE7571425511,Italy,Gilead Sciences,Biotech research fee,2024-09-01,528982.88,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 9b3744ce-bfe5-4854-b1e9-0c1dd5a821ef,2024-09-01,533966.88,Professional,45
+EUR,NL12FAKE7571425511,NL,Goldman Sachs,Capital markets service,2024-09-01,534016.65,Professional,45
+EUR,NL12FAKE7571425511,NL,Bayer,Medication purchase,2024-09-01,534051.9,Professional,45
+EUR,NL12FAKE7571425511,NL,Cisco Systems,Web hosting fee,2024-09-01,534055.08,Professional,45
+EUR,NL12FAKE7571425511,France,BMW,Auto repair bill,2024-09-01,534105.98,Professional,45
+EUR,NL12FAKE7571425511,NL,Boeing,Aerospace parts purchase,2024-09-01,534146.44,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 671045ad-1b45-4a8f-8703-e41054121beb,2024-09-01,539130.44,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: a8d55007-f423-42ba-a004-650d631b69e5,2024-09-01,544114.44,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Expert consultation fee,2024-09-01,544224.49,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Apple Inc.,Cloud storage subscription,2024-09-01,544660.48,Professional,45
+EUR,NL12FAKE7571425511,NL,Bibi Eerden,Shared hotel room cost,2024-09-01,544686.69,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: d0958c1c-74fc-49e0-8803-834c53996098,2024-09-01,549670.69,Professional,45
+EUR,NL12FAKE7571425511,NL,Microsoft,Cloud storage subscription,2024-09-01,549742.08,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 453f6eeb-44fa-4810-a7da-e1f46efbb755,2024-09-01,554726.08,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Geldmaat ATM,Geldmaat: fea6d3a5-c111-4319-9bba-5b9510a06133,2024-09-01,554807.52,Professional,45
+EUR,NL12FAKE7571425511,NL,Duke Energy,Energy supply charge,2024-09-01,554873.93,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6576abec-d75d-48de-902f-4b9011b4f32a,2024-09-01,559857.93,Professional,45
+EUR,NL12FAKE7571425511,Canada,Nike,Apparel shopping,2024-09-01,559906.77,Professional,45
+EUR,NL12FAKE7571425511,NL,Dion Weeldenburg-Wigman,Shared meal cost,2024-09-01,559934.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 53bfc139-a290-4fdb-b1f0-94e7877dcb6c,2024-09-01,564918.04,Professional,45
+EUR,NL12FAKE7571425511,Italy,PepsiCo,Beverage order,2024-09-01,564925.28,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Consulting fee,2024-09-01,564931.78,Professional,45
+EUR,NL12FAKE7571425511,United States,Olaf Cadefau,Pet expenses,2024-09-01,564958.62,Professional,45
+EUR,NL12FAKE7571425511,NL,Allianz,Policy renewal fee,2024-09-01,565031.67,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 6694aaff-d750-4fd7-86a5-c607550d538a,2024-09-01,570015.67,Professional,45
+EUR,NL12FAKE7571425511,Canada,Airbus,Aircraft maintenance,2024-09-01,570049.52,Professional,45
+EUR,NL12FAKE7571425511,NL,SoftBank,Corporate services payment,2024-09-01,570064.68,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: ed68c9b1-e1b3-4ae8-ae21-3ab6fb97f45f,2024-09-01,575048.68,Professional,45
+EUR,NL12FAKE7571425511,Austria,DuPont,Business unit invoice,2024-09-01,575120.08,Professional,45
+EUR,NL12FAKE7571425511,Canada,Goldman Sachs,Stock purchase,2024-09-01,575143.87,Professional,45
+EUR,NL12FAKE7571425511,NL,SoftBank,Conglomerate product order,2024-09-01,575174.62,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Yinthe Borman-van Orleans,Rent payment,2024-09-01,575195.3,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Olivia Driessen,Birthday party expenses,2024-09-01,575210.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Johnson & Johnson,Pharmacy bill,2024-09-01,575224.93,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Volkswagen,Vehicle service charge,2024-09-01,575247.79,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 683079a6-b02e-4931-b48e-153b39881302,2024-09-01,580231.79,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: aa76a967-252b-42a9-a624-ccace7d71460,2024-09-01,585215.79,Professional,45
+EUR,NL12FAKE7571425511,NL,Milan Meyer,Medical bills,2024-09-01,585303.74,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Procter & Gamble,Subscription box service,2024-09-01,585308.78,Professional,45
+EUR,NL12FAKE7571425511,NL,ByteDance,Technology services invoice payment,2024-09-01,585363.64,Professional,45
+EUR,NL12FAKE7571425511,NL,BMW,Car parts order,2024-09-01,585453.09,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b5e8067e-c79a-4000-a8ac-b4c7e51dbdf4,2024-09-01,590437.09,Professional,45
+EUR,NL12FAKE7571425511,NL,Bristol-Myers Squibb,Medication purchase,2024-09-01,590470.76,Professional,45
+EUR,NL12FAKE7571425511,NL,Verizon,Data plan payment,2024-09-01,590472.04,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: b007ca91-05d6-49fd-99c0-748207c2b01d,2024-09-01,595456.04,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Geldmaat ATM,Geldmaat: 75e81343-362b-4377-9a9a-ebc7a724df69,2024-09-01,595622.87,Professional,45
+EUR,NL12FAKE7571425511,NL,Renault,Auto repair bill,2024-09-01,595644.56,Professional,45
+EUR,NL12FAKE7571425511,NL,Kim Dubois,Party contribution,2024-09-01,595713.63,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 8936231c-d6c7-4a45-9add-844811d03835,2024-09-01,600697.63,Professional,45
+EUR,NL12FAKE7571425511,NL,AT&T,Cable service subscription,2024-09-01,600708.81,Professional,45
+EUR,NL12FAKE7571425511,NL,Thijmen Jorlink,Rent deposit,2024-09-01,600772.09,Professional,45
+EUR,NL12FAKE7571425511,United States,Mehmet Strijker-Hermans,Loan to friend,2024-09-01,600820.95,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 229087fe-da12-484c-9848-a4a05b5c31b4,2024-09-01,605804.95,Professional,45
+EUR,NL12FAKE7571425511,Canada,Phillips 66,Renewable energy subscription,2024-09-01,606982.23,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 64e659c1-771b-45a7-a258-c82e0fdf9ad8,2024-09-01,611966.23,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 2561eb09-b717-4dfe-a64a-faceedd48365,2024-09-01,616950.23,Professional,45
+EUR,NL12FAKE7571425511,Spain,Stefan Appelman,Shared meal cost,2024-09-01,616953.49,Professional,45
+EUR,NL12FAKE7571425511,NL,Mitsubishi,Business unit invoice,2024-09-01,616994.9,Professional,45
+EUR,NL12FAKE7571425511,NL,Ravi Vergeer,Reimbursement for shopping,2024-09-01,617069.96,Professional,45
+EUR,NL12FAKE7571425511,NL,Collin Weylant-Kirpenstein,Reimbursement for medical expenses,2024-09-01,617089.71,Professional,45
+EUR,NL12FAKE7571425511,Canada,Daimler,Car parts order,2024-09-01,617094.45,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Bayer,Medication purchase,2024-09-01,617098.46,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: a875b25d-9029-4cbc-b007-c254ad7360ca,2024-09-01,622082.46,Professional,45
+EUR,NL12FAKE7571425511,NL,Duke Energy,Renewable energy subscription,2024-09-01,622155.13,Professional,45
+EUR,NL12FAKE7571425511,NL,Ford Motor,Car parts order,2024-09-01,622182.75,Professional,45
+EUR,NL12FAKE7571425511,NL,Sanofi,Drug order payment,2024-09-01,622250.61,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 9e259ab9-7b10-4597-ae51-b144fc98d920,2024-09-01,627234.61,Professional,45
+EUR,NL12FAKE7571425511,NL,Facebook,Premium account upgrade,2024-10-01,627251.64,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: c5b824f3-e10b-42c7-b3c5-2345a7d02ec8,2024-10-01,632235.64,Professional,45
+EUR,NL12FAKE7571425511,NL,Accenture,Expert consultation fee,2024-10-01,632326.13,Professional,45
+EUR,NL12FAKE7571425511,NL,Phillips 66,Energy supply charge,2024-10-01,632358.88,Professional,45
+EUR,NL12FAKE7571425511,NL,IBM,Web hosting fee,2024-10-01,632374.69,Professional,45
+EUR,NL12FAKE7571425511,NL,Apple Inc.,Technology services invoice payment,2024-10-01,632413.09,Professional,45
+EUR,NL12FAKE7571425511,NL,Feline Schenk,Anniversary gift,2024-10-01,632417.1,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: e5763205-2d0e-4b25-a7ba-bb3083054008,2024-10-01,637401.1,Professional,45
+EUR,NL12FAKE7571425511,United States,Helena van Engeland-Thatcher,Gas money,2024-10-01,637404.62,Professional,45
+EUR,NL12FAKE7571425511,Germany,Elif Hulshouts,Anniversary gift,2024-10-01,637498.25,Professional,45
+EUR,NL12FAKE7571425511,Belgium,Volkswagen,Vehicle service charge,2024-10-01,637549.0,Professional,45
+EUR,NL12FAKE7571425511,Canada,Geldmaat ATM,Geldmaat: 7eec53c0-f49f-4fd9-b553-5cfa8a1c51cc,2024-10-01,637598.86,Professional,45
+EUR,NL12FAKE7571425511,Germany,Tata Consultancy Services,Software development bill,2024-10-01,637601.16,Professional,45
+EUR,NL12FAKE7571425511,NL,Bristol-Myers Squibb,Drug order payment,2024-10-01,637605.34,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 1fd7fe6f-a4a1-4196-a8dd-4acccc5e8b09,2024-10-01,642589.34,Professional,45
+EUR,NL12FAKE7571425511,Japan,Kyan Zeldenrust,Loan to family,2024-10-01,642592.68,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,IBM,Web hosting fee,2024-10-01,642597.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 349f8232-7342-4b9e-b8cb-7ba18cba21e0,2024-10-01,647581.27,Professional,45
+EUR,NL12FAKE7571425511,NL,Meta Platforms,Web hosting fee,2024-10-01,647644.52,Professional,45
+EUR,NL12FAKE7571425511,Canada,Sanofi,Pharmacy bill,2024-10-01,647651.07,Professional,45
+EUR,NL12FAKE7571425511,NL,Joëlle Mater,Funeral expenses,2024-10-01,647659.97,Professional,45
+EUR,NL12FAKE7571425511,NL,Bristol-Myers Squibb,Drug order payment,2024-10-01,647713.77,Professional,45
+EUR,NL12FAKE7571425511,NL,Morgan Stanley,Stock purchase,2024-10-01,647803.35,Professional,45
+EUR,NL12FAKE7571425511,Canada,Joël Smits,Emergency funds,2024-10-01,647807.52,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 0325bc34-3d4e-4e67-8986-a1ec9b6e4fab,2024-10-01,652791.52,Professional,45
+EUR,NL12FAKE7571425511,Italy,Boeing,Space exploration fee,2024-10-01,652934.46,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: f4fe724a-b5c7-4720-bdee-968c8939338e,2024-10-01,657918.46,Professional,45
+EUR,NL12FAKE7571425511,Austria,Amélie Schelvis,Support money,2024-10-01,657957.73,Professional,45
+EUR,NL12FAKE7571425511,NL,3M,Conglomerate product order,2024-10-01,657998.29,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 18ba5c8b-a5b6-44c4-82e0-021077684ae8,2024-10-01,662982.29,Professional,45
+EUR,NL12FAKE7571425511,NL,Facebook,Influencer collaboration fee,2024-10-01,662989.16,Professional,45
+EUR,NL12FAKE7571425511,Spain,Accenture,Consulting fee,2024-10-01,662991.33,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,BASF,Laboratory reagents buy,2024-10-01,662999.36,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Duke Energy,Electricity payment,2024-10-01,663003.84,Professional,45
+EUR,NL12FAKE7571425511,France,Sem Riem,Rent payment,2024-10-01,663037.39,Professional,45
+EUR,NL12FAKE7571425511,Canada,Facebook,Premium account upgrade,2024-10-01,663039.82,Professional,45
+EUR,NL12FAKE7571425511,Denmark,Daimler,Vehicle service charge,2024-10-01,663047.01,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 48062c0f-9f78-4034-9fba-2b3c5ee77e9f,2024-10-01,668031.01,Professional,45
+EUR,NL12FAKE7571425511,NL,Amazon,Online shopping,2024-10-01,668038.98,Professional,45
+EUR,NL12FAKE7571425511,NL,Oscar Heinrichs,Split restaurant bill,2024-10-01,668042.98,Professional,45
+EUR,NL12FAKE7571425511,Spain,Sanofi,Drug order payment,2024-10-01,668049.25,Professional,45
+EUR,NL12FAKE7571425511,NL,GlaxoSmithKline,Drug order payment,2024-10-01,668054.48,Professional,45
+EUR,NL12FAKE7571425511,NL,ByteDance,Technology services invoice payment,2024-10-01,668062.77,Professional,45
+EUR,NL12FAKE7571425511,Germany,Bristol-Myers Squibb,Pharmacy bill,2024-10-01,668086.78,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 88d240d0-5246-4638-bf02-50eaaeab6620,2024-10-01,673070.78,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,IBM,Software license fee payment,2024-10-01,673077.17,Professional,45
+EUR,NL12FAKE7571425511,NL,Ravi van Northeim,Loan to friend,2024-10-01,673151.34,Professional,45
+EUR,NL12FAKE7571425511,NL,Alphabet Inc.,Technology services invoice payment,2024-10-01,673154.41,Professional,45
+EUR,NL12FAKE7571425511,France,Jennifer van Vlaanderen,Baby shower gift,2024-10-01,673234.73,Professional,45
+EUR,NL12FAKE7571425511,Canada,Apple Inc.,Cloud storage subscription,2024-10-01,673252.87,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Procter & Gamble,Product purchase,2024-10-01,673255.69,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: f58a5723-c251-4147-9e71-5bb9711f5484,2024-10-01,678239.69,Professional,45
+EUR,NL12FAKE7571425511,Germany,Nike,Sportswear buy,2024-10-01,678308.59,Professional,45
+EUR,NL12FAKE7571425511,NL,Nadine Schuurmans,Friend loan repayment,2024-10-01,678312.44,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 561d5f67-4a84-462a-9174-ca7c5bb5b801,2024-10-01,683296.44,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Amazon,Subscription service,2024-10-01,683328.8,Professional,45
+EUR,NL12FAKE7571425511,Spain,Berkshire Hathaway,Diversified company fee,2024-10-01,683335.56,Professional,45
+EUR,NL12FAKE7571425511,NL,BMW,Auto repair bill,2024-10-01,683383.92,Professional,45
+EUR,NL12FAKE7571425511,NL,Johnson & Johnson,Healthcare prescription,2024-10-01,683409.05,Professional,45
+EUR,NL12FAKE7571425511,NL,Merck & Co.,Healthcare prescription,2024-10-01,683428.8,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 285b1c85-b813-4de4-a613-7d1151c8158c,2024-10-01,688412.8,Professional,45
+EUR,NL12FAKE7571425511,NL,Wesley van den Nuwenhuijzen-de Koning,Funeral expenses,2024-10-01,688428.66,Professional,45
+EUR,NL12FAKE7571425511,Great Britain,Procter & Gamble,Order payment,2024-10-01,688434.63,Professional,45
+EUR,NL12FAKE7571425511,NL,Geldmaat ATM,Geldmaat: 0db4ef77-45a9-41bc-bd6e-61395cd07ffd,2024-10-01,693418.63,Professional,45
+EUR,NL12FAKE7571425511,NL,Sepp Heijmen,Rent deposit,2024-10-01,693422.62,Professional,45
+EUR,NL12FAKE7571425511,NL,Esila Schokman,Dinner reimbursement,2024-10-01,693497.6,Professional,45

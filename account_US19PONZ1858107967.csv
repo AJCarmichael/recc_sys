@@ -1,0 +1,485 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+USD,US19PONZ1858107967,NL,Noortje van den Oever,Rent assistance,2024-06-01,6694.63,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 27eb9927-e0fd-48b0-9c7c-fefaee4cf2d5,2024-06-01,10089.63,Retired,65
+USD,US19PONZ1858107967,France,Phillips 66,Energy supply charge,2024-06-01,10171.01,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 19bb9f08-21cf-44dd-8dff-556412aa3e20,2024-06-01,13566.01,Retired,65
+USD,US19PONZ1858107967,Italy,Pfizer,Drug order payment,2024-06-01,13624.11,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 37e5f1cc-683c-4242-938f-53643780d713,2024-06-01,17019.11,Retired,65
+USD,US19PONZ1858107967,Great Britain,Daimler,Car parts order,2024-06-01,17090.02,Retired,65
+USD,US19PONZ1858107967,France,General Electric,Business unit invoice,2024-06-01,17105.35,Retired,65
+USD,US19PONZ1858107967,Italy,Ivan de Bruin,Split restaurant bill,2024-06-01,17108.39,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a308520f-481e-43c3-916d-4594dcb4048e,2024-06-01,20503.39,Retired,65
+USD,US19PONZ1858107967,NL,Wessel Horrocks,Reimbursement for dinner,2024-06-01,20558.21,Retired,65
+USD,US19PONZ1858107967,Great Britain,Boeing,Aviation technology fee,2024-06-01,20562.7,Retired,65
+USD,US19PONZ1858107967,NL,Bayer,Medication purchase,2024-06-01,20648.89,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 51856764-b317-4b67-81e2-848c9b25aba9,2024-06-01,24043.89,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 6bf5bc66-9eea-4019-bdc8-8ab31cdcf3f0,2024-06-01,27438.89,Retired,65
+USD,US19PONZ1858107967,NL,LVMH,High-end product buy,2024-06-01,27543.66,Retired,65
+USD,US19PONZ1858107967,NL,Phillips 66,Electricity payment,2024-06-01,27590.54,Retired,65
+USD,US19PONZ1858107967,NL,Honeywell,Business unit invoice,2024-06-01,27672.91,Retired,65
+USD,US19PONZ1858107967,NL,Meta Platforms,Software license fee payment,2024-06-01,27700.75,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ad508750-c5df-47a3-a040-78258d60929f,2024-06-01,31095.75,Retired,65
+USD,US19PONZ1858107967,Spain,Roche,Pharmacy bill,2024-06-01,31101.24,Retired,65
+USD,US19PONZ1858107967,Denmark,Microsoft,Software license fee payment,2024-06-01,31139.41,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b1816a85-6b0f-4ef9-91f8-c58f3cb5d007,2024-06-01,34534.41,Retired,65
+USD,US19PONZ1858107967,NL,Rosalie Knuf,Loan repayment,2024-06-01,34562.93,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: e006ec25-354e-4a2a-b288-b38818840324,2024-06-01,34607.94,Retired,65
+USD,US19PONZ1858107967,NL,Morgan Stanley,Investment fund entry,2024-06-01,34653.47,Retired,65
+USD,US19PONZ1858107967,United States,Unilever,Retail goods payment,2024-06-01,34657.74,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 91998183-6ada-4082-bc9e-008c8148ec7a,2024-06-01,38052.74,Retired,65
+USD,US19PONZ1858107967,NL,Alphabet Inc.,Web hosting fee,2024-06-01,38058.22,Retired,65
+USD,US19PONZ1858107967,NL,Lars Freshour,Baby shower gift,2024-06-01,38125.2,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 10fb7a13-7958-40fc-9b75-a6c05ace6967,2024-06-01,41520.2,Retired,65
+USD,US19PONZ1858107967,NL,Senna van Santen,Baby shower gift,2024-06-01,41534.52,Retired,65
+USD,US19PONZ1858107967,NL,Pfizer,Drug order payment,2024-06-01,41566.87,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a649a279-0a2d-4726-a9b4-8027cf7ffe94,2024-06-01,44961.87,Retired,65
+USD,US19PONZ1858107967,NL,Novartis,Pharmacy bill,2024-06-01,45127.44,Retired,65
+USD,US19PONZ1858107967,Germany,Gilead Sciences,Clinical trial payment,2024-06-01,45132.64,Retired,65
+USD,US19PONZ1858107967,NL,Berkshire Hathaway,Diversified company fee,2024-06-01,45170.28,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Cloud storage subscription,2024-06-01,45171.68,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c1ab297d-ce3a-4f14-b715-17286e7e8880,2024-06-01,48566.68,Retired,65
+USD,US19PONZ1858107967,Italy,Airbus,Aviation technology fee,2024-06-01,48571.42,Retired,65
+USD,US19PONZ1858107967,NL,Tata Consultancy Services,System upgrade fee,2024-06-01,48575.58,Retired,65
+USD,US19PONZ1858107967,NL,3M,Conglomerate product order,2024-06-01,48612.67,Retired,65
+USD,US19PONZ1858107967,NL,3M,Diversified company fee,2024-06-01,48639.86,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c2f1e410-900d-45d5-ae0a-5628fcbcd816,2024-06-01,52034.86,Retired,65
+USD,US19PONZ1858107967,NL,Dion Henric van den Nuwenhuse,Anniversary gift,2024-06-01,52054.48,Retired,65
+USD,US19PONZ1858107967,Great Britain,Procter & Gamble,Retail goods payment,2024-06-01,52070.72,Retired,65
+USD,US19PONZ1858107967,NL,General Electric,Corporate services payment,2024-06-01,52076.14,Retired,65
+USD,US19PONZ1858107967,Canada,Kyara van Northeim,Support money,2024-06-01,52095.55,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: e696b451-d251-4294-adb2-c7cf17f41aa0,2024-06-01,55490.55,Retired,65
+USD,US19PONZ1858107967,NL,Dean Ariens Ansems,Mortgage help,2024-06-01,55497.32,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: bb4fff48-82de-4601-842a-ceb3a3fafbb3,2024-06-01,58892.32,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Technology services invoice payment,2024-06-01,58897.7,Retired,65
+USD,US19PONZ1858107967,NL,Alphabet Inc.,Cloud storage subscription,2024-06-01,58901.5,Retired,65
+USD,US19PONZ1858107967,NL,Volkswagen,Auto repair bill,2024-06-01,58942.18,Retired,65
+USD,US19PONZ1858107967,NL,DuPont,Conglomerate product order,2024-06-01,58987.71,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 7aa408c4-a4c2-4f14-966e-b9ad8dae624e,2024-06-01,62382.71,Retired,65
+USD,US19PONZ1858107967,NL,Angelina Oennen-van Hostaden,School fees,2024-06-01,62394.27,Retired,65
+USD,US19PONZ1858107967,NL,Huawei,Web hosting fee,2024-06-01,62401.12,Retired,65
+USD,US19PONZ1858107967,NL,Pfizer,Medication purchase,2024-06-01,62426.17,Retired,65
+USD,US19PONZ1858107967,Spain,Daimler,Car parts order,2024-06-01,62482.29,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a44f6463-fabc-47e0-94f9-96ad71ea63bb,2024-06-01,65877.29,Retired,65
+USD,US19PONZ1858107967,Italy,Levi de Vos-Backer,Loan repayment,2024-06-01,65888.66,Retired,65
+USD,US19PONZ1858107967,Canada,IBM,Software license fee payment,2024-06-01,65979.75,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 914a2b7a-8b8b-47fc-b71f-13afaa76995c,2024-06-01,69374.75,Retired,65
+USD,US19PONZ1858107967,NL,Madelief Kerkhof,Household expenses,2024-06-01,69380.46,Retired,65
+USD,US19PONZ1858107967,NL,Duke Energy,Renewable energy subscription,2024-06-01,69404.49,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: f5a1f1a5-654e-45dc-b475-d20f4adcd33b,2024-06-01,72799.49,Retired,65
+USD,US19PONZ1858107967,United States,Isabelle Overdijk,Reimbursement for bills,2024-06-01,72869.32,Retired,65
+USD,US19PONZ1858107967,Canada,Gilead Sciences,Biotech research fee,2024-06-01,72882.33,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: fa5f14d4-bc60-4fcc-a6e5-fbbce5709d47,2024-06-01,76277.33,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: 20e805d3-5d2e-4a8d-a132-12de4c594166,2024-06-01,76331.16,Retired,65
+USD,US19PONZ1858107967,Germany,Daimler,Vehicle service charge,2024-06-01,76387.26,Retired,65
+USD,US19PONZ1858107967,NL,Louise Brouwer,Support money,2024-06-01,76459.17,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 2e48ff17-9e43-4de7-914d-4f645f012418,2024-06-01,79854.17,Retired,65
+USD,US19PONZ1858107967,Great Britain,AT&T,Phone bill,2024-06-01,80030.17,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 953cb2c0-0cff-4215-9c79-e5ef800dafb9,2024-06-01,83425.17,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 6d3aa700-a038-468c-b222-2f48838762c8,2024-06-01,86820.17,Retired,65
+USD,US19PONZ1858107967,Denmark,Mike Gepa van Bourgondië,Support for a friend,2024-06-01,86886.73,Retired,65
+USD,US19PONZ1858107967,NL,Aya Haengreve,Rent payment,2024-06-01,86913.69,Retired,65
+USD,US19PONZ1858107967,NL,Renault,Car purchase,2024-06-01,86935.55,Retired,65
+USD,US19PONZ1858107967,Canada,General Electric,Conglomerate product order,2024-06-01,86942.49,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 1d8d38b0-f2de-4a5d-9d0e-3a3d85d3b192,2024-06-01,90337.49,Retired,65
+USD,US19PONZ1858107967,NL,Lauren van der Veiver,Rent payment,2024-06-01,90461.06,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 3003790f-813a-472d-b886-345834ced7c3,2024-06-01,93856.06,Retired,65
+USD,US19PONZ1858107967,United States,Airbus,Aerospace parts purchase,2024-06-01,93858.5,Retired,65
+USD,US19PONZ1858107967,NL,Duke Energy,Energy supply charge,2024-06-01,93859.09,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c4e92672-de2b-47cc-9365-70fcbe9ae30e,2024-06-01,97254.09,Retired,65
+USD,US19PONZ1858107967,United States,Huawei,Software license fee payment,2024-06-01,97266.76,Retired,65
+USD,US19PONZ1858107967,NL,Allianz,Coverage update charge,2024-06-01,97349.65,Retired,65
+USD,US19PONZ1858107967,NL,Jack Huel,Split vacation cost,2024-06-01,97395.1,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ede4cc53-d520-42e7-84b6-f2f072c99833,2024-06-01,100790.1,Retired,65
+USD,US19PONZ1858107967,NL,Lily Boer,Child support,2024-06-01,100846.34,Retired,65
+USD,US19PONZ1858107967,NL,Joël Boudewijns,Reimbursement for groceries,2024-06-01,100849.0,Retired,65
+USD,US19PONZ1858107967,Canada,Airbus,Aviation technology fee,2024-06-01,100891.12,Retired,65
+USD,US19PONZ1858107967,NL,Ford Motor,Car purchase,2024-06-01,100905.44,Retired,65
+USD,US19PONZ1858107967,NL,Jennifer de Boer,Shared hotel room cost,2024-06-01,100911.97,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 89167e1a-8430-4a26-bd31-88a77548e1e1,2024-06-01,104306.97,Retired,65
+USD,US19PONZ1858107967,NL,Bayer,Drug order payment,2024-06-01,104307.51,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 2106c68c-b0c8-478d-973d-4c75b1adb488,2024-06-01,107702.51,Retired,65
+USD,US19PONZ1858107967,NL,Alibaba,Online shopping,2024-06-01,107762.6,Retired,65
+USD,US19PONZ1858107967,Italy,Berkshire Hathaway,Conglomerate product order,2024-06-01,107768.34,Retired,65
+USD,US19PONZ1858107967,NL,Toyota,Car parts order,2024-06-01,107781.28,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Cloud storage subscription,2024-06-01,107785.06,Retired,65
+USD,US19PONZ1858107967,NL,Imran Zuidweg-Wensen,Loan repayment,2024-06-01,107804.15,Retired,65
+USD,US19PONZ1858107967,Italy,Wessel Oversteeg,Anniversary gift,2024-06-01,107835.17,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 47fbf946-9b79-4476-b525-def7b4378393,2024-06-01,111230.17,Retired,65
+USD,US19PONZ1858107967,NL,Berkshire Hathaway,Conglomerate product order,2024-06-01,111234.85,Retired,65
+USD,US19PONZ1858107967,Belgium,PepsiCo,Restaurant bill,2024-07-01,111259.21,Retired,65
+USD,US19PONZ1858107967,NL,Jan Bouhuizen-de Vos,Support for a family member,2024-07-01,111270.44,Retired,65
+USD,US19PONZ1858107967,NL,Honeywell,Corporate services payment,2024-07-01,111310.14,Retired,65
+USD,US19PONZ1858107967,Canada,Microsoft,Software license fee payment,2024-07-01,111321.45,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 17420a5a-e606-41e9-98ca-735932fd18c0,2024-07-01,114716.45,Retired,65
+USD,US19PONZ1858107967,Austria,Volkswagen,Auto repair bill,2024-07-01,114775.85,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 0106fe7d-fca6-4ff1-bd4e-96dde4a07a40,2024-07-01,118170.85,Retired,65
+USD,US19PONZ1858107967,Hungary,Johnson & Johnson,Pharmacy bill,2024-07-01,118788.56,Retired,65
+USD,US19PONZ1858107967,Canada,Sanofi,Drug order payment,2024-07-01,118807.99,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Technology services invoice payment,2024-07-01,118812.52,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b553f80e-5647-4c74-bdcb-58958d275466,2024-07-01,122207.52,Retired,65
+USD,US19PONZ1858107967,Great Britain,Apple Inc.,Software license fee payment,2024-07-01,122217.58,Retired,65
+USD,US19PONZ1858107967,Japan,Berkshire Hathaway,Diversified company fee,2024-07-01,122239.1,Retired,65
+USD,US19PONZ1858107967,NL,Facebook,Premium account upgrade,2024-07-01,122265.19,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 1fefe8a0-1d9e-466a-81ae-a553c3b09e33,2024-07-01,125660.19,Retired,65
+USD,US19PONZ1858107967,NL,Berkshire Hathaway,Diversified company fee,2024-07-01,125678.41,Retired,65
+USD,US19PONZ1858107967,France,Sanofi,Drug order payment,2024-07-01,125697.73,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 8428f53e-7793-4b53-9f9c-ee60e610d5e1,2024-07-01,129092.73,Retired,65
+USD,US19PONZ1858107967,Canada,Merck & Co.,Medication purchase,2024-07-01,129097.81,Retired,65
+USD,US19PONZ1858107967,NL,Merck & Co.,Pharmacy bill,2024-07-01,129127.52,Retired,65
+USD,US19PONZ1858107967,NL,Mitsubishi,Conglomerate product order,2024-07-01,129152.75,Retired,65
+USD,US19PONZ1858107967,NL,Luke Hendricks,Dinner reimbursement,2024-07-01,129156.46,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 062ab9b1-90ad-45fa-a9b6-0ead9e95d143,2024-07-01,132551.46,Retired,65
+USD,US19PONZ1858107967,United States,Matthijs Winnrich,School fees,2024-07-01,132577.79,Retired,65
+USD,US19PONZ1858107967,NL,Evi de Vries-van Beek,Funeral expenses,2024-07-01,132581.59,Retired,65
+USD,US19PONZ1858107967,Canada,Duke Energy,Utility bill,2024-07-01,132649.83,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 66180c67-8d66-4971-b9fc-6da1b83d4fcc,2024-07-01,136044.83,Retired,65
+USD,US19PONZ1858107967,NL,Aiden Hulskes,Rent deposit,2024-07-01,136088.87,Retired,65
+USD,US19PONZ1858107967,Japan,Oracle,Technology services invoice payment,2024-07-01,136108.83,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: aad6c59e-1e36-420a-adab-61954969106f,2024-07-01,139503.83,Retired,65
+USD,US19PONZ1858107967,NL,Novartis,Healthcare prescription,2024-07-01,139518.21,Retired,65
+USD,US19PONZ1858107967,Japan,Honeywell,Conglomerate product order,2024-07-01,139570.49,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c59f7e6d-3791-4a20-8a07-e08c0db166ad,2024-07-01,142965.49,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Cloud storage subscription,2024-07-01,142971.34,Retired,65
+USD,US19PONZ1858107967,NL,Procter & Gamble,Product purchase,2024-07-01,142989.97,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: cf254a22-f9f7-4700-88e1-a927e2089923,2024-07-01,146384.97,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Web hosting fee,2024-07-01,146397.67,Retired,65
+USD,US19PONZ1858107967,Great Britain,BASF,Chemical supply order,2024-07-01,146419.37,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Cloud storage subscription,2024-07-01,146458.04,Retired,65
+USD,US19PONZ1858107967,Canada,Geldmaat ATM,Geldmaat: ce10d930-45ae-4936-8b3c-249369091b9c,2024-07-01,146472.16,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a0f72982-b7c8-4dca-a558-2d8f507ebdeb,2024-07-01,149867.16,Retired,65
+USD,US19PONZ1858107967,NL,Volkswagen,Vehicle service charge,2024-07-01,149874.08,Retired,65
+USD,US19PONZ1858107967,NL,Allianz,Coverage update charge,2024-07-01,149911.77,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 5644f754-5387-4687-857e-edb147f556c7,2024-07-01,153306.77,Retired,65
+USD,US19PONZ1858107967,NL,Gilead Sciences,Clinical trial payment,2024-07-01,153334.19,Retired,65
+USD,US19PONZ1858107967,NL,Unilever,Retail goods payment,2024-07-01,153376.38,Retired,65
+USD,US19PONZ1858107967,NL,Verizon,Phone bill,2024-07-01,153377.22,Retired,65
+USD,US19PONZ1858107967,Spain,Goldman Sachs,Capital markets service,2024-07-01,153382.36,Retired,65
+USD,US19PONZ1858107967,United States,Lisanne Goderts-Dries,Wedding gift,2024-07-01,153487.6,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 83f910e2-67cf-4491-9986-a92294466d06,2024-07-01,156882.6,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Technology services invoice payment,2024-07-01,157006.57,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 27355558-16af-4c0e-976d-8f972f922c3c,2024-07-01,160401.57,Retired,65
+USD,US19PONZ1858107967,NL,Alphabet Inc.,Technology services invoice payment,2024-07-01,160513.13,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 8759b036-34d1-43ef-9dab-e1282ddbd3d1,2024-07-01,163908.13,Retired,65
+USD,US19PONZ1858107967,NL,Renault,Auto repair bill,2024-07-01,163950.16,Retired,65
+USD,US19PONZ1858107967,NL,Annabel van den Broek,Vacation expenses,2024-07-01,163967.13,Retired,65
+USD,US19PONZ1858107967,NL,Airbus,Aircraft maintenance,2024-07-01,163969.72,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 8d309e88-ebe3-43fc-9e01-bdb59f71a690,2024-07-01,167364.72,Retired,65
+USD,US19PONZ1858107967,NL,SoftBank,Diversified company fee,2024-07-01,167374.87,Retired,65
+USD,US19PONZ1858107967,Great Britain,Boeing,Aerospace parts purchase,2024-07-01,167380.62,Retired,65
+USD,US19PONZ1858107967,Great Britain,PepsiCo,Beverage order,2024-07-01,167400.04,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 19cb4f29-7663-4733-a7bc-12c0e5e44d4f,2024-07-01,170795.04,Retired,65
+USD,US19PONZ1858107967,NL,Procter & Gamble,Order payment,2024-07-01,170800.85,Retired,65
+USD,US19PONZ1858107967,United States,Pepijn Hoelen,Reimbursement for bills,2024-07-01,170852.84,Retired,65
+USD,US19PONZ1858107967,NL,Esmée Wilson,Family loan repayment,2024-07-01,170870.29,Retired,65
+USD,US19PONZ1858107967,NL,Sil van Schevinghuizen,Vacation expenses,2024-07-01,170907.62,Retired,65
+USD,US19PONZ1858107967,Germany,Airbus,Aircraft maintenance,2024-07-01,170913.17,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a3a490b0-85d1-4c86-846d-e81d5a46ca3a,2024-07-01,174308.17,Retired,65
+USD,US19PONZ1858107967,Canada,Alibaba,Subscription service,2024-07-01,174314.81,Retired,65
+USD,US19PONZ1858107967,NL,Merck & Co.,Drug order payment,2024-07-01,174346.88,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: f344cab0-da0a-472c-8128-e3975fe02f5f,2024-07-01,174363.57,Retired,65
+USD,US19PONZ1858107967,NL,Duke Energy,Utility bill,2024-07-01,174376.88,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 193aab3d-73b6-40d2-9213-51daad752cae,2024-07-01,177771.88,Retired,65
+USD,US19PONZ1858107967,Hungary,Renault,Car parts order,2024-07-01,177790.78,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: 80538b05-b38c-4bb6-ad24-676ab8f2d474,2024-07-01,177936.74,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 2f315df2-a7ca-4841-9a41-43fa38ffc8b8,2024-07-01,181331.74,Retired,65
+USD,US19PONZ1858107967,NL,Goldman Sachs,Brokerage fee,2024-07-01,181334.07,Retired,65
+USD,US19PONZ1858107967,Denmark,Yfke van der Heijden,Party contribution,2024-07-01,181378.26,Retired,65
+USD,US19PONZ1858107967,NL,AT&T,Data plan payment,2024-07-01,181391.6,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a9241c2a-4495-4894-8464-5500c06a31f2,2024-07-01,184786.6,Retired,65
+USD,US19PONZ1858107967,NL,Arthur van der Meulen-Terry,Travel expenses,2024-07-01,184790.65,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: d261542d-4a04-4186-9c7c-cff9530cfe36,2024-07-01,188185.65,Retired,65
+USD,US19PONZ1858107967,NL,Microsoft,Software license fee payment,2024-07-01,188188.17,Retired,65
+USD,US19PONZ1858107967,NL,Esther Gnodde-van Straaten,Household expenses,2024-07-01,188251.05,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 2c93eef7-ac8f-4654-a3cf-39cd52aef171,2024-07-01,191646.05,Retired,65
+USD,US19PONZ1858107967,NL,Sanofi,Medication purchase,2024-07-01,191706.53,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 887a0fac-570f-46f6-8351-d92366e19d93,2024-07-01,195101.53,Retired,65
+USD,US19PONZ1858107967,NL,Roche,Healthcare prescription,2024-07-01,195128.72,Retired,65
+USD,US19PONZ1858107967,NL,Alibaba,Marketplace seller fee,2024-07-01,195130.93,Retired,65
+USD,US19PONZ1858107967,Spain,Microsoft,Software license fee payment,2024-07-01,195153.54,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Web hosting fee,2024-07-01,195161.21,Retired,65
+USD,US19PONZ1858107967,NL,Lynn van de Leemput-van den Nuwenhuijzen,Split vacation cost,2024-07-01,195169.21,Retired,65
+USD,US19PONZ1858107967,NL,Toyota,Car parts order,2024-07-01,195173.79,Retired,65
+USD,US19PONZ1858107967,NL,Apple Inc.,Technology services invoice payment,2024-07-01,195292.79,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 7ead0e8c-9d0b-43f7-a23c-7d560bbbe0e0,2024-07-01,198687.79,Retired,65
+USD,US19PONZ1858107967,Canada,Geldmaat ATM,Geldmaat: c8f0b14c-2461-4adf-8955-9a15368b3c5a,2024-07-01,198732.16,Retired,65
+USD,US19PONZ1858107967,Germany,Louise Diesbergen,Travel expenses,2024-07-01,198760.5,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 72b7050e-ea68-400d-a2cc-f9d85071e36b,2024-07-01,202155.5,Retired,65
+USD,US19PONZ1858107967,NL,Mitsubishi,Corporate services payment,2024-07-01,202166.79,Retired,65
+USD,US19PONZ1858107967,NL,Ford Motor,Vehicle service charge,2024-07-01,202222.37,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 76f52ffb-223b-4894-b55e-c1485b949f93,2024-07-01,205617.37,Retired,65
+USD,US19PONZ1858107967,Germany,Vajèn de Bruijn,Family loan repayment,2024-07-01,205625.17,Retired,65
+USD,US19PONZ1858107967,Canada,Airbus,Space exploration fee,2024-07-01,205701.81,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 48b7fc31-6515-4ec8-9b93-e979a7aae1e9,2024-07-01,209096.81,Retired,65
+USD,US19PONZ1858107967,United States,Amazon,Online shopping,2024-07-01,209178.11,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: bdf3ba38-7612-43fb-9f6f-a34149bd75ec,2024-07-01,212573.11,Retired,65
+USD,US19PONZ1858107967,Great Britain,Ford Motor,Car purchase,2024-07-01,212705.42,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: db2c6c6f-0244-403d-b608-2ec3a4f82810,2024-07-01,216100.42,Retired,65
+USD,US19PONZ1858107967,NL,General Electric,Diversified company fee,2024-07-01,216165.46,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 3eb99caa-c35f-42dc-ad36-663babb7e05d,2024-07-01,219560.46,Retired,65
+USD,US19PONZ1858107967,NL,Cisco Systems,Web hosting fee,2024-08-01,219668.84,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 9c1e160d-cd70-491e-8e6d-198ec0f37c4e,2024-08-01,223063.84,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Web hosting fee,2024-08-01,223081.69,Retired,65
+USD,US19PONZ1858107967,NL,Tijs le Matelot-Weerdenburg,Shared ride expenses,2024-08-01,223090.61,Retired,65
+USD,US19PONZ1858107967,Italy,Dell Technologies,Web hosting fee,2024-08-01,223132.9,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 38cbb56b-5887-4e6d-9a9d-60310dea871e,2024-08-01,226527.9,Retired,65
+USD,US19PONZ1858107967,United States,Goldman Sachs,Stock purchase,2024-08-01,226532.72,Retired,65
+USD,US19PONZ1858107967,NL,Linde Zwart-Cadefau,Christmas gift,2024-08-01,226547.81,Retired,65
+USD,US19PONZ1858107967,NL,Alibaba,Marketplace seller fee,2024-08-01,226573.62,Retired,65
+USD,US19PONZ1858107967,Canada,Huawei,Web hosting fee,2024-08-01,226606.14,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 0dbe2c6d-4adb-4864-8a30-11732fa75ef6,2024-08-01,230001.14,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Software license fee payment,2024-08-01,230014.36,Retired,65
+USD,US19PONZ1858107967,Canada,Procter & Gamble,Product purchase,2024-08-01,230023.01,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c1c9929c-7183-4eb2-a06a-6ad1972d4382,2024-08-01,233418.01,Retired,65
+USD,US19PONZ1858107967,NL,Airbus,Space exploration fee,2024-08-01,233443.35,Retired,65
+USD,US19PONZ1858107967,NL,Allianz,Policy renewal fee,2024-08-01,233462.34,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: eede084e-3261-4679-8001-a3ac9e8196df,2024-08-01,236857.34,Retired,65
+USD,US19PONZ1858107967,NL,Julie Steenbakkers,New baby gift,2024-08-01,236923.5,Retired,65
+USD,US19PONZ1858107967,NL,Johnson & Johnson,Drug order payment,2024-08-01,236969.96,Retired,65
+USD,US19PONZ1858107967,Great Britain,Dell Technologies,Software license fee payment,2024-08-01,236974.94,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ed99c9cd-c1ed-4183-82e9-4763309409b4,2024-08-01,240369.94,Retired,65
+USD,US19PONZ1858107967,NL,GlaxoSmithKline,Pharmacy bill,2024-08-01,240384.64,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 26e477ec-e4df-4469-94ee-50f2c31acdef,2024-08-01,243779.64,Retired,65
+USD,US19PONZ1858107967,NL,Duke Energy,Energy supply charge,2024-08-01,243831.03,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 1f0d403c-774d-4b69-9c0d-9189a23a7eca,2024-08-01,247226.03,Retired,65
+USD,US19PONZ1858107967,France,IBM,Technology services invoice payment,2024-08-01,247251.89,Retired,65
+USD,US19PONZ1858107967,NL,Bristol-Myers Squibb,Pharmacy bill,2024-08-01,247303.56,Retired,65
+USD,US19PONZ1858107967,NL,Amazon,Marketplace seller fee,2024-08-01,247310.87,Retired,65
+USD,US19PONZ1858107967,United States,GlaxoSmithKline,Pharmacy bill,2024-08-01,247334.33,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 596db71b-81be-49b4-9a21-891e619f6562,2024-08-01,250729.33,Retired,65
+USD,US19PONZ1858107967,NL,Bristol-Myers Squibb,Medication purchase,2024-08-01,250750.91,Retired,65
+USD,US19PONZ1858107967,NL,Alphabet Inc.,Web hosting fee,2024-08-01,250775.81,Retired,65
+USD,US19PONZ1858107967,NL,Tata Consultancy Services,IT support fee,2024-08-01,250832.65,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 0ba9849e-100e-4cfb-8050-0d1bd684d7b3,2024-08-01,254227.65,Retired,65
+USD,US19PONZ1858107967,NL,Verizon,Cable service subscription,2024-08-01,254264.06,Retired,65
+USD,US19PONZ1858107967,France,Féline de Mol-Boetet,Anniversary gift,2024-08-01,254300.04,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 52329bf4-f725-4c2f-b95c-a87344a8e3ff,2024-08-01,257695.04,Retired,65
+USD,US19PONZ1858107967,Spain,Lindsey Huijben-Pastoors,Reimbursement for groceries,2024-08-01,257704.55,Retired,65
+USD,US19PONZ1858107967,Canada,Amber van Wassenaar,Support for a family member,2024-08-01,257712.48,Retired,65
+USD,US19PONZ1858107967,NL,Adam Bernaards-Geerling,Loan to family,2024-08-01,257716.51,Retired,65
+USD,US19PONZ1858107967,NL,Roche,Healthcare prescription,2024-08-01,257758.55,Retired,65
+USD,US19PONZ1858107967,NL,Sofia Paillet,Baby shower gift,2024-08-01,257759.95,Retired,65
+USD,US19PONZ1858107967,NL,Jolie van Dam-Drysdale,Reimbursement for bills,2024-08-01,257763.37,Retired,65
+USD,US19PONZ1858107967,Hungary,Verizon,Data plan payment,2024-08-01,257776.56,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: f302a01d-1e3f-48a3-be4b-348a2aa51f0e,2024-08-01,261171.56,Retired,65
+USD,US19PONZ1858107967,NL,Amazon,Subscription service,2024-08-01,261258.06,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ac5463f9-c3d8-4dc7-ab71-15889296a228,2024-08-01,264653.06,Retired,65
+USD,US19PONZ1858107967,NL,General Electric,Corporate services payment,2024-08-01,264708.72,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 7a25daa2-1789-42c2-ba81-5c24aba980c2,2024-08-01,268103.72,Retired,65
+USD,US19PONZ1858107967,Canada,Huawei,Technology services invoice payment,2024-08-01,268112.28,Retired,65
+USD,US19PONZ1858107967,France,BASF,Industrial chemicals purchase,2024-08-01,268160.35,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c0d9c2ef-b2bd-4c9d-a156-e569c2ce80d5,2024-08-01,271555.35,Retired,65
+USD,US19PONZ1858107967,NL,Renault,Vehicle service charge,2024-08-01,271576.19,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Cloud storage subscription,2024-08-01,271612.35,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 6157e5ce-ef3f-4d00-95ad-dd2784fa446a,2024-08-01,275007.35,Retired,65
+USD,US19PONZ1858107967,NL,Renault,Car purchase,2024-08-01,275031.74,Retired,65
+USD,US19PONZ1858107967,NL,Unilever,Order payment,2024-08-01,275039.16,Retired,65
+USD,US19PONZ1858107967,Great Britain,GlaxoSmithKline,Healthcare prescription,2024-08-01,275043.2,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 66b47449-155f-4967-ace4-5e6956d4dac3,2024-08-01,278438.2,Retired,65
+USD,US19PONZ1858107967,Hungary,Toyota,Car parts order,2024-08-01,278565.27,Retired,65
+USD,US19PONZ1858107967,NL,Cisco Systems,Web hosting fee,2024-08-01,278583.54,Retired,65
+USD,US19PONZ1858107967,United States,Nike,Clothing purchase,2024-08-01,278596.22,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 8dfc4cfd-6834-42cc-b2b4-d3cc25504bcd,2024-08-01,281991.22,Retired,65
+USD,US19PONZ1858107967,NL,Sanofi,Medication purchase,2024-08-01,282032.38,Retired,65
+USD,US19PONZ1858107967,NL,Nike,Apparel shopping,2024-08-01,282042.17,Retired,65
+USD,US19PONZ1858107967,NL,BMW,Vehicle service charge,2024-08-01,282085.9,Retired,65
+USD,US19PONZ1858107967,France,Toyota,Auto repair bill,2024-08-01,282120.29,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 2254abad-48f7-4dc4-8bf7-6ed42123e3cf,2024-08-01,285515.29,Retired,65
+USD,US19PONZ1858107967,Canada,Gilead Sciences,Laboratory service charge,2024-08-01,285523.78,Retired,65
+USD,US19PONZ1858107967,NL,Alibaba,Online shopping,2024-08-01,285582.87,Retired,65
+USD,US19PONZ1858107967,NL,Goldman Sachs,Capital markets service,2024-08-01,285638.42,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 79d43bb1-daf9-4ce1-a316-0f8270650eaa,2024-08-01,289033.42,Retired,65
+USD,US19PONZ1858107967,NL,Mads Blom,Family loan repayment,2024-08-01,289116.77,Retired,65
+USD,US19PONZ1858107967,Germany,Renault,Car purchase,2024-08-01,289124.69,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 5dc4c9e7-8d3e-4568-a605-dee22e5f706e,2024-08-01,292519.69,Retired,65
+USD,US19PONZ1858107967,NL,Mirte van Rheineck,Dinner reimbursement,2024-08-01,292531.61,Retired,65
+USD,US19PONZ1858107967,France,Phillips 66,Utility bill,2024-08-01,292546.64,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: f33f2172-43e7-4a53-b495-edc5481d5e73,2024-08-01,295941.64,Retired,65
+USD,US19PONZ1858107967,Hungary,Bristol-Myers Squibb,Pharmacy bill,2024-08-01,295995.18,Retired,65
+USD,US19PONZ1858107967,Austria,GlaxoSmithKline,Medication purchase,2024-08-01,296025.22,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 7edc501b-29e5-4d0a-b53f-85b93652538d,2024-08-01,299420.22,Retired,65
+USD,US19PONZ1858107967,NL,Johnson & Johnson,Drug order payment,2024-08-01,299423.41,Retired,65
+USD,US19PONZ1858107967,Italy,Honeywell,Conglomerate product order,2024-08-01,299484.6,Retired,65
+USD,US19PONZ1858107967,Japan,Lotte Visser-van Stralen,Party contribution,2024-08-01,299668.98,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ed9560fc-3e46-4010-8c09-1eeec7cae6fa,2024-08-01,303063.98,Retired,65
+USD,US19PONZ1858107967,Germany,Jurre Scheer-Ellis,Loan to family,2024-08-01,303584.12,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 04ed3661-20be-4853-aef9-f6fee044f5d4,2024-08-01,306979.12,Retired,65
+USD,US19PONZ1858107967,NL,Fedde van der Stael,Dinner reimbursement,2024-08-01,307013.7,Retired,65
+USD,US19PONZ1858107967,NL,Johnson & Johnson,Healthcare prescription,2024-08-01,307022.74,Retired,65
+USD,US19PONZ1858107967,NL,Hidde de Bock,Pet expenses,2024-08-01,307036.83,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 79e2889d-69a9-49a7-a0e0-e3b13b42905f,2024-08-01,310431.83,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: d05bba0c-bc39-461a-be41-65556d848168,2024-08-01,310468.95,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 609c2481-a0d2-4b02-8bb5-6664275a55a4,2024-08-01,313863.95,Retired,65
+USD,US19PONZ1858107967,Canada,Floris Briere,Personal loan,2024-08-01,313895.49,Retired,65
+USD,US19PONZ1858107967,Spain,Geldmaat ATM,Geldmaat: 92b91ede-0592-4119-9f0e-b382934fb429,2024-08-01,313933.97,Retired,65
+USD,US19PONZ1858107967,Italy,GlaxoSmithKline,Pharmacy bill,2024-08-01,313950.35,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: cc64c359-fdc1-466d-b132-08deb8a2cbf1,2024-08-01,317345.35,Retired,65
+USD,US19PONZ1858107967,NL,Berkshire Hathaway,Corporate services payment,2024-08-01,317487.7,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 8f7d6b8c-46a5-46f1-8d25-2208045a81b6,2024-08-01,320882.7,Retired,65
+USD,US19PONZ1858107967,Denmark,ByteDance,Cloud storage subscription,2024-08-01,320898.65,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b5c56627-66ee-408e-87c5-d3f576d8319f,2024-08-01,324293.65,Retired,65
+USD,US19PONZ1858107967,NL,Apple Inc.,Technology services invoice payment,2024-08-01,324374.24,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: 8c95366d-edc6-43ff-a5cc-2d065bf1c338,2024-08-01,324419.09,Retired,65
+USD,US19PONZ1858107967,NL,PepsiCo,Catering service fee,2024-08-01,324419.73,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ad9f75e1-4ac7-4a87-bd1b-dc7869a49c93,2024-08-01,327814.73,Retired,65
+USD,US19PONZ1858107967,Denmark,Bayer,Drug order payment,2024-08-01,327815.29,Retired,65
+USD,US19PONZ1858107967,NL,Johnson & Johnson,Drug order payment,2024-08-01,327822.09,Retired,65
+USD,US19PONZ1858107967,NL,Alibaba,Online shopping,2024-08-01,327822.76,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: d2b6a4a3-11cb-446d-9197-2fdf22bf8b11,2024-09-01,331217.76,Retired,65
+USD,US19PONZ1858107967,Canada,Geldmaat ATM,Geldmaat: 22255dbf-c937-4c75-9261-e945feb91381,2024-09-01,331275.87,Retired,65
+USD,US19PONZ1858107967,NL,Verizon,Telecom invoice,2024-09-01,331307.59,Retired,65
+USD,US19PONZ1858107967,NL,Accenture,Professional service invoice,2024-09-01,331319.0,Retired,65
+USD,US19PONZ1858107967,NL,LVMH,Luxury item purchase,2024-09-01,331363.51,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: d40397e6-1eff-4913-bd84-61717aa493e7,2024-09-01,334758.51,Retired,65
+USD,US19PONZ1858107967,NL,Roche,Medication purchase,2024-09-01,334831.8,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 873d353a-ec5b-498c-aac4-86222e092bc9,2024-09-01,338226.8,Retired,65
+USD,US19PONZ1858107967,NL,Rayan van Ghoerle-Hanegraaff,Shared hotel room cost,2024-09-01,338348.45,Retired,65
+USD,US19PONZ1858107967,Japan,Novartis,Medication purchase,2024-09-01,338371.74,Retired,65
+USD,US19PONZ1858107967,Spain,Morgan Stanley,Stock purchase,2024-09-01,338376.8,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: f741a94d-c7eb-41de-bdfc-dc5f4c6f7b2a,2024-09-01,341771.8,Retired,65
+USD,US19PONZ1858107967,NL,Honeywell,Diversified company fee,2024-09-01,341784.53,Retired,65
+USD,US19PONZ1858107967,NL,Maryam Rousselet,Shared subscription,2024-09-01,341788.9,Retired,65
+USD,US19PONZ1858107967,NL,Imke Jones,Mortgage help,2024-09-01,341798.4,Retired,65
+USD,US19PONZ1858107967,NL,Apple Inc.,Cloud storage subscription,2024-09-01,341802.35,Retired,65
+USD,US19PONZ1858107967,United States,SoftBank,Corporate services payment,2024-09-01,341813.98,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 209b0ff6-ff3d-42c6-bbe3-65be0cc684a9,2024-09-01,345208.98,Retired,65
+USD,US19PONZ1858107967,Japan,Volkswagen,Vehicle service charge,2024-09-01,345231.47,Retired,65
+USD,US19PONZ1858107967,NL,Mitsubishi,Diversified company fee,2024-09-01,345241.7,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b37a6a0d-d320-449f-92db-23e8eaa0a03b,2024-09-01,348636.7,Retired,65
+USD,US19PONZ1858107967,NL,GlaxoSmithKline,Pharmacy bill,2024-09-01,348643.28,Retired,65
+USD,US19PONZ1858107967,NL,ByteDance,Cloud storage subscription,2024-09-01,348693.62,Retired,65
+USD,US19PONZ1858107967,Italy,Honeywell,Diversified company fee,2024-09-01,348700.9,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: 9f10a796-78e2-4fd3-87c7-88703df43cff,2024-09-01,348701.46,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 999387c0-ab70-4274-8b57-cf558362daa8,2024-09-01,352096.46,Retired,65
+USD,US19PONZ1858107967,NL,Berkshire Hathaway,Business unit invoice,2024-09-01,352100.21,Retired,65
+USD,US19PONZ1858107967,Great Britain,Amazon,Online shopping,2024-09-01,352117.26,Retired,65
+USD,US19PONZ1858107967,NL,Cisco Systems,Technology services invoice payment,2024-09-01,352128.75,Retired,65
+USD,US19PONZ1858107967,NL,Oracle,Web hosting fee,2024-09-01,352133.9,Retired,65
+USD,US19PONZ1858107967,United States,Alphabet Inc.,Cloud storage subscription,2024-09-01,352146.27,Retired,65
+USD,US19PONZ1858107967,NL,Pfizer,Pharmacy bill,2024-09-01,352257.79,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c2892a0d-6633-4deb-a5b2-55d43f6cc197,2024-09-01,355652.79,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Cloud storage subscription,2024-09-01,355798.58,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b9a58498-aec0-441a-8435-61bdc78c8739,2024-09-01,359193.58,Retired,65
+USD,US19PONZ1858107967,NL,Nike,Sportswear buy,2024-09-01,359232.08,Retired,65
+USD,US19PONZ1858107967,NL,Huawei,Technology services invoice payment,2024-09-01,359250.66,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 77dbd51c-195a-4f7e-8dfb-fbadbf852120,2024-09-01,362645.66,Retired,65
+USD,US19PONZ1858107967,Germany,Airbus,Aircraft maintenance,2024-09-01,362659.84,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 9cf29217-b05b-4020-9080-f6f6c636e521,2024-09-01,366054.84,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: 94da4dd5-6d5d-4b5d-a1c8-cf8891bbb906,2024-09-01,366105.47,Retired,65
+USD,US19PONZ1858107967,Great Britain,Verizon,Telecom invoice,2024-09-01,366108.89,Retired,65
+USD,US19PONZ1858107967,France,Lana van Geest-Mangel,Travel expenses,2024-09-01,366114.29,Retired,65
+USD,US19PONZ1858107967,Great Britain,AT&T,Telecom invoice,2024-09-01,366117.06,Retired,65
+USD,US19PONZ1858107967,NL,Facebook,Influencer collaboration fee,2024-09-01,366147.29,Retired,65
+USD,US19PONZ1858107967,Germany,Unilever,Subscription box service,2024-09-01,366203.65,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a425eb1a-c1ba-4b51-a18b-16e02442d237,2024-09-01,369598.65,Retired,65
+USD,US19PONZ1858107967,NL,Oracle,Web hosting fee,2024-09-01,369637.47,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c8be5ce9-903d-49a9-8468-e1847f20b5ac,2024-09-01,373032.47,Retired,65
+USD,US19PONZ1858107967,NL,Accenture,Advisory session charge,2024-09-01,373042.7,Retired,65
+USD,US19PONZ1858107967,Great Britain,Wouter van der Laar,Split restaurant bill,2024-09-01,373109.79,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: c47344cf-b3f8-4736-a337-2797bc8192ea,2024-09-01,376504.79,Retired,65
+USD,US19PONZ1858107967,NL,Esila van 't Riet,Birthday gift,2024-09-01,376541.7,Retired,65
+USD,US19PONZ1858107967,Spain,Pippa Pison-le Guellec,Rent assistance,2024-09-01,376560.33,Retired,65
+USD,US19PONZ1858107967,NL,Goldman Sachs,Stock purchase,2024-09-01,376584.19,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 1fdd8000-07f9-4195-9305-422e6b042210,2024-09-01,379979.19,Retired,65
+USD,US19PONZ1858107967,Great Britain,Daimler,Car purchase,2024-09-01,380023.53,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: df44d911-daae-434f-9593-202ead57c3d8,2024-09-01,383418.53,Retired,65
+USD,US19PONZ1858107967,NL,GlaxoSmithKline,Medication purchase,2024-09-01,383433.57,Retired,65
+USD,US19PONZ1858107967,France,Toyota,Car parts order,2024-09-01,383470.69,Retired,65
+USD,US19PONZ1858107967,NL,Verizon,Cable service subscription,2024-09-01,383476.14,Retired,65
+USD,US19PONZ1858107967,NL,Alphabet Inc.,Cloud storage subscription,2024-09-01,383480.2,Retired,65
+USD,US19PONZ1858107967,NL,Facebook,Ad campaign funding,2024-09-01,383492.05,Retired,65
+USD,US19PONZ1858107967,Belgium,Merck & Co.,Medication purchase,2024-09-01,383503.65,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 14aa01db-4973-4a4c-8d3a-c7ebf53e8415,2024-09-01,386898.65,Retired,65
+USD,US19PONZ1858107967,United States,Renault,Car parts order,2024-09-01,386905.52,Retired,65
+USD,US19PONZ1858107967,NL,Airbus,Aerospace parts purchase,2024-09-01,386927.91,Retired,65
+USD,US19PONZ1858107967,Germany,Facebook,Ad campaign funding,2024-09-01,386930.46,Retired,65
+USD,US19PONZ1858107967,Belgium,Leah van Baalen,Mortgage help,2024-09-01,386967.08,Retired,65
+USD,US19PONZ1858107967,NL,Johnson & Johnson,Healthcare prescription,2024-09-01,386971.64,Retired,65
+USD,US19PONZ1858107967,Italy,Merck & Co.,Pharmacy bill,2024-09-01,386985.22,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 39c4b3d2-48ad-49b3-973b-91defb5b3dc0,2024-09-01,390380.22,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 75b6c965-b18a-4c8e-a634-feb342dd64c3,2024-09-01,393775.22,Retired,65
+USD,US19PONZ1858107967,NL,Geldmaat ATM,Geldmaat: 4ff607d1-530b-45d3-9a47-3d58ea117289,2024-09-01,393891.46,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 18f426b6-37fe-4a33-b64f-885cabe19c50,2024-09-01,397286.46,Retired,65
+USD,US19PONZ1858107967,Canada,Goldman Sachs,Stock purchase,2024-09-01,397298.19,Retired,65
+USD,US19PONZ1858107967,NL,Joshua van Kuijc,Dinner reimbursement,2024-09-01,397307.74,Retired,65
+USD,US19PONZ1858107967,Spain,Dell Technologies,Software license fee payment,2024-09-01,397359.37,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 6fb4ae92-c124-436d-88aa-4c6fca1c5b17,2024-09-01,400754.37,Retired,65
+USD,US19PONZ1858107967,Spain,Microsoft,Cloud storage subscription,2024-09-01,400780.25,Retired,65
+USD,US19PONZ1858107967,NL,Tata Consultancy Services,IT support fee,2024-09-01,400802.18,Retired,65
+USD,US19PONZ1858107967,NL,Dell Technologies,Cloud storage subscription,2024-09-01,400811.64,Retired,65
+USD,US19PONZ1858107967,Great Britain,Duke Energy,Utility bill,2024-09-01,400816.14,Retired,65
+USD,US19PONZ1858107967,NL,Julia Hoelen,Baby shower gift,2024-09-01,400924.25,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: a0d8ebc2-4ed8-4ed3-bcdd-9b0d6f27c7e0,2024-09-01,404319.25,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 969585a3-ca2c-4f0c-8b58-7b1a41447d79,2024-09-01,407714.25,Retired,65
+USD,US19PONZ1858107967,NL,Alibaba,Online shopping,2024-09-01,407781.68,Retired,65
+USD,US19PONZ1858107967,Spain,Gilead Sciences,Laboratory service charge,2024-09-01,407838.36,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 51b5164c-c0d1-4c4b-95da-01cf1738b0f8,2024-09-01,411233.36,Retired,65
+USD,US19PONZ1858107967,NL,Jonathan van Rijnsbergen,Split restaurant bill,2024-09-01,411246.14,Retired,65
+USD,US19PONZ1858107967,NL,Mitsubishi,Corporate services payment,2024-09-01,411317.5,Retired,65
+USD,US19PONZ1858107967,NL,Nike,Apparel shopping,2024-09-01,411347.34,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: fc3113e5-a947-4a74-acea-3cf75d5afdd6,2024-09-01,414742.34,Retired,65
+USD,US19PONZ1858107967,NL,Arthur Loreal,Rent assistance,2024-09-01,414832.14,Retired,65
+USD,US19PONZ1858107967,Austria,Procter & Gamble,Order payment,2024-09-01,414869.43,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 8e2ab32a-2c52-488e-97ef-b98736103a16,2024-09-01,418264.43,Retired,65
+USD,US19PONZ1858107967,NL,Facebook,Influencer collaboration fee,2024-09-01,418343.46,Retired,65
+USD,US19PONZ1858107967,Great Britain,Goldman Sachs,Brokerage fee,2024-09-01,418344.02,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ebc5d887-b8a7-4881-87f9-fbc04374edaa,2024-09-01,421739.02,Retired,65
+USD,US19PONZ1858107967,NL,Oscar de Plantard-Geertsen,Reimbursement for bills,2024-09-01,421779.47,Retired,65
+USD,US19PONZ1858107967,NL,Toyota,Car purchase,2024-09-01,422324.71,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 698657d1-ad67-41a5-9fec-20e3cd844d2e,2024-09-01,425719.71,Retired,65
+USD,US19PONZ1858107967,Italy,Accenture,Advisory session charge,2024-09-01,425724.21,Retired,65
+USD,US19PONZ1858107967,NL,Nike,Sportswear buy,2024-09-01,425804.53,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 0c91eb4a-1865-4cbe-94a4-2a8a924536b0,2024-09-01,429199.53,Retired,65
+USD,US19PONZ1858107967,NL,Goldman Sachs,Brokerage fee,2024-09-01,429208.82,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 81feae4a-e1b6-47e2-af5e-50a8b8f9253f,2024-09-01,432603.82,Retired,65
+USD,US19PONZ1858107967,NL,Oracle,Software license fee payment,2024-09-01,432608.25,Retired,65
+USD,US19PONZ1858107967,Belgium,Cisco Systems,Cloud storage subscription,2024-09-01,432651.5,Retired,65
+USD,US19PONZ1858107967,NL,Dean Gepa van Bourgondië,School fees,2024-09-01,432654.85,Retired,65
+USD,US19PONZ1858107967,NL,Fay Rademaker,Reimbursement for bills,2024-10-01,432691.93,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 797c23c1-c8f5-41a4-9938-3dc13bd40aa8,2024-10-01,436086.93,Retired,65
+USD,US19PONZ1858107967,NL,Merck & Co.,Drug order payment,2024-10-01,436095.17,Retired,65
+USD,US19PONZ1858107967,NL,Maya Pieters,Reimbursement for dinner,2024-10-01,436158.25,Retired,65
+USD,US19PONZ1858107967,Germany,Amazon,Online shopping,2024-10-01,436160.99,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: fb275753-4cae-4951-9079-180440c8c5c2,2024-10-01,439555.99,Retired,65
+USD,US19PONZ1858107967,United States,Naud Rotteveel,School fees,2024-10-01,439617.84,Retired,65
+USD,US19PONZ1858107967,United States,Procter & Gamble,Subscription box service,2024-10-01,439632.51,Retired,65
+USD,US19PONZ1858107967,NL,Indy Puig,Family loan repayment,2024-10-01,439680.15,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: e5b36da9-dd8c-4808-9e82-4eb0dc22f2a4,2024-10-01,443075.15,Retired,65
+USD,US19PONZ1858107967,France,Geldmaat ATM,Geldmaat: 6ec52138-61e5-41cd-97d8-92df4bb6f948,2024-10-01,443127.8,Retired,65
+USD,US19PONZ1858107967,NL,Verizon,Telecom invoice,2024-10-01,443158.2,Retired,65
+USD,US19PONZ1858107967,Great Britain,Microsoft,Software license fee payment,2024-10-01,443159.68,Retired,65
+USD,US19PONZ1858107967,NL,Tata Consultancy Services,Technical service charge,2024-10-01,443168.09,Retired,65
+USD,US19PONZ1858107967,Germany,Airbus,Aircraft maintenance,2024-10-01,443169.01,Retired,65
+USD,US19PONZ1858107967,Germany,Cisco Systems,Cloud storage subscription,2024-10-01,443175.6,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b2bd6994-01e6-454b-b7eb-f704393515df,2024-10-01,446570.6,Retired,65
+USD,US19PONZ1858107967,France,Tata Consultancy Services,System upgrade fee,2024-10-01,446601.84,Retired,65
+USD,US19PONZ1858107967,United States,Morgan Stanley,Brokerage fee,2024-10-01,446642.61,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Technology services invoice payment,2024-10-01,446653.7,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: b9b3dc57-9da3-4a84-8665-5e3dfde7da3e,2024-10-01,450048.7,Retired,65
+USD,US19PONZ1858107967,NL,Oracle,Cloud storage subscription,2024-10-01,450060.42,Retired,65
+USD,US19PONZ1858107967,NL,Joost Dries,Loan to family,2024-10-01,450061.46,Retired,65
+USD,US19PONZ1858107967,NL,Duke Energy,Energy supply charge,2024-10-01,450120.09,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 92f55b45-38ca-4ff7-85e9-35f4a6fcb3c2,2024-10-01,453515.09,Retired,65
+USD,US19PONZ1858107967,Great Britain,Volkswagen,Car parts order,2024-10-01,453581.9,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: fd39ca9d-8ace-4988-b7de-869c8f16052c,2024-10-01,456976.9,Retired,65
+USD,US19PONZ1858107967,NL,Morgan Stanley,Brokerage fee,2024-10-01,457027.84,Retired,65
+USD,US19PONZ1858107967,NL,IBM,Technology services invoice payment,2024-10-01,457034.28,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: bfbbae89-fd45-47fe-b906-026c049d9df1,2024-10-01,460429.28,Retired,65
+USD,US19PONZ1858107967,Great Britain,Accenture,Consulting fee,2024-10-01,460433.03,Retired,65
+USD,US19PONZ1858107967,United States,Stef Leguit,Travel expenses,2024-10-01,460453.77,Retired,65
+USD,US19PONZ1858107967,NL,Facebook,Premium account upgrade,2024-10-01,460458.14,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: d6829323-ac7b-4f13-b24d-e79b8b2f53d8,2024-10-01,463853.14,Retired,65
+USD,US19PONZ1858107967,NL,DuPont,Corporate services payment,2024-10-01,463861.49,Retired,65
+USD,US19PONZ1858107967,NL,Toyota,Vehicle service charge,2024-10-01,463871.31,Retired,65
+USD,US19PONZ1858107967,Belgium,Pfizer,Medication purchase,2024-10-01,463888.21,Retired,65
+USD,US19PONZ1858107967,NL,Airbus,Space exploration fee,2024-10-01,463906.43,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 23343117-fd16-480c-88ae-fa4441faab83,2024-10-01,467301.43,Retired,65
+USD,US19PONZ1858107967,Denmark,Berkshire Hathaway,Corporate services payment,2024-10-01,467316.0,Retired,65
+USD,US19PONZ1858107967,NL,Accenture,Professional service invoice,2024-10-01,467328.14,Retired,65
+USD,US19PONZ1858107967,NL,AT&T,Phone bill,2024-10-01,467395.6,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: ade2269b-55ae-4199-a663-89cbfcbbbd75,2024-10-01,470790.6,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 7cd691ee-dacc-459d-bd27-3e080784198f,2024-10-01,474185.6,Retired,65
+USD,US19PONZ1858107967,Canada,Jake de Kale-le Matelot,Personal loan,2024-10-01,474217.55,Retired,65
+USD,US19PONZ1858107967,United States,Berkshire Hathaway,Conglomerate product order,2024-10-01,474292.71,Retired,65
+USD,US19PONZ1858107967,NL,Goldman Sachs,Brokerage fee,2024-10-01,474331.79,Retired,65
+USD,US19PONZ1858107967,Great Britain,Gilead Sciences,Genetic testing kit,2024-10-01,474351.77,Retired,65
+USD,US19PONZ1858107967,Hungary,Geldmaat ATM,Geldmaat: 88890302-573c-481f-97e1-49b9ea66ab4b,2024-10-01,477746.77,Retired,65

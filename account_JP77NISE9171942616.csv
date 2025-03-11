@@ -1,0 +1,293 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+J,JP77NISE9171942616,Great Britain,IBM,Technology services invoice payment,2024-06-01,4023.63,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: b3bf8fb4-a62d-4ddd-8d5e-f9363ea745ef,2024-06-01,4689.63,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1619feb6-0774-4101-9c08-e6ba9a20d9a5,2024-06-01,5355.63,Student,20
+J,JP77NISE9171942616,NL,Duke Energy,Utility bill,2024-06-01,5361.18,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 941dde96-2583-4b8b-91fa-c040c4d66961,2024-06-01,6027.18,Student,20
+J,JP77NISE9171942616,NL,Marinus Ehlert,Wedding gift,2024-06-01,6049.56,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 88bc796e-1733-4384-89e8-53a33a2d869f,2024-06-01,6715.56,Student,20
+J,JP77NISE9171942616,NL,Pippa van de Leemput,Wedding gift,2024-06-01,6742.97,Student,20
+J,JP77NISE9171942616,France,Dex van de Berg,Friend loan repayment,2024-06-01,6745.2,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: ed39cd4a-63c0-458e-bee4-c8c3ea3c3391,2024-06-01,7411.2,Student,20
+J,JP77NISE9171942616,NL,Alibaba,E-commerce order,2024-06-01,7412.93,Student,20
+J,JP77NISE9171942616,NL,Dell Technologies,Technology services invoice payment,2024-06-01,7428.96,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: c78a0039-628f-46cf-b654-8adabd1331d3,2024-06-01,8094.96,Student,20
+J,JP77NISE9171942616,NL,AstraZeneca,Pharmacy bill,2024-06-01,8097.41,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 29faa742-8542-4cae-ab91-94c214d0412d,2024-06-01,8763.41,Student,20
+J,JP77NISE9171942616,Great Britain,PepsiCo,Food delivery,2024-06-01,8764.63,Student,20
+J,JP77NISE9171942616,NL,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,8771.11,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: ab39b4df-6e67-41f3-bdf6-20e6e7da6876,2024-06-01,9437.11,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 361284b4-b3d9-48c0-a744-aafacae90847,2024-06-01,10103.11,Student,20
+J,JP77NISE9171942616,Belgium,Michael Korstman-Linschoten,Birthday gift,2024-06-01,10113.87,Student,20
+J,JP77NISE9171942616,Canada,Cisco Systems,Technology services invoice payment,2024-06-01,10117.15,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 7dba4567-048c-4673-ad15-0c84ffa8fabe,2024-06-01,10783.15,Student,20
+J,JP77NISE9171942616,Spain,Elena van Velzen,Household expenses,2024-06-01,10798.63,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: b326b69c-0d00-488d-bf44-5d95a0516318,2024-06-01,11464.63,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 40240a79-5b1c-4686-82ff-796a4449d179,2024-06-01,12130.63,Student,20
+J,JP77NISE9171942616,NL,Airbus,Space exploration fee,2024-06-01,12136.35,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: d8de8531-a0e8-49ad-89d9-2599dfa354ef,2024-06-01,12802.35,Student,20
+J,JP77NISE9171942616,NL,Ford Motor,Auto repair bill,2024-06-01,12820.77,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: da4771ed-8571-4f43-b075-346aba6b83b1,2024-06-01,13486.77,Student,20
+J,JP77NISE9171942616,NL,Airbus,Space exploration fee,2024-06-01,13500.12,Student,20
+J,JP77NISE9171942616,NL,Alibaba,Marketplace seller fee,2024-06-01,13505.92,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 43bfda8d-b95c-4d69-a565-2202da328958,2024-06-01,14171.92,Student,20
+J,JP77NISE9171942616,Great Britain,Geldmaat ATM,Geldmaat: be552455-4a2a-4405-83cb-37eeb72c06c9,2024-06-01,14173.25,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: ee45887f-dcc5-45ab-80a5-43d44ebbe4c7,2024-06-01,14839.25,Student,20
+J,JP77NISE9171942616,NL,Alibaba,Online shopping,2024-06-01,14840.46,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 48bed003-51ae-4789-a97a-196f49bb4570,2024-06-01,15506.46,Student,20
+J,JP77NISE9171942616,NL,Renault,Auto repair bill,2024-06-01,15513.76,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: e95d121a-7397-42c3-8013-da18556aedeb,2024-06-01,16179.76,Student,20
+J,JP77NISE9171942616,NL,Berkshire Hathaway,Corporate services payment,2024-06-01,16185.02,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 4eb59830-1fe7-4786-a4bb-28064b5983af,2024-06-01,16851.02,Student,20
+J,JP77NISE9171942616,NL,Julius Govarts-van der Plas,Medical bills,2024-06-01,16866.63,Student,20
+J,JP77NISE9171942616,NL,AstraZeneca,Medication purchase,2024-06-01,16868.66,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 44ab97df-25d5-4956-91bc-771153a3434e,2024-06-01,17534.66,Student,20
+J,JP77NISE9171942616,NL,Norah van Alenburg-Bellemans,Pet expenses,2024-06-01,17542.71,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1b5c51d0-258e-49cc-8f66-51235a268144,2024-06-01,18208.71,Student,20
+J,JP77NISE9171942616,Japan,Allianz,Policy renewal fee,2024-06-01,18218.7,Student,20
+J,JP77NISE9171942616,NL,Procter & Gamble,Subscription box service,2024-06-01,18222.1,Student,20
+J,JP77NISE9171942616,NL,DuPont,Business unit invoice,2024-06-01,18223.55,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 64ed358b-c47c-4dd1-97eb-d9fe292cc100,2024-06-01,18889.55,Student,20
+J,JP77NISE9171942616,Canada,PepsiCo,Food delivery,2024-06-01,18892.06,Student,20
+J,JP77NISE9171942616,Canada,Jamie Gemen,Graduation gift,2024-06-01,18892.89,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 44a55f1f-fc17-4456-9885-6c01ca14d016,2024-06-01,19558.89,Student,20
+J,JP77NISE9171942616,United States,Allianz,Insurance premium,2024-06-01,19561.72,Student,20
+J,JP77NISE9171942616,NL,AT&T,Phone bill,2024-06-01,19562.59,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 17927b04-93ee-45d4-911e-fa2146f69392,2024-06-01,20228.59,Student,20
+J,JP77NISE9171942616,Great Britain,Accenture,Advisory session charge,2024-06-01,20236.66,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 98aae1c8-8282-4e39-bde3-81acc387437e,2024-06-01,20902.66,Student,20
+J,JP77NISE9171942616,Great Britain,DuPont,Corporate services payment,2024-06-01,20909.11,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: cf335768-0491-4876-b05e-6bcf34aa1f78,2024-06-01,21575.11,Student,20
+J,JP77NISE9171942616,Canada,Fem die Witte,Mortgage help,2024-06-01,21582.34,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 896b443f-f8b2-4a48-a7ee-49ee5db73788,2024-06-01,22248.34,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 28614242-719c-4a1f-8aef-e9f4e6680c8e,2024-06-01,22914.34,Student,20
+J,JP77NISE9171942616,NL,3M,Business unit invoice,2024-06-01,22951.74,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: b6280f36-d210-4e95-bf99-72de58f107dc,2024-06-01,23617.74,Student,20
+J,JP77NISE9171942616,NL,Procter & Gamble,Subscription box service,2024-06-01,23619.18,Student,20
+J,JP77NISE9171942616,NL,Ford Motor,Car parts order,2024-06-01,23633.48,Student,20
+J,JP77NISE9171942616,NL,Ford Motor,Car parts order,2024-06-01,23634.22,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 99e3e276-dec8-4f88-a52b-98b92ddd7558,2024-06-01,24300.22,Student,20
+J,JP77NISE9171942616,NL,Goldman Sachs,Stock purchase,2024-06-01,24308.37,Student,20
+J,JP77NISE9171942616,Italy,Airbus,Space exploration fee,2024-07-01,24317.46,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 515a0a81-0d37-4635-b024-71243a0fc439,2024-07-01,24983.46,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: cd231af3-0908-4169-8135-bc8e5b3efdea,2024-07-01,25649.46,Student,20
+J,JP77NISE9171942616,Italy,Milan Lambregt-Berendse,Rent deposit,2024-07-01,25654.26,Student,20
+J,JP77NISE9171942616,NL,Selena Haengreve,Split restaurant bill,2024-07-01,25669.68,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 277aa869-f0be-41f3-b9fc-41c44b81f9fc,2024-07-01,26335.68,Student,20
+J,JP77NISE9171942616,NL,Tristan Vergeer-van Oirschot,Gift,2024-07-01,26348.3,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 4d2673a3-2a4c-41dd-8040-953ca7ce9f87,2024-07-01,27014.3,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1730962a-5599-4786-b99d-78312ede30ac,2024-07-01,27680.3,Student,20
+J,JP77NISE9171942616,NL,General Electric,Conglomerate product order,2024-07-01,27712.5,Student,20
+J,JP77NISE9171942616,NL,Apple Inc.,Cloud storage subscription,2024-07-01,27728.81,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 9d8ea0cd-6be1-4c89-92eb-d0612e61d1dd,2024-07-01,28394.81,Student,20
+J,JP77NISE9171942616,Spain,GlaxoSmithKline,Pharmacy bill,2024-07-01,28404.76,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: e49904c7-8c34-4bac-ac23-2eb7adf13d54,2024-07-01,29070.76,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 19b10f00-c240-4ddf-ad4b-72768227e90d,2024-07-01,29736.76,Student,20
+J,JP77NISE9171942616,NL,Novartis,Pharmacy bill,2024-07-01,29784.41,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: c4668986-4915-4643-a9f7-68dcdac07a9e,2024-07-01,30450.41,Student,20
+J,JP77NISE9171942616,United States,GlaxoSmithKline,Healthcare prescription,2024-07-01,30460.74,Student,20
+J,JP77NISE9171942616,France,Elena Spanhaak,Rent payment,2024-07-01,30465.4,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 63e96d65-b314-4c1d-b2be-e55ddd1c9353,2024-07-01,31131.4,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 2f890431-fff3-4873-8d5d-1445c2130634,2024-07-01,31797.4,Student,20
+J,JP77NISE9171942616,NL,Sanofi,Healthcare prescription,2024-07-01,31803.22,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 99dc63b4-df64-44fd-ac28-b1833b9700ab,2024-07-01,32469.22,Student,20
+J,JP77NISE9171942616,NL,Pfizer,Pharmacy bill,2024-07-01,32485.04,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 8d21d402-459d-4760-a79b-8518af8b59cc,2024-07-01,33151.04,Student,20
+J,JP77NISE9171942616,Great Britain,Microsoft,Web hosting fee,2024-07-01,33152.59,Student,20
+J,JP77NISE9171942616,NL,General Electric,Corporate services payment,2024-07-01,33169.21,Student,20
+J,JP77NISE9171942616,Canada,Airbus,Aerospace parts purchase,2024-07-01,33184.0,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1c9f0152-7ad5-45ff-8111-058f3cf3cf4b,2024-07-01,33850.0,Student,20
+J,JP77NISE9171942616,NL,SoftBank,Business unit invoice,2024-07-01,33851.26,Student,20
+J,JP77NISE9171942616,NL,Daan Rouwenhorst,Reimbursement for bills,2024-07-01,33857.99,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 49ea25ef-6f2d-4e58-87b4-9b120ebf3951,2024-07-01,34523.99,Student,20
+J,JP77NISE9171942616,NL,Lot Evers,Support money,2024-07-01,34531.0,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 2ffef37e-c476-4a5b-a7cb-d64c526579e0,2024-07-01,35197.0,Student,20
+J,JP77NISE9171942616,Spain,Allianz,Insurance premium,2024-07-01,35200.55,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: da9f2b28-2f8f-4939-b5d5-3d3f6fcdac07,2024-07-01,35866.55,Student,20
+J,JP77NISE9171942616,NL,Johnson & Johnson,Healthcare prescription,2024-07-01,35872.7,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: d83688a3-78b4-4a86-a537-7340dd3f1bcc,2024-07-01,36538.7,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 06110c1b-bc41-4b13-8196-7b6d396ded38,2024-07-01,37204.7,Student,20
+J,JP77NISE9171942616,NL,AstraZeneca,Drug order payment,2024-07-01,37215.12,Student,20
+J,JP77NISE9171942616,NL,Unilever,Subscription box service,2024-07-01,37219.43,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: f2f12e3b-6fd6-47e9-ac95-df5f25e08ac8,2024-07-01,37885.43,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 766b8ccc-6475-4891-b5db-aa89db07f05e,2024-07-01,38551.43,Student,20
+J,JP77NISE9171942616,United States,Procter & Gamble,Product purchase,2024-07-01,38564.7,Student,20
+J,JP77NISE9171942616,Spain,Renault,Car purchase,2024-07-01,38577.46,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 72279f4b-4bb0-4966-8158-a7b406690e12,2024-07-01,39243.46,Student,20
+J,JP77NISE9171942616,Denmark,Sanofi,Drug order payment,2024-07-01,39250.11,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 0b91e113-c07c-4023-beaf-4188fe981db0,2024-07-01,39916.11,Student,20
+J,JP77NISE9171942616,Canada,Janne van Mil,Grocery money,2024-07-01,39924.95,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1ffb91b1-9e10-4567-9ebf-f73ee6ce79c9,2024-07-01,40590.95,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 3637c10e-87f6-4ab8-938b-1593328ce5fb,2024-07-01,41256.95,Student,20
+J,JP77NISE9171942616,NL,Microsoft,Web hosting fee,2024-07-01,41262.11,Student,20
+J,JP77NISE9171942616,NL,Daimler,Car parts order,2024-07-01,41271.45,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: a5e71c2f-18ac-443f-8cc5-22be3dbfed13,2024-07-01,41937.45,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: f08b2975-62ba-47b1-9a3d-ee347c50d6c9,2024-07-01,42603.45,Student,20
+J,JP77NISE9171942616,Denmark,Brent Dennenberg-Rousselet,Child support,2024-07-01,42606.69,Student,20
+J,JP77NISE9171942616,Belgium,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,42611.65,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 2f8d24cb-00ca-4b70-b3a5-8cc4ff024d6d,2024-07-01,43277.65,Student,20
+J,JP77NISE9171942616,Italy,General Electric,Conglomerate product order,2024-07-01,43289.71,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: f83969c5-d481-4e58-868d-9045297e2235,2024-07-01,43955.71,Student,20
+J,JP77NISE9171942616,Canada,Bayer,Pharmacy bill,2024-07-01,43958.41,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: d2e4a56c-67ce-493b-b448-e587aa2d9b7b,2024-07-01,44624.41,Student,20
+J,JP77NISE9171942616,NL,Max van Loon,Baby shower gift,2024-07-01,44634.52,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 3cf7d716-0f77-4317-8c20-ddc0966a2359,2024-07-01,45300.52,Student,20
+J,JP77NISE9171942616,NL,Alphabet Inc.,Technology services invoice payment,2024-08-01,45307.85,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 6c1de874-c92e-4c51-87b7-cbedf56007ab,2024-08-01,45973.85,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 18be1d3d-93f9-4a94-865e-33b89579e6c0,2024-08-01,46639.85,Student,20
+J,JP77NISE9171942616,NL,Rick Geerts-Massa,Wedding gift,2024-08-01,46647.54,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: a9c0e0e7-54d5-47f6-8f7e-e9308513bfed,2024-08-01,47313.54,Student,20
+J,JP77NISE9171942616,NL,Stan Ernst,Shared meal cost,2024-08-01,47322.19,Student,20
+J,JP77NISE9171942616,NL,Jayson Mulders,School fees,2024-08-01,47331.85,Student,20
+J,JP77NISE9171942616,Belgium,DuPont,Diversified company fee,2024-08-01,47333.81,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 9ac87ab1-58f0-4131-b6e5-5f09e40b65de,2024-08-01,47999.81,Student,20
+J,JP77NISE9171942616,Belgium,Huawei,Web hosting fee,2024-08-01,48005.95,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: d82fcfdc-1a78-4ff8-9b22-928685a2d3ee,2024-08-01,48671.95,Student,20
+J,JP77NISE9171942616,Germany,Toyota,Vehicle service charge,2024-08-01,48673.81,Student,20
+J,JP77NISE9171942616,Great Britain,Lina Duivenvoorden,Party contribution,2024-08-01,48675.63,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 73197f30-c66c-492e-8e48-873583ade4d0,2024-08-01,49341.63,Student,20
+J,JP77NISE9171942616,NL,Jack de Roos,Birthday party expenses,2024-08-01,49353.53,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: dec8a6f9-da92-4197-b0d4-eb0cdc6b4f31,2024-08-01,50019.53,Student,20
+J,JP77NISE9171942616,NL,Renault,Car purchase,2024-08-01,50056.59,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 3a0427f9-39b7-4627-8059-f81dec708082,2024-08-01,50722.59,Student,20
+J,JP77NISE9171942616,NL,BASF,Laboratory reagents buy,2024-08-01,50729.38,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 6324f72f-acbd-4dca-a167-0b623ab4b020,2024-08-01,51395.38,Student,20
+J,JP77NISE9171942616,United States,Accenture,Advisory session charge,2024-08-01,51441.32,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 043f33c8-b6bf-4220-bde8-62bb1cd65752,2024-08-01,52107.32,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: ecdb08a0-78ea-4a94-afc9-0aa0995d111c,2024-08-01,52773.32,Student,20
+J,JP77NISE9171942616,NL,Merck & Co.,Pharmacy bill,2024-08-01,52775.91,Student,20
+J,JP77NISE9171942616,NL,Boeing,Aerospace parts purchase,2024-08-01,52782.66,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: eb40a4f5-aaf4-483a-8713-1d05b9f58c24,2024-08-01,53448.66,Student,20
+J,JP77NISE9171942616,NL,Goldman Sachs,Investment fund entry,2024-08-01,53450.61,Student,20
+J,JP77NISE9171942616,NL,Alibaba,Marketplace seller fee,2024-08-01,53523.01,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 76cabdfb-9cfb-4e94-ba6f-5b7d2f723d6d,2024-08-01,54189.01,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 6fa64e04-3b60-40df-a4e7-01aa6e17e1cb,2024-08-01,54855.01,Student,20
+J,JP77NISE9171942616,NL,GlaxoSmithKline,Pharmacy bill,2024-08-01,54887.43,Student,20
+J,JP77NISE9171942616,NL,Huawei,Software license fee payment,2024-08-01,54896.42,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 9279ca8e-1509-4ea8-87d0-fae1b86b464c,2024-08-01,55562.42,Student,20
+J,JP77NISE9171942616,NL,Gilead Sciences,Laboratory service charge,2024-08-01,55573.15,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 44525156-1c73-4fd1-995c-baee6cb347b1,2024-08-01,56239.15,Student,20
+J,JP77NISE9171942616,Great Britain,Geldmaat ATM,Geldmaat: 0703dc6a-192d-4336-9314-c5192e847167,2024-08-01,56244.46,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: efc84dcf-97c4-411d-8b71-88e2fbe3148f,2024-08-01,56910.46,Student,20
+J,JP77NISE9171942616,NL,ByteDance,Cloud storage subscription,2024-08-01,56922.78,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 25981ca6-dfbd-4dab-b06a-42a4f1ec5a37,2024-08-01,57588.78,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: c85d30b2-cb14-4a90-9b16-3e8077e40fc7,2024-08-01,58254.78,Student,20
+J,JP77NISE9171942616,NL,Alphabet Inc.,Cloud storage subscription,2024-08-01,58257.15,Student,20
+J,JP77NISE9171942616,France,Berkshire Hathaway,Conglomerate product order,2024-08-01,58259.31,Student,20
+J,JP77NISE9171942616,NL,PepsiCo,Beverage order,2024-08-01,58260.74,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 10d27e60-82e5-4f1c-9474-8454c50844ee,2024-08-01,58926.74,Student,20
+J,JP77NISE9171942616,NL,BASF,Cleaning products order,2024-08-01,58935.34,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 9f12aaec-bbdf-4265-a596-11a8c3fe0364,2024-08-01,59601.34,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 0add5092-769e-4191-9039-1e62b8ad438c,2024-08-01,60267.34,Student,20
+J,JP77NISE9171942616,France,Iris van Velthoven,New baby gift,2024-08-01,60291.19,Student,20
+J,JP77NISE9171942616,NL,Yara van Haspengouw-de Nijs,Christmas gift,2024-08-01,60298.47,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 709a70c6-4ec9-424a-bfc7-70aceec00241,2024-08-01,60964.47,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 712de888-2bea-4ba5-9236-581ff103450d,2024-08-01,61630.47,Student,20
+J,JP77NISE9171942616,NL,Esmee van Breugel,Loan to family,2024-08-01,61632.49,Student,20
+J,JP77NISE9171942616,NL,AT&T,Telecom invoice,2024-08-01,61645.32,Student,20
+J,JP77NISE9171942616,Japan,Facebook,Influencer collaboration fee,2024-08-01,61649.93,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 569e9587-c0da-4370-89ff-ddcff5878a90,2024-08-01,62315.93,Student,20
+J,JP77NISE9171942616,NL,Alibaba,E-commerce order,2024-08-01,62337.06,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: fefa1efd-944b-43ff-a5d2-f10b36a3cf46,2024-08-01,63003.06,Student,20
+J,JP77NISE9171942616,NL,3M,Conglomerate product order,2024-08-01,63015.74,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 74b7fa60-21c1-4f18-bdb2-a6247ed776c9,2024-08-01,63681.74,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 92ba3a3f-b0a8-439c-b883-78e67a767a32,2024-08-01,64347.74,Student,20
+J,JP77NISE9171942616,NL,Lieke Nek,Shared subscription,2024-08-01,64351.1,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 5767e384-39dc-40f1-9c73-ca54adb58903,2024-08-01,65017.1,Student,20
+J,JP77NISE9171942616,Belgium,Cas Kunen,Gas money,2024-08-01,65028.86,Student,20
+J,JP77NISE9171942616,NL,Fiene Dorsman-Pison,Loan to friend,2024-08-01,65040.95,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 9d9c0447-5e94-449a-8beb-2160df2ddc83,2024-08-01,65706.95,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: c65e3568-6766-434f-a507-c22b223fd614,2024-08-01,66372.95,Student,20
+J,JP77NISE9171942616,Belgium,DuPont,Diversified company fee,2024-08-01,66376.51,Student,20
+J,JP77NISE9171942616,Canada,Accenture,Expert consultation fee,2024-09-01,66444.7,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: f8b88cc9-3736-4f7e-9b85-b03d9e487408,2024-09-01,67110.7,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 7fca07c5-959a-4cc5-a269-f4bffc7f802d,2024-09-01,67776.7,Student,20
+J,JP77NISE9171942616,Great Britain,Procter & Gamble,Product purchase,2024-09-01,67834.26,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: cb10917d-5fb8-460c-bf4f-70e8573ad2bd,2024-09-01,68500.26,Student,20
+J,JP77NISE9171942616,Canada,General Electric,Conglomerate product order,2024-09-01,68539.16,Student,20
+J,JP77NISE9171942616,NL,Renault,Car purchase,2024-09-01,68549.64,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 6755835d-3fae-4cf9-ad58-b5977d6bf40a,2024-09-01,69215.64,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: a3d4e250-d87c-4ba3-b0ce-96dc746f3957,2024-09-01,69881.64,Student,20
+J,JP77NISE9171942616,Great Britain,Gilead Sciences,Genetic testing kit,2024-09-01,69906.41,Student,20
+J,JP77NISE9171942616,Belgium,Sarah van der Avoirt,Dinner reimbursement,2024-09-01,69907.67,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: acbe8f1a-fe72-4ba6-a20b-455a3983c962,2024-09-01,70573.67,Student,20
+J,JP77NISE9171942616,France,Apple Inc.,Software license fee payment,2024-09-01,70574.55,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 33fd58b8-70ae-4bc9-8e7b-db3c99c4135c,2024-09-01,71240.55,Student,20
+J,JP77NISE9171942616,NL,Apple Inc.,Web hosting fee,2024-09-01,71274.65,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 5e8f132c-aeb8-4fba-b346-57550e2f4d0a,2024-09-01,71940.65,Student,20
+J,JP77NISE9171942616,Canada,Meta Platforms,Cloud storage subscription,2024-09-01,71947.4,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: c43ce87a-e9c8-433f-b6f1-6c9207559dd2,2024-09-01,72613.4,Student,20
+J,JP77NISE9171942616,NL,Accenture,Professional service invoice,2024-09-01,72627.69,Student,20
+J,JP77NISE9171942616,NL,Elias van Northeim,Split restaurant bill,2024-09-01,72628.54,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 399c3e8c-a525-46b4-acbb-17e77fe1e8e4,2024-09-01,73294.54,Student,20
+J,JP77NISE9171942616,Italy,Nike,Clothing purchase,2024-09-01,73301.71,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: b3a1b560-9686-46c2-b9dd-92df929400b0,2024-09-01,73967.71,Student,20
+J,JP77NISE9171942616,Germany,Renault,Car parts order,2024-09-01,73973.84,Student,20
+J,JP77NISE9171942616,NL,SoftBank,Conglomerate product order,2024-09-01,73981.43,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: fc4ef1f9-0f7a-4051-b54c-1ac9dbe68f2d,2024-09-01,74647.43,Student,20
+J,JP77NISE9171942616,NL,Alphabet Inc.,Technology services invoice payment,2024-09-01,74660.26,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 6cccc7c3-b698-476e-858b-e03c9dd8a5a0,2024-09-01,75326.26,Student,20
+J,JP77NISE9171942616,France,Facebook,Ad campaign funding,2024-09-01,75329.73,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 639395cb-dd70-4249-811c-e69d10b0ee61,2024-09-01,75995.73,Student,20
+J,JP77NISE9171942616,Germany,Bayer,Pharmacy bill,2024-09-01,76007.89,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: fb260706-4ccf-49f2-a617-91c0971807b7,2024-09-01,76673.89,Student,20
+J,JP77NISE9171942616,NL,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,76689.27,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: ded01d08-4655-4873-98de-9e2097ff6631,2024-09-01,77355.27,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: e191a0e4-a1ef-40ef-9e52-6eef5aa54842,2024-09-01,78021.27,Student,20
+J,JP77NISE9171942616,Canada,Boeing,Aviation technology fee,2024-09-01,78065.68,Student,20
+J,JP77NISE9171942616,Japan,ByteDance,Web hosting fee,2024-09-01,78071.83,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 2b7ed1a4-6d41-488b-a845-e3af76bc47d0,2024-09-01,78737.83,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 84ddcffe-13cb-4595-9423-eeee43e09510,2024-09-01,79403.83,Student,20
+J,JP77NISE9171942616,Canada,Ford Motor,Vehicle service charge,2024-09-01,79407.17,Student,20
+J,JP77NISE9171942616,NL,Johnson & Johnson,Drug order payment,2024-09-01,79424.44,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: eae53bc9-9fdb-44ea-a448-66ca511c2037,2024-09-01,80090.44,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1437afac-8de9-41e0-ac85-58b854d49793,2024-09-01,80756.44,Student,20
+J,JP77NISE9171942616,United States,SoftBank,Conglomerate product order,2024-09-01,80790.78,Student,20
+J,JP77NISE9171942616,Great Britain,Megan van Embden,Split restaurant bill,2024-09-01,80803.25,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: daf8623f-5e70-4bda-9224-565a5f67c329,2024-09-01,81469.25,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 7982b427-79c5-4fc4-9ab4-3db8bb475c1d,2024-09-01,82135.25,Student,20
+J,JP77NISE9171942616,France,AstraZeneca,Healthcare prescription,2024-09-01,82144.91,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 053c6735-b5f1-446c-8aca-675ca65a8969,2024-09-01,82810.91,Student,20
+J,JP77NISE9171942616,NL,Lorenzo Le Grand,Support money,2024-09-01,82824.13,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 2192895d-957f-4b01-979a-bd456503eb77,2024-09-01,83490.13,Student,20
+J,JP77NISE9171942616,Canada,Alphabet Inc.,Web hosting fee,2024-09-01,83495.58,Student,20
+J,JP77NISE9171942616,NL,Pfizer,Drug order payment,2024-09-01,83498.46,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: e1ffdef1-5d86-4b73-83a9-e294cdd9008f,2024-09-01,84164.46,Student,20
+J,JP77NISE9171942616,France,Eliza van Laar,Shared utilities,2024-09-01,84168.05,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 39803926-ff09-4b3e-a4e2-5ecbdf122ed8,2024-09-01,84834.05,Student,20
+J,JP77NISE9171942616,NL,Elisabeth Boddaugh-Fiere,Anniversary gift,2024-09-01,84847.0,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 5fa6e7ed-b6fa-484d-9133-7c7a68a4b6cf,2024-09-01,85513.0,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 04a64bea-0b61-4c3b-afb5-ff356f178dc2,2024-09-01,86179.0,Student,20
+J,JP77NISE9171942616,NL,Jamie Wildschut,Family loan repayment,2024-09-01,86194.57,Student,20
+J,JP77NISE9171942616,Japan,Volkswagen,Car parts order,2024-09-01,86208.34,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 98f96732-9749-4f77-8844-0343cf8d47a4,2024-09-01,86874.34,Student,20
+J,JP77NISE9171942616,NL,BMW,Car purchase,2024-10-01,86884.58,Student,20
+J,JP77NISE9171942616,Great Britain,Verizon,Phone bill,2024-10-01,86886.33,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: e3de4a61-cde2-4fda-8705-45f2e2d71eb2,2024-10-01,87552.33,Student,20
+J,JP77NISE9171942616,Germany,Alphabet Inc.,Technology services invoice payment,2024-10-01,87567.11,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 0ff0db3b-f99d-4a4c-a300-0251c1ca4f4f,2024-10-01,88233.11,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: bb05e7ed-3637-4e34-8754-d906ec91fa94,2024-10-01,88899.11,Student,20
+J,JP77NISE9171942616,NL,Volkswagen,Car parts order,2024-10-01,88907.45,Student,20
+J,JP77NISE9171942616,NL,ByteDance,Technology services invoice payment,2024-10-01,88915.67,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: b33da635-f3b6-4525-878b-29061d3e66e0,2024-10-01,89581.67,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 6ead9efc-44fc-4618-a90e-456e3ec4db0c,2024-10-01,90247.67,Student,20
+J,JP77NISE9171942616,Spain,Verizon,Cable service subscription,2024-10-01,90251.58,Student,20
+J,JP77NISE9171942616,NL,IBM,Software license fee payment,2024-10-01,90252.95,Student,20
+J,JP77NISE9171942616,NL,Cisco Systems,Technology services invoice payment,2024-10-01,90254.38,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: e270c901-11dd-4550-98cd-f878422c2ee2,2024-10-01,90920.38,Student,20
+J,JP77NISE9171942616,NL,Procter & Gamble,Product purchase,2024-10-01,90934.61,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 5c906c6e-6b02-4cae-b011-0da87a545978,2024-10-01,91600.61,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 4edc2916-ad55-49ff-84b8-5438f4a910a0,2024-10-01,92266.61,Student,20
+J,JP77NISE9171942616,NL,GlaxoSmithKline,Pharmacy bill,2024-10-01,92269.08,Student,20
+J,JP77NISE9171942616,United States,Tata Consultancy Services,Software development bill,2024-10-01,92270.43,Student,20
+J,JP77NISE9171942616,NL,Volkswagen,Car parts order,2024-10-01,92283.57,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 0c54ccd4-4e25-4a33-b04c-e69581fd578d,2024-10-01,92949.57,Student,20
+J,JP77NISE9171942616,Italy,Sanofi,Healthcare prescription,2024-10-01,92957.07,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 2ea535ae-f5c4-4660-8d8c-d680acfee8e7,2024-10-01,93623.07,Student,20
+J,JP77NISE9171942616,Canada,AstraZeneca,Pharmacy bill,2024-10-01,93624.34,Student,20
+J,JP77NISE9171942616,NL,Tata Consultancy Services,IT support fee,2024-10-01,93637.35,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: b26b7a26-4143-45cd-af11-2141bc3dfc20,2024-10-01,94303.35,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 1ceea3c5-681e-4e2e-81b4-99b64fddb584,2024-10-01,94969.35,Student,20
+J,JP77NISE9171942616,Austria,General Electric,Diversified company fee,2024-10-01,94974.08,Student,20
+J,JP77NISE9171942616,NL,Dell Technologies,Software license fee payment,2024-10-01,94978.59,Student,20
+J,JP77NISE9171942616,Denmark,Geldmaat ATM,Geldmaat: 615cfea4-00f9-4018-98d3-a2bdb6a68424,2024-10-01,95644.59,Student,20

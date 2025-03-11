@@ -1,0 +1,422 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3f558886-a757-4c26-a5da-d05725f4e860,2024-06-01,6682.0,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Jan Pison-Dirven,Party contribution,2024-06-01,6721.05,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Mette Claesner,Mortgage help,2024-06-01,6728.22,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Honeywell,Conglomerate product order,2024-06-01,6740.61,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f39ce3ba-eec6-47b1-83fb-5695857a9aa4,2024-06-01,8750.61,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,DuPont,Business unit invoice,2024-06-01,8855.72,Self-employed,50
+EUR,NL12FAKE3861853131,France,ByteDance,Cloud storage subscription,2024-06-01,8930.33,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 0ee12749-43bb-4aa8-9e35-c4d3ab2f50f0,2024-06-01,10940.33,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Quinty Rek,Funeral expenses,2024-06-01,11003.85,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 868976a0-f3a3-47fb-8b6d-b09cbe0657f6,2024-06-01,13013.85,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Roche,Pharmacy bill,2024-06-01,13034.98,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a6e5c01c-d100-4e73-97f7-b731cb6e3d7c,2024-06-01,13053.55,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Apple Inc.,Cloud storage subscription,2024-06-01,13063.55,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b0dd8adc-049c-40c8-9a15-a1e84863881a,2024-06-01,15073.55,Self-employed,50
+EUR,NL12FAKE3861853131,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,15170.87,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 90c1fa63-35f4-4abf-bf10-c97d77ea9d5d,2024-06-01,17180.87,Self-employed,50
+EUR,NL12FAKE3861853131,Hungary,Mitsubishi,Conglomerate product order,2024-06-01,17205.56,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Morgan Stanley,Investment fund entry,2024-06-01,17228.19,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 6718a25d-262c-45ce-9cd5-8cbd1670b1fa,2024-06-01,19238.19,Self-employed,50
+EUR,NL12FAKE3861853131,France,Senn de Boer,Shared ride expenses,2024-06-01,19255.97,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Rens Bruijne van der Veen,Grocery money,2024-06-01,19382.58,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: d2872d3b-8714-4a79-94c3-b0d4830cf3df,2024-06-01,21392.58,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Nike,Clothing purchase,2024-06-01,21395.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Sanofi,Pharmacy bill,2024-06-01,21402.95,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: bc1b41d4-7461-4f9f-b03c-7fa2f807c97e,2024-06-01,23412.95,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Honeywell,Business unit invoice,2024-06-01,23463.58,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AstraZeneca,Pharmacy bill,2024-06-01,23479.12,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: bfe40145-de39-4b88-a594-d5811adbd081,2024-06-01,25489.12,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Dex de Werd,Emergency funds,2024-06-01,25527.37,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 5524f990-785c-43c4-b89b-d4e3139704e9,2024-06-01,27537.37,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,GlaxoSmithKline,Medication purchase,2024-06-01,27595.97,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Meta Platforms,Cloud storage subscription,2024-06-01,27612.28,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Berkshire Hathaway,Diversified company fee,2024-06-01,27626.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: e3fe8ee2-79b2-496d-8291-7a65d34975d1,2024-06-01,29636.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Alibaba,Online shopping,2024-06-01,29646.28,Self-employed,50
+EUR,NL12FAKE3861853131,NL,IBM,Software license fee payment,2024-06-01,29661.46,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Meta Platforms,Cloud storage subscription,2024-06-01,29680.27,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f52a7385-3108-409a-8484-2abef9f599b0,2024-06-01,31690.27,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Airbus,Aircraft maintenance,2024-06-01,31714.94,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: bfb3c926-8489-49f1-9231-bcd8f50b2fea,2024-06-01,33724.94,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Oracle,Software license fee payment,2024-06-01,33726.39,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Microsoft,Software license fee payment,2024-06-01,33753.28,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Boeing,Space exploration fee,2024-06-01,33765.03,Self-employed,50
+EUR,NL12FAKE3861853131,Hungary,Sanofi,Medication purchase,2024-06-01,33776.35,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Sarah Wunderink-van den Brink,Rent payment,2024-06-01,33795.38,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Luca Briere,Reimbursement for dinner,2024-06-01,33798.72,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Jort Bleijenberg,Pet expenses,2024-06-01,33807.31,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: e10c7d24-ff0a-4a53-a009-5fb88919c3c4,2024-06-01,35817.31,Self-employed,50
+EUR,NL12FAKE3861853131,France,Gilead Sciences,Clinical trial payment,2024-06-01,35913.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: edce38ff-cfa4-4752-96d0-3b61f3520367,2024-06-01,37923.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a2e6f6d7-a2d0-49f0-b416-228b7d917fa1,2024-06-01,39933.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Yfke Geerling,Friend loan repayment,2024-06-01,40026.64,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Zoey Beekman,Reimbursement for medical expenses,2024-06-01,40033.0,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 1b5651ef-9546-47dc-9c2e-909dd5fca4c6,2024-06-01,42043.0,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Gilead Sciences,Laboratory service charge,2024-06-01,42084.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Microsoft,Cloud storage subscription,2024-06-01,42114.49,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: 37beaa12-4435-4126-b4fa-d90c2eb59b76,2024-06-01,42122.89,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: aec91f68-dc72-465e-951e-1453db620b81,2024-06-01,44132.89,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Apple Inc.,Software license fee payment,2024-06-01,44214.34,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 9239bcaa-648b-40a0-aa87-69455f126cc8,2024-06-01,46224.34,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 47c8f81b-df4e-4764-920b-be201d82cddf,2024-06-01,48234.34,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Daphne van den Wittenboer,Dinner reimbursement,2024-06-01,48248.3,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a1b0b7fe-b087-48eb-b840-2aaccc532223,2024-06-01,48293.9,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Allianz,Policy renewal fee,2024-06-01,48314.36,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Renault,Vehicle service charge,2024-06-01,48319.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 2c50fa62-2c51-45db-b18a-e9d3a00454b7,2024-06-01,50329.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AstraZeneca,Healthcare prescription,2024-06-01,50342.03,Self-employed,50
+EUR,NL12FAKE3861853131,NL,BMW,Car purchase,2024-06-01,50379.61,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7ae32324-32d3-43f2-b827-25bf1179b038,2024-06-01,52389.61,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Volkswagen,Vehicle service charge,2024-06-01,52406.6,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,Novartis,Pharmacy bill,2024-06-01,52416.38,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Alphabet Inc.,Cloud storage subscription,2024-06-01,52425.09,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7321dfe5-7e37-4dcc-b5b9-13a33e74f8d7,2024-06-01,54435.09,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Lieke Kuiper,Travel expenses,2024-06-01,54467.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 1fdd22ff-aa47-4a6a-be30-8e5f17cb5740,2024-06-01,56477.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 056dd550-5c09-491a-be97-ccde37bc7229,2024-06-01,58487.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Ford Motor,Vehicle service charge,2024-06-01,58523.8,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 93b24cc0-9295-442c-bee6-ecbb4e29d819,2024-06-01,58557.02,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Mitsubishi,Diversified company fee,2024-06-01,58622.93,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a2699f81-0e1c-4167-8f0e-20b07f588337,2024-06-01,60632.93,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Apple Inc.,Technology services invoice payment,2024-06-01,60642.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 6c7c45a1-3361-4792-b329-c90eb4ce5c4e,2024-06-01,62652.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,62680.24,Self-employed,50
+EUR,NL12FAKE3861853131,Japan,Roche,Pharmacy bill,2024-06-01,62691.33,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 5719f084-28ec-4d6a-b028-bfd0174f31e1,2024-06-01,64701.33,Self-employed,50
+EUR,NL12FAKE3861853131,United States,SoftBank,Diversified company fee,2024-06-01,64893.58,Self-employed,50
+EUR,NL12FAKE3861853131,NL,IBM,Software license fee payment,2024-06-01,65070.52,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 62cf0eec-9d07-4815-a299-0a9940c7da9d,2024-06-01,67080.52,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,IBM,Technology services invoice payment,2024-06-01,67093.53,Self-employed,50
+EUR,NL12FAKE3861853131,Hungary,DuPont,Corporate services payment,2024-07-01,67095.84,Self-employed,50
+EUR,NL12FAKE3861853131,NL,General Electric,Business unit invoice,2024-07-01,67126.82,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Cisco Systems,Web hosting fee,2024-07-01,67136.71,Self-employed,50
+EUR,NL12FAKE3861853131,NL,3M,Corporate services payment,2024-07-01,67147.12,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b70b68ce-972d-46cb-98c9-3a0971e3db61,2024-07-01,69157.12,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Dell Technologies,Cloud storage subscription,2024-07-01,69166.76,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 40ce1fd9-8c0d-4bb1-9467-9cf246bd3252,2024-07-01,69196.01,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3723fc0e-9039-4f65-887e-d48a19f30ee5,2024-07-01,71206.01,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Huawei,Web hosting fee,2024-07-01,71242.41,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 37a6bf0d-05fc-4cbe-b242-d7529eff64ed,2024-07-01,73252.41,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Johnson & Johnson,Drug order payment,2024-07-01,73278.74,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Daimler,Car purchase,2024-07-01,73285.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Roche,Pharmacy bill,2024-07-01,73307.16,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Merck & Co.,Medication purchase,2024-07-01,73322.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ba51a904-8c65-4ebc-921d-284874e879af,2024-07-01,75332.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AstraZeneca,Healthcare prescription,2024-07-01,75381.46,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a2f91c96-2284-4793-861f-38cbfc6b5233,2024-07-01,77391.46,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Cisco Systems,Cloud storage subscription,2024-07-01,77438.2,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Jelte Nollee,Pet expenses,2024-07-01,77458.95,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Merck & Co.,Healthcare prescription,2024-07-01,77474.69,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 5a90cfa3-219c-4068-993a-227648314fe8,2024-07-01,79484.69,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Ryan Heijman-Strijker,Support for a friend,2024-07-01,79500.59,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Meta Platforms,Software license fee payment,2024-07-01,79539.08,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: d9e6dfa5-e92e-406e-a21f-b1714f8e026d,2024-07-01,81549.08,Self-employed,50
+EUR,NL12FAKE3861853131,Italy,AT&T,Cable service subscription,2024-07-01,81652.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: c5e57102-69e4-4e70-8a96-e7b7cc8e9adb,2024-07-01,83662.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Roche,Pharmacy bill,2024-07-01,83669.79,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Vigo Nedermeijer,Reimbursement for bills,2024-07-01,83680.98,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 1124355b-b7e0-40e8-b872-e841f1526659,2024-07-01,85690.98,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Amazon,Marketplace seller fee,2024-07-01,85718.64,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Johanna Martens,Child support,2024-07-01,85734.5,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 4dcc8d8c-dddc-4fde-8521-d3bda077fe50,2024-07-01,87744.5,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: da19fbff-bf15-4347-ab4b-271681016060,2024-07-01,87753.17,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AstraZeneca,Healthcare prescription,2024-07-01,87761.56,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Airbus,Aircraft maintenance,2024-07-01,87790.01,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3c900b4d-ebda-48b6-ac59-204515169bc8,2024-07-01,89800.01,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Honeywell,Conglomerate product order,2024-07-01,89823.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Airbus,Aircraft maintenance,2024-07-01,89857.79,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f9cc65d0-947a-47aa-85f2-9970e906ad5f,2024-07-01,91867.79,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Lina Bruggeman,Shared hotel room cost,2024-07-01,91931.54,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 0eed4483-160d-4769-a432-80dc905bcf7b,2024-07-01,93941.54,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Ford Motor,Vehicle service charge,2024-07-01,93960.86,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AT&T,Cable service subscription,2024-07-01,93976.86,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 5f56033f-3441-45d3-8b28-dd9de21f8803,2024-07-01,95986.86,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a64f9c25-c393-4e17-a277-a49db2b9db5d,2024-07-01,97996.86,Self-employed,50
+EUR,NL12FAKE3861853131,NL,SoftBank,Corporate services payment,2024-07-01,98015.2,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Kevin van Gils,Reimbursement for groceries,2024-07-01,98033.76,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Stijn van Geenen,Pet expenses,2024-07-01,98051.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a0f1cf46-e020-4bb7-957d-93dc6f020c41,2024-07-01,98064.11,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Microsoft,Software license fee payment,2024-07-01,98082.09,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 4b1a636e-8da4-40db-a40b-39ef550d153a,2024-07-01,100092.09,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Berkshire Hathaway,Diversified company fee,2024-07-01,100109.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ce609f56-35f9-4403-8ead-67fce281a840,2024-07-01,102119.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Procter & Gamble,Retail goods payment,2024-07-01,102238.89,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Meta Platforms,Cloud storage subscription,2024-07-01,102262.49,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: 6b82ca88-557a-48e7-a52f-84f205e36da6,2024-07-01,102270.23,Self-employed,50
+EUR,NL12FAKE3861853131,Hungary,DuPont,Conglomerate product order,2024-07-01,102285.38,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3017357b-069e-425a-81ee-0e87c3b64409,2024-07-01,104295.38,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,BASF,Cleaning products order,2024-07-01,104306.4,Self-employed,50
+EUR,NL12FAKE3861853131,NL,SoftBank,Conglomerate product order,2024-07-01,104310.26,Self-employed,50
+EUR,NL12FAKE3861853131,Hungary,LVMH,Exclusive brand fee,2024-07-01,104312.61,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Jay Shupe-van den Nieuwenhuijsen,Graduation gift,2024-07-01,104327.4,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Toyota,Car parts order,2024-07-01,104341.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: fea9235c-09bc-482a-98e2-fdd3124a2719,2024-07-01,106351.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Airbus,Aircraft maintenance,2024-07-01,106509.78,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: be99a421-d5e0-4571-a3c9-88220ecd2ab7,2024-07-01,108519.78,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 4fc3069a-8213-4743-9b74-f247a225b72d,2024-07-01,108533.05,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 409c5819-5729-4ab8-864e-dd911260da2f,2024-07-01,110543.05,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Oracle,Software license fee payment,2024-07-01,110544.54,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Azra Ridder,Medical bills,2024-07-01,110568.73,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Cisco Systems,Cloud storage subscription,2024-07-01,110581.06,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Volkswagen,Car parts order,2024-07-01,110608.1,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: dbd40e84-d94e-41c3-87f0-d68f8abc4b95,2024-07-01,112618.1,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,112623.28,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Duke Energy,Electricity payment,2024-07-01,112633.73,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 853b545f-be40-4b6c-ab5b-401aa5a32699,2024-07-01,114643.73,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Daimler,Car purchase,2024-07-01,114690.92,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: a79a6b0e-7dee-4f11-85df-de5807d1726f,2024-07-01,114701.81,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Unilever,Retail goods payment,2024-07-01,114797.49,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 8923a401-bc65-494b-a851-7669ca57fd80,2024-07-01,116807.49,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Berkshire Hathaway,Conglomerate product order,2024-07-01,116829.63,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 60f96c26-9599-467f-a9dd-05b3947333ec,2024-07-01,118839.63,Self-employed,50
+EUR,NL12FAKE3861853131,Japan,LVMH,High-end product buy,2024-07-01,118853.01,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Morgan Stanley,Stock purchase,2024-07-01,118869.24,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Nike,Sportswear buy,2024-07-01,118892.34,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: c662c3d6-3f9d-4c0d-a934-aabd319ebf5f,2024-07-01,120902.34,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,BMW,Auto repair bill,2024-07-01,120911.07,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 64a63196-415e-4f89-bc40-374336255a22,2024-07-01,122921.07,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,Geldmaat ATM,Geldmaat: faa1f2a8-42fd-4812-812f-b1922692c83b,2024-07-01,122938.31,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Boeing,Aerospace parts purchase,2024-07-01,122951.0,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Huawei,Software license fee payment,2024-07-01,122957.92,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Nike,Clothing purchase,2024-07-01,123010.4,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a6959363-d4d0-4999-99aa-fc32a9f75c00,2024-07-01,125020.4,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Nathan van de Elzas-Mansvelt,Support for a family member,2024-07-01,125056.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f57737a3-567a-491e-8a9b-796c5d51a08d,2024-07-01,127066.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Thijn Bellemans,Split vacation cost,2024-07-01,127075.84,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: f19542b7-8a4f-4fe2-b439-a781c2964893,2024-07-01,127089.08,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 787384eb-5afe-46a7-9489-45083e5416ec,2024-07-01,127094.43,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 4257d0fa-1dea-4683-a3ef-1dbbfda08639,2024-07-01,129104.43,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,GlaxoSmithKline,Healthcare prescription,2024-07-01,129117.45,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: cfe337b8-f7d5-4f7d-97c8-7c5e39278977,2024-07-01,129136.27,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 31221c85-7524-4ffc-b6fd-ad1bb188e686,2024-07-01,129156.38,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 77cbf019-ab08-4da2-b654-cf9d7121518a,2024-07-01,131166.38,Self-employed,50
+EUR,NL12FAKE3861853131,NL,BASF,Chemical supply order,2024-08-01,131200.12,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: d9b09a6e-a4e4-46e0-9a42-74ff302f2d46,2024-08-01,133210.12,Self-employed,50
+EUR,NL12FAKE3861853131,Hungary,Geldmaat ATM,Geldmaat: e2aebf8d-a85e-415e-8a81-defea5ed1451,2024-08-01,133221.92,Self-employed,50
+EUR,NL12FAKE3861853131,France,Goldman Sachs,Brokerage fee,2024-08-01,133234.48,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: e1f739a8-cf90-4c8e-a257-26d0e2c69b0b,2024-08-01,133245.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 0b0ba321-47a7-4cbd-8c23-24e2090fb727,2024-08-01,135255.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Procter & Gamble,Retail goods payment,2024-08-01,135266.45,Self-employed,50
+EUR,NL12FAKE3861853131,Italy,Alibaba,Online shopping,2024-08-01,135282.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7f4619ba-e3ce-49cc-8b61-6e4744123ab3,2024-08-01,137292.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Apple Inc.,Software license fee payment,2024-08-01,137312.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Honeywell,Diversified company fee,2024-08-01,137337.6,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 79712a56-c49e-4243-a2ea-2791936f997e,2024-08-01,139347.6,Self-employed,50
+EUR,NL12FAKE3861853131,NL,ByteDance,Technology services invoice payment,2024-08-01,139459.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Ford Motor,Vehicle service charge,2024-08-01,139486.18,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 8ec1c951-5001-4bc6-9ff8-2778773b4f9d,2024-08-01,141496.18,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Unilever,Order payment,2024-08-01,141517.26,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Mara van Santen,Household expenses,2024-08-01,141542.0,Self-employed,50
+EUR,NL12FAKE3861853131,Italy,Pfizer,Medication purchase,2024-08-01,141547.09,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: e25c05c8-7988-4b0e-8cb1-0c9d683ded19,2024-08-01,143557.09,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Apple Inc.,Technology services invoice payment,2024-08-01,143574.27,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Bayer,Medication purchase,2024-08-01,143661.48,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3a6c0af9-7eed-40ff-826c-98cbb5f31d14,2024-08-01,145671.48,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Vince Otte,Loan to friend,2024-08-01,145698.1,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Geldmaat ATM,Geldmaat: 1fa4f610-888a-422b-aa06-0a402277bf25,2024-08-01,145717.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 29e254e9-6a77-42a6-90d4-d7845d0b8d52,2024-08-01,147727.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Gilead Sciences,Biotech research fee,2024-08-01,147737.13,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Lize van Boulogne,School fees,2024-08-01,147748.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 752259a6-ddeb-4003-97af-9fc951df1360,2024-08-01,149758.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Madelief Schulten-van der Loo,Reimbursement for medical expenses,2024-08-01,149778.32,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Sanofi,Pharmacy bill,2024-08-01,149805.97,Self-employed,50
+EUR,NL12FAKE3861853131,Austria,Cisco Systems,Web hosting fee,2024-08-01,149815.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7b25b69e-70aa-4e95-8024-52c999cbc129,2024-08-01,151825.65,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Rick van Goerle,Grocery money,2024-08-01,151829.68,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,GlaxoSmithKline,Medication purchase,2024-08-01,151844.69,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 6acd9b0a-4bd1-4154-ba92-d14284778539,2024-08-01,153854.69,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,Senna van Breukelveen-Draaisma,Mortgage help,2024-08-01,153866.96,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Dell Technologies,Software license fee payment,2024-08-01,153927.93,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 0ab4d427-e579-4400-bbb2-bdece5bc6035,2024-08-01,155937.93,Self-employed,50
+EUR,NL12FAKE3861853131,France,Gilead Sciences,Biotech research fee,2024-08-01,155982.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 915d2587-d4df-4cd1-8fa1-9da92c249a31,2024-08-01,157992.47,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Nikki Kathagen,Split restaurant bill,2024-08-01,158035.87,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: 61ea64a7-256e-4a0a-b2e7-b18f26a2094a,2024-08-01,158038.3,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Jennifer Verda,Graduation gift,2024-08-01,158055.79,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Mohamed Verboom,Loan repayment,2024-08-01,158064.25,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Unilever,Retail goods payment,2024-08-01,158089.16,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ceca7b6e-f887-433a-aa4e-356f34b25e7c,2024-08-01,160099.16,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Evie Heijmen-Slagmolen,Debt settlement,2024-08-01,160126.12,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Nike,Clothing purchase,2024-08-01,160149.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b153858a-bf86-45cb-a719-6659012a76cf,2024-08-01,162159.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a9ae058a-56ac-4f58-a5e6-cd67c74adfe6,2024-08-01,164169.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Nike,Clothing purchase,2024-08-01,164245.67,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Allianz,Policy renewal fee,2024-08-01,164250.89,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,Oracle,Software license fee payment,2024-08-01,164277.11,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Sami Elsenaar,Birthday gift,2024-08-01,164285.44,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 32d4313c-34b4-499a-b9c3-1d460760756e,2024-08-01,166295.44,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ec712301-7266-45ce-b3bc-6076a51ea240,2024-08-01,166315.14,Self-employed,50
+EUR,NL12FAKE3861853131,NL,BMW,Vehicle service charge,2024-08-01,166321.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Mitsubishi,Corporate services payment,2024-08-01,166348.26,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3348e7d0-4e23-4b65-abbc-03cdd91e3994,2024-08-01,168358.26,Self-employed,50
+EUR,NL12FAKE3861853131,Japan,ByteDance,Software license fee payment,2024-08-01,168387.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AstraZeneca,Drug order payment,2024-08-01,168400.92,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 164ea837-8378-42e5-a7b6-a27bf20d4fd4,2024-08-01,170410.92,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Renault,Car purchase,2024-08-01,170441.61,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: dd170952-8b29-4a81-baae-ca394ed8ced7,2024-08-01,172451.61,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Toyota,Car parts order,2024-08-01,172459.05,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Oracle,Web hosting fee,2024-08-01,172466.91,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Renault,Auto repair bill,2024-08-01,172480.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a8dd07f9-8fa5-4a9f-aa8f-611762e3d3ce,2024-08-01,174490.75,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Novartis,Medication purchase,2024-08-01,174494.17,Self-employed,50
+EUR,NL12FAKE3861853131,NL,ByteDance,Cloud storage subscription,2024-08-01,174503.54,Self-employed,50
+EUR,NL12FAKE3861853131,NL,GlaxoSmithKline,Medication purchase,2024-08-01,174508.17,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Microsoft,Technology services invoice payment,2024-08-01,174514.95,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Mehmet le Gulcher,Shared hotel room cost,2024-08-01,174526.07,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b5d2be5a-54d6-4c1b-8d0b-b83e2d0db365,2024-08-01,176536.07,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Mirte van den Nuwenhuijzen,Family loan repayment,2024-08-01,176550.28,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b9fedf8a-091b-4ad7-a534-f974600068ae,2024-08-01,178560.28,Self-employed,50
+EUR,NL12FAKE3861853131,Belgium,SoftBank,Diversified company fee,2024-08-01,178649.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Cisco Systems,Cloud storage subscription,2024-08-01,178796.39,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 1d5d8077-5e09-4140-a7bc-22abde6c0160,2024-08-01,180806.39,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 95cf7dfc-94e6-40f1-b99f-33d404011829,2024-08-01,182816.39,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Karlijn Opmans-Zijlmans,Funeral expenses,2024-08-01,182846.43,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7094801a-66e2-4869-803d-4ed33990b58b,2024-08-01,184856.43,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 5e8a9160-bcfd-47a4-adab-961ee0ccd2e0,2024-08-01,184871.13,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Amazon,E-commerce order,2024-08-01,184899.36,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Amazon,Online shopping,2024-08-01,184926.56,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,Cisco Systems,Web hosting fee,2024-08-01,184936.49,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f6517a92-05e7-467d-8738-da25ccf8ac62,2024-08-01,186946.49,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Facebook,Influencer collaboration fee,2024-08-01,186950.23,Self-employed,50
+EUR,NL12FAKE3861853131,France,BMW,Car parts order,2024-08-01,186952.94,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: dd823188-5bae-4ad0-82d1-688f8dc8b39e,2024-08-01,188962.94,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Aaron Kosten,Shared meal cost,2024-08-01,188979.67,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Accenture,Advisory session charge,2024-08-01,188988.1,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,General Electric,Corporate services payment,2024-08-01,189018.64,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 26fe4b94-c873-481f-a4ff-e5e8451645d9,2024-08-01,191028.64,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Geldmaat ATM,Geldmaat: a426998b-26c2-48c9-af86-0239caecb29b,2024-08-01,191044.53,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Novartis,Drug order payment,2024-08-01,191058.84,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,LVMH,High-end product buy,2024-08-01,191062.34,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,Geldmaat ATM,Geldmaat: 6ce01e9e-9045-46d5-bdf3-3fc46759fc95,2024-08-01,191063.13,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Verizon,Data plan payment,2024-08-01,191064.92,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Roche,Pharmacy bill,2024-08-01,191072.38,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: e1ca767f-5259-49c9-b558-0a636513ca95,2024-08-01,193082.38,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Goldman Sachs,Capital markets service,2024-08-01,193094.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 9b6507cb-aa8b-4705-b487-f2a776b551f9,2024-08-01,195104.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Oracle,Cloud storage subscription,2024-08-01,195143.67,Self-employed,50
+EUR,NL12FAKE3861853131,Japan,Amazon,Marketplace seller fee,2024-08-01,195157.7,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Renault,Car parts order,2024-09-01,195180.29,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 2d584c75-babe-49f7-88a7-2bb06283229c,2024-09-01,197190.29,Self-employed,50
+EUR,NL12FAKE3861853131,NL,LVMH,Exclusive brand fee,2024-09-01,197192.44,Self-employed,50
+EUR,NL12FAKE3861853131,Japan,Fiene Wolffel,Loan to friend,2024-09-01,197197.61,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Meta Platforms,Cloud storage subscription,2024-09-01,197206.55,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Amir Broeshart,New baby gift,2024-09-01,197221.05,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Dean Broeders,Rent assistance,2024-09-01,197258.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 059e3459-f83b-49ab-8942-ba722a5fe879,2024-09-01,199268.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 02d366c2-72d2-455d-9baa-e4bbb2c766d4,2024-09-01,201278.62,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Rick Stamrood-Duivenvoorden,Wedding gift,2024-09-01,201298.53,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Roan Geertsen,Household expenses,2024-09-01,201380.01,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Volkswagen,Auto repair bill,2024-09-01,201435.35,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Amazon,Marketplace seller fee,2024-09-01,201450.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 89ad8e43-8fee-4782-a2cd-b68e9be70b66,2024-09-01,203460.75,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Novartis,Medication purchase,2024-09-01,203473.43,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Honeywell,Corporate services payment,2024-09-01,203706.46,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 26b36052-97a0-4518-a928-9457141e278b,2024-09-01,205716.46,Self-employed,50
+EUR,NL12FAKE3861853131,NL,PepsiCo,Restaurant bill,2024-09-01,205724.79,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 542fff65-a99c-4487-a67a-eb639448ea67,2024-09-01,207734.79,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Roche,Healthcare prescription,2024-09-01,207766.44,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Sanofi,Drug order payment,2024-09-01,207778.1,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Ford Motor,Car purchase,2024-09-01,207804.49,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,DuPont,Diversified company fee,2024-09-01,207810.41,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b64bb3f4-f2be-4ada-b50e-906ca469ed20,2024-09-01,209820.41,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Philip Lathrope,Shared utilities,2024-09-01,209828.04,Self-employed,50
+EUR,NL12FAKE3861853131,NL,BASF,Industrial chemicals purchase,2024-09-01,209838.79,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f26fd5df-74fd-4a2a-a0e4-f536dc8f5423,2024-09-01,211848.79,Self-employed,50
+EUR,NL12FAKE3861853131,NL,General Electric,Corporate services payment,2024-09-01,211873.71,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Johnson & Johnson,Pharmacy bill,2024-09-01,211885.98,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7ef999d4-4607-492e-836c-5a8db2316d7e,2024-09-01,213895.98,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 2d2176b6-4446-4228-8049-f000b484941d,2024-09-01,213923.37,Self-employed,50
+EUR,NL12FAKE3861853131,Italy,GlaxoSmithKline,Healthcare prescription,2024-09-01,214028.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 520a447c-e63d-4244-9690-1947903a3257,2024-09-01,216038.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 7d45cc09-5c8b-4c27-813f-27ba9e08e16c,2024-09-01,218048.25,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Procter & Gamble,Retail goods payment,2024-09-01,218112.69,Self-employed,50
+EUR,NL12FAKE3861853131,Denmark,Verizon,Cable service subscription,2024-09-01,218160.83,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: aa4750be-d0ad-4cf8-92de-798e58d7c481,2024-09-01,220170.83,Self-employed,50
+EUR,NL12FAKE3861853131,NL,General Electric,Conglomerate product order,2024-09-01,220203.76,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Honeywell,Conglomerate product order,2024-09-01,220209.67,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 009df340-6be7-4f4d-b1fc-de5367889c82,2024-09-01,222219.67,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,LVMH,Luxury item purchase,2024-09-01,222253.9,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 22adee53-5e5c-429a-b11a-958aa71325b9,2024-09-01,224263.9,Self-employed,50
+EUR,NL12FAKE3861853131,NL,PepsiCo,Food delivery,2024-09-01,224280.41,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Joey Geertsen,Travel expenses,2024-09-01,224301.4,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Ibrahim de Boer-Vial,Party contribution,2024-09-01,224314.28,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Alphabet Inc.,Technology services invoice payment,2024-09-01,224326.33,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: daf9bc8b-760f-4f29-a0b2-d8ea24925bbc,2024-09-01,226336.33,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Apple Inc.,Web hosting fee,2024-09-01,226350.37,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ece66438-212f-4d19-af26-cd37210ada19,2024-09-01,228360.37,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Sanofi,Healthcare prescription,2024-09-01,228455.32,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Huawei,Software license fee payment,2024-09-01,228506.59,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: db7f435d-172a-479b-a1f5-d8054c0c666f,2024-09-01,230516.59,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: f5fa7abc-e39c-4283-93d5-1ba7be56a72c,2024-09-01,232526.59,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 44b0c951-898b-4a7d-a22f-6a7094e726ad,2024-09-01,232533.74,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Geldmaat ATM,Geldmaat: 3d3057fc-6ec3-421c-b2fa-42043d69cc68,2024-09-01,232541.25,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,IBM,Cloud storage subscription,2024-09-01,232561.09,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Fabian van de Biezenbos-van Doorn,Split restaurant bill,2024-09-01,232574.19,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 3116c4a0-188b-46a7-bfd0-269c609a338e,2024-09-01,234584.19,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Allianz,Claim settlement,2024-09-01,234615.69,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Twan van Wassenaar,Rent payment,2024-09-01,234689.19,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b63cb6dc-19d8-4f33-8cb1-e4b8c493633e,2024-09-01,236699.19,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Huawei,Technology services invoice payment,2024-09-01,236700.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: bfb6bb1f-5b38-47b6-b79f-4f7b7362e67b,2024-09-01,238710.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Alphabet Inc.,Software license fee payment,2024-09-01,238737.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Floris Ferran-Haengreve,Reimbursement for medical expenses,2024-09-01,238764.57,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Duke Energy,Renewable energy subscription,2024-09-01,238796.07,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 522e92ff-1860-446d-90e7-e7e6db1e7034,2024-09-01,240806.07,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,SoftBank,Business unit invoice,2024-09-01,240821.34,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ad433dd5-ed87-47fc-8ad6-006f42167075,2024-09-01,242831.34,Self-employed,50
+EUR,NL12FAKE3861853131,NL,PepsiCo,Restaurant bill,2024-09-01,242860.16,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 42450084-1cdd-4b40-b984-a19d84a4bc3e,2024-09-01,242884.4,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Meta Platforms,Web hosting fee,2024-09-01,242929.57,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a0cf731a-9331-41b6-9fe1-d89f6470c0c2,2024-09-01,244939.57,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Jenna Strik,Rent deposit,2024-09-01,245037.91,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: d4587dc1-c4d2-4c88-89ab-4deddab61e32,2024-09-01,247047.91,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Unilever,Product purchase,2024-09-01,247063.04,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Novartis,Drug order payment,2024-09-01,247070.94,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,AstraZeneca,Drug order payment,2024-09-01,247081.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 1404cc0e-2137-4afd-9fee-065640d40bfd,2024-09-01,249091.65,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ce587678-8b45-4e00-94f4-6dcb93962336,2024-09-01,251101.65,Self-employed,50
+EUR,NL12FAKE3861853131,Spain,GlaxoSmithKline,Healthcare prescription,2024-09-01,251238.22,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 9d32231e-cf32-42ba-a949-81d8998ce41d,2024-09-01,253248.22,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Faas Bosman-Booden,Child support,2024-09-01,253299.28,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Bayer,Pharmacy bill,2024-09-01,253362.19,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Zakaria van Vliet-van de Greef,Reimbursement for groceries,2024-09-01,253379.85,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: faeba3ec-f510-4372-9d54-b0ab2bbc6d68,2024-09-01,255389.85,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ea802992-e6f9-41d5-913d-66aa02689450,2024-09-01,255413.22,Self-employed,50
+EUR,NL12FAKE3861853131,NL,AstraZeneca,Drug order payment,2024-09-01,255421.76,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 64242ce9-054a-48a4-a4a6-388e43e815b1,2024-09-01,257431.76,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Merck & Co.,Healthcare prescription,2024-09-01,257443.4,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Morgan Stanley,Brokerage fee,2024-10-01,257451.67,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Microsoft,Cloud storage subscription,2024-10-01,257470.89,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ab65d7b1-8cc1-4270-9bd4-f213086e9799,2024-10-01,259480.89,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Tycho Jdotte,Wedding gift,2024-10-01,259485.28,Self-employed,50
+EUR,NL12FAKE3861853131,Italy,Daimler,Car purchase,2024-10-01,259492.35,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Meta Platforms,Web hosting fee,2024-10-01,259520.15,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 62d4cb52-87a8-413d-9441-10b448031665,2024-10-01,261530.15,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: d6759bbe-4065-45ec-9da0-9121b4a2b7ae,2024-10-01,263540.15,Self-employed,50
+EUR,NL12FAKE3861853131,United States,Fenne Bastiaanse,Loan repayment,2024-10-01,263565.42,Self-employed,50
+EUR,NL12FAKE3861853131,NL,3M,Business unit invoice,2024-10-01,263574.27,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Merck & Co.,Drug order payment,2024-10-01,263624.97,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 6eaf59ed-c029-46bf-ac4f-59eef9268537,2024-10-01,265634.97,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: b16912b5-5800-4525-8f1e-69ad6aa39494,2024-10-01,267644.97,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,IBM,Web hosting fee,2024-10-01,267712.89,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 0bd2d088-adba-434f-b266-da05cddf1067,2024-10-01,267720.21,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Eliza van den Nuwenhuysen,Split restaurant bill,2024-10-01,267799.58,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 8847e7b4-5145-4920-88b4-a3f0eeddd2a4,2024-10-01,269809.58,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,GlaxoSmithKline,Pharmacy bill,2024-10-01,269813.47,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a0a54afe-8648-459a-8159-940d6502f3df,2024-10-01,271823.47,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Duke Energy,Renewable energy subscription,2024-10-01,271861.36,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 66a08f9a-2f39-4217-a66f-c2b0e4ab19a2,2024-10-01,273871.36,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Merck & Co.,Drug order payment,2024-10-01,273914.72,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: a4405d44-35ea-4f03-94d9-8a02c3b63e72,2024-10-01,275924.72,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Apple Inc.,Technology services invoice payment,2024-10-01,275980.14,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Duke Energy,Electricity payment,2024-10-01,275995.92,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Morgan Stanley,Brokerage fee,2024-10-01,276027.53,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 4d69f959-0b75-40f2-bb8a-9814718b744d,2024-10-01,278037.53,Self-employed,50
+EUR,NL12FAKE3861853131,Great Britain,Cisco Systems,Software license fee payment,2024-10-01,278086.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: ea995567-ac96-40aa-a671-012f5cd77d3d,2024-10-01,280096.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 6d02d0e7-41b6-4371-840f-8c7dbe3d60ab,2024-10-01,282106.99,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Jill van der Smeede-van Klaarwater,Rent deposit,2024-10-01,282113.63,Self-employed,50
+EUR,NL12FAKE3861853131,Germany,Morgan Stanley,Investment fund entry,2024-10-01,282140.16,Self-employed,50
+EUR,NL12FAKE3861853131,NL,Geldmaat ATM,Geldmaat: 55908d32-7d3a-4acb-a8a8-51527c42599e,2024-10-01,284150.16,Self-employed,50
+EUR,NL12FAKE3861853131,Canada,Verizon,Data plan payment,2024-10-01,284189.77,Self-employed,50

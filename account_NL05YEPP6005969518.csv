@@ -1,0 +1,460 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+EUR,NL05YEPP6005969518,NL,DuPont,Conglomerate product order,2024-06-01,2760.94,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BASF,Cleaning products order,2024-06-01,2768.12,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Alphabet Inc.,Technology services invoice payment,2024-06-01,2795.98,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 59733f30-4ca9-4636-8c23-611a47f2914a,2024-06-01,4564.98,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Boeing,Aircraft maintenance,2024-06-01,4569.92,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Maja van de Berg-Groenestein,Emergency funds,2024-06-01,4574.99,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Duke Energy,Utility bill,2024-06-01,4597.29,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 40727338-37db-4efa-b976-79abf2c8944f,2024-06-01,6366.29,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Jayden van Laarhoven,Graduation gift,2024-06-01,6417.85,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Accenture,Advisory session charge,2024-06-01,6429.46,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Meta Platforms,Cloud storage subscription,2024-06-01,6471.2,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ac845db0-0c78-4b74-bfad-5be8e68409b2,2024-06-01,8240.2,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mees van der Schuijt,Gas money,2024-06-01,8260.21,Self-employed,50
+EUR,NL05YEPP6005969518,United States,LVMH,High-end product buy,2024-06-01,8326.6,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b550f2df-3473-4102-85dc-02d9788a7eed,2024-06-01,10095.6,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 07f735ca-99e6-43f2-b403-95b95054873c,2024-06-01,11864.6,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BASF,Laboratory reagents buy,2024-06-01,11885.93,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: e7678db0-cd7d-42af-9a23-c6bec9688511,2024-06-01,12001.5,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Chris Verda,Friend loan repayment,2024-06-01,12039.22,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Huawei,Software license fee payment,2024-06-01,12067.39,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b8f34de0-da9a-459e-8037-9ac58c0e6ccb,2024-06-01,13836.39,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Kay Mosley,Party contribution,2024-06-01,13846.46,Self-employed,50
+EUR,NL05YEPP6005969518,NL,General Electric,Business unit invoice,2024-06-01,13860.31,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 39d2680e-0278-4d28-8051-c9fa0eceb52e,2024-06-01,15629.31,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Johnson & Johnson,Healthcare prescription,2024-06-01,15650.23,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Unilever,Product purchase,2024-06-01,15656.19,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Goldman Sachs,Investment fund entry,2024-06-01,15666.29,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 24a89a07-6450-4aac-b83e-c92414a4cade,2024-06-01,17435.29,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Bristol-Myers Squibb,Pharmacy bill,2024-06-01,17437.55,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mitsubishi,Business unit invoice,2024-06-01,17440.12,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Alibaba,Online shopping,2024-06-01,17472.66,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: e3f06dac-dbbc-42c0-a9c7-a51ebcaa4466,2024-06-01,19241.66,Self-employed,50
+EUR,NL05YEPP6005969518,NL,AstraZeneca,Healthcare prescription,2024-06-01,19287.18,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Amazon,E-commerce order,2024-06-01,19310.23,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BMW,Auto repair bill,2024-06-01,19327.15,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: df9bd0f7-e095-4a0a-917a-c287421113d8,2024-06-01,21096.15,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Volkswagen,Car purchase,2024-06-01,21106.76,Self-employed,50
+EUR,NL05YEPP6005969518,NL,PepsiCo,Catering service fee,2024-06-01,21122.72,Self-employed,50
+EUR,NL05YEPP6005969518,NL,General Electric,Corporate services payment,2024-06-01,21129.43,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Pfizer,Healthcare prescription,2024-06-01,21144.56,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 0bc465cf-aa15-4d5f-a170-7d821363a323,2024-06-01,22913.56,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Accenture,Professional service invoice,2024-06-01,22928.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Verizon,Phone bill,2024-06-01,22937.14,Self-employed,50
+EUR,NL05YEPP6005969518,NL,3M,Conglomerate product order,2024-06-01,22978.47,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 1ead3a64-cca9-4f6d-afe7-571c4e4abe13,2024-06-01,24747.47,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Procter & Gamble,Product purchase,2024-06-01,24756.63,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Goldman Sachs,Capital markets service,2024-06-01,24791.56,Self-employed,50
+EUR,NL05YEPP6005969518,Hungary,Roche,Medication purchase,2024-06-01,24809.55,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 3311d9e9-7ba6-452c-994d-d18b786cf7ba,2024-06-01,26578.55,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Bristol-Myers Squibb,Medication purchase,2024-06-01,26601.46,Self-employed,50
+EUR,NL05YEPP6005969518,France,Fenna van Liendert,Mortgage help,2024-06-01,26609.92,Self-employed,50
+EUR,NL05YEPP6005969518,Hungary,Geldmaat ATM,Geldmaat: 1c727c49-8dae-4032-9784-3cd86c3f65cc,2024-06-01,26615.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Daimler,Car parts order,2024-06-01,26623.56,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 594b7435-9eb7-4f80-9d53-83c0f3b6168c,2024-06-01,28392.56,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Femke Rutten,Loan repayment,2024-06-01,28432.6,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Morgan Stanley,Investment fund entry,2024-06-01,28441.17,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 62cc1302-7b08-4f5b-baea-010b8dc410eb,2024-06-01,30210.17,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 4be33725-0f2e-4a74-b1d0-cc338ba799aa,2024-06-01,31979.17,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Geldmaat ATM,Geldmaat: d2ee42ce-4788-4929-b9ca-378658043e26,2024-06-01,32278.77,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Nout van Evelingen,New baby gift,2024-06-01,32294.32,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Volkswagen,Auto repair bill,2024-06-01,32308.67,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Renault,Car purchase,2024-06-01,32353.98,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 62948f78-1643-4c24-bf07-1ad9281c9a57,2024-06-01,34122.98,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Amazon,Subscription service,2024-06-01,34188.42,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,Koen Steenbakkers,Funeral expenses,2024-06-01,34199.76,Self-employed,50
+EUR,NL05YEPP6005969518,NL,LVMH,High-end product buy,2024-06-01,34208.09,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b9a55ca5-5640-497a-b4fa-57e2eba6dfb4,2024-06-01,35977.09,Self-employed,50
+EUR,NL05YEPP6005969518,NL,General Electric,Diversified company fee,2024-06-01,35996.68,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Johnson & Johnson,Pharmacy bill,2024-06-01,36027.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 609fb23e-3121-4625-adbd-add1545a4cfa,2024-06-01,37796.61,Self-employed,50
+EUR,NL05YEPP6005969518,Belgium,Berkshire Hathaway,Corporate services payment,2024-06-01,37806.52,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Rick Klomp Jan-van Ghoerle,Debt settlement,2024-06-01,37841.57,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: bb5f82eb-92eb-4c97-a049-e3f538e63868,2024-06-01,39610.57,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Nike,Sportswear buy,2024-06-01,39613.86,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: e6f738a9-7492-457b-ad37-089299d1803b,2024-06-01,41382.86,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Airbus,Aerospace parts purchase,2024-06-01,41483.47,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Procter & Gamble,Subscription box service,2024-06-01,41549.19,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b5d1c1a0-fd8e-4118-a817-e7adcc67f8ed,2024-06-01,43318.19,Self-employed,50
+EUR,NL05YEPP6005969518,NL,ByteDance,Web hosting fee,2024-06-01,43329.38,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Microsoft,Web hosting fee,2024-06-01,43374.69,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Daimler,Auto repair bill,2024-06-01,43385.49,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 6017c0ce-890a-4879-8751-55825f3b1ebe,2024-06-01,45154.49,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Novartis,Healthcare prescription,2024-06-01,45210.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 97097255-4dec-46c8-b4d3-e7b4410561f3,2024-06-01,46979.61,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Ford Motor,Auto repair bill,2024-06-01,46989.43,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Morgan Stanley,Brokerage fee,2024-06-01,47024.36,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 279e4ee6-ab7c-477b-a4b1-0ec8828debb4,2024-06-01,48793.36,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Duke Energy,Energy supply charge,2024-06-01,48805.13,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Microsoft,Web hosting fee,2024-06-01,48886.17,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,SoftBank,Business unit invoice,2024-06-01,48898.02,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 74f08247-8dc5-4632-8170-1a0e851ec931,2024-06-01,50667.02,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Selena van de Weterink,Shared subscription,2024-06-01,50720.02,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 4d9068a3-8a2f-4e2f-ab76-f45419e5fc0c,2024-06-01,52489.02,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Jim Backer-Peters,Split vacation cost,2024-06-01,52539.0,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ff37e892-fbda-4cb3-9c25-d5d05f873fdb,2024-06-01,54308.0,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Geldmaat ATM,Geldmaat: a80264c3-fde1-4ca8-9b8d-f9bdd9e8e46d,2024-06-01,54598.16,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: d9fdc2a7-8d09-41b9-a1c3-92ebcea6c134,2024-06-01,56367.16,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 2e1ff8a8-307d-4513-b0f3-2967780295ac,2024-06-01,58136.16,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Puk Wright,Support money,2024-06-01,58272.14,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: f752acc0-8cf2-46b0-b567-08c7c62e2385,2024-07-01,60041.14,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Dell Technologies,Web hosting fee,2024-07-01,60076.86,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Alphabet Inc.,Software license fee payment,2024-07-01,60131.0,Self-employed,50
+EUR,NL05YEPP6005969518,NL,ByteDance,Cloud storage subscription,2024-07-01,60179.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: c25fc888-8864-4034-98b0-70b59785ccf6,2024-07-01,61948.61,Self-employed,50
+EUR,NL05YEPP6005969518,France,Morgan Stanley,Stock purchase,2024-07-01,62050.66,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: c80800b5-b9b9-4420-bfbc-7871857584fa,2024-07-01,63819.66,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Geldmaat ATM,Geldmaat: c96f423c-0e00-488e-9971-29c13c3e1666,2024-07-01,63877.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 44ef7c97-8843-42b3-9a87-2702c4610422,2024-07-01,65646.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Sem Engels,Reimbursement for travel,2024-07-01,65755.95,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 14053399-c1c1-441a-b6d0-1bb3a7894307,2024-07-01,67524.95,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Allianz,Policy renewal fee,2024-07-01,67536.13,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,AstraZeneca,Medication purchase,2024-07-01,67555.7,Self-employed,50
+EUR,NL05YEPP6005969518,Japan,Facebook,Ad campaign funding,2024-07-01,67586.88,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 703bb461-323e-45e0-a91e-92c4e0f46e1b,2024-07-01,69355.88,Self-employed,50
+EUR,NL05YEPP6005969518,United States,AstraZeneca,Drug order payment,2024-07-01,69370.02,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Morgan Stanley,Investment fund entry,2024-07-01,69436.13,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 45bf09b0-8ac6-4a38-abfd-80316f517dd8,2024-07-01,71205.13,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Duke Energy,Electricity payment,2024-07-01,71218.55,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 693cab76-99a6-4f42-9a9a-6fdaf0b8bb50,2024-07-01,72987.55,Self-employed,50
+EUR,NL05YEPP6005969518,NL,SoftBank,Business unit invoice,2024-07-01,73033.75,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Chloé Kleybrink,Personal loan,2024-07-01,73044.93,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Cisco Systems,Web hosting fee,2024-07-01,73075.25,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Pfizer,Medication purchase,2024-07-01,73100.4,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 6760742f-48fd-4fa5-bbe9-ae7c89a168e5,2024-07-01,74869.4,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Morgan Stanley,Brokerage fee,2024-07-01,74912.66,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Duke Energy,Utility bill,2024-07-01,74941.06,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: a13fa149-5230-4d02-a51a-1bc6b97b3fcc,2024-07-01,76710.06,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Jente Beernink,Reimbursement for groceries,2024-07-01,76748.85,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Tata Consultancy Services,IT support fee,2024-07-01,76758.72,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 7d4399e2-ea82-4390-9d12-0cedfe46da1d,2024-07-01,78527.72,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Bristol-Myers Squibb,Pharmacy bill,2024-07-01,78565.85,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,BASF,Cleaning products order,2024-07-01,78574.66,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 09aa40ee-735b-4721-8b83-4a1e38896789,2024-07-01,80343.66,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Facebook,Social media service subscription,2024-07-01,80379.75,Self-employed,50
+EUR,NL05YEPP6005969518,Japan,3M,Conglomerate product order,2024-07-01,80407.19,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 807528d4-1531-4985-a956-23c9d1c5837b,2024-07-01,82176.19,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Huawei,Cloud storage subscription,2024-07-01,82195.22,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Ford Motor,Car parts order,2024-07-01,82228.58,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 6d0afc84-dc71-47bc-9698-3dc267863d5b,2024-07-01,83997.58,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Rowan Pauwels-Westermann,Shared ride expenses,2024-07-01,84033.79,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Daimler,Car purchase,2024-07-01,84050.89,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 0378b5b9-3265-4167-96d6-f8ea78e011ba,2024-07-01,85819.89,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Allianz,Coverage update charge,2024-07-01,85836.42,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Meta Platforms,Cloud storage subscription,2024-07-01,85847.64,Self-employed,50
+EUR,NL05YEPP6005969518,NL,PepsiCo,Catering service fee,2024-07-01,85866.81,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Johnson & Johnson,Healthcare prescription,2024-07-01,85880.96,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 4c640f44-1255-4a98-88e8-fabad48822ab,2024-07-01,87649.96,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Procter & Gamble,Subscription box service,2024-07-01,87988.28,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 7214edd7-5328-4f4c-bd3a-871d1e729f02,2024-07-01,89757.28,Self-employed,50
+EUR,NL05YEPP6005969518,NL,IBM,Software license fee payment,2024-07-01,89767.02,Self-employed,50
+EUR,NL05YEPP6005969518,Japan,General Electric,Diversified company fee,2024-07-01,89786.33,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Oracle,Technology services invoice payment,2024-07-01,89800.55,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: adfc1491-1c35-4ebb-a3d4-eac3d405d60b,2024-07-01,91569.55,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Novartis,Pharmacy bill,2024-07-01,91580.45,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Allianz,Coverage update charge,2024-07-01,91632.43,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 8741924a-89de-464f-964c-a7acf92cd514,2024-07-01,93401.43,Self-employed,50
+EUR,NL05YEPP6005969518,NL,AstraZeneca,Healthcare prescription,2024-07-01,93444.23,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b1c2a1af-138e-4b44-8ef2-221d68283462,2024-07-01,95213.23,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Meta Platforms,Technology services invoice payment,2024-07-01,95224.67,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Dell Technologies,Web hosting fee,2024-07-01,95245.53,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Accenture,Expert consultation fee,2024-07-01,95299.86,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: fc557c05-ad05-430d-ae9e-7d9a3d34a585,2024-07-01,97068.86,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Huawei,Software license fee payment,2024-07-01,97069.92,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Toyota,Car parts order,2024-07-01,97109.26,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Juul Wolfswinkel,Birthday gift,2024-07-01,97244.47,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Alphabet Inc.,Software license fee payment,2024-07-01,97251.73,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Iris Koret,Funeral expenses,2024-07-01,97254.91,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 0b16544b-8c66-4c3a-b5d0-2a0c78301be6,2024-07-01,99023.91,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Gilead Sciences,Clinical trial payment,2024-07-01,99074.14,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Facebook,Influencer collaboration fee,2024-07-01,99077.74,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 3a5a4988-c634-4017-83af-f29a92667f71,2024-07-01,100846.74,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Toyota,Vehicle service charge,2024-07-01,100861.74,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,SoftBank,Diversified company fee,2024-07-01,100880.04,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Boeing,Aircraft maintenance,2024-07-01,100900.27,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 24357e34-6813-4f7e-be30-20e5cc97d799,2024-07-01,102669.27,Self-employed,50
+EUR,NL05YEPP6005969518,Italy,Cisco Systems,Cloud storage subscription,2024-07-01,102684.17,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 8b2d1ad7-3a46-40d7-ac9c-5a7b5fe052bf,2024-07-01,104453.17,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,ByteDance,Technology services invoice payment,2024-07-01,104498.03,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Johnson & Johnson,Pharmacy bill,2024-07-01,104533.46,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 786ac0f1-9317-4ade-8b94-1fc7b6a30c86,2024-07-01,106302.46,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Alibaba,Marketplace seller fee,2024-07-01,106310.1,Self-employed,50
+EUR,NL05YEPP6005969518,NL,GlaxoSmithKline,Drug order payment,2024-07-01,106318.87,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Geldmaat ATM,Geldmaat: 64f64897-025c-481b-a515-44e677e0d94f,2024-07-01,106404.29,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 59b2a0af-3256-465b-b9b4-f5ff9aec5de5,2024-07-01,108173.29,Self-employed,50
+EUR,NL05YEPP6005969518,United States,BASF,Industrial chemicals purchase,2024-07-01,108184.31,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Microsoft,Software license fee payment,2024-07-01,108193.45,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Roche,Medication purchase,2024-07-01,108210.55,Self-employed,50
+EUR,NL05YEPP6005969518,NL,DuPont,Conglomerate product order,2024-07-01,108226.96,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: abd08924-2ee9-4d00-baff-a3231465f14a,2024-07-01,109995.96,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Meta Platforms,Cloud storage subscription,2024-07-01,109998.51,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Gilead Sciences,Laboratory service charge,2024-07-01,110003.61,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mitsubishi,Business unit invoice,2024-07-01,110039.73,Self-employed,50
+EUR,NL05YEPP6005969518,Italy,BASF,Laboratory reagents buy,2024-07-01,110057.96,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 09d2e8c0-4d56-4fe0-82b4-7bb82b57fef8,2024-07-01,111826.96,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Toyota,Auto repair bill,2024-07-01,111851.32,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Sanne Jeggij-van Laar,Wedding gift,2024-07-01,111874.7,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 8a7efa31-3b32-4cda-a98f-ab955988f9fb,2024-07-01,113643.7,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Alphabet Inc.,Software license fee payment,2024-07-01,113654.55,Self-employed,50
+EUR,NL05YEPP6005969518,France,Sanofi,Medication purchase,2024-07-01,113661.42,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 823f98a2-3a77-44f2-9401-89b8bd51d55d,2024-07-01,115430.42,Self-employed,50
+EUR,NL05YEPP6005969518,NL,LVMH,High-end product buy,2024-07-01,115459.56,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,SoftBank,Business unit invoice,2024-07-01,115461.9,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: bd645adb-e25d-479e-a846-b62db8d82812,2024-08-01,117230.9,Self-employed,50
+EUR,NL05YEPP6005969518,Italy,Accenture,Professional service invoice,2024-08-01,117306.25,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Honeywell,Business unit invoice,2024-08-01,117328.82,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 1df3b4ae-63fa-4af2-af6f-611e74ebeecf,2024-08-01,119097.82,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Gilead Sciences,Laboratory service charge,2024-08-01,119128.03,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BMW,Vehicle service charge,2024-08-01,119138.83,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Geldmaat ATM,Geldmaat: ad4e7c58-d940-45d2-b1bb-9301b20a6ac2,2024-08-01,119177.11,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: cbbb846a-a589-47ce-b377-d1fb7dba89cf,2024-08-01,120946.11,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Geldmaat ATM,Geldmaat: 7819aaff-d669-4e04-b31b-7489ac9fb9cc,2024-08-01,121074.58,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Duke Energy,Utility bill,2024-08-01,121087.17,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 2ba63ccc-615d-4d5b-a8cb-9782c51d629c,2024-08-01,122856.17,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Morgan Stanley,Stock purchase,2024-08-01,122876.97,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,Duke Energy,Electricity payment,2024-08-01,122985.48,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 646b8d41-6c67-49a6-b3e3-a4dd980a09b4,2024-08-01,124754.48,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Meta Platforms,Cloud storage subscription,2024-08-01,124760.37,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Kay Jonkman,Birthday party expenses,2024-08-01,124774.09,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Sil de Swart-van der Kaay,Reimbursement for medical expenses,2024-08-01,124795.05,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,Honeywell,Diversified company fee,2024-08-01,124808.7,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 9762eec3-b9a0-4516-a9df-4c9d518a18ad,2024-08-01,126577.7,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Evelien van der Spaendonck,Reimbursement for groceries,2024-08-01,126634.06,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Duke Energy,Energy supply charge,2024-08-01,126644.4,Self-employed,50
+EUR,NL05YEPP6005969518,NL,AstraZeneca,Healthcare prescription,2024-08-01,126712.45,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 64fc308d-cdd6-4744-9dbc-242d4147498a,2024-08-01,128481.45,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,BASF,Chemical supply order,2024-08-01,128494.72,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 8b1b0466-0eb3-4c75-a566-19ed4cd34fd4,2024-08-01,130263.72,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mitsubishi,Business unit invoice,2024-08-01,130289.5,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,Amazon,Subscription service,2024-08-01,130298.77,Self-employed,50
+EUR,NL05YEPP6005969518,Belgium,Oracle,Cloud storage subscription,2024-08-01,130314.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Floor Mansveld,Grocery money,2024-08-01,130333.99,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 21461d18-265a-40fe-9761-866901b9ccae,2024-08-01,132102.99,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Dana Bastiaense-Heyne,Anniversary gift,2024-08-01,132157.41,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: db43f3b2-3caf-465c-8689-fb195cdac42f,2024-08-01,133926.41,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Evie van Noort,Grocery money,2024-08-01,133958.45,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,3M,Business unit invoice,2024-08-01,133992.79,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Toyota,Car parts order,2024-08-01,134009.34,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 31824f67-0e56-4781-893f-63e87cc79862,2024-08-01,135778.34,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Bayer,Healthcare prescription,2024-08-01,135829.85,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 81df037c-1b3b-4903-8f50-7dd8bca420bb,2024-08-01,137598.85,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Boeing,Aviation technology fee,2024-08-01,137609.85,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Kai van der Wal-Amalrada,Grocery money,2024-08-01,137695.83,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Renault,Vehicle service charge,2024-08-01,137734.83,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 5342d68b-18a2-41fe-b2b0-4955bf1bb955,2024-08-01,139503.83,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ad2047f0-765e-44ee-9635-31a59ba01e03,2024-08-01,141272.83,Self-employed,50
+EUR,NL05YEPP6005969518,France,Lauren van der Loo-Osterhoudt,Party contribution,2024-08-01,141276.95,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Boeing,Space exploration fee,2024-08-01,141327.15,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Roche,Medication purchase,2024-08-01,141346.8,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Meta Platforms,Technology services invoice payment,2024-08-01,141389.94,Self-employed,50
+EUR,NL05YEPP6005969518,NL,IBM,Cloud storage subscription,2024-08-01,141395.5,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Phillips 66,Electricity payment,2024-08-01,141403.84,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 4903573a-d10b-4743-8d79-71550bd17f9f,2024-08-01,143172.84,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BMW,Car parts order,2024-08-01,143183.17,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Esila Appelman-Köster,Birthday party expenses,2024-08-01,143235.62,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 31d0a115-d458-48e5-95d3-e79d2f30f827,2024-08-01,145004.62,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,Dell Technologies,Cloud storage subscription,2024-08-01,145017.69,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Brent Brandon,Support for a friend,2024-08-01,145044.97,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 391dc4fd-362d-422b-bf5a-9553eba019c0,2024-08-01,146813.97,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Johnson & Johnson,Healthcare prescription,2024-08-01,146850.81,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Pfizer,Medication purchase,2024-08-01,146870.82,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Dell Technologies,Cloud storage subscription,2024-08-01,146883.0,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Roche,Drug order payment,2024-08-01,146891.75,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Niek Cadefau-Bökenkamp,Loan to friend,2024-08-01,146903.71,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,ByteDance,Technology services invoice payment,2024-08-01,146914.24,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: edecdb53-c0e1-4273-a84f-a50593c1dd91,2024-08-01,148683.24,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Nike,Fashion brand order,2024-08-01,148709.91,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Accenture,Consulting fee,2024-08-01,148737.71,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 9f958b00-d12e-4106-a718-14d95f332117,2024-08-01,150506.71,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,GlaxoSmithKline,Healthcare prescription,2024-08-01,150513.54,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BMW,Car purchase,2024-08-01,150525.48,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: d85d8570-3999-41f9-bb17-467ec11fa684,2024-08-01,152294.48,Self-employed,50
+EUR,NL05YEPP6005969518,NL,LVMH,High-end product buy,2024-08-01,152327.34,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: aae97af3-cb75-45e5-a592-70bc00db1e7e,2024-08-01,154096.34,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Huawei,Technology services invoice payment,2024-08-01,154155.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mitsubishi,Corporate services payment,2024-08-01,154162.49,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Sami Tillmanno,Mortgage help,2024-08-01,154201.21,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 3ae51af9-3b28-4738-8c14-7f132fbf699a,2024-08-01,155970.21,Self-employed,50
+EUR,NL05YEPP6005969518,Belgium,Allianz,Insurance premium,2024-08-01,155980.78,Self-employed,50
+EUR,NL05YEPP6005969518,France,Oracle,Cloud storage subscription,2024-08-01,155991.91,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Aylin Dubois,Loan to family,2024-08-01,156001.55,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b9fd1a83-1b49-4798-8e55-c271fefb89ef,2024-08-01,157770.55,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,GlaxoSmithKline,Drug order payment,2024-08-01,157786.96,Self-employed,50
+EUR,NL05YEPP6005969518,Japan,Cisco Systems,Web hosting fee,2024-08-01,157807.46,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Job Bave-van Wijk,Reimbursement for groceries,2024-08-01,157862.33,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 732370a1-9eb1-40ae-ba8d-8ab79ea7d4fb,2024-08-01,159631.33,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,Unilever,Subscription box service,2024-08-01,159639.08,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ee75f425-f433-4c9e-9f91-3e7962dda22b,2024-08-01,161408.08,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Sanofi,Pharmacy bill,2024-08-01,161421.68,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mitsubishi,Corporate services payment,2024-08-01,161449.82,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Geldmaat ATM,Geldmaat: cf21c251-8322-4738-a66c-dbd7018f1628,2024-08-01,161683.25,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Cisco Systems,Software license fee payment,2024-08-01,161695.68,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Vince van Dam,Dinner reimbursement,2024-08-01,161712.85,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Cisco Systems,Software license fee payment,2024-08-01,161725.13,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 6322ecac-20ef-48a2-ba50-388a4a93874f,2024-08-01,163494.13,Self-employed,50
+EUR,NL05YEPP6005969518,France,Morgan Stanley,Stock purchase,2024-08-01,163501.88,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: d1ef1767-18b8-4124-9847-3216af795082,2024-08-01,165270.88,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,LVMH,Designer goods order,2024-08-01,165307.79,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Apple Inc.,Web hosting fee,2024-08-01,165317.01,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Phillips 66,Energy supply charge,2024-08-01,165337.53,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Procter & Gamble,Retail goods payment,2024-08-01,165352.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Lena Fechant,Reimbursement for groceries,2024-08-01,165364.34,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Boeing,Space exploration fee,2024-08-01,165367.12,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 8aa8f79a-d265-4020-9d6c-0ad8f03a2e16,2024-08-01,167136.12,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Nike,Fashion brand order,2024-08-01,167141.08,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Daimler,Car parts order,2024-08-01,167150.07,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Yasmine van der Heyden,Grocery money,2024-08-01,167164.36,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 27687cc5-1416-4f37-a3ee-8d60e8b9a3a3,2024-08-01,168933.36,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Allianz,Policy renewal fee,2024-08-01,168956.94,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Novartis,Pharmacy bill,2024-08-01,168969.02,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,Amber Meyer,Shared subscription,2024-08-01,168977.2,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Boaz Simonis,Pet expenses,2024-08-01,168997.67,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Sterre de Graaf,Loan repayment,2024-08-01,169030.34,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: c04a14b4-7f56-4f39-9483-0ee090deb83d,2024-08-01,170799.34,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Rayan Walsteijn-Broeckx,Gas money,2024-08-01,170881.72,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: c90fd948-8ea7-48b3-9d00-9ef91f917303,2024-08-01,172650.72,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Aaliyah Verboom,Birthday party expenses,2024-09-01,172660.4,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Yfke Bezemer,Child support,2024-09-01,172699.72,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 7cf43f11-2d51-42c1-ad74-0244a25e45b9,2024-09-01,174468.72,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Toyota,Car parts order,2024-09-01,174484.51,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Morgan Stanley,Stock purchase,2024-09-01,174499.48,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Geldmaat ATM,Geldmaat: f0d41ae2-539b-47fc-a9c0-259b180f1d03,2024-09-01,174513.44,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 971a25d8-3c50-43a7-98a7-75dbbdf09fda,2024-09-01,176282.44,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Microsoft,Web hosting fee,2024-09-01,176297.86,Self-employed,50
+EUR,NL05YEPP6005969518,Germany,BASF,Laboratory reagents buy,2024-09-01,176338.93,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 9d59f666-a0d8-4b89-923d-e1a3f459c38e,2024-09-01,178107.93,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: f9ea4a06-3886-4722-a897-faf435ccb996,2024-09-01,179876.93,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BASF,Industrial chemicals purchase,2024-09-01,179900.78,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Dell Technologies,Web hosting fee,2024-09-01,179977.31,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 5c304734-5cc5-4232-a189-9381193f016d,2024-09-01,181746.31,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Airbus,Aviation technology fee,2024-09-01,181957.7,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: bd13e328-6618-456d-92f2-8505c4a08184,2024-09-01,183726.7,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Lindsey Mansvelt,Shared hotel room cost,2024-09-01,183751.83,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Dell Technologies,Software license fee payment,2024-09-01,183771.77,Self-employed,50
+EUR,NL05YEPP6005969518,NL,AstraZeneca,Drug order payment,2024-09-01,183781.56,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 802785ae-c218-4c06-bca7-1fe83ba0a078,2024-09-01,185550.56,Self-employed,50
+EUR,NL05YEPP6005969518,NL,AstraZeneca,Drug order payment,2024-09-01,185587.54,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Unilever,Retail goods payment,2024-09-01,185614.55,Self-employed,50
+EUR,NL05YEPP6005969518,Italy,Daimler,Vehicle service charge,2024-09-01,185624.73,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Procter & Gamble,Retail goods payment,2024-09-01,185655.98,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 0d2e35d7-a588-4b5f-b189-18974e4ef1bd,2024-09-01,187424.98,Self-employed,50
+EUR,NL05YEPP6005969518,Austria,Boeing,Aircraft maintenance,2024-09-01,187461.13,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: e9d6b121-db75-4824-ad03-232d504e0f03,2024-09-01,189230.13,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Daimler,Car parts order,2024-09-01,189240.13,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Bayer,Pharmacy bill,2024-09-01,189259.81,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,General Electric,Corporate services payment,2024-09-01,189287.31,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: f72f285c-8c43-42c0-987f-d06394423a80,2024-09-01,191056.31,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Féline Gnodde-Adriaense,Shared meal cost,2024-09-01,191112.69,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: a29fd2e3-4f9b-4b99-b122-e21c0a67d132,2024-09-01,192881.69,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Jasper Jonker,Baby shower gift,2024-09-01,192940.13,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 47bfec06-14ea-4daf-b076-254116f975d2,2024-09-01,194709.13,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Microsoft,Cloud storage subscription,2024-09-01,194718.62,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Honeywell,Corporate services payment,2024-09-01,194724.06,Self-employed,50
+EUR,NL05YEPP6005969518,Hungary,Phillips 66,Renewable energy subscription,2024-09-01,194767.33,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 6475b715-0829-4ed9-951e-300e09d5efc4,2024-09-01,196536.33,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 0570b1bd-0e8f-4d31-a3d0-9d795bb8e76a,2024-09-01,198305.33,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Geldmaat ATM,Geldmaat: e0a61994-acc2-4ec2-8d84-3d75fbae896e,2024-09-01,198391.84,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Novartis,Pharmacy bill,2024-09-01,198481.43,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: a074e69f-0097-4143-af3b-018ce64ec8df,2024-09-01,200250.43,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Sanofi,Drug order payment,2024-09-01,200296.77,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,GlaxoSmithKline,Pharmacy bill,2024-09-01,200305.26,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Keano Verwoert,Personal loan,2024-09-01,200305.93,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: e11b8774-c8db-4da4-830d-30836caba94c,2024-09-01,202074.93,Self-employed,50
+EUR,NL05YEPP6005969518,NL,3M,Business unit invoice,2024-09-01,202113.72,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: a889588a-24e5-47a4-b634-1a9a58c570e6,2024-09-01,203882.72,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Berkshire Hathaway,Corporate services payment,2024-09-01,203899.09,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Mats Kirpenstein,Dinner reimbursement,2024-09-01,203914.12,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Amazon,Subscription service,2024-09-01,203917.74,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Johnson & Johnson,Drug order payment,2024-09-01,203924.43,Self-employed,50
+EUR,NL05YEPP6005969518,Denmark,Liam Dachgelt-van den Nuwenhuijzen,Shared utilities,2024-09-01,203937.31,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,SoftBank,Conglomerate product order,2024-09-01,203942.6,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Bayer,Medication purchase,2024-09-01,203952.93,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 7e9c0cfa-76b7-4665-9f5d-c2fb8e4751ba,2024-09-01,205721.93,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Alibaba,Online shopping,2024-09-01,205729.66,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Sanofi,Medication purchase,2024-09-01,205783.47,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Novartis,Pharmacy bill,2024-09-01,205793.81,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 5e43cb44-870f-4a51-a843-7ac6fbccb3a0,2024-09-01,207562.81,Self-employed,50
+EUR,NL05YEPP6005969518,France,Sjoerd Ketel,Personal loan,2024-09-01,207575.98,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mitsubishi,Corporate services payment,2024-09-01,208044.8,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 80b9113f-805c-49fb-89fa-9dbf3fccd29f,2024-09-01,209813.8,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Unilever,Subscription box service,2024-09-01,209845.58,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 82a5aad1-7bca-4b3d-a890-63e8cd13ae42,2024-09-01,211614.58,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Berkshire Hathaway,Business unit invoice,2024-09-01,211638.69,Self-employed,50
+EUR,NL05YEPP6005969518,France,Elise Eerden,Loan to friend,2024-09-01,211658.8,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Mila Schulten,Rent deposit,2024-09-01,211676.54,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Dell Technologies,Web hosting fee,2024-09-01,211695.88,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: bd5b5ef3-c7e3-4b59-b4b3-39e43b1cf8b9,2024-09-01,213464.88,Self-employed,50
+EUR,NL05YEPP6005969518,NL,AT&T,Telecom invoice,2024-09-01,213480.13,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Dylan Miner-de Vroege,Reimbursement for groceries,2024-09-01,213488.67,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Laura Kisman,Mortgage help,2024-09-01,213499.42,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Amazon,Subscription service,2024-09-01,213510.43,Self-employed,50
+EUR,NL05YEPP6005969518,Italy,Verizon,Telecom invoice,2024-09-01,213514.36,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ca274bd1-e826-4702-9394-f7beca51f15f,2024-09-01,215283.36,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Muhammed van Dooren,Party contribution,2024-09-01,215293.47,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,Benthe Zevenboom,Split vacation cost,2024-09-01,215311.32,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Morgan Stanley,Stock purchase,2024-09-01,215338.29,Self-employed,50
+EUR,NL05YEPP6005969518,Italy,Bo van Luxemburg-van Oosten,Personal loan,2024-09-01,215340.5,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Sanofi,Pharmacy bill,2024-09-01,215349.3,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ead20278-eedf-4434-b171-7cb9377cec26,2024-09-01,217118.3,Self-employed,50
+EUR,NL05YEPP6005969518,Hungary,Maria Honing,Birthday gift,2024-09-01,217146.04,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Microsoft,Technology services invoice payment,2024-09-01,217198.28,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 65ca9f83-fd41-4a8b-9b9b-27abaee28df6,2024-09-01,218967.28,Self-employed,50
+EUR,NL05YEPP6005969518,Japan,GlaxoSmithKline,Healthcare prescription,2024-09-01,218977.81,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: c8b377bb-a1fb-4692-a9ef-c57231f94001,2024-09-01,220746.81,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Ford Motor,Car parts order,2024-09-01,220763.0,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Daimler,Car parts order,2024-09-01,220797.33,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Victor van Roijen-van der Zijl,Shared utilities,2024-09-01,220809.23,Self-employed,50
+EUR,NL05YEPP6005969518,France,ByteDance,Software license fee payment,2024-09-01,220818.88,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 268845a6-81c1-4918-887e-2c9283384117,2024-09-01,222587.88,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,LVMH,Luxury item purchase,2024-09-01,222743.69,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 1dfd2534-1696-45e5-a1c1-b9926373674a,2024-09-01,224512.69,Self-employed,50
+EUR,NL05YEPP6005969518,NL,3M,Business unit invoice,2024-09-01,224574.51,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Geldmaat ATM,Geldmaat: abbf5a98-fb29-49f0-a347-d5dad5c0e373,2024-09-01,224639.33,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 03b08ab9-2ab3-4db2-a998-5516c6132c0d,2024-09-01,226408.33,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Toyota,Car parts order,2024-09-01,226447.96,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 439ecadd-8d63-43d4-bf82-52b5722eca11,2024-09-01,228216.96,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 57d7025b-5a11-4d0e-a27a-d86aa01afefa,2024-10-01,229985.96,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Fien Pieters van der Maes,Baby shower gift,2024-10-01,230078.48,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 21853f08-3052-4c52-9171-66da1568f6e4,2024-10-01,231847.48,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Roche,Healthcare prescription,2024-10-01,231856.18,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Honeywell,Conglomerate product order,2024-10-01,231863.76,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Berkshire Hathaway,Diversified company fee,2024-10-01,231873.75,Self-employed,50
+EUR,NL05YEPP6005969518,NL,GlaxoSmithKline,Medication purchase,2024-10-01,232239.93,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 315e79a6-26e9-406a-bf1a-d6341148a5e1,2024-10-01,234008.93,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Oracle,Technology services invoice payment,2024-10-01,234018.43,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Airbus,Aviation technology fee,2024-10-01,234059.81,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Nora van Dam,Child support,2024-10-01,234074.38,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Goldman Sachs,Investment fund entry,2024-10-01,234137.15,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 0efda420-3078-4d8c-a2b2-cc7e5d5a6060,2024-10-01,235906.15,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Airbus,Aviation technology fee,2024-10-01,235917.93,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,LVMH,Luxury item purchase,2024-10-01,236060.31,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: a31c3bd5-489d-42f7-aa15-108b2c95a899,2024-10-01,237829.31,Self-employed,50
+EUR,NL05YEPP6005969518,NL,PepsiCo,Beverage order,2024-10-01,237899.78,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Toyota,Car parts order,2024-10-01,237907.9,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 57d79f92-390a-428d-b762-fbe8850b22a0,2024-10-01,239676.9,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,Ford Motor,Car purchase,2024-10-01,239703.16,Self-employed,50
+EUR,NL05YEPP6005969518,Hungary,Gilead Sciences,Clinical trial payment,2024-10-01,239756.0,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Rosa Shupe,Shared subscription,2024-10-01,239773.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: d37b2842-abcf-41cd-aa32-c65dea49197a,2024-10-01,241542.61,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: b8c31217-f4e0-4b73-8f9f-81ff6e6d297d,2024-10-01,243311.61,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Volkswagen,Car purchase,2024-10-01,243334.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,LVMH,Designer goods order,2024-10-01,243356.14,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Fenna van Dijk,Baby shower gift,2024-10-01,243364.01,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: 8b5fd208-d122-42c0-9b22-5a3934cf1774,2024-10-01,245133.01,Self-employed,50
+EUR,NL05YEPP6005969518,NL,BMW,Car purchase,2024-10-01,245269.35,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,General Electric,Diversified company fee,2024-10-01,245318.05,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: f7afd30c-bb51-450c-97b3-96b37c2140a9,2024-10-01,247087.05,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: ee3e59a9-2f5a-4c21-a8b1-127487a28678,2024-10-01,248856.05,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Volkswagen,Vehicle service charge,2024-10-01,248894.28,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,PepsiCo,Food delivery,2024-10-01,248938.6,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Verizon,Phone bill,2024-10-01,248946.6,Self-employed,50
+EUR,NL05YEPP6005969518,France,Hidde van den Eijssel,Shared hotel room cost,2024-10-01,248958.26,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: bde97f90-6a6f-4230-ad38-416e0f64b307,2024-10-01,250727.26,Self-employed,50
+EUR,NL05YEPP6005969518,Spain,Jet Feenstra-van Opper-Lotharingen,Grocery money,2024-10-01,250741.16,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Novartis,Pharmacy bill,2024-10-01,250753.9,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Phillips 66,Electricity payment,2024-10-01,250759.09,Self-employed,50
+EUR,NL05YEPP6005969518,United States,Bayer,Medication purchase,2024-10-01,250793.55,Self-employed,50
+EUR,NL05YEPP6005969518,NL,Tata Consultancy Services,Technical service charge,2024-10-01,250827.32,Self-employed,50
+EUR,NL05YEPP6005969518,Canada,Geldmaat ATM,Geldmaat: abd700ca-51b2-4d80-80d6-d9c28b1ec51a,2024-10-01,252596.32,Self-employed,50
+EUR,NL05YEPP6005969518,Great Britain,Huawei,Cloud storage subscription,2024-10-01,252598.93,Self-employed,50

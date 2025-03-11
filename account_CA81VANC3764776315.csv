@@ -1,0 +1,572 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+CAD,CA81VANC3764776315,NL,Alibaba,Marketplace seller fee,2024-06-01,1417.73,Retired,65
+CAD,CA81VANC3764776315,Japan,Alphabet Inc.,Software license fee payment,2024-06-01,1420.61,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 23fc8d3c-d088-4a54-9110-18a2fa2c0e09,2024-06-01,4645.61,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4116b90b-136c-4bf7-99ef-e1e27c01dbc6,2024-06-01,7870.61,Retired,65
+CAD,CA81VANC3764776315,NL,Bayer,Pharmacy bill,2024-06-01,7987.72,Retired,65
+CAD,CA81VANC3764776315,NL,Alibaba,Online shopping,2024-06-01,8034.48,Retired,65
+CAD,CA81VANC3764776315,NL,Ford Motor,Auto repair bill,2024-06-01,8092.1,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4bd9123d-66dc-4625-ae1c-61ce4526e0f8,2024-06-01,11317.1,Retired,65
+CAD,CA81VANC3764776315,NL,Morgan Stanley,Stock purchase,2024-06-01,11340.18,Retired,65
+CAD,CA81VANC3764776315,NL,Dani van de Velde,Wedding gift,2024-06-01,11378.54,Retired,65
+CAD,CA81VANC3764776315,NL,General Electric,Corporate services payment,2024-06-01,11445.55,Retired,65
+CAD,CA81VANC3764776315,Germany,Ford Motor,Car purchase,2024-06-01,11451.47,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Quinty Helmerhorst,Rent deposit,2024-06-01,11484.05,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ae1d27a7-6848-40b3-9f39-5f831499fb6c,2024-06-01,14709.05,Retired,65
+CAD,CA81VANC3764776315,Denmark,Maya Hendrikse,Graduation gift,2024-06-01,14714.72,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ef9e26af-8136-41db-84c1-e850a759c311,2024-06-01,17939.72,Retired,65
+CAD,CA81VANC3764776315,United States,Boeing,Aircraft maintenance,2024-06-01,18004.34,Retired,65
+CAD,CA81VANC3764776315,Italy,Tata Consultancy Services,System upgrade fee,2024-06-01,18006.05,Retired,65
+CAD,CA81VANC3764776315,Canada,Alphabet Inc.,Software license fee payment,2024-06-01,18056.13,Retired,65
+CAD,CA81VANC3764776315,Spain,Cisco Systems,Technology services invoice payment,2024-06-01,18195.36,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e8dbe68c-29be-4e66-ab1f-49e6cd893e7a,2024-06-01,21420.36,Retired,65
+CAD,CA81VANC3764776315,NL,PepsiCo,Beverage order,2024-06-01,21436.34,Retired,65
+CAD,CA81VANC3764776315,NL,AstraZeneca,Healthcare prescription,2024-06-01,21504.35,Retired,65
+CAD,CA81VANC3764776315,Spain,Unilever,Order payment,2024-06-01,21511.91,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3edafa49-bd15-4054-9c9f-ad3bdc2a2e13,2024-06-01,24736.91,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: 3d7a1228-c5f9-41e3-8cd1-fd1ea41753e0,2024-06-01,24794.64,Retired,65
+CAD,CA81VANC3764776315,Japan,Allianz,Policy renewal fee,2024-06-01,24800.36,Retired,65
+CAD,CA81VANC3764776315,NL,Faas Tins,Household expenses,2024-06-01,24801.31,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ca35745e-de10-4ee5-b3e8-09da668c86ec,2024-06-01,28026.31,Retired,65
+CAD,CA81VANC3764776315,NL,Vajèn van Cuijck-Verhoeven,Personal loan,2024-06-01,28145.65,Retired,65
+CAD,CA81VANC3764776315,NL,Berkshire Hathaway,Business unit invoice,2024-06-01,28151.28,Retired,65
+CAD,CA81VANC3764776315,NL,Mitsubishi,Business unit invoice,2024-06-01,28162.93,Retired,65
+CAD,CA81VANC3764776315,NL,Alibaba,Marketplace seller fee,2024-06-01,28223.56,Retired,65
+CAD,CA81VANC3764776315,Germany,Faye Mathurin,Household expenses,2024-06-01,28233.27,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Teun Bosman,Child support,2024-06-01,28238.41,Retired,65
+CAD,CA81VANC3764776315,Canada,Dell Technologies,Technology services invoice payment,2024-06-01,28242.1,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 13b4aba6-8bae-40fb-93d5-7d329375c018,2024-06-01,31467.1,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Phillips 66,Energy supply charge,2024-06-01,31478.94,Retired,65
+CAD,CA81VANC3764776315,NL,Merck & Co.,Drug order payment,2024-06-01,31549.09,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 07238f12-8062-439d-a86b-fae731ac8f2e,2024-06-01,34774.09,Retired,65
+CAD,CA81VANC3764776315,NL,Loïs van Laar,Dinner reimbursement,2024-06-01,34788.19,Retired,65
+CAD,CA81VANC3764776315,Great Britain,IBM,Technology services invoice payment,2024-06-01,34814.78,Retired,65
+CAD,CA81VANC3764776315,Germany,GlaxoSmithKline,Drug order payment,2024-06-01,34819.6,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 85d029b0-1751-4ef5-a1d9-b1c921f2a89c,2024-06-01,38044.6,Retired,65
+CAD,CA81VANC3764776315,Italy,Bjorn de Ruiter,Mortgage help,2024-06-01,38050.49,Retired,65
+CAD,CA81VANC3764776315,NL,Bayer,Drug order payment,2024-06-01,38052.18,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Telecom invoice,2024-06-01,38120.71,Retired,65
+CAD,CA81VANC3764776315,NL,Microsoft,Software license fee payment,2024-06-01,38132.65,Retired,65
+CAD,CA81VANC3764776315,NL,Nynke Zevenboom,Child support,2024-06-01,38168.67,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 78e9661a-c6df-4da5-a107-bd265fd497d7,2024-06-01,41393.67,Retired,65
+CAD,CA81VANC3764776315,NL,General Electric,Corporate services payment,2024-06-01,41445.95,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Medication purchase,2024-06-01,41450.38,Retired,65
+CAD,CA81VANC3764776315,NL,GlaxoSmithKline,Medication purchase,2024-06-01,41511.04,Retired,65
+CAD,CA81VANC3764776315,Germany,Stijn van Laar-Weeldenburg,Family loan repayment,2024-06-01,41519.35,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 6551fc57-d8f7-4b6f-8616-1ee12cedaea0,2024-06-01,44744.35,Retired,65
+CAD,CA81VANC3764776315,United States,LVMH,Luxury item purchase,2024-06-01,44795.79,Retired,65
+CAD,CA81VANC3764776315,NL,Alphabet Inc.,Cloud storage subscription,2024-06-01,44796.86,Retired,65
+CAD,CA81VANC3764776315,Canada,Mitsubishi,Conglomerate product order,2024-06-01,44799.46,Retired,65
+CAD,CA81VANC3764776315,NL,Thomas Vial,Gift,2024-06-01,44921.74,Retired,65
+CAD,CA81VANC3764776315,Japan,Meta Platforms,Cloud storage subscription,2024-06-01,44925.14,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 622e8bec-7102-4fe8-98ec-1730adab6d27,2024-06-01,48150.14,Retired,65
+CAD,CA81VANC3764776315,Germany,IBM,Technology services invoice payment,2024-06-01,48187.06,Retired,65
+CAD,CA81VANC3764776315,NL,Johanna Moenen,Party contribution,2024-06-01,48192.22,Retired,65
+CAD,CA81VANC3764776315,NL,Renault,Auto repair bill,2024-06-01,48198.75,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Merel van den Eerenbeemt,New baby gift,2024-06-01,48287.09,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 58d5ff97-a859-47bb-866b-0aa6743f37e5,2024-06-01,51512.09,Retired,65
+CAD,CA81VANC3764776315,NL,Gilead Sciences,Biotech research fee,2024-06-01,51533.23,Retired,65
+CAD,CA81VANC3764776315,NL,Johnson & Johnson,Drug order payment,2024-06-01,51545.05,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: c62a2e4b-6636-4a87-ac04-63ac2ced8b17,2024-06-01,54770.05,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Pharmacy bill,2024-06-01,54771.43,Retired,65
+CAD,CA81VANC3764776315,Belgium,Honeywell,Corporate services payment,2024-06-01,54792.0,Retired,65
+CAD,CA81VANC3764776315,NL,Aron Spruit,School fees,2024-06-01,54796.09,Retired,65
+CAD,CA81VANC3764776315,Hungary,Renault,Car parts order,2024-06-01,54841.28,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d4d0f69f-df0e-41cf-906c-6ac1349e663a,2024-06-01,58066.28,Retired,65
+CAD,CA81VANC3764776315,Canada,Tijn van Jumiège,Vacation expenses,2024-06-01,58136.69,Retired,65
+CAD,CA81VANC3764776315,United States,Meta Platforms,Technology services invoice payment,2024-06-01,58191.2,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Novartis,Healthcare prescription,2024-06-01,58228.02,Retired,65
+CAD,CA81VANC3764776315,NL,Alibaba,E-commerce order,2024-06-01,58318.95,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 62603d7d-df52-48cd-af98-4f5257d96391,2024-06-01,61543.95,Retired,65
+CAD,CA81VANC3764776315,NL,Mitsubishi,Business unit invoice,2024-06-01,61551.15,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5b26a1be-dff1-4d4c-aeac-5438e1c61292,2024-06-01,64776.15,Retired,65
+CAD,CA81VANC3764776315,NL,Ravi Heinrichs,Emergency funds,2024-06-01,64825.41,Retired,65
+CAD,CA81VANC3764776315,United States,Lenn Galijn,Pet expenses,2024-06-01,64878.63,Retired,65
+CAD,CA81VANC3764776315,Denmark,IBM,Cloud storage subscription,2024-06-01,64897.08,Retired,65
+CAD,CA81VANC3764776315,Belgium,SoftBank,Business unit invoice,2024-06-01,64922.47,Retired,65
+CAD,CA81VANC3764776315,NL,Pfizer,Pharmacy bill,2024-06-01,64967.72,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Drug order payment,2024-06-01,64971.1,Retired,65
+CAD,CA81VANC3764776315,Spain,Gilead Sciences,Clinical trial payment,2024-06-01,64986.91,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,65039.55,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5b706a24-7331-4f44-b9cd-15fc5edc8184,2024-06-01,68264.55,Retired,65
+CAD,CA81VANC3764776315,NL,Luka Huls-van den Broek,Mortgage help,2024-06-01,68269.09,Retired,65
+CAD,CA81VANC3764776315,NL,Morgan Stanley,Investment fund entry,2024-06-01,68379.33,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Software license fee payment,2024-06-01,68387.86,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 333c4afc-88b1-43d8-8e7d-9fcd7b0ade1f,2024-06-01,71612.86,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 7189b862-1e09-43b7-b897-8b099022ddab,2024-06-01,74837.86,Retired,65
+CAD,CA81VANC3764776315,NL,Carlijn van Beek,Graduation gift,2024-06-01,74963.63,Retired,65
+CAD,CA81VANC3764776315,Germany,Ella Rutten,Split restaurant bill,2024-06-01,75001.2,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 42604ea9-7942-4296-ab72-0ca9129ea180,2024-06-01,78226.2,Retired,65
+CAD,CA81VANC3764776315,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,78323.16,Retired,65
+CAD,CA81VANC3764776315,NL,Esmée de Hoogh,Shared hotel room cost,2024-06-01,78365.09,Retired,65
+CAD,CA81VANC3764776315,NL,Bastiaan Mulders,Graduation gift,2024-06-01,78433.36,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: b56f87dc-8039-40f7-a756-0d6804fa8599,2024-06-01,81658.36,Retired,65
+CAD,CA81VANC3764776315,Canada,Renault,Car purchase,2024-06-01,81697.83,Retired,65
+CAD,CA81VANC3764776315,Japan,Novartis,Healthcare prescription,2024-06-01,81709.2,Retired,65
+CAD,CA81VANC3764776315,NL,Duke Energy,Electricity payment,2024-06-01,81715.88,Retired,65
+CAD,CA81VANC3764776315,Italy,Ford Motor,Car parts order,2024-06-01,81732.55,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d8ed94d7-d5a3-4723-bc8f-1087b10bdae5,2024-06-01,84957.55,Retired,65
+CAD,CA81VANC3764776315,NL,Bilal Puig-Huijbrechts,Loan to family,2024-06-01,84972.8,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: 31fbe06f-f5ba-4fef-84ad-c4b06da38e0c,2024-06-01,85132.88,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 96099fe0-4323-471b-b6a4-08d2fe276f7c,2024-06-01,88357.88,Retired,65
+CAD,CA81VANC3764776315,NL,SoftBank,Conglomerate product order,2024-06-01,88385.07,Retired,65
+CAD,CA81VANC3764776315,NL,Nike,Apparel shopping,2024-06-01,88393.85,Retired,65
+CAD,CA81VANC3764776315,NL,ByteDance,Cloud storage subscription,2024-06-01,88405.1,Retired,65
+CAD,CA81VANC3764776315,NL,Mara Rademaker,Household expenses,2024-06-01,88421.88,Retired,65
+CAD,CA81VANC3764776315,NL,Gilead Sciences,Clinical trial payment,2024-06-01,88467.36,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 92f97563-942a-4392-8072-1a84a0dbb327,2024-06-01,91692.36,Retired,65
+CAD,CA81VANC3764776315,NL,Phillips 66,Utility bill,2024-06-01,91756.69,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Web hosting fee,2024-06-01,91759.65,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 6ab2a6de-36cb-4f4b-9c7b-394e8e7e0110,2024-06-01,94984.65,Retired,65
+CAD,CA81VANC3764776315,NL,Vera Neuzerling-Sam,Travel expenses,2024-06-01,95001.4,Retired,65
+CAD,CA81VANC3764776315,Germany,Sanofi,Drug order payment,2024-06-01,95004.19,Retired,65
+CAD,CA81VANC3764776315,NL,Sophia van Veen,Anniversary gift,2024-06-01,95008.91,Retired,65
+CAD,CA81VANC3764776315,Germany,Accenture,Advisory session charge,2024-06-01,95059.15,Retired,65
+CAD,CA81VANC3764776315,NL,Ravi Pauwels-Oude Heer,Household expenses,2024-06-01,95100.32,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d4891a44-0066-45e6-a83a-5d12a9599079,2024-06-01,98325.32,Retired,65
+CAD,CA81VANC3764776315,NL,Toyota,Car purchase,2024-06-01,98336.0,Retired,65
+CAD,CA81VANC3764776315,NL,General Electric,Corporate services payment,2024-06-01,98343.86,Retired,65
+CAD,CA81VANC3764776315,Hungary,Accenture,Professional service invoice,2024-06-01,98365.42,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Phillips 66,Utility bill,2024-06-01,98381.33,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: dfad7f59-c419-4481-bfb6-1723b844d639,2024-06-01,98466.86,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4e70b31b-9f16-40ee-a18d-9d1af8d9169e,2024-06-01,101691.86,Retired,65
+CAD,CA81VANC3764776315,NL,Ford Motor,Car purchase,2024-06-01,101707.55,Retired,65
+CAD,CA81VANC3764776315,NL,Unilever,Retail goods payment,2024-07-01,101742.88,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 35d42c6e-3d17-4e04-9d53-f0843cf35701,2024-07-01,104967.88,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: 0d83173f-9f20-4723-9ce1-fbc151deec46,2024-07-01,105146.29,Retired,65
+CAD,CA81VANC3764776315,NL,Microsoft,Software license fee payment,2024-07-01,105227.12,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Microsoft,Technology services invoice payment,2024-07-01,105229.67,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Renault,Car purchase,2024-07-01,105246.99,Retired,65
+CAD,CA81VANC3764776315,NL,Apple Inc.,Cloud storage subscription,2024-07-01,105293.81,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 71669a71-fe44-4b20-9d74-e73ef7d23203,2024-07-01,108518.81,Retired,65
+CAD,CA81VANC3764776315,Great Britain,IBM,Web hosting fee,2024-07-01,108526.56,Retired,65
+CAD,CA81VANC3764776315,NL,BMW,Car parts order,2024-07-01,108848.45,Retired,65
+CAD,CA81VANC3764776315,NL,Meta Platforms,Web hosting fee,2024-07-01,108873.75,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e6dcf58e-8ab9-49e6-bb87-b7b983a16124,2024-07-01,112098.75,Retired,65
+CAD,CA81VANC3764776315,NL,Pfizer,Drug order payment,2024-07-01,112167.76,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 61490ff9-165a-4242-b313-39083628ba73,2024-07-01,115392.76,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Web hosting fee,2024-07-01,115444.03,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 79b4ac30-ebee-4fd2-a768-7bfbc3415321,2024-07-01,118669.03,Retired,65
+CAD,CA81VANC3764776315,France,LVMH,Exclusive brand fee,2024-07-01,118718.16,Retired,65
+CAD,CA81VANC3764776315,NL,Novartis,Pharmacy bill,2024-07-01,118747.23,Retired,65
+CAD,CA81VANC3764776315,Belgium,Danique Beernink-Heribert van Laon,School fees,2024-07-01,118749.44,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Dewi van Dijk-van Leeuwen,School fees,2024-07-01,118810.61,Retired,65
+CAD,CA81VANC3764776315,Canada,SoftBank,Conglomerate product order,2024-07-01,118816.56,Retired,65
+CAD,CA81VANC3764776315,NL,Jorn Amalrada-van der Pluijm,Reimbursement for bills,2024-07-01,118846.93,Retired,65
+CAD,CA81VANC3764776315,France,Nike,Apparel shopping,2024-07-01,118908.53,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 783bed8d-8d7a-4ad6-8743-82326bb0c85f,2024-07-01,122133.53,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: b102d139-bc06-4a0f-88aa-bbebdde83f07,2024-07-01,125358.53,Retired,65
+CAD,CA81VANC3764776315,NL,Allianz,Policy renewal fee,2024-07-01,125413.5,Retired,65
+CAD,CA81VANC3764776315,Italy,Airbus,Aerospace parts purchase,2024-07-01,125454.12,Retired,65
+CAD,CA81VANC3764776315,NL,Helena van Luinenburg-Sterkman,Reimbursement for dinner,2024-07-01,125581.03,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d64aa2be-0915-49be-be19-67b0c8290cc7,2024-07-01,128806.03,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Bayer,Healthcare prescription,2024-07-01,128848.94,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f8ac5cba-fb04-4aa4-ba02-8b773cce1e5b,2024-07-01,132073.94,Retired,65
+CAD,CA81VANC3764776315,NL,Elena van Geest-Dries,Shared subscription,2024-07-01,132079.62,Retired,65
+CAD,CA81VANC3764776315,NL,Procter & Gamble,Order payment,2024-07-01,132121.18,Retired,65
+CAD,CA81VANC3764776315,NL,Johnson & Johnson,Drug order payment,2024-07-01,132133.0,Retired,65
+CAD,CA81VANC3764776315,NL,Microsoft,Web hosting fee,2024-07-01,132153.08,Retired,65
+CAD,CA81VANC3764776315,United States,Berkshire Hathaway,Diversified company fee,2024-07-01,132209.74,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Phone bill,2024-07-01,132226.41,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3e6810c9-5eaf-4dc7-897f-4a6b04d8a95d,2024-07-01,135451.41,Retired,65
+CAD,CA81VANC3764776315,Hungary,Geldmaat ATM,Geldmaat: c6db5629-1186-482c-993e-de5f16afb85d,2024-07-01,135625.65,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f1f20718-98f2-48c3-b425-fc18b26092ec,2024-07-01,138850.65,Retired,65
+CAD,CA81VANC3764776315,NL,Job de Ruiter,Shared utilities,2024-07-01,138903.02,Retired,65
+CAD,CA81VANC3764776315,NL,Microsoft,Technology services invoice payment,2024-07-01,138971.79,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 20d1f052-ec85-4ea0-bdd9-d880300e1e65,2024-07-01,142196.79,Retired,65
+CAD,CA81VANC3764776315,NL,Mitsubishi,Diversified company fee,2024-07-01,142204.99,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Roche,Healthcare prescription,2024-07-01,142206.04,Retired,65
+CAD,CA81VANC3764776315,United States,Duke Energy,Renewable energy subscription,2024-07-01,142267.61,Retired,65
+CAD,CA81VANC3764776315,NL,Evi Cornelisse,Shared meal cost,2024-07-01,142287.66,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e902b41e-27a7-4652-8098-3866f4232a2b,2024-07-01,145512.66,Retired,65
+CAD,CA81VANC3764776315,NL,LVMH,Exclusive brand fee,2024-07-01,145548.97,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 06512852-52d0-4f4a-a450-1711e4c7de65,2024-07-01,148773.97,Retired,65
+CAD,CA81VANC3764776315,NL,Daimler,Car parts order,2024-07-01,148777.73,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Healthcare prescription,2024-07-01,148817.53,Retired,65
+CAD,CA81VANC3764776315,NL,Oracle,Technology services invoice payment,2024-07-01,148821.28,Retired,65
+CAD,CA81VANC3764776315,NL,Toyota,Car purchase,2024-07-01,148853.84,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Cable service subscription,2024-07-01,148887.3,Retired,65
+CAD,CA81VANC3764776315,Spain,Huawei,Cloud storage subscription,2024-07-01,148894.46,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3b13a03a-91ff-4a3e-8bbf-c232ceda1d18,2024-07-01,152119.46,Retired,65
+CAD,CA81VANC3764776315,NL,Gilead Sciences,Biotech research fee,2024-07-01,152128.73,Retired,65
+CAD,CA81VANC3764776315,Spain,Honeywell,Conglomerate product order,2024-07-01,152134.35,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d1a06602-59f8-49fb-b9ad-de1c99055e57,2024-07-01,155359.35,Retired,65
+CAD,CA81VANC3764776315,NL,Unilever,Order payment,2024-07-01,155382.47,Retired,65
+CAD,CA81VANC3764776315,NL,Matthijs Dachgeldt,Rent deposit,2024-07-01,155408.02,Retired,65
+CAD,CA81VANC3764776315,NL,Honeywell,Diversified company fee,2024-07-01,155481.13,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Evy Feenstra,Birthday party expenses,2024-07-01,155493.0,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: 333dab5c-6484-417f-a870-0c1b00b7ced1,2024-07-01,155706.2,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e366d32e-aaa7-4a21-baf5-9dd15c8a25e6,2024-07-01,158931.2,Retired,65
+CAD,CA81VANC3764776315,NL,Puck Gepa van Bourgondië,New baby gift,2024-07-01,158995.21,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 01b23431-d611-405d-9b95-58b55abe3dc9,2024-07-01,162220.21,Retired,65
+CAD,CA81VANC3764776315,NL,"Fenna West-Francië, van",Split vacation cost,2024-07-01,162225.73,Retired,65
+CAD,CA81VANC3764776315,NL,LVMH,Exclusive brand fee,2024-07-01,162250.48,Retired,65
+CAD,CA81VANC3764776315,United States,Josephine Ellis,Birthday gift,2024-07-01,162254.94,Retired,65
+CAD,CA81VANC3764776315,NL,Jinthe Claesner,Gas money,2024-07-01,162279.78,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Mitsubishi,Business unit invoice,2024-07-01,162304.36,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 1ac4e67a-c832-4b1b-b8d6-5a8ce3b95e6d,2024-07-01,165529.36,Retired,65
+CAD,CA81VANC3764776315,Great Britain,GlaxoSmithKline,Healthcare prescription,2024-07-01,165544.7,Retired,65
+CAD,CA81VANC3764776315,United States,Honeywell,Diversified company fee,2024-07-01,165560.08,Retired,65
+CAD,CA81VANC3764776315,NL,SoftBank,Diversified company fee,2024-07-01,165566.91,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: a161a4e8-306c-43e4-abe2-66ac615eb270,2024-07-01,168791.91,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Pharmacy bill,2024-07-01,168901.06,Retired,65
+CAD,CA81VANC3764776315,NL,Honeywell,Diversified company fee,2024-07-01,168905.67,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ae73b3d5-1c85-4b4e-a3b6-96147bf2f32e,2024-07-01,172130.67,Retired,65
+CAD,CA81VANC3764776315,NL,Procter & Gamble,Retail goods payment,2024-07-01,172133.44,Retired,65
+CAD,CA81VANC3764776315,Canada,Phillips 66,Electricity payment,2024-07-01,172143.27,Retired,65
+CAD,CA81VANC3764776315,NL,Noëlle Aertsz,Personal loan,2024-07-01,172166.25,Retired,65
+CAD,CA81VANC3764776315,Great Britain,DuPont,Corporate services payment,2024-07-01,172169.56,Retired,65
+CAD,CA81VANC3764776315,NL,SoftBank,Conglomerate product order,2024-07-01,172222.2,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 23032797-aa98-4715-ae77-f1d71d1dc88e,2024-07-01,175447.2,Retired,65
+CAD,CA81VANC3764776315,NL,Novartis,Drug order payment,2024-07-01,175555.11,Retired,65
+CAD,CA81VANC3764776315,Japan,LVMH,Exclusive brand fee,2024-07-01,175562.58,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 9dacafc8-2df4-47c0-a1bb-0a4f1be8205a,2024-07-01,178787.58,Retired,65
+CAD,CA81VANC3764776315,NL,Gilead Sciences,Biotech research fee,2024-07-01,178789.57,Retired,65
+CAD,CA81VANC3764776315,NL,Nike,Fashion brand order,2024-07-01,178824.59,Retired,65
+CAD,CA81VANC3764776315,NL,Berkshire Hathaway,Business unit invoice,2024-07-01,178872.38,Retired,65
+CAD,CA81VANC3764776315,NL,Riley Greij,Personal loan,2024-07-01,178917.87,Retired,65
+CAD,CA81VANC3764776315,NL,Amelia Room,Housewarming gift,2024-07-01,178934.29,Retired,65
+CAD,CA81VANC3764776315,Italy,Procter & Gamble,Subscription box service,2024-07-01,178971.65,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 99d4138e-b0de-40a6-b959-3a28cbef6fdf,2024-07-01,182196.65,Retired,65
+CAD,CA81VANC3764776315,United States,Gilead Sciences,Clinical trial payment,2024-07-01,182266.79,Retired,65
+CAD,CA81VANC3764776315,Austria,Amazon,E-commerce order,2024-07-01,182278.57,Retired,65
+CAD,CA81VANC3764776315,NL,Apple Inc.,Technology services invoice payment,2024-07-01,182289.04,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4dd5b9f0-b2ab-447c-8eb0-c8417015fa31,2024-07-01,185514.04,Retired,65
+CAD,CA81VANC3764776315,Great Britain,3M,Corporate services payment,2024-07-01,185614.35,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 42a2d0cb-46b7-495f-b0b4-0e1de02abeec,2024-07-01,188839.35,Retired,65
+CAD,CA81VANC3764776315,NL,Verizon,Telecom invoice,2024-07-01,188886.4,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Bristol-Myers Squibb,Medication purchase,2024-07-01,188997.11,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d824830e-9808-40fb-93bf-f04b9ec77258,2024-07-01,192222.11,Retired,65
+CAD,CA81VANC3764776315,United States,Guusje Geldens,Funeral expenses,2024-07-01,192289.63,Retired,65
+CAD,CA81VANC3764776315,NL,Teun Kortman,Household expenses,2024-07-01,192304.97,Retired,65
+CAD,CA81VANC3764776315,United States,Pfizer,Pharmacy bill,2024-07-01,192313.51,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 9b1f8093-c90d-4ee2-9ac5-9ea4e811639b,2024-07-01,195538.51,Retired,65
+CAD,CA81VANC3764776315,NL,Stella van Wijland,Party contribution,2024-07-01,195631.87,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: fc2ab604-6d2f-48ab-b862-8bfeee2d2953,2024-07-01,198856.87,Retired,65
+CAD,CA81VANC3764776315,NL,Brian van den Bosch,Birthday party expenses,2024-07-01,198860.94,Retired,65
+CAD,CA81VANC3764776315,France,PepsiCo,Restaurant bill,2024-07-01,198901.12,Retired,65
+CAD,CA81VANC3764776315,NL,Amazon,Marketplace seller fee,2024-07-01,198905.05,Retired,65
+CAD,CA81VANC3764776315,NL,Lot van der Kaay,Child support,2024-07-01,198907.51,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Healthcare prescription,2024-07-01,198941.94,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Justin Stichter,Split restaurant bill,2024-07-01,199012.27,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ad077e7c-b6a5-490a-a1a6-9dfb83a1e7c5,2024-07-01,202237.27,Retired,65
+CAD,CA81VANC3764776315,NL,Merck & Co.,Medication purchase,2024-07-01,202301.94,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 0e4817d3-28ce-4135-a4ea-c0c11e3f13ce,2024-07-01,205526.94,Retired,65
+CAD,CA81VANC3764776315,Germany,Norah Giselmeyer-Jansen,Rent assistance,2024-07-01,205532.73,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Telecom invoice,2024-07-01,205585.22,Retired,65
+CAD,CA81VANC3764776315,NL,3M,Corporate services payment,2024-08-01,205628.53,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ece4f2a7-07e2-4366-89fb-afa50c890693,2024-08-01,208853.53,Retired,65
+CAD,CA81VANC3764776315,United States,Sebastiaan Slaetsdochter-van den Nuwenhijsen,Funeral expenses,2024-08-01,208885.86,Retired,65
+CAD,CA81VANC3764776315,Japan,Juul Brumleve,Gift,2024-08-01,208901.12,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f5cbd5f1-7d70-427b-94a2-4d182ff5502e,2024-08-01,212126.12,Retired,65
+CAD,CA81VANC3764776315,Belgium,GlaxoSmithKline,Drug order payment,2024-08-01,212283.68,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Geldmaat ATM,Geldmaat: d0ed6b3b-d97e-41ba-807f-0eb4402e5b72,2024-08-01,212381.64,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d55bfd07-dd07-48bb-9f51-0e23b5e65942,2024-08-01,215606.64,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Drug order payment,2024-08-01,215697.6,Retired,65
+CAD,CA81VANC3764776315,NL,Bayer,Drug order payment,2024-08-01,215728.1,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 364ceb57-2d98-4679-9c54-d135d7448a46,2024-08-01,218953.1,Retired,65
+CAD,CA81VANC3764776315,France,Volkswagen,Vehicle service charge,2024-08-01,218991.22,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Johnson & Johnson,Drug order payment,2024-08-01,219006.64,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 0603ed5b-9e76-4c60-b35a-0acb78adc485,2024-08-01,222231.64,Retired,65
+CAD,CA81VANC3764776315,NL,Merck & Co.,Drug order payment,2024-08-01,222301.06,Retired,65
+CAD,CA81VANC3764776315,Belgium,Alphabet Inc.,Software license fee payment,2024-08-01,222303.02,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Software license fee payment,2024-08-01,222341.55,Retired,65
+CAD,CA81VANC3764776315,Great Britain,ByteDance,Web hosting fee,2024-08-01,222409.22,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f59fb432-e86c-45f3-a367-92fe33d229c4,2024-08-01,225634.22,Retired,65
+CAD,CA81VANC3764776315,NL,ByteDance,Cloud storage subscription,2024-08-01,225675.9,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: a3b1ae44-6c5e-46ee-b9c8-c070b2254cc6,2024-08-01,228900.9,Retired,65
+CAD,CA81VANC3764776315,NL,LVMH,Luxury item purchase,2024-08-01,228959.46,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: a8cdad5c-a32f-4edf-b312-71bc6467faf0,2024-08-01,232184.46,Retired,65
+CAD,CA81VANC3764776315,NL,Duke Energy,Renewable energy subscription,2024-08-01,232190.93,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Healthcare prescription,2024-08-01,232246.79,Retired,65
+CAD,CA81VANC3764776315,Belgium,Microsoft,Web hosting fee,2024-08-01,232251.44,Retired,65
+CAD,CA81VANC3764776315,NL,Alibaba,Subscription service,2024-08-01,232261.78,Retired,65
+CAD,CA81VANC3764776315,NL,Elise Dirksen,Split vacation cost,2024-08-01,232279.13,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 506156fc-ed3d-48de-9af7-c49d0aa09d47,2024-08-01,235504.13,Retired,65
+CAD,CA81VANC3764776315,NL,Volkswagen,Auto repair bill,2024-08-01,235525.35,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Bayer,Drug order payment,2024-08-01,235581.58,Retired,65
+CAD,CA81VANC3764776315,NL,Amazon,E-commerce order,2024-08-01,235586.67,Retired,65
+CAD,CA81VANC3764776315,NL,Fay Schrik,Party contribution,2024-08-01,235635.6,Retired,65
+CAD,CA81VANC3764776315,NL,Loes Room,Gas money,2024-08-01,235735.14,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ac8786c5-d298-4d36-ba86-2b8ffa4ef501,2024-08-01,238960.14,Retired,65
+CAD,CA81VANC3764776315,Denmark,Huawei,Cloud storage subscription,2024-08-01,239052.58,Retired,65
+CAD,CA81VANC3764776315,NL,Novartis,Pharmacy bill,2024-08-01,239065.96,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Yinthe Blom,Birthday gift,2024-08-01,239085.01,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 77998f4b-5035-4d42-8def-aae4e905b077,2024-08-01,242310.01,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: d0b097a3-5389-4d7c-8cca-1aa3784d8d16,2024-08-01,242412.7,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: a1cd5fc1-1f03-40b3-bed0-3e263af5ca92,2024-08-01,245637.7,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Technology services invoice payment,2024-08-01,245717.75,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: b18d487e-2aea-4a93-9781-d092eaf28518,2024-08-01,248942.75,Retired,65
+CAD,CA81VANC3764776315,Canada,DuPont,Corporate services payment,2024-08-01,248986.61,Retired,65
+CAD,CA81VANC3764776315,NL,Berkshire Hathaway,Corporate services payment,2024-08-01,249006.23,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 892b530f-601c-4ae4-a662-ba0211d4c7ad,2024-08-01,252231.23,Retired,65
+CAD,CA81VANC3764776315,Germany,Unilever,Product purchase,2024-08-01,252287.94,Retired,65
+CAD,CA81VANC3764776315,NL,Allianz,Insurance premium,2024-08-01,252296.92,Retired,65
+CAD,CA81VANC3764776315,NL,Renault,Car parts order,2024-08-01,252306.55,Retired,65
+CAD,CA81VANC3764776315,NL,Procter & Gamble,Product purchase,2024-08-01,252350.17,Retired,65
+CAD,CA81VANC3764776315,NL,Boeing,Aviation technology fee,2024-08-01,252370.74,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Dell Technologies,Technology services invoice payment,2024-08-01,252383.63,Retired,65
+CAD,CA81VANC3764776315,NL,Sebastiaan Blees,Reimbursement for medical expenses,2024-08-01,252399.99,Retired,65
+CAD,CA81VANC3764776315,Hungary,AstraZeneca,Drug order payment,2024-08-01,252522.28,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5cc19c3d-1d2c-43da-b633-d961bb0d1a92,2024-08-01,255747.28,Retired,65
+CAD,CA81VANC3764776315,Italy,Colin Pons-Tammerijn,Shared meal cost,2024-08-01,255755.04,Retired,65
+CAD,CA81VANC3764776315,NL,Jay Estey-Jeggij,Rent payment,2024-08-01,255760.64,Retired,65
+CAD,CA81VANC3764776315,NL,Phillips 66,Electricity payment,2024-08-01,255770.82,Retired,65
+CAD,CA81VANC3764776315,United States,ByteDance,Web hosting fee,2024-08-01,255823.65,Retired,65
+CAD,CA81VANC3764776315,France,ByteDance,Cloud storage subscription,2024-08-01,255851.2,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4f4f31b6-f29d-439d-8b98-a3419815ea1d,2024-08-01,259076.2,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Ivy Oversteeg-Evers,Reimbursement for shopping,2024-08-01,259134.83,Retired,65
+CAD,CA81VANC3764776315,NL,Ian Maaswinkel,Friend loan repayment,2024-08-01,259151.71,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e11f4057-b418-4287-bb69-1f3638fcac66,2024-08-01,262376.71,Retired,65
+CAD,CA81VANC3764776315,NL,BASF,Chemical supply order,2024-08-01,262451.41,Retired,65
+CAD,CA81VANC3764776315,United States,LVMH,Designer goods order,2024-08-01,262598.03,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 0abd8d59-7585-466c-9999-184bff72aca9,2024-08-01,265823.03,Retired,65
+CAD,CA81VANC3764776315,Canada,Lotte Martens,Party contribution,2024-08-01,265894.84,Retired,65
+CAD,CA81VANC3764776315,France,Alphabet Inc.,Web hosting fee,2024-08-01,265936.0,Retired,65
+CAD,CA81VANC3764776315,NL,LVMH,Exclusive brand fee,2024-08-01,265958.65,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 70d208e0-9456-4310-b938-8f6adf3e92d2,2024-08-01,269183.65,Retired,65
+CAD,CA81VANC3764776315,NL,Matthijs Vegt-de Jong,Debt settlement,2024-08-01,269203.84,Retired,65
+CAD,CA81VANC3764776315,Italy,Sanofi,Drug order payment,2024-08-01,269223.0,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Jorn Bosch,School fees,2024-08-01,269270.23,Retired,65
+CAD,CA81VANC3764776315,NL,Vincent Zijlmans,Rent assistance,2024-08-01,269286.73,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 7f445d48-254f-4a45-b77d-a1686061fd73,2024-08-01,272511.73,Retired,65
+CAD,CA81VANC3764776315,Spain,Johnson & Johnson,Healthcare prescription,2024-08-01,272725.01,Retired,65
+CAD,CA81VANC3764776315,NL,Oracle,Cloud storage subscription,2024-08-01,272742.13,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3deced94-40e9-414d-91ce-c2d217b9eab2,2024-08-01,275967.13,Retired,65
+CAD,CA81VANC3764776315,NL,BASF,Laboratory reagents buy,2024-08-01,275998.66,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4c736701-6a66-4da5-8dc4-c11cda9ed3bb,2024-08-01,279223.66,Retired,65
+CAD,CA81VANC3764776315,NL,LVMH,Luxury item purchase,2024-08-01,279303.58,Retired,65
+CAD,CA81VANC3764776315,NL,3M,Business unit invoice,2024-08-01,279308.45,Retired,65
+CAD,CA81VANC3764776315,NL,Pim Ligtvoet,Housewarming gift,2024-08-01,279336.22,Retired,65
+CAD,CA81VANC3764776315,Austria,Annemijn Kerkhof-Veenstra,Travel expenses,2024-08-01,279362.52,Retired,65
+CAD,CA81VANC3764776315,Germany,Dell Technologies,Software license fee payment,2024-08-01,279382.64,Retired,65
+CAD,CA81VANC3764776315,NL,Lola Claassen,Rent assistance,2024-08-01,279403.09,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4bb88bad-3129-4228-bb6d-b1f06fe0bc37,2024-08-01,282628.09,Retired,65
+CAD,CA81VANC3764776315,Great Britain,ByteDance,Web hosting fee,2024-08-01,282652.65,Retired,65
+CAD,CA81VANC3764776315,United States,Allianz,Claim settlement,2024-08-01,282699.44,Retired,65
+CAD,CA81VANC3764776315,NL,Féline Scholten,Pet expenses,2024-08-01,282735.45,Retired,65
+CAD,CA81VANC3764776315,Canada,DuPont,Business unit invoice,2024-08-01,282741.85,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 503db0a3-dab9-4bff-baca-ac085df88510,2024-08-01,285966.85,Retired,65
+CAD,CA81VANC3764776315,NL,Siem van Dagsburg,Wedding gift,2024-08-01,286009.78,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,286032.43,Retired,65
+CAD,CA81VANC3764776315,NL,Microsoft,Web hosting fee,2024-08-01,286039.65,Retired,65
+CAD,CA81VANC3764776315,Italy,Morgan Stanley,Investment fund entry,2024-08-01,286041.47,Retired,65
+CAD,CA81VANC3764776315,United States,"Alicia van Hamaland-West-Francië, van",Loan to family,2024-08-01,286086.53,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5c9ed09e-23c3-459f-9384-6670c065f361,2024-08-01,289311.53,Retired,65
+CAD,CA81VANC3764776315,NL,Gilead Sciences,Laboratory service charge,2024-08-01,289385.19,Retired,65
+CAD,CA81VANC3764776315,Japan,General Electric,Business unit invoice,2024-08-01,289387.12,Retired,65
+CAD,CA81VANC3764776315,Germany,Bayer,Drug order payment,2024-08-01,289491.09,Retired,65
+CAD,CA81VANC3764776315,NL,Morgan Stanley,Investment fund entry,2024-08-01,289499.26,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4b98d315-2868-45ed-94fa-9e0fdde76ce3,2024-08-01,292724.26,Retired,65
+CAD,CA81VANC3764776315,Canada,ByteDance,Cloud storage subscription,2024-08-01,292814.64,Retired,65
+CAD,CA81VANC3764776315,NL,Novartis,Healthcare prescription,2024-08-01,292823.58,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 1b3816bf-f08f-4647-b791-4ffc7bfd3c10,2024-08-01,296048.58,Retired,65
+CAD,CA81VANC3764776315,France,Stijn Doesburg,Debt settlement,2024-08-01,296054.94,Retired,65
+CAD,CA81VANC3764776315,NL,LVMH,Exclusive brand fee,2024-08-01,296098.2,Retired,65
+CAD,CA81VANC3764776315,Denmark,Facebook,Social media service subscription,2024-08-01,296104.09,Retired,65
+CAD,CA81VANC3764776315,Denmark,Loïs Muijs,Rent payment,2024-08-01,296108.24,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5af08006-c05f-4999-a8f6-c5edae153347,2024-08-01,299333.24,Retired,65
+CAD,CA81VANC3764776315,Belgium,Verizon,Cable service subscription,2024-08-01,299360.76,Retired,65
+CAD,CA81VANC3764776315,NL,PepsiCo,Catering service fee,2024-08-01,299389.46,Retired,65
+CAD,CA81VANC3764776315,NL,Senna Weijland,Birthday party expenses,2024-08-01,299398.03,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 4abbcbb5-c0d8-4420-a972-cdc2afd6f2f4,2024-08-01,302623.03,Retired,65
+CAD,CA81VANC3764776315,Austria,Alibaba,Marketplace seller fee,2024-08-01,302635.81,Retired,65
+CAD,CA81VANC3764776315,Austria,Oracle,Software license fee payment,2024-08-01,302715.76,Retired,65
+CAD,CA81VANC3764776315,Canada,Allianz,Claim settlement,2024-08-01,302771.5,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: b36d47fa-2eb4-43db-a815-2a0a5dd67e17,2024-08-01,305996.5,Retired,65
+CAD,CA81VANC3764776315,United States,Volkswagen,Car parts order,2024-08-01,306028.72,Retired,65
+CAD,CA81VANC3764776315,NL,Alibaba,Subscription service,2024-08-01,306042.08,Retired,65
+CAD,CA81VANC3764776315,NL,Airbus,Aerospace parts purchase,2024-08-01,306065.25,Retired,65
+CAD,CA81VANC3764776315,Belgium,GlaxoSmithKline,Medication purchase,2024-08-01,306077.69,Retired,65
+CAD,CA81VANC3764776315,Great Britain,PepsiCo,Food delivery,2024-08-01,306083.54,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 016ecc0d-f878-45e5-bde1-8b08d8d2aaa0,2024-08-01,309308.54,Retired,65
+CAD,CA81VANC3764776315,NL,Ford Motor,Auto repair bill,2024-08-01,309352.34,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: d84db342-34f6-4fe7-8c15-13b4f531f691,2024-08-01,309400.66,Retired,65
+CAD,CA81VANC3764776315,Denmark,Toyota,Auto repair bill,2024-08-01,309420.28,Retired,65
+CAD,CA81VANC3764776315,Canada,Unilever,Order payment,2024-08-01,309421.54,Retired,65
+CAD,CA81VANC3764776315,Great Britain,ByteDance,Software license fee payment,2024-09-01,309483.79,Retired,65
+CAD,CA81VANC3764776315,NL,Fabian Heyne,Shared ride expenses,2024-09-01,309506.3,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3ba77d91-124d-487c-95b2-88b1a8492e5b,2024-09-01,312731.3,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Cable service subscription,2024-09-01,312801.4,Retired,65
+CAD,CA81VANC3764776315,Germany,Allianz,Claim settlement,2024-09-01,312908.34,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 92e4b2c5-3404-426c-a6cf-2798f353d316,2024-09-01,316133.34,Retired,65
+CAD,CA81VANC3764776315,Canada,Felix Dircken,Reimbursement for dinner,2024-09-01,316135.27,Retired,65
+CAD,CA81VANC3764776315,NL,Ford Motor,Car parts order,2024-09-01,316172.18,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 7ecfb21c-0e29-4a07-9811-e5acb51ce5f4,2024-09-01,319397.18,Retired,65
+CAD,CA81VANC3764776315,NL,Pfizer,Medication purchase,2024-09-01,319461.22,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 473cbeca-22d0-47b6-9679-b6465b6e908f,2024-09-01,322686.22,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Duke Energy,Utility bill,2024-09-01,322692.87,Retired,65
+CAD,CA81VANC3764776315,NL,AstraZeneca,Drug order payment,2024-09-01,322781.34,Retired,65
+CAD,CA81VANC3764776315,NL,BMW,Car parts order,2024-09-01,322821.23,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 0210eb42-8c5b-479d-9f7c-0e02739e537c,2024-09-01,326046.23,Retired,65
+CAD,CA81VANC3764776315,Canada,General Electric,Diversified company fee,2024-09-01,326050.58,Retired,65
+CAD,CA81VANC3764776315,NL,Pfizer,Healthcare prescription,2024-09-01,326062.45,Retired,65
+CAD,CA81VANC3764776315,NL,IBM,Cloud storage subscription,2024-09-01,326120.53,Retired,65
+CAD,CA81VANC3764776315,NL,Tata Consultancy Services,Software development bill,2024-09-01,326194.93,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Software license fee payment,2024-09-01,326196.7,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: b16c9c51-e08c-4e07-a9e0-410db2a9a8c9,2024-09-01,329421.7,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Drug order payment,2024-09-01,329426.1,Retired,65
+CAD,CA81VANC3764776315,NL,Mare Vierdag,Personal loan,2024-09-01,329453.64,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Juul Fortuyn,Split restaurant bill,2024-09-01,329463.69,Retired,65
+CAD,CA81VANC3764776315,NL,Microsoft,Technology services invoice payment,2024-09-01,329479.21,Retired,65
+CAD,CA81VANC3764776315,NL,Accenture,Consulting fee,2024-09-01,329484.28,Retired,65
+CAD,CA81VANC3764776315,NL,Honeywell,Conglomerate product order,2024-09-01,329488.08,Retired,65
+CAD,CA81VANC3764776315,Canada,AT&T,Cable service subscription,2024-09-01,329496.48,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 7f60caab-49d6-4623-91de-79cf488ee130,2024-09-01,332721.48,Retired,65
+CAD,CA81VANC3764776315,Austria,BMW,Vehicle service charge,2024-09-01,332784.87,Retired,65
+CAD,CA81VANC3764776315,NL,Toyota,Car parts order,2024-09-01,333125.26,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 6c43db9c-32a7-4385-8a53-f16ba31a12f5,2024-09-01,336350.26,Retired,65
+CAD,CA81VANC3764776315,Japan,Milan Koeman,Anniversary gift,2024-09-01,336356.28,Retired,65
+CAD,CA81VANC3764776315,France,Simon van den Brink,Shared subscription,2024-09-01,336378.05,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e2c74610-0d79-465b-9cf1-249a48bcc625,2024-09-01,339603.05,Retired,65
+CAD,CA81VANC3764776315,NL,Apple Inc.,Web hosting fee,2024-09-01,339605.07,Retired,65
+CAD,CA81VANC3764776315,United States,SoftBank,Corporate services payment,2024-09-01,339694.32,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: 4c11a83f-1025-4b2c-86b2-23d835601662,2024-09-01,339810.71,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 0a3a7e8f-5a30-46ac-add0-732c806b9a27,2024-09-01,343035.71,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 08ea0201-9066-4781-8111-24e57bb0ddcc,2024-09-01,346260.71,Retired,65
+CAD,CA81VANC3764776315,France,GlaxoSmithKline,Healthcare prescription,2024-09-01,346300.39,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Healthcare prescription,2024-09-01,346346.38,Retired,65
+CAD,CA81VANC3764776315,NL,Alibaba,Marketplace seller fee,2024-09-01,346349.17,Retired,65
+CAD,CA81VANC3764776315,Hungary,Geldmaat ATM,Geldmaat: 253feca4-436c-438b-857c-431adc6460cd,2024-09-01,346430.69,Retired,65
+CAD,CA81VANC3764776315,Belgium,Oracle,Cloud storage subscription,2024-09-01,346433.0,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 01428996-a739-4dac-890e-368124e6e1df,2024-09-01,349658.0,Retired,65
+CAD,CA81VANC3764776315,NL,Jamie van Bunschoten,Friend loan repayment,2024-09-01,349661.05,Retired,65
+CAD,CA81VANC3764776315,NL,Verizon,Telecom invoice,2024-09-01,349763.87,Retired,65
+CAD,CA81VANC3764776315,NL,Volkswagen,Auto repair bill,2024-09-01,349782.31,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 7b9766a9-10d3-4490-8ef1-da092f8d2334,2024-09-01,353007.31,Retired,65
+CAD,CA81VANC3764776315,NL,Joël Perck,Loan to family,2024-09-01,353015.77,Retired,65
+CAD,CA81VANC3764776315,United States,Amazon,Online shopping,2024-09-01,353092.56,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: a12268e5-cbba-4874-8315-ea0e8e0ab5e5,2024-09-01,356317.56,Retired,65
+CAD,CA81VANC3764776315,NL,Nike,Fashion brand order,2024-09-01,356321.46,Retired,65
+CAD,CA81VANC3764776315,NL,Eline Slingerland,New baby gift,2024-09-01,356354.73,Retired,65
+CAD,CA81VANC3764776315,NL,Johnson & Johnson,Pharmacy bill,2024-09-01,356393.5,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f20584b6-fa1d-4d94-9bd2-80c22e363034,2024-09-01,359618.5,Retired,65
+CAD,CA81VANC3764776315,Spain,Allianz,Coverage update charge,2024-09-01,359628.38,Retired,65
+CAD,CA81VANC3764776315,Canada,Duke Energy,Utility bill,2024-09-01,359633.08,Retired,65
+CAD,CA81VANC3764776315,United States,Daimler,Vehicle service charge,2024-09-01,359670.57,Retired,65
+CAD,CA81VANC3764776315,NL,Juliette Meis,New baby gift,2024-09-01,359692.63,Retired,65
+CAD,CA81VANC3764776315,NL,Apple Inc.,Software license fee payment,2024-09-01,359696.48,Retired,65
+CAD,CA81VANC3764776315,NL,Huawei,Web hosting fee,2024-09-01,359701.65,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f47fb83c-760c-4af2-b116-efaa30217e19,2024-09-01,362926.65,Retired,65
+CAD,CA81VANC3764776315,NL,Johnson & Johnson,Drug order payment,2024-09-01,362966.67,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Volkswagen,Vehicle service charge,2024-09-01,362968.34,Retired,65
+CAD,CA81VANC3764776315,NL,Nike,Fashion brand order,2024-09-01,362970.28,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 46f9142c-6127-48c8-b500-c3bfbcc27e8d,2024-09-01,366195.28,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Merck & Co.,Pharmacy bill,2024-09-01,366269.35,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Merck & Co.,Healthcare prescription,2024-09-01,366273.13,Retired,65
+CAD,CA81VANC3764776315,NL,AstraZeneca,Pharmacy bill,2024-09-01,366277.34,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3368843f-29f0-4a53-aa52-e5db79907142,2024-09-01,369502.34,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: 279aa6de-6925-4081-914c-85f1e302b1f7,2024-09-01,369587.73,Retired,65
+CAD,CA81VANC3764776315,NL,Alphabet Inc.,Web hosting fee,2024-09-01,369627.5,Retired,65
+CAD,CA81VANC3764776315,NL,Sophie van Egisheim-van den Bergh,Household expenses,2024-09-01,369683.99,Retired,65
+CAD,CA81VANC3764776315,NL,Loïs van Rijnsbergen-de Roo,Pet expenses,2024-09-01,369693.21,Retired,65
+CAD,CA81VANC3764776315,United States,Goldman Sachs,Brokerage fee,2024-09-01,369710.4,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 802973fd-9509-48e0-aa05-461754908ef2,2024-09-01,372935.4,Retired,65
+CAD,CA81VANC3764776315,Italy,Honeywell,Business unit invoice,2024-09-01,372938.69,Retired,65
+CAD,CA81VANC3764776315,NL,3M,Conglomerate product order,2024-09-01,372944.86,Retired,65
+CAD,CA81VANC3764776315,Denmark,Finn VI-Emmen,Split vacation cost,2024-09-01,372969.05,Retired,65
+CAD,CA81VANC3764776315,NL,Tata Consultancy Services,System upgrade fee,2024-09-01,372973.53,Retired,65
+CAD,CA81VANC3764776315,Germany,LVMH,Luxury item purchase,2024-09-01,372981.45,Retired,65
+CAD,CA81VANC3764776315,NL,Unilever,Order payment,2024-09-01,372983.77,Retired,65
+CAD,CA81VANC3764776315,NL,Volkswagen,Auto repair bill,2024-09-01,372988.17,Retired,65
+CAD,CA81VANC3764776315,Spain,Novartis,Pharmacy bill,2024-09-01,372991.8,Retired,65
+CAD,CA81VANC3764776315,NL,Facebook,Ad campaign funding,2024-09-01,373030.37,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Sanofi,Medication purchase,2024-09-01,373067.46,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: afe19c8a-d4bf-4a4d-ac73-9d65b8809e6b,2024-09-01,376292.46,Retired,65
+CAD,CA81VANC3764776315,Italy,Daimler,Car purchase,2024-09-01,376410.66,Retired,65
+CAD,CA81VANC3764776315,NL,Sanofi,Drug order payment,2024-09-01,376423.39,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 7891936b-7d5a-493c-9d42-7c022872ef5c,2024-09-01,379648.39,Retired,65
+CAD,CA81VANC3764776315,NL,Fleur Simonis-Strijker,Child support,2024-09-01,379661.1,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: bd8c6f01-2ea5-4f85-9e50-9bbb145c921f,2024-09-01,382886.1,Retired,65
+CAD,CA81VANC3764776315,United States,Zoë van der Schuijt-van Geffen,Debt settlement,2024-09-01,382887.92,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Telecom invoice,2024-09-01,382927.17,Retired,65
+CAD,CA81VANC3764776315,NL,BMW,Car parts order,2024-09-01,382943.26,Retired,65
+CAD,CA81VANC3764776315,NL,Lieke Kunen,Anniversary gift,2024-09-01,382952.29,Retired,65
+CAD,CA81VANC3764776315,NL,Fay Furda,Wedding gift,2024-09-01,382979.19,Retired,65
+CAD,CA81VANC3764776315,NL,Morgan Stanley,Capital markets service,2024-09-01,383019.55,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 8d928b2c-5e20-462b-a2d4-2252a94f4dd8,2024-09-01,386244.55,Retired,65
+CAD,CA81VANC3764776315,NL,Jorn Brandon,Support for a friend,2024-09-01,386254.75,Retired,65
+CAD,CA81VANC3764776315,NL,BASF,Chemical supply order,2024-09-01,386306.2,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 71ec60b5-10c5-48ce-91ee-70c0cb7aeeb2,2024-09-01,389531.2,Retired,65
+CAD,CA81VANC3764776315,United States,SoftBank,Conglomerate product order,2024-09-01,389537.77,Retired,65
+CAD,CA81VANC3764776315,Canada,Honeywell,Business unit invoice,2024-09-01,389585.12,Retired,65
+CAD,CA81VANC3764776315,Italy,Huawei,Technology services invoice payment,2024-09-01,389618.33,Retired,65
+CAD,CA81VANC3764776315,Spain,Morgan Stanley,Investment fund entry,2024-09-01,389641.31,Retired,65
+CAD,CA81VANC3764776315,NL,Aaliyah Kuilenburg,Mortgage help,2024-09-01,389655.79,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: c995957e-c9c2-4461-ac9d-c9cdb1c25e8a,2024-09-01,392880.79,Retired,65
+CAD,CA81VANC3764776315,NL,Accenture,Consulting fee,2024-09-01,392904.61,Retired,65
+CAD,CA81VANC3764776315,United States,Accenture,Expert consultation fee,2024-09-01,392908.3,Retired,65
+CAD,CA81VANC3764776315,United States,Procter & Gamble,Order payment,2024-09-01,392921.8,Retired,65
+CAD,CA81VANC3764776315,NL,Honeywell,Conglomerate product order,2024-09-01,392977.16,Retired,65
+CAD,CA81VANC3764776315,NL,AT&T,Data plan payment,2024-09-01,392978.56,Retired,65
+CAD,CA81VANC3764776315,NL,Airbus,Aerospace parts purchase,2024-09-01,393054.64,Retired,65
+CAD,CA81VANC3764776315,NL,Aylin Broeshart-Cadefau,Reimbursement for medical expenses,2024-09-01,393092.84,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e1c944e3-4b16-4a20-ba62-08df2ece5bd6,2024-09-01,396317.84,Retired,65
+CAD,CA81VANC3764776315,NL,PepsiCo,Restaurant bill,2024-09-01,396414.8,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 1da1363a-9e60-4497-9888-e3157673adf6,2024-09-01,399639.8,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Bristol-Myers Squibb,Pharmacy bill,2024-09-01,399688.57,Retired,65
+CAD,CA81VANC3764776315,NL,Jort de Reede-Schelvis,Birthday gift,2024-09-01,399703.66,Retired,65
+CAD,CA81VANC3764776315,NL,Unilever,Order payment,2024-09-01,399745.09,Retired,65
+CAD,CA81VANC3764776315,NL,IBM,Technology services invoice payment,2024-09-01,399760.34,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d88501f6-b790-4179-816b-b73303d3e313,2024-09-01,402985.34,Retired,65
+CAD,CA81VANC3764776315,United States,SoftBank,Diversified company fee,2024-09-01,403101.61,Retired,65
+CAD,CA81VANC3764776315,NL,Geldmaat ATM,Geldmaat: b8de62ae-9db8-44de-9afc-76ef2efbd0e1,2024-09-01,403138.6,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: e6c3891a-3e7b-42bb-be67-d99ff5e01c2a,2024-09-01,406363.6,Retired,65
+CAD,CA81VANC3764776315,NL,Gilead Sciences,Laboratory service charge,2024-09-01,406366.34,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 41e58d9e-2cee-437b-99e0-b4acdefe2a37,2024-09-01,409591.34,Retired,65
+CAD,CA81VANC3764776315,NL,Cisco Systems,Web hosting fee,2024-09-01,409683.62,Retired,65
+CAD,CA81VANC3764776315,NL,Volkswagen,Car parts order,2024-10-01,409688.66,Retired,65
+CAD,CA81VANC3764776315,NL,Bristol-Myers Squibb,Pharmacy bill,2024-10-01,409728.29,Retired,65
+CAD,CA81VANC3764776315,NL,Tata Consultancy Services,IT support fee,2024-10-01,409758.09,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5d7d3cd5-7dfe-4894-aedb-0ab11907a8af,2024-10-01,412983.09,Retired,65
+CAD,CA81VANC3764776315,NL,Huawei,Cloud storage subscription,2024-10-01,413012.14,Retired,65
+CAD,CA81VANC3764776315,NL,Facebook,Ad campaign funding,2024-10-01,413400.2,Retired,65
+CAD,CA81VANC3764776315,Canada,Amber van Jumiège,Gas money,2024-10-01,413442.9,Retired,65
+CAD,CA81VANC3764776315,NL,Johnson & Johnson,Drug order payment,2024-10-01,413453.49,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: fede868f-e179-47fa-9ba5-1b3c9196377a,2024-10-01,416678.49,Retired,65
+CAD,CA81VANC3764776315,Denmark,Dell Technologies,Software license fee payment,2024-10-01,416682.98,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 78b1431c-62c6-4337-ba71-56fe9775e2c5,2024-10-01,419907.98,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Amazon,Subscription service,2024-10-01,419975.54,Retired,65
+CAD,CA81VANC3764776315,NL,Goldman Sachs,Brokerage fee,2024-10-01,420031.03,Retired,65
+CAD,CA81VANC3764776315,NL,Honeywell,Conglomerate product order,2024-10-01,420106.43,Retired,65
+CAD,CA81VANC3764776315,NL,Allianz,Policy renewal fee,2024-10-01,420170.72,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: ff2fbbcb-4da4-41cb-9fc8-bc53a1b947e8,2024-10-01,423395.72,Retired,65
+CAD,CA81VANC3764776315,Hungary,Danique Schrant-Aelftrud van Wessex,Christmas gift,2024-10-01,423676.07,Retired,65
+CAD,CA81VANC3764776315,Japan,DuPont,Business unit invoice,2024-10-01,423707.49,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: f56aa40a-26ba-4034-b69c-84cd24bf781b,2024-10-01,426932.49,Retired,65
+CAD,CA81VANC3764776315,NL,PepsiCo,Beverage order,2024-10-01,426938.54,Retired,65
+CAD,CA81VANC3764776315,NL,Maxim Galenzone,Shared hotel room cost,2024-10-01,426946.04,Retired,65
+CAD,CA81VANC3764776315,NL,Merijn de Gruijter,Household expenses,2024-10-01,426955.8,Retired,65
+CAD,CA81VANC3764776315,NL,IBM,Web hosting fee,2024-10-01,426969.61,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 56d62bbf-500a-4864-a1a7-4411a31a433d,2024-10-01,430194.61,Retired,65
+CAD,CA81VANC3764776315,NL,Helena Lankle,Grocery money,2024-10-01,430253.08,Retired,65
+CAD,CA81VANC3764776315,NL,Luna Wensen-Friehus,Shared utilities,2024-10-01,430295.85,Retired,65
+CAD,CA81VANC3764776315,Denmark,Sanofi,Pharmacy bill,2024-10-01,430299.49,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 3a4cc469-2132-4288-bbf5-721900872912,2024-10-01,433524.49,Retired,65
+CAD,CA81VANC3764776315,NL,BMW,Car parts order,2024-10-01,433582.89,Retired,65
+CAD,CA81VANC3764776315,NL,Meta Platforms,Technology services invoice payment,2024-10-01,433666.09,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: af49b9bf-6d9a-4074-8045-830238710fd6,2024-10-01,436891.09,Retired,65
+CAD,CA81VANC3764776315,Belgium,Cisco Systems,Cloud storage subscription,2024-10-01,437117.27,Retired,65
+CAD,CA81VANC3764776315,NL,Novartis,Pharmacy bill,2024-10-01,437136.86,Retired,65
+CAD,CA81VANC3764776315,NL,Unilever,Subscription box service,2024-10-01,437193.68,Retired,65
+CAD,CA81VANC3764776315,NL,Vajèn van der Heyden,Shared meal cost,2024-10-01,437195.03,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 123846d6-7303-470f-b12d-50d8c08ba3b4,2024-10-01,440420.03,Retired,65
+CAD,CA81VANC3764776315,France,Berkshire Hathaway,Business unit invoice,2024-10-01,440447.37,Retired,65
+CAD,CA81VANC3764776315,United States,Alphabet Inc.,Software license fee payment,2024-10-01,440478.74,Retired,65
+CAD,CA81VANC3764776315,United States,Wouter Kuipers,Reimbursement for shopping,2024-10-01,440575.16,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: d13e5f4b-ece2-4002-923f-1959f818bb10,2024-10-01,443800.16,Retired,65
+CAD,CA81VANC3764776315,NL,Ford Motor,Vehicle service charge,2024-10-01,443803.32,Retired,65
+CAD,CA81VANC3764776315,NL,Phillips 66,Electricity payment,2024-10-01,443817.46,Retired,65
+CAD,CA81VANC3764776315,NL,Toyota,Auto repair bill,2024-10-01,443830.79,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 90a8b1bb-f3c0-4f1d-a868-0ad30603a5ae,2024-10-01,447055.79,Retired,65
+CAD,CA81VANC3764776315,Spain,Emily der Kijnder-Hoedemakers,Rent assistance,2024-10-01,447076.52,Retired,65
+CAD,CA81VANC3764776315,NL,Alphabet Inc.,Cloud storage subscription,2024-10-01,447120.59,Retired,65
+CAD,CA81VANC3764776315,Spain,Berend de Bruin,Travel expenses,2024-10-01,447130.69,Retired,65
+CAD,CA81VANC3764776315,Spain,Amazon,Subscription service,2024-10-01,447133.1,Retired,65
+CAD,CA81VANC3764776315,NL,Apple Inc.,Software license fee payment,2024-10-01,447171.84,Retired,65
+CAD,CA81VANC3764776315,NL,Procter & Gamble,Product purchase,2024-10-01,447186.36,Retired,65
+CAD,CA81VANC3764776315,NL,Novartis,Drug order payment,2024-10-01,447209.54,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: a57d5ff6-c764-4376-81e4-9a6e3a05c9cf,2024-10-01,450434.54,Retired,65
+CAD,CA81VANC3764776315,United States,Renault,Auto repair bill,2024-10-01,450470.03,Retired,65
+CAD,CA81VANC3764776315,France,Geldmaat ATM,Geldmaat: 5ec25875-b376-48aa-81c5-8a0d4aa7d663,2024-10-01,453695.03,Retired,65
+CAD,CA81VANC3764776315,Great Britain,Gilead Sciences,Genetic testing kit,2024-10-01,453808.8,Retired,65

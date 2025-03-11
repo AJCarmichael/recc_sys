@@ -1,0 +1,610 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+J,JP77NISE1206039833,NL,Apple Inc.,Cloud storage subscription,2024-06-01,7311.05,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: a4026a20-0f7d-4af9-9de5-ee09e3ba1947,2024-06-01,12131.05,Professional,45
+J,JP77NISE1206039833,Italy,Ford Motor,Car parts order,2024-06-01,12179.38,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1d178027-fe1a-4207-933a-2d9bda59af8c,2024-06-01,12204.55,Professional,45
+J,JP77NISE1206039833,NL,Pfizer,Healthcare prescription,2024-06-01,12246.52,Professional,45
+J,JP77NISE1206039833,NL,Guus Mudden,Housewarming gift,2024-06-01,12261.01,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Utility bill,2024-06-01,12267.76,Professional,45
+J,JP77NISE1206039833,Germany,IBM,Technology services invoice payment,2024-06-01,12272.02,Professional,45
+J,JP77NISE1206039833,Canada,Microsoft,Cloud storage subscription,2024-06-01,12278.48,Professional,45
+J,JP77NISE1206039833,Great Britain,Tata Consultancy Services,Software development bill,2024-06-01,12302.26,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: dc3d4514-3188-4911-8a9e-4d30e1675862,2024-06-01,17122.26,Professional,45
+J,JP77NISE1206039833,Germany,Goldman Sachs,Stock purchase,2024-06-01,17133.73,Professional,45
+J,JP77NISE1206039833,NL,Meta Platforms,Web hosting fee,2024-06-01,17188.95,Professional,45
+J,JP77NISE1206039833,NL,Accenture,Advisory session charge,2024-06-01,17307.25,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: a832f4f3-962e-48b2-bd56-dbb4c469a25c,2024-06-01,22127.25,Professional,45
+J,JP77NISE1206039833,NL,3M,Diversified company fee,2024-06-01,22230.14,Professional,45
+J,JP77NISE1206039833,NL,Airbus,Space exploration fee,2024-06-01,22275.22,Professional,45
+J,JP77NISE1206039833,NL,Novartis,Medication purchase,2024-06-01,22281.64,Professional,45
+J,JP77NISE1206039833,Italy,Tata Consultancy Services,Software development bill,2024-06-01,22285.29,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: f42d1de9-c7e0-4734-8bb8-41f91ac5b703,2024-06-01,27105.29,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: a5f80c1b-8fc7-4eda-b049-dc5b52c33cbe,2024-06-01,31925.29,Professional,45
+J,JP77NISE1206039833,Hungary,Oracle,Cloud storage subscription,2024-06-01,32066.0,Professional,45
+J,JP77NISE1206039833,United States,Honeywell,Diversified company fee,2024-06-01,32138.95,Professional,45
+J,JP77NISE1206039833,NL,Procter & Gamble,Subscription box service,2024-06-01,32158.94,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: c2160c81-324c-488e-9c29-caf7981da8c9,2024-06-01,32295.3,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1073f3b5-cce9-4baa-90f1-42365ad00e5c,2024-06-01,37115.3,Professional,45
+J,JP77NISE1206039833,Spain,SoftBank,Corporate services payment,2024-06-01,37118.81,Professional,45
+J,JP77NISE1206039833,NL,Ford Motor,Car purchase,2024-06-01,37208.63,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 15f198b1-a22a-401a-ba79-332f236b3f6a,2024-06-01,42028.63,Professional,45
+J,JP77NISE1206039833,France,Phillips 66,Utility bill,2024-06-01,42119.36,Professional,45
+J,JP77NISE1206039833,NL,BASF,Chemical supply order,2024-06-01,42125.31,Professional,45
+J,JP77NISE1206039833,NL,Novartis,Medication purchase,2024-06-01,42244.23,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: aa03aaa9-b662-4cd5-a143-9b7be8a2513d,2024-06-01,47064.23,Professional,45
+J,JP77NISE1206039833,NL,Vince Heyne-Terry,Shared subscription,2024-06-01,47089.73,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 650e60e0-5497-4c72-9ba4-f47551da113e,2024-06-01,51909.73,Professional,45
+J,JP77NISE1206039833,Germany,Sanofi,Pharmacy bill,2024-06-01,52010.19,Professional,45
+J,JP77NISE1206039833,Canada,Merck & Co.,Pharmacy bill,2024-06-01,52015.77,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 755ac7e0-c112-4825-bd6e-acae7fab4154,2024-06-01,56835.77,Professional,45
+J,JP77NISE1206039833,United States,Meike Bellemans-Haneberg,Rent payment,2024-06-01,57381.4,Professional,45
+J,JP77NISE1206039833,France,Allianz,Policy renewal fee,2024-06-01,57456.95,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 679a0a7d-a185-490f-be08-be8f050c091e,2024-06-01,62276.95,Professional,45
+J,JP77NISE1206039833,United States,AT&T,Phone bill,2024-06-01,62346.72,Professional,45
+J,JP77NISE1206039833,Great Britain,Alphabet Inc.,Software license fee payment,2024-06-01,62351.67,Professional,45
+J,JP77NISE1206039833,NL,Phileine Kolen,Household expenses,2024-06-01,62354.73,Professional,45
+J,JP77NISE1206039833,United States,Pfizer,Healthcare prescription,2024-06-01,62392.25,Professional,45
+J,JP77NISE1206039833,Great Britain,Lara Claesdr,Wedding gift,2024-06-01,62434.17,Professional,45
+J,JP77NISE1206039833,Great Britain,Huawei,Web hosting fee,2024-06-01,62437.67,Professional,45
+J,JP77NISE1206039833,United States,Gilead Sciences,Genetic testing kit,2024-06-01,62489.57,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: fa6d7d33-a726-45ad-94ae-df0bb5f01666,2024-06-01,67309.57,Professional,45
+J,JP77NISE1206039833,NL,Verizon,Data plan payment,2024-06-01,67312.96,Professional,45
+J,JP77NISE1206039833,NL,Oracle,Technology services invoice payment,2024-06-01,67493.56,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d67c6d8a-3cb9-41e4-ba53-4853713e6001,2024-06-01,72313.56,Professional,45
+J,JP77NISE1206039833,Great Britain,Gilead Sciences,Biotech research fee,2024-06-01,72317.82,Professional,45
+J,JP77NISE1206039833,United States,Facebook,Premium account upgrade,2024-06-01,72340.19,Professional,45
+J,JP77NISE1206039833,NL,Ivy Romijn-Bosch,Reimbursement for groceries,2024-06-01,72380.74,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 8dc8caa3-ae61-4afc-bf81-699d74331a86,2024-06-01,77200.74,Professional,45
+J,JP77NISE1206039833,Japan,Mick van Kusen,Personal loan,2024-06-01,77202.27,Professional,45
+J,JP77NISE1206039833,NL,Daimler,Car purchase,2024-06-01,77206.22,Professional,45
+J,JP77NISE1206039833,Belgium,Honeywell,Conglomerate product order,2024-06-01,77291.45,Professional,45
+J,JP77NISE1206039833,Hungary,Tara Voortman,Housewarming gift,2024-06-01,77357.12,Professional,45
+J,JP77NISE1206039833,Canada,Jules Mosley-Rijn,Shared subscription,2024-06-01,77432.09,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: c0e013ae-79f5-4e26-aaab-94a1a211cb3d,2024-06-01,82252.09,Professional,45
+J,JP77NISE1206039833,NL,Bristol-Myers Squibb,Healthcare prescription,2024-06-01,82255.64,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: be71d557-69fb-4bc1-9020-ccf724ad5e13,2024-06-01,82370.19,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 62cd4630-f893-4555-a1fa-761e2380226f,2024-06-01,87190.19,Professional,45
+J,JP77NISE1206039833,Canada,DuPont,Conglomerate product order,2024-06-01,87204.04,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 8e5a2744-0e3a-4c56-ae2c-dea7e1592d3c,2024-06-01,92024.04,Professional,45
+J,JP77NISE1206039833,NL,Unilever,Product purchase,2024-06-01,92036.5,Professional,45
+J,JP77NISE1206039833,Belgium,Geldmaat ATM,Geldmaat: ee60c8c0-e3a2-47ad-9407-30ed7a366faa,2024-06-01,92213.88,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: b2d23875-fa2f-4bbc-911f-8d4b83eb1f72,2024-06-01,92406.55,Professional,45
+J,JP77NISE1206039833,Denmark,Bayer,Healthcare prescription,2024-06-01,92423.64,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: fc074ee1-9fa7-4b8b-8121-2200e4386a53,2024-06-01,97243.64,Professional,45
+J,JP77NISE1206039833,Great Britain,Sepp Roukes,Travel expenses,2024-06-01,97255.19,Professional,45
+J,JP77NISE1206039833,NL,Toyota,Car purchase,2024-06-01,97265.15,Professional,45
+J,JP77NISE1206039833,NL,AstraZeneca,Medication purchase,2024-06-01,97333.18,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1e53340e-2ee3-4a98-aa44-7e6c526856cd,2024-06-01,102153.18,Professional,45
+J,JP77NISE1206039833,NL,Tess Mosley,Household expenses,2024-06-01,102183.11,Professional,45
+J,JP77NISE1206039833,NL,Huawei,Technology services invoice payment,2024-06-01,102204.68,Professional,45
+J,JP77NISE1206039833,NL,Facebook,Premium account upgrade,2024-06-01,102214.15,Professional,45
+J,JP77NISE1206039833,France,Jules Huisman,Support for a friend,2024-06-01,102218.47,Professional,45
+J,JP77NISE1206039833,NL,Carlijn van der Heijden,Graduation gift,2024-06-01,102239.32,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 22013a21-064b-4434-8861-24740ff8916d,2024-06-01,107059.32,Professional,45
+J,JP77NISE1206039833,Denmark,Tara de Korte,Support for a family member,2024-06-01,107119.35,Professional,45
+J,JP77NISE1206039833,NL,Renault,Vehicle service charge,2024-06-01,107121.52,Professional,45
+J,JP77NISE1206039833,NL,BASF,Cleaning products order,2024-06-01,107248.61,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d91c9bf7-2173-4cff-a3f1-25fc03534cde,2024-06-01,112068.61,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 41c2c1c6-ba0b-4763-94dc-d986a0f64aee,2024-06-01,116888.61,Professional,45
+J,JP77NISE1206039833,Spain,Pfizer,Drug order payment,2024-06-01,117366.83,Professional,45
+J,JP77NISE1206039833,NL,Johnson & Johnson,Healthcare prescription,2024-06-01,117369.21,Professional,45
+J,JP77NISE1206039833,NL,Pien Scheffers,Christmas gift,2024-06-01,117476.91,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 0f7097ec-875e-4d52-abe8-14f5b754752d,2024-06-01,122296.91,Professional,45
+J,JP77NISE1206039833,Great Britain,Lieve Lonen-Roosenboom,Party contribution,2024-06-01,122357.03,Professional,45
+J,JP77NISE1206039833,Germany,Amazon,Subscription service,2024-06-01,122396.19,Professional,45
+J,JP77NISE1206039833,Canada,Oracle,Cloud storage subscription,2024-06-01,122398.28,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9a32cdbd-a206-44fd-8e66-5582c9935855,2024-06-01,127218.28,Professional,45
+J,JP77NISE1206039833,NL,Procter & Gamble,Retail goods payment,2024-06-01,127254.46,Professional,45
+J,JP77NISE1206039833,NL,Renault,Vehicle service charge,2024-06-01,127258.65,Professional,45
+J,JP77NISE1206039833,NL,Merck & Co.,Drug order payment,2024-06-01,127268.46,Professional,45
+J,JP77NISE1206039833,United States,Microsoft,Web hosting fee,2024-06-01,127321.28,Professional,45
+J,JP77NISE1206039833,Great Britain,IBM,Technology services invoice payment,2024-06-01,127323.18,Professional,45
+J,JP77NISE1206039833,NL,Boeing,Aviation technology fee,2024-06-01,127361.77,Professional,45
+J,JP77NISE1206039833,Great Britain,Morgan Stanley,Capital markets service,2024-06-01,127422.87,Professional,45
+J,JP77NISE1206039833,United States,Fay Hemma van Allemanië,Reimbursement for dinner,2024-06-01,127467.77,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 933315ca-9627-4c68-8bd6-b1d6ebe6cc7a,2024-06-01,132287.77,Professional,45
+J,JP77NISE1206039833,NL,PepsiCo,Catering service fee,2024-06-01,132391.24,Professional,45
+J,JP77NISE1206039833,Japan,AstraZeneca,Healthcare prescription,2024-06-01,132414.04,Professional,45
+J,JP77NISE1206039833,NL,Airbus,Space exploration fee,2024-06-01,132423.67,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 7a67e63b-0f20-4f11-8c6d-8d860d6bd0c4,2024-06-01,137243.67,Professional,45
+J,JP77NISE1206039833,NL,Quinten Risma,Loan to friend,2024-06-01,137343.99,Professional,45
+J,JP77NISE1206039833,NL,BMW,Car purchase,2024-06-01,137346.88,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 6bd4f95b-07db-4033-a41c-20d9b0e9311e,2024-06-01,142166.88,Professional,45
+J,JP77NISE1206039833,Great Britain,Berkshire Hathaway,Diversified company fee,2024-06-01,142171.01,Professional,45
+J,JP77NISE1206039833,NL,Fabian van der Berg,Reimbursement for travel,2024-06-01,142217.83,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 36451997-eb34-4d22-8ee7-6ff1aa8d5c49,2024-06-01,142270.03,Professional,45
+J,JP77NISE1206039833,NL,Thijs Le Grand-van der Ploeg,Vacation expenses,2024-06-01,142280.87,Professional,45
+J,JP77NISE1206039833,NL,Ashley van Gorp,Shared subscription,2024-06-01,142286.49,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d9fb78c4-82cb-4bf6-95ad-980b81a567f0,2024-06-01,147106.49,Professional,45
+J,JP77NISE1206039833,NL,IBM,Software license fee payment,2024-06-01,147113.69,Professional,45
+J,JP77NISE1206039833,NL,Goldman Sachs,Capital markets service,2024-06-01,147119.05,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: e1505d66-873e-4688-a2ac-d7f04ad8750b,2024-06-01,151939.05,Professional,45
+J,JP77NISE1206039833,NL,LVMH,Luxury item purchase,2024-06-01,152014.12,Professional,45
+J,JP77NISE1206039833,Canada,Facebook,Social media service subscription,2024-06-01,152076.13,Professional,45
+J,JP77NISE1206039833,NL,Apple Inc.,Technology services invoice payment,2024-06-01,152151.01,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Conglomerate product order,2024-06-01,152161.96,Professional,45
+J,JP77NISE1206039833,Great Britain,Boeing,Aviation technology fee,2024-06-01,152218.15,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 0e5b1bed-8ac6-4974-b32f-415b99a72f46,2024-06-01,157038.15,Professional,45
+J,JP77NISE1206039833,Canada,Amazon,Marketplace seller fee,2024-06-01,157049.13,Professional,45
+J,JP77NISE1206039833,NL,Mitsubishi,Diversified company fee,2024-07-01,157239.78,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: f18f7098-c2c2-4f08-9972-1b23c8b02298,2024-07-01,162059.78,Professional,45
+J,JP77NISE1206039833,NL,AT&T,Cable service subscription,2024-07-01,162066.05,Professional,45
+J,JP77NISE1206039833,Spain,Nike,Fashion brand order,2024-07-01,162115.72,Professional,45
+J,JP77NISE1206039833,Canada,Johnson & Johnson,Healthcare prescription,2024-07-01,162148.29,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: edac01b6-2809-4931-9000-d8674349d9a1,2024-07-01,166968.29,Professional,45
+J,JP77NISE1206039833,NL,Ties Stange,Shared utilities,2024-07-01,167043.71,Professional,45
+J,JP77NISE1206039833,NL,Berkshire Hathaway,Conglomerate product order,2024-07-01,167044.48,Professional,45
+J,JP77NISE1206039833,Great Britain,AstraZeneca,Healthcare prescription,2024-07-01,167056.06,Professional,45
+J,JP77NISE1206039833,Great Britain,Alyssa Heinrichs-van der Flaas,Reimbursement for dinner,2024-07-01,167061.71,Professional,45
+J,JP77NISE1206039833,NL,GlaxoSmithKline,Healthcare prescription,2024-07-01,167140.37,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 0cd1fe55-25ae-4cd0-8308-527866c62e5c,2024-07-01,171960.37,Professional,45
+J,JP77NISE1206039833,NL,Johnson & Johnson,Drug order payment,2024-07-01,171977.78,Professional,45
+J,JP77NISE1206039833,NL,Alphabet Inc.,Cloud storage subscription,2024-07-01,171979.55,Professional,45
+J,JP77NISE1206039833,NL,Oracle,Web hosting fee,2024-07-01,171988.94,Professional,45
+J,JP77NISE1206039833,NL,LVMH,Exclusive brand fee,2024-07-01,172062.59,Professional,45
+J,JP77NISE1206039833,Italy,Cisco Systems,Software license fee payment,2024-07-01,172066.38,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 32e7aaaf-6b64-4ead-ad38-c0669f6fd171,2024-07-01,176886.38,Professional,45
+J,JP77NISE1206039833,NL,Dell Technologies,Technology services invoice payment,2024-07-01,176958.94,Professional,45
+J,JP77NISE1206039833,NL,Tobias van Hemert,Mortgage help,2024-07-01,176980.9,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 84a10568-0907-4521-b029-b68dd8d0b48f,2024-07-01,181800.9,Professional,45
+J,JP77NISE1206039833,NL,Goldman Sachs,Capital markets service,2024-07-01,181833.19,Professional,45
+J,JP77NISE1206039833,NL,Cisco Systems,Technology services invoice payment,2024-07-01,181885.65,Professional,45
+J,JP77NISE1206039833,NL,Vajèn Driessen-Wilmont,Housewarming gift,2024-07-01,181928.87,Professional,45
+J,JP77NISE1206039833,Canada,Tata Consultancy Services,Technical service charge,2024-07-01,181992.19,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9a332420-f727-4d7a-aba9-d279d7d7fa88,2024-07-01,186812.19,Professional,45
+J,JP77NISE1206039833,NL,Toyota,Auto repair bill,2024-07-01,186815.72,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: f8080159-589f-4c27-a53c-03c102efec59,2024-07-01,191635.72,Professional,45
+J,JP77NISE1206039833,NL,Phillips 66,Electricity payment,2024-07-01,191811.17,Professional,45
+J,JP77NISE1206039833,Denmark,Phillips 66,Electricity payment,2024-07-01,191825.13,Professional,45
+J,JP77NISE1206039833,NL,Tyler Frerichs,Anniversary gift,2024-07-01,191853.09,Professional,45
+J,JP77NISE1206039833,Canada,AT&T,Phone bill,2024-07-01,191856.33,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9bd9ce40-cfe4-4ace-9feb-9beb4647dcdf,2024-07-01,196676.33,Professional,45
+J,JP77NISE1206039833,NL,Amazon,Online shopping,2024-07-01,196758.01,Professional,45
+J,JP77NISE1206039833,Canada,3M,Corporate services payment,2024-07-01,196761.51,Professional,45
+J,JP77NISE1206039833,NL,Unilever,Order payment,2024-07-01,196764.61,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9ca9d6be-dc02-4732-9eaa-82f859ae5727,2024-07-01,201584.61,Professional,45
+J,JP77NISE1206039833,NL,Esila Godfrey van Alemannië,Gift,2024-07-01,201610.9,Professional,45
+J,JP77NISE1206039833,Denmark,Dell Technologies,Technology services invoice payment,2024-07-01,201728.97,Professional,45
+J,JP77NISE1206039833,Germany,Marinus Françoise,Housewarming gift,2024-07-01,201759.21,Professional,45
+J,JP77NISE1206039833,France,Bo de Groot,Personal loan,2024-07-01,201813.18,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 10b6924c-286d-43bb-a41e-773d5548246b,2024-07-01,206633.18,Professional,45
+J,JP77NISE1206039833,Germany,Pieter Lijn,Vacation expenses,2024-07-01,206683.99,Professional,45
+J,JP77NISE1206039833,NL,GlaxoSmithKline,Medication purchase,2024-07-01,206732.11,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 684519ea-b0e5-42ef-b889-f37149b81367,2024-07-01,211552.11,Professional,45
+J,JP77NISE1206039833,NL,Alex van Boven,Reimbursement for dinner,2024-07-01,211639.67,Professional,45
+J,JP77NISE1206039833,Canada,Facebook,Ad campaign funding,2024-07-01,211642.48,Professional,45
+J,JP77NISE1206039833,NL,Tijmen Oude Heer,Support for a family member,2024-07-01,211688.1,Professional,45
+J,JP77NISE1206039833,NL,Phillips 66,Energy supply charge,2024-07-01,211694.51,Professional,45
+J,JP77NISE1206039833,Denmark,Johnson & Johnson,Pharmacy bill,2024-07-01,211697.36,Professional,45
+J,JP77NISE1206039833,Great Britain,Goldman Sachs,Brokerage fee,2024-07-01,211704.43,Professional,45
+J,JP77NISE1206039833,Germany,SoftBank,Business unit invoice,2024-07-01,211707.65,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d03879af-161b-4b04-970f-f945d14c0315,2024-07-01,216527.65,Professional,45
+J,JP77NISE1206039833,NL,Gilead Sciences,Clinical trial payment,2024-07-01,216578.14,Professional,45
+J,JP77NISE1206039833,NL,Juul Karels,Reimbursement for medical expenses,2024-07-01,216988.72,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 531e9f15-3515-4aeb-91d3-e7e940153f51,2024-07-01,221808.72,Professional,45
+J,JP77NISE1206039833,NL,Bo Marchal-van den Hoek,Reimbursement for shopping,2024-07-01,221896.1,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: e5705d62-bf68-48d4-a7b7-2c0998720e55,2024-07-01,226716.1,Professional,45
+J,JP77NISE1206039833,NL,BASF,Chemical supply order,2024-07-01,226759.22,Professional,45
+J,JP77NISE1206039833,Canada,General Electric,Corporate services payment,2024-07-01,227817.06,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d53be564-d23d-45ed-9603-626350079457,2024-07-01,232637.06,Professional,45
+J,JP77NISE1206039833,Japan,Boeing,Aircraft maintenance,2024-07-01,232675.75,Professional,45
+J,JP77NISE1206039833,Great Britain,Sarah van Ooyen,Shared ride expenses,2024-07-01,232709.92,Professional,45
+J,JP77NISE1206039833,Japan,Ravi Lansink,Reimbursement for dinner,2024-07-01,232768.24,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: bf2e4195-f646-447f-b178-3d7fae7af85f,2024-07-01,237588.24,Professional,45
+J,JP77NISE1206039833,NL,Nienke van Este,Loan to family,2024-07-01,237678.38,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 055d37e8-ed3c-411d-954b-caf69184fc50,2024-07-01,242498.38,Professional,45
+J,JP77NISE1206039833,United States,Merck & Co.,Medication purchase,2024-07-01,242546.58,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: f1e11441-8dfa-454c-adf5-079bd16a926b,2024-07-01,242611.91,Professional,45
+J,JP77NISE1206039833,NL,Alibaba,E-commerce order,2024-07-01,242675.3,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Renewable energy subscription,2024-07-01,242698.16,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 2cfbced7-63f0-4c74-91ec-adb9d83fe10d,2024-07-01,247518.16,Professional,45
+J,JP77NISE1206039833,NL,Bristol-Myers Squibb,Drug order payment,2024-07-01,247571.46,Professional,45
+J,JP77NISE1206039833,NL,Oracle,Cloud storage subscription,2024-07-01,247573.63,Professional,45
+J,JP77NISE1206039833,NL,Rosalie de Grote,Funeral expenses,2024-07-01,247642.8,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 032a3a20-22aa-4857-b3e6-c2b10de49136,2024-07-01,252462.8,Professional,45
+J,JP77NISE1206039833,NL,Amazon,Online shopping,2024-07-01,252486.63,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 6d4e8443-aa67-40ee-9e84-22fa4403428c,2024-07-01,252635.65,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 93b69cfb-795f-4439-89e8-48591d6d7321,2024-07-01,257455.65,Professional,45
+J,JP77NISE1206039833,NL,Bayer,Medication purchase,2024-07-01,257502.49,Professional,45
+J,JP77NISE1206039833,NL,Charlotte Wolters,Gift,2024-07-01,257504.36,Professional,45
+J,JP77NISE1206039833,United States,Emma Keltenie,Birthday gift,2024-07-01,257553.18,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Renewable energy subscription,2024-07-01,257609.36,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 5e55607f-9178-4bee-b8a8-74d2be1dc763,2024-07-01,262429.36,Professional,45
+J,JP77NISE1206039833,Great Britain,Mitsubishi,Business unit invoice,2024-07-01,262436.5,Professional,45
+J,JP77NISE1206039833,NL,BASF,Chemical supply order,2024-07-01,262525.4,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Business unit invoice,2024-07-01,262562.32,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9013f42f-80a4-4f3e-9779-2a2014b37588,2024-07-01,267382.32,Professional,45
+J,JP77NISE1206039833,NL,Meta Platforms,Software license fee payment,2024-07-01,267403.44,Professional,45
+J,JP77NISE1206039833,Canada,Accenture,Expert consultation fee,2024-07-01,267444.19,Professional,45
+J,JP77NISE1206039833,Japan,Mitsubishi,Conglomerate product order,2024-07-01,267451.05,Professional,45
+J,JP77NISE1206039833,United States,Airbus,Aviation technology fee,2024-07-01,267455.28,Professional,45
+J,JP77NISE1206039833,Great Britain,Mitsubishi,Business unit invoice,2024-07-01,267457.68,Professional,45
+J,JP77NISE1206039833,NL,Goldman Sachs,Brokerage fee,2024-07-01,267467.33,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9e5ffdc5-e00c-4d3f-b755-3a39f186e688,2024-07-01,272287.33,Professional,45
+J,JP77NISE1206039833,Canada,Duke Energy,Utility bill,2024-07-01,272289.55,Professional,45
+J,JP77NISE1206039833,France,Pfizer,Medication purchase,2024-07-01,272319.03,Professional,45
+J,JP77NISE1206039833,NL,LVMH,Exclusive brand fee,2024-07-01,272352.63,Professional,45
+J,JP77NISE1206039833,NL,Pfizer,Medication purchase,2024-07-01,272356.9,Professional,45
+J,JP77NISE1206039833,France,Nike,Sportswear buy,2024-07-01,272387.97,Professional,45
+J,JP77NISE1206039833,NL,Meta Platforms,Software license fee payment,2024-07-01,272427.41,Professional,45
+J,JP77NISE1206039833,NL,Youssef de Grote,Loan to family,2024-07-01,272499.21,Professional,45
+J,JP77NISE1206039833,NL,Ford Motor,Vehicle service charge,2024-07-01,272506.87,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 8ced6a42-a12a-46e5-a62d-e1cc766fe2d0,2024-07-01,277326.87,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 38d81a57-2ce9-4692-996d-f9e5f6fffeb2,2024-07-01,282146.87,Professional,45
+J,JP77NISE1206039833,Hungary,Geldmaat ATM,Geldmaat: b4098433-9677-439a-b085-abcaafb1a3cc,2024-07-01,282244.83,Professional,45
+J,JP77NISE1206039833,Great Britain,Alibaba,Marketplace seller fee,2024-07-01,282318.53,Professional,45
+J,JP77NISE1206039833,NL,Amin Robbrechts Bruijne,Birthday gift,2024-07-01,282326.75,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 22870e54-fd83-4816-a71a-3da69ba3b1d5,2024-07-01,287146.75,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Electricity payment,2024-07-01,287205.35,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Utility bill,2024-07-01,287235.09,Professional,45
+J,JP77NISE1206039833,NL,Oracle,Technology services invoice payment,2024-07-01,287287.73,Professional,45
+J,JP77NISE1206039833,NL,Berkshire Hathaway,Conglomerate product order,2024-07-01,287298.75,Professional,45
+J,JP77NISE1206039833,NL,Kyan Laffray,Travel expenses,2024-07-01,287322.42,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: de7a331d-239d-44e7-a001-c7f984a7afbd,2024-07-01,292142.42,Professional,45
+J,JP77NISE1206039833,NL,Huawei,Cloud storage subscription,2024-07-01,292998.57,Professional,45
+J,JP77NISE1206039833,NL,Giovanni van Baalen,Christmas gift,2024-07-01,293013.38,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: b4056771-c735-482d-8a92-150f8e7ac672,2024-07-01,293097.59,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 013e10d8-eeb5-4648-8e95-f12a7281ff3e,2024-07-01,297917.59,Professional,45
+J,JP77NISE1206039833,NL,Hailey Scuylenborchs,Rent assistance,2024-07-01,297925.7,Professional,45
+J,JP77NISE1206039833,Italy,SoftBank,Diversified company fee,2024-07-01,297930.42,Professional,45
+J,JP77NISE1206039833,NL,DuPont,Business unit invoice,2024-07-01,297991.59,Professional,45
+J,JP77NISE1206039833,NL,Pfizer,Drug order payment,2024-07-01,298003.64,Professional,45
+J,JP77NISE1206039833,NL,Novartis,Healthcare prescription,2024-07-01,298012.07,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 5811a6a4-9910-47eb-9a99-921d19b659b3,2024-07-01,302832.07,Professional,45
+J,JP77NISE1206039833,France,Saar Spies-Verbeek,Rent deposit,2024-07-01,302853.17,Professional,45
+J,JP77NISE1206039833,NL,Lucas van Leeuwen,Vacation expenses,2024-07-01,302860.56,Professional,45
+J,JP77NISE1206039833,Hungary,Microsoft,Software license fee payment,2024-07-01,302879.22,Professional,45
+J,JP77NISE1206039833,Germany,Phillips 66,Electricity payment,2024-07-01,302886.51,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d01491b7-fdfb-46dc-a695-7a6e3f6e2ee8,2024-07-01,307706.51,Professional,45
+J,JP77NISE1206039833,NL,Pfizer,Drug order payment,2024-07-01,307708.12,Professional,45
+J,JP77NISE1206039833,Canada,AstraZeneca,Medication purchase,2024-07-01,307713.62,Professional,45
+J,JP77NISE1206039833,NL,Goldman Sachs,Investment fund entry,2024-07-01,307823.84,Professional,45
+J,JP77NISE1206039833,Spain,Allianz,Coverage update charge,2024-07-01,307875.45,Professional,45
+J,JP77NISE1206039833,France,Accenture,Professional service invoice,2024-07-01,307976.99,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 983f36fa-2186-4d52-af71-d0eab7822d23,2024-07-01,312796.99,Professional,45
+J,JP77NISE1206039833,NL,Teun van Hemert,Dinner reimbursement,2024-07-01,312905.62,Professional,45
+J,JP77NISE1206039833,NL,Alibaba,E-commerce order,2024-08-01,312908.62,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 7cb4792c-1775-4b50-8d1f-2dc60498ad3c,2024-08-01,317728.62,Professional,45
+J,JP77NISE1206039833,NL,Verizon,Telecom invoice,2024-08-01,317775.42,Professional,45
+J,JP77NISE1206039833,NL,DuPont,Diversified company fee,2024-08-01,317820.42,Professional,45
+J,JP77NISE1206039833,Canada,Geldmaat ATM,Geldmaat: 8abe7465-6048-47b8-9b55-f01b7d7811b7,2024-08-01,317870.73,Professional,45
+J,JP77NISE1206039833,Canada,Ben van Beieren,Gift,2024-08-01,317901.61,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Conglomerate product order,2024-08-01,317909.86,Professional,45
+J,JP77NISE1206039833,Austria,Ford Motor,Vehicle service charge,2024-08-01,317935.25,Professional,45
+J,JP77NISE1206039833,NL,BASF,Industrial chemicals purchase,2024-08-01,317944.76,Professional,45
+J,JP77NISE1206039833,NL,Microsoft,Software license fee payment,2024-08-01,317995.95,Professional,45
+J,JP77NISE1206039833,NL,Unilever,Product purchase,2024-08-01,318009.75,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: c010e030-1845-418a-981e-9af28c9b87fd,2024-08-01,322829.75,Professional,45
+J,JP77NISE1206039833,Japan,BMW,Auto repair bill,2024-08-01,322848.07,Professional,45
+J,JP77NISE1206039833,Hungary,BASF,Industrial chemicals purchase,2024-08-01,322865.09,Professional,45
+J,JP77NISE1206039833,Germany,Mitsubishi,Diversified company fee,2024-08-01,322941.49,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: da96adf4-5d99-4303-8e06-d08a71824033,2024-08-01,327761.49,Professional,45
+J,JP77NISE1206039833,NL,Facebook,Premium account upgrade,2024-08-01,327787.67,Professional,45
+J,JP77NISE1206039833,NL,Merck & Co.,Pharmacy bill,2024-08-01,327844.95,Professional,45
+J,JP77NISE1206039833,NL,Ford Motor,Car purchase,2024-08-01,327925.78,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: c46cae75-234e-4923-ad5f-b795badc424d,2024-08-01,332745.78,Professional,45
+J,JP77NISE1206039833,Belgium,Accenture,Professional service invoice,2024-08-01,332748.06,Professional,45
+J,JP77NISE1206039833,Italy,Dion die Pelser,Shared ride expenses,2024-08-01,332813.8,Professional,45
+J,JP77NISE1206039833,Canada,Victor van der Noot-Bouwhuisen,Christmas gift,2024-08-01,332820.35,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: d80d7d4b-767a-4775-8a8d-1b5bfbcf14c6,2024-08-01,337640.35,Professional,45
+J,JP77NISE1206039833,Canada,Verizon,Phone bill,2024-08-01,337708.67,Professional,45
+J,JP77NISE1206039833,Belgium,Ford Motor,Car parts order,2024-08-01,337711.97,Professional,45
+J,JP77NISE1206039833,Spain,Mitsubishi,Business unit invoice,2024-08-01,337800.27,Professional,45
+J,JP77NISE1206039833,Canada,Julian Persijn,Housewarming gift,2024-08-01,337848.96,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 2b40cc68-9ec7-4673-ac7e-b2824ab8a70b,2024-08-01,342668.96,Professional,45
+J,JP77NISE1206039833,Canada,Dell Technologies,Cloud storage subscription,2024-08-01,342673.49,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 0e70d4c6-d87a-4569-835d-40994e22030b,2024-08-01,347493.49,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 56a20a12-522d-4339-ba74-b63e57759904,2024-08-01,347643.94,Professional,45
+J,JP77NISE1206039833,NL,Ford Motor,Car purchase,2024-08-01,347648.65,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 245c0f29-2f05-4e7b-a051-9156a3d43696,2024-08-01,352468.65,Professional,45
+J,JP77NISE1206039833,NL,Airbus,Aircraft maintenance,2024-08-01,352514.13,Professional,45
+J,JP77NISE1206039833,NL,Roche,Medication purchase,2024-08-01,352551.15,Professional,45
+J,JP77NISE1206039833,NL,Elena Fiere,Pet expenses,2024-08-01,352572.89,Professional,45
+J,JP77NISE1206039833,NL,Kate van den Assem-Ponci,Loan to friend,2024-08-01,352601.13,Professional,45
+J,JP77NISE1206039833,NL,Tata Consultancy Services,IT support fee,2024-08-01,352682.02,Professional,45
+J,JP77NISE1206039833,NL,Huawei,Software license fee payment,2024-08-01,352690.11,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 4a1b4e5f-eefe-46f6-bd51-063b1eb6979a,2024-08-01,357510.11,Professional,45
+J,JP77NISE1206039833,NL,Bristol-Myers Squibb,Pharmacy bill,2024-08-01,357551.62,Professional,45
+J,JP77NISE1206039833,NL,LVMH,Designer goods order,2024-08-01,357559.73,Professional,45
+J,JP77NISE1206039833,Great Britain,Geldmaat ATM,Geldmaat: e496a78d-7b03-4503-a73a-11a4041a739f,2024-08-01,357598.09,Professional,45
+J,JP77NISE1206039833,NL,Mitsubishi,Diversified company fee,2024-08-01,357617.19,Professional,45
+J,JP77NISE1206039833,Austria,Guusje Vignon-van de Plas,Graduation gift,2024-08-01,357632.65,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: ec3fdde1-aaf3-4713-a4d4-368786578f87,2024-08-01,362452.65,Professional,45
+J,JP77NISE1206039833,NL,Alibaba,Marketplace seller fee,2024-08-01,362507.18,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: dc4ec7f0-37f3-49f1-885a-1a406fd212c7,2024-08-01,367327.18,Professional,45
+J,JP77NISE1206039833,NL,Gilead Sciences,Clinical trial payment,2024-08-01,367372.3,Professional,45
+J,JP77NISE1206039833,United States,Duke Energy,Energy supply charge,2024-08-01,367376.39,Professional,45
+J,JP77NISE1206039833,Great Britain,Novartis,Medication purchase,2024-08-01,367412.57,Professional,45
+J,JP77NISE1206039833,Italy,Suze Wolzak-Koster,Grocery money,2024-08-01,367469.79,Professional,45
+J,JP77NISE1206039833,Austria,Boris Hak-Schokman,Shared meal cost,2024-08-01,367503.55,Professional,45
+J,JP77NISE1206039833,NL,Honeywell,Corporate services payment,2024-08-01,367505.25,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 6f45b04c-69d9-4a16-9701-684c84bb254a,2024-08-01,372325.25,Professional,45
+J,JP77NISE1206039833,NL,Cisco Systems,Technology services invoice payment,2024-08-01,372430.1,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 0f4a1662-b8ec-4a40-bec2-002702dd4465,2024-08-01,377250.1,Professional,45
+J,JP77NISE1206039833,Canada,Alphabet Inc.,Software license fee payment,2024-08-01,377255.55,Professional,45
+J,JP77NISE1206039833,NL,Mohammed van Kuijc van Malsen-van Hemert,Medical bills,2024-08-01,377261.59,Professional,45
+J,JP77NISE1206039833,NL,Roche,Healthcare prescription,2024-08-01,377262.42,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 529d6de0-1011-4ff2-9b3f-79661bd73258,2024-08-01,382082.42,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 2658caed-3b89-4e07-bcb7-05c196ce6cf2,2024-08-01,382206.03,Professional,45
+J,JP77NISE1206039833,NL,Liam Perck,Household expenses,2024-08-01,382222.17,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 551674ea-cf46-4ae6-8faf-b6829937feca,2024-08-01,387042.17,Professional,45
+J,JP77NISE1206039833,Canada,Geldmaat ATM,Geldmaat: a21747f1-b8c9-4d7b-8ab7-d665532ff211,2024-08-01,387202.5,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 8447bda7-471e-427d-9b02-b848d868be70,2024-08-01,387315.58,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 82a8e208-1694-4532-a0ee-5aa46a110cf4,2024-08-01,392135.58,Professional,45
+J,JP77NISE1206039833,NL,Apple Inc.,Software license fee payment,2024-08-01,392182.74,Professional,45
+J,JP77NISE1206039833,NL,Sanofi,Healthcare prescription,2024-08-01,392203.84,Professional,45
+J,JP77NISE1206039833,Hungary,Toyota,Car purchase,2024-08-01,392222.79,Professional,45
+J,JP77NISE1206039833,Great Britain,Johnson & Johnson,Drug order payment,2024-08-01,392233.69,Professional,45
+J,JP77NISE1206039833,Japan,Dell Technologies,Software license fee payment,2024-08-01,392279.98,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1c8aa9b0-3b27-402f-a25b-ccbfcbc28dd1,2024-08-01,397099.98,Professional,45
+J,JP77NISE1206039833,Canada,Daimler,Car parts order,2024-08-01,397131.17,Professional,45
+J,JP77NISE1206039833,NL,GlaxoSmithKline,Medication purchase,2024-08-01,397194.14,Professional,45
+J,JP77NISE1206039833,Germany,Allianz,Policy renewal fee,2024-08-01,397256.81,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 4e09f70a-be7f-49ca-9c39-977883db58f8,2024-08-01,402076.81,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: fe369636-7c2b-4115-be75-87ca217c1676,2024-08-01,406896.81,Professional,45
+J,JP77NISE1206039833,NL,Isa Martel,Christmas gift,2024-08-01,407356.7,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 2eef8e6f-ca92-46c1-959e-a7093a6212cb,2024-08-01,412176.7,Professional,45
+J,JP77NISE1206039833,NL,Oracle,Cloud storage subscription,2024-08-01,412298.15,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 5a179d6a-559b-4f29-9249-5216ec1ba64f,2024-08-01,417118.15,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Conglomerate product order,2024-08-01,417252.96,Professional,45
+J,JP77NISE1206039833,NL,Roche,Healthcare prescription,2024-08-01,417306.51,Professional,45
+J,JP77NISE1206039833,NL,Ford Motor,Car purchase,2024-08-01,417310.55,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 77eec814-2d32-4724-8a44-bbf4b79bfbb7,2024-08-01,422130.55,Professional,45
+J,JP77NISE1206039833,United States,Honeywell,Corporate services payment,2024-08-01,422135.29,Professional,45
+J,JP77NISE1206039833,Great Britain,Lisanne van der Ven,Medical bills,2024-08-01,422690.76,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 3b8b6524-800c-4556-9dfe-92e3eadda454,2024-08-01,427510.76,Professional,45
+J,JP77NISE1206039833,Great Britain,Geldmaat ATM,Geldmaat: d089f5a0-a5a4-4980-9a6c-f1b053350c37,2024-08-01,427550.13,Professional,45
+J,JP77NISE1206039833,Germany,Morgan Stanley,Brokerage fee,2024-08-01,427655.26,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: c1d54d0c-29c1-4bc4-9503-a1fb0d094150,2024-08-01,432475.26,Professional,45
+J,JP77NISE1206039833,NL,Boeing,Space exploration fee,2024-08-01,432541.66,Professional,45
+J,JP77NISE1206039833,NL,Joost van de Klashorst-Aeije,Rent payment,2024-08-01,432601.06,Professional,45
+J,JP77NISE1206039833,Great Britain,Tata Consultancy Services,IT support fee,2024-08-01,432611.15,Professional,45
+J,JP77NISE1206039833,NL,Sylvie Janssens,Birthday gift,2024-08-01,432627.4,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Renewable energy subscription,2024-08-01,432667.34,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: b67b57f9-eb3b-4b85-b603-c82f0a03f1e8,2024-08-01,437487.34,Professional,45
+J,JP77NISE1206039833,NL,Meta Platforms,Software license fee payment,2024-08-01,437523.23,Professional,45
+J,JP77NISE1206039833,NL,Morgan Stanley,Capital markets service,2024-08-01,437543.38,Professional,45
+J,JP77NISE1206039833,NL,Noor Hakker,Christmas gift,2024-08-01,437619.58,Professional,45
+J,JP77NISE1206039833,NL,Bristol-Myers Squibb,Medication purchase,2024-08-01,437686.45,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 8d98692e-c79e-463f-bea7-e4e7051029ae,2024-08-01,442506.45,Professional,45
+J,JP77NISE1206039833,Great Britain,Johnson & Johnson,Medication purchase,2024-08-01,442522.2,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 9c0dd98a-edd6-4d88-95d0-8329ce8848af,2024-08-01,447342.2,Professional,45
+J,JP77NISE1206039833,NL,Vajèn van Saksen,Birthday party expenses,2024-08-01,447369.08,Professional,45
+J,JP77NISE1206039833,NL,AstraZeneca,Pharmacy bill,2024-08-01,447371.21,Professional,45
+J,JP77NISE1206039833,NL,Tata Consultancy Services,IT support fee,2024-08-01,447435.5,Professional,45
+J,JP77NISE1206039833,NL,Airbus,Aircraft maintenance,2024-08-01,447440.09,Professional,45
+J,JP77NISE1206039833,NL,Angelina Jansen,Support for a friend,2024-08-01,447456.52,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1dcfdf88-8fd5-4d48-81e8-1cf02b4c12a3,2024-08-01,452276.52,Professional,45
+J,JP77NISE1206039833,NL,BMW,Auto repair bill,2024-08-01,452327.85,Professional,45
+J,JP77NISE1206039833,Italy,Maryam de Hoogh,Rent payment,2024-08-01,452336.0,Professional,45
+J,JP77NISE1206039833,NL,GlaxoSmithKline,Medication purchase,2024-08-01,452366.0,Professional,45
+J,JP77NISE1206039833,United States,Bristol-Myers Squibb,Medication purchase,2024-08-01,452376.82,Professional,45
+J,JP77NISE1206039833,Germany,Lara Fechant,Reimbursement for dinner,2024-08-01,452432.27,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1323663b-ff73-4cc4-8064-82b0dc275fc9,2024-08-01,457252.27,Professional,45
+J,JP77NISE1206039833,NL,Alibaba,Marketplace seller fee,2024-08-01,457370.79,Professional,45
+J,JP77NISE1206039833,Great Britain,General Electric,Corporate services payment,2024-08-01,457436.48,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: a6a61213-0ba3-4b69-9df5-6f8ad4e9ad3d,2024-08-01,462256.48,Professional,45
+J,JP77NISE1206039833,NL,3M,Conglomerate product order,2024-08-01,462325.11,Professional,45
+J,JP77NISE1206039833,NL,Jurre van Roijen-Simonis,School fees,2024-08-01,462327.86,Professional,45
+J,JP77NISE1206039833,NL,Daimler,Car purchase,2024-08-01,462356.61,Professional,45
+J,JP77NISE1206039833,NL,Fem van de Elzas,Party contribution,2024-08-01,462377.95,Professional,45
+J,JP77NISE1206039833,NL,Mike Appelman,Reimbursement for groceries,2024-08-01,462402.7,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 81238b16-d051-46a2-bc7e-e352d5936e0d,2024-08-01,467222.7,Professional,45
+J,JP77NISE1206039833,NL,Boeing,Aircraft maintenance,2024-08-01,467273.43,Professional,45
+J,JP77NISE1206039833,NL,Renault,Car purchase,2024-08-01,467279.01,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Conglomerate product order,2024-08-01,467285.04,Professional,45
+J,JP77NISE1206039833,Great Britain,Bayer,Pharmacy bill,2024-09-01,467295.61,Professional,45
+J,JP77NISE1206039833,Hungary,Bayer,Drug order payment,2024-09-01,467368.65,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 5ad55539-2c78-45a9-986d-36f9b1918e63,2024-09-01,472188.65,Professional,45
+J,JP77NISE1206039833,United States,Daan Ponci,Personal loan,2024-09-01,472209.45,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 3c7c80cc-2352-4d3e-a084-e9e0c5d46e3e,2024-09-01,472330.55,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: bd8a580f-59e5-4974-969d-831ddde4a1de,2024-09-01,477150.55,Professional,45
+J,JP77NISE1206039833,NL,Berkshire Hathaway,Corporate services payment,2024-09-01,477158.34,Professional,45
+J,JP77NISE1206039833,Great Britain,PepsiCo,Restaurant bill,2024-09-01,477178.52,Professional,45
+J,JP77NISE1206039833,Great Britain,Huawei,Software license fee payment,2024-09-01,477246.14,Professional,45
+J,JP77NISE1206039833,NL,3M,Conglomerate product order,2024-09-01,477259.77,Professional,45
+J,JP77NISE1206039833,NL,Morgan Stanley,Capital markets service,2024-09-01,477330.37,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: be9aa2d0-ec61-4f26-8433-74405d50e134,2024-09-01,482150.37,Professional,45
+J,JP77NISE1206039833,Great Britain,Alphabet Inc.,Technology services invoice payment,2024-09-01,482200.66,Professional,45
+J,JP77NISE1206039833,NL,Loes Everde,Support money,2024-09-01,482326.87,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 7d62ce5f-9272-4f6a-a9cd-46637120c72c,2024-09-01,487146.87,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 737c648f-5ca2-429f-8aac-7423b21be010,2024-09-01,487221.7,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: f98a2c85-558b-4d03-92ab-25d42d65f789,2024-09-01,492041.7,Professional,45
+J,JP77NISE1206039833,Hungary,Timo Feenstra,Child support,2024-09-01,492075.03,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 130f250e-3bb9-4841-9e62-937f34a99863,2024-09-01,496895.03,Professional,45
+J,JP77NISE1206039833,Great Britain,Selena Veenendaal-van Bovene,Baby shower gift,2024-09-01,497199.64,Professional,45
+J,JP77NISE1206039833,Germany,Loes van Beek,Rent deposit,2024-09-01,497344.88,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 60c8b9b8-500f-4f79-b663-f8560fe72d62,2024-09-01,502164.88,Professional,45
+J,JP77NISE1206039833,NL,IBM,Technology services invoice payment,2024-09-01,502168.34,Professional,45
+J,JP77NISE1206039833,Japan,DuPont,Business unit invoice,2024-09-01,502179.17,Professional,45
+J,JP77NISE1206039833,Japan,Unilever,Retail goods payment,2024-09-01,502199.02,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 35f295bd-649f-43c8-ae46-0d2ec63b6b63,2024-09-01,507019.02,Professional,45
+J,JP77NISE1206039833,NL,Procter & Gamble,Subscription box service,2024-09-01,507029.51,Professional,45
+J,JP77NISE1206039833,Hungary,Morgan Stanley,Investment fund entry,2024-09-01,507082.37,Professional,45
+J,JP77NISE1206039833,NL,Meta Platforms,Technology services invoice payment,2024-09-01,507108.21,Professional,45
+J,JP77NISE1206039833,NL,AstraZeneca,Drug order payment,2024-09-01,507114.49,Professional,45
+J,JP77NISE1206039833,Denmark,Goldman Sachs,Brokerage fee,2024-09-01,507115.64,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: b4169411-592c-41a0-84dc-73933325c0a2,2024-09-01,511935.64,Professional,45
+J,JP77NISE1206039833,Spain,3M,Diversified company fee,2024-09-01,511942.35,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: cf86611e-2a0f-47e6-9f52-8be41b993863,2024-09-01,512002.37,Professional,45
+J,JP77NISE1206039833,NL,ByteDance,Technology services invoice payment,2024-09-01,512003.86,Professional,45
+J,JP77NISE1206039833,NL,Apple Inc.,Web hosting fee,2024-09-01,512060.07,Professional,45
+J,JP77NISE1206039833,NL,Alphabet Inc.,Cloud storage subscription,2024-09-01,512064.41,Professional,45
+J,JP77NISE1206039833,Canada,Noortje Korstman,Shared hotel room cost,2024-09-01,512119.76,Professional,45
+J,JP77NISE1206039833,NL,Daimler,Car purchase,2024-09-01,512179.9,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 90190977-f5a5-417f-9b54-9627a054decf,2024-09-01,516999.9,Professional,45
+J,JP77NISE1206039833,NL,Tata Consultancy Services,System upgrade fee,2024-09-01,517050.92,Professional,45
+J,JP77NISE1206039833,Great Britain,Geldmaat ATM,Geldmaat: c9fcb90d-5d1e-4948-9e9d-54ddcc1dbc01,2024-09-01,517088.6,Professional,45
+J,JP77NISE1206039833,NL,Unilever,Order payment,2024-09-01,517103.72,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: e0c1b58a-8421-4c5a-8c6d-49ddcaa47161,2024-09-01,521923.72,Professional,45
+J,JP77NISE1206039833,NL,Apple Inc.,Software license fee payment,2024-09-01,521948.72,Professional,45
+J,JP77NISE1206039833,NL,Verizon,Telecom invoice,2024-09-01,521950.92,Professional,45
+J,JP77NISE1206039833,NL,Mitsubishi,Business unit invoice,2024-09-01,522403.45,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: adfcb215-6352-4766-ad7c-fae0b6479bde,2024-09-01,527223.45,Professional,45
+J,JP77NISE1206039833,Denmark,Dave Hondeveld,Support for a family member,2024-09-01,527274.03,Professional,45
+J,JP77NISE1206039833,Germany,Cisco Systems,Technology services invoice payment,2024-09-01,527362.61,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 8fd589a7-a254-477e-af1b-bbe83efcff12,2024-09-01,532182.61,Professional,45
+J,JP77NISE1206039833,NL,Verizon,Data plan payment,2024-09-01,532240.45,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Diversified company fee,2024-09-01,532246.92,Professional,45
+J,JP77NISE1206039833,NL,Goldman Sachs,Stock purchase,2024-09-01,532285.0,Professional,45
+J,JP77NISE1206039833,Canada,Alphabet Inc.,Cloud storage subscription,2024-09-01,532290.38,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 23e78351-f41c-442d-af36-fe231c779df5,2024-09-01,537110.38,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: bc05242d-2566-496c-884e-5d7eefc91ffc,2024-09-01,537117.03,Professional,45
+J,JP77NISE1206039833,Canada,Boeing,Aircraft maintenance,2024-09-01,537164.37,Professional,45
+J,JP77NISE1206039833,Germany,Tata Consultancy Services,IT support fee,2024-09-01,537218.05,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 6d0ed0c6-afb4-4918-beff-b59c36380748,2024-09-01,537245.27,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 4071398f-7356-4611-b288-0750ce836127,2024-09-01,542065.27,Professional,45
+J,JP77NISE1206039833,NL,Florian Bronder-van Nederlotharingen,Rent deposit,2024-09-01,542070.57,Professional,45
+J,JP77NISE1206039833,Spain,Joost van Haarlem,Support for a family member,2024-09-01,542112.02,Professional,45
+J,JP77NISE1206039833,Canada,Microsoft,Technology services invoice payment,2024-09-01,542175.26,Professional,45
+J,JP77NISE1206039833,Great Britain,Bristol-Myers Squibb,Medication purchase,2024-09-01,542186.0,Professional,45
+J,JP77NISE1206039833,Italy,Merijn Jonkman-Heijmen,Vacation expenses,2024-09-01,542193.37,Professional,45
+J,JP77NISE1206039833,NL,Phillips 66,Renewable energy subscription,2024-09-01,542197.88,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: def334eb-d13a-43d9-a786-dca584a2e808,2024-09-01,547017.88,Professional,45
+J,JP77NISE1206039833,NL,Renault,Car purchase,2024-09-01,547021.38,Professional,45
+J,JP77NISE1206039833,NL,Lara Heijmans,Gas money,2024-09-01,547042.34,Professional,45
+J,JP77NISE1206039833,NL,Toyota,Car parts order,2024-09-01,547073.12,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 259bb67c-e1fb-4ccf-becd-7e3e22c5b28b,2024-09-01,551893.12,Professional,45
+J,JP77NISE1206039833,NL,Sam van de Berg,Vacation expenses,2024-09-01,551903.32,Professional,45
+J,JP77NISE1206039833,Great Britain,Duke Energy,Electricity payment,2024-09-01,551972.45,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: a5496dfa-588b-45e6-9c74-eeec54113ce4,2024-09-01,552186.42,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 26ed9bd4-9809-4aee-9359-2254c51f73f8,2024-09-01,557006.42,Professional,45
+J,JP77NISE1206039833,Austria,Meta Platforms,Software license fee payment,2024-09-01,557090.41,Professional,45
+J,JP77NISE1206039833,NL,General Electric,Diversified company fee,2024-09-01,557185.14,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 3b2d2c6f-40bf-4dbe-b9ef-7d68e8215e5b,2024-09-01,562005.14,Professional,45
+J,JP77NISE1206039833,NL,3M,Diversified company fee,2024-09-01,562013.83,Professional,45
+J,JP77NISE1206039833,Great Britain,Johnson & Johnson,Healthcare prescription,2024-09-01,562022.23,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: e8c09f42-d804-41f4-905d-09ac32b3f8af,2024-09-01,566842.23,Professional,45
+J,JP77NISE1206039833,NL,Gilead Sciences,Laboratory service charge,2024-09-01,566880.04,Professional,45
+J,JP77NISE1206039833,United States,Morris Janssens-Roessink,Pet expenses,2024-09-01,566928.97,Professional,45
+J,JP77NISE1206039833,United States,Morgan Stanley,Capital markets service,2024-09-01,566960.26,Professional,45
+J,JP77NISE1206039833,Great Britain,Britt de Marduras-Willems,Friend loan repayment,2024-09-01,566970.22,Professional,45
+J,JP77NISE1206039833,NL,Unilever,Product purchase,2024-09-01,567049.05,Professional,45
+J,JP77NISE1206039833,Great Britain,Janna Leguit,Loan to friend,2024-09-01,567068.67,Professional,45
+J,JP77NISE1206039833,NL,IBM,Technology services invoice payment,2024-09-01,567076.91,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 5b475a8c-bdb9-43d0-bdb0-228a19c3b6aa,2024-09-01,571896.91,Professional,45
+J,JP77NISE1206039833,NL,Duke Energy,Renewable energy subscription,2024-09-01,571903.4,Professional,45
+J,JP77NISE1206039833,Great Britain,DuPont,Business unit invoice,2024-09-01,571904.64,Professional,45
+J,JP77NISE1206039833,NL,Amazon,Marketplace seller fee,2024-09-01,571913.65,Professional,45
+J,JP77NISE1206039833,Germany,Berkshire Hathaway,Diversified company fee,2024-09-01,571921.05,Professional,45
+J,JP77NISE1206039833,NL,Alibaba,Online shopping,2024-09-01,571926.46,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1e0fef4b-3e10-4297-8ad3-fdc15406d600,2024-09-01,576746.46,Professional,45
+J,JP77NISE1206039833,Great Britain,Tata Consultancy Services,Technical service charge,2024-09-01,576803.29,Professional,45
+J,JP77NISE1206039833,Great Britain,Boeing,Aviation technology fee,2024-09-01,576806.39,Professional,45
+J,JP77NISE1206039833,NL,Procter & Gamble,Retail goods payment,2024-09-01,576888.29,Professional,45
+J,JP77NISE1206039833,United States,Volkswagen,Auto repair bill,2024-09-01,576927.44,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 21740999-c238-4c1c-b982-3a4fe34fa424,2024-09-01,581747.44,Professional,45
+J,JP77NISE1206039833,Canada,Bayer,Medication purchase,2024-09-01,581761.22,Professional,45
+J,JP77NISE1206039833,Canada,Cisco Systems,Technology services invoice payment,2024-09-01,581817.14,Professional,45
+J,JP77NISE1206039833,NL,Merck & Co.,Healthcare prescription,2024-09-01,581823.27,Professional,45
+J,JP77NISE1206039833,NL,General Electric,Business unit invoice,2024-09-01,581858.16,Professional,45
+J,JP77NISE1206039833,NL,Huawei,Technology services invoice payment,2024-09-01,581921.21,Professional,45
+J,JP77NISE1206039833,NL,Boeing,Aerospace parts purchase,2024-09-01,581966.34,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 125915d8-ce7d-4ca5-a2e8-3f6cf64d653d,2024-09-01,586786.34,Professional,45
+J,JP77NISE1206039833,NL,Morgan Stanley,Stock purchase,2024-09-01,586790.42,Professional,45
+J,JP77NISE1206039833,NL,Verizon,Phone bill,2024-09-01,586809.44,Professional,45
+J,JP77NISE1206039833,NL,SoftBank,Diversified company fee,2024-09-01,586813.78,Professional,45
+J,JP77NISE1206039833,NL,Dell Technologies,Technology services invoice payment,2024-09-01,586845.37,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 714385f4-c10e-44ce-ac12-cf35a1c0d24e,2024-09-01,591665.37,Professional,45
+J,JP77NISE1206039833,NL,ByteDance,Software license fee payment,2024-09-01,591707.13,Professional,45
+J,JP77NISE1206039833,NL,Rosa Höning,Debt settlement,2024-09-01,591726.62,Professional,45
+J,JP77NISE1206039833,NL,AT&T,Data plan payment,2024-09-01,591741.01,Professional,45
+J,JP77NISE1206039833,United States,Alibaba,Online shopping,2024-09-01,591761.57,Professional,45
+J,JP77NISE1206039833,United States,Verizon,Cable service subscription,2024-09-01,591881.56,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 50caf33a-a5b1-4cbc-bae2-b060632f9665,2024-09-01,596701.56,Professional,45
+J,JP77NISE1206039833,NL,Cisco Systems,Web hosting fee,2024-09-01,596705.31,Professional,45
+J,JP77NISE1206039833,Great Britain,Facebook,Social media service subscription,2024-09-01,596743.78,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 4773e9e8-7aec-43e5-b155-890071e62534,2024-09-01,601563.78,Professional,45
+J,JP77NISE1206039833,Germany,General Electric,Diversified company fee,2024-09-01,601568.64,Professional,45
+J,JP77NISE1206039833,Austria,IBM,Cloud storage subscription,2024-09-01,601670.77,Professional,45
+J,JP77NISE1206039833,Great Britain,Anna van der Schuijt-Robbrechts Bruijne,Support for a friend,2024-09-01,601673.97,Professional,45
+J,JP77NISE1206039833,United States,Toyota,Auto repair bill,2024-09-01,601744.39,Professional,45
+J,JP77NISE1206039833,NL,Mitsubishi,Diversified company fee,2024-09-01,601762.35,Professional,45
+J,JP77NISE1206039833,Great Britain,General Electric,Business unit invoice,2024-09-01,601814.74,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 464c26e1-0d42-40bf-9f79-687e5cae9487,2024-09-01,606634.74,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: a6166397-f581-449f-a056-27e9cccedbf4,2024-09-01,611454.74,Professional,45
+J,JP77NISE1206039833,NL,Cisco Systems,Web hosting fee,2024-09-01,611540.78,Professional,45
+J,JP77NISE1206039833,NL,Johnson & Johnson,Drug order payment,2024-09-01,611548.46,Professional,45
+J,JP77NISE1206039833,NL,Novartis,Drug order payment,2024-09-01,611555.95,Professional,45
+J,JP77NISE1206039833,Great Britain,Isabella Oennen,Mortgage help,2024-09-01,611588.72,Professional,45
+J,JP77NISE1206039833,NL,Tess van Beieren,Split restaurant bill,2024-09-01,611592.17,Professional,45
+J,JP77NISE1206039833,NL,Gerrit Kisman-Lambers,Christmas gift,2024-09-01,611658.78,Professional,45
+J,JP77NISE1206039833,United States,Allianz,Insurance premium,2024-09-01,611673.11,Professional,45
+J,JP77NISE1206039833,NL,BMW,Vehicle service charge,2024-09-01,611673.77,Professional,45
+J,JP77NISE1206039833,NL,Procter & Gamble,Retail goods payment,2024-09-01,611680.28,Professional,45
+J,JP77NISE1206039833,Austria,Alphabet Inc.,Technology services invoice payment,2024-09-01,611694.15,Professional,45
+J,JP77NISE1206039833,NL,ByteDance,Software license fee payment,2024-09-01,611745.0,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 4e04fab5-7caa-4cce-8079-4351548f7a91,2024-09-01,616565.0,Professional,45
+J,JP77NISE1206039833,United States,Pfizer,Healthcare prescription,2024-10-01,616572.41,Professional,45
+J,JP77NISE1206039833,United States,IBM,Cloud storage subscription,2024-10-01,616601.18,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: fe08c624-c2bc-4cd1-832d-3e37d302e74e,2024-10-01,621421.18,Professional,45
+J,JP77NISE1206039833,NL,Johnson & Johnson,Pharmacy bill,2024-10-01,621466.62,Professional,45
+J,JP77NISE1206039833,NL,Renault,Car parts order,2024-10-01,621737.01,Professional,45
+J,JP77NISE1206039833,Canada,Amazon,Online shopping,2024-10-01,621773.87,Professional,45
+J,JP77NISE1206039833,United States,BMW,Car purchase,2024-10-01,621828.72,Professional,45
+J,JP77NISE1206039833,NL,Volkswagen,Car purchase,2024-10-01,621841.25,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: f39b0f0c-925e-4621-a202-b59b51402e5e,2024-10-01,626661.25,Professional,45
+J,JP77NISE1206039833,Great Britain,Tyler de Gruson,Support money,2024-10-01,626720.94,Professional,45
+J,JP77NISE1206039833,Great Britain,Toyota,Car purchase,2024-10-01,626730.27,Professional,45
+J,JP77NISE1206039833,Canada,IBM,Software license fee payment,2024-10-01,626747.22,Professional,45
+J,JP77NISE1206039833,NL,Phillips 66,Renewable energy subscription,2024-10-01,626808.99,Professional,45
+J,JP77NISE1206039833,United States,Jinthe de Mol,Debt settlement,2024-10-01,626852.71,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: acaf66de-6dd2-4d2b-9e4c-d5d2b776ccd3,2024-10-01,631672.71,Professional,45
+J,JP77NISE1206039833,Great Britain,Loek Remmers,Rent assistance,2024-10-01,631683.81,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 34c69804-4e39-471a-a344-77e05bf011f1,2024-10-01,636503.81,Professional,45
+J,JP77NISE1206039833,NL,3M,Conglomerate product order,2024-10-01,636533.15,Professional,45
+J,JP77NISE1206039833,NL,Danique de Bock,Split restaurant bill,2024-10-01,636589.77,Professional,45
+J,JP77NISE1206039833,NL,Boris Sas-Breugelensis,Mortgage help,2024-10-01,636597.94,Professional,45
+J,JP77NISE1206039833,Canada,BASF,Cleaning products order,2024-10-01,636617.22,Professional,45
+J,JP77NISE1206039833,United States,Pfizer,Drug order payment,2024-10-01,636681.8,Professional,45
+J,JP77NISE1206039833,United States,Procter & Gamble,Order payment,2024-10-01,636741.28,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: ec92059c-9aaf-49d9-b390-3ba0902ea5ff,2024-10-01,641561.28,Professional,45
+J,JP77NISE1206039833,NL,BASF,Chemical supply order,2024-10-01,641564.43,Professional,45
+J,JP77NISE1206039833,NL,Julie Lankle,New baby gift,2024-10-01,641659.97,Professional,45
+J,JP77NISE1206039833,Great Britain,Daimler,Vehicle service charge,2024-10-01,641666.22,Professional,45
+J,JP77NISE1206039833,NL,Volkswagen,Car purchase,2024-10-01,641832.23,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 03537e4b-a98d-44ce-b89b-4d83f471ca51,2024-10-01,646652.23,Professional,45
+J,JP77NISE1206039833,Canada,Nike,Fashion brand order,2024-10-01,646666.29,Professional,45
+J,JP77NISE1206039833,NL,Nike,Fashion brand order,2024-10-01,646690.57,Professional,45
+J,JP77NISE1206039833,Germany,Unilever,Retail goods payment,2024-10-01,646757.18,Professional,45
+J,JP77NISE1206039833,NL,Phillips 66,Electricity payment,2024-10-01,646764.26,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: afc72a33-1388-436e-8f79-c854ae16c648,2024-10-01,651584.26,Professional,45
+J,JP77NISE1206039833,NL,LVMH,High-end product buy,2024-10-01,651604.05,Professional,45
+J,JP77NISE1206039833,NL,Novartis,Drug order payment,2024-10-01,651610.7,Professional,45
+J,JP77NISE1206039833,NL,Apple Inc.,Software license fee payment,2024-10-01,651746.9,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: b525b5a0-ed54-4bcf-8003-0cf183a2ea2c,2024-10-01,656566.9,Professional,45
+J,JP77NISE1206039833,NL,Gilead Sciences,Biotech research fee,2024-10-01,656577.73,Professional,45
+J,JP77NISE1206039833,Great Britain,Bayer,Pharmacy bill,2024-10-01,656600.65,Professional,45
+J,JP77NISE1206039833,Japan,Goldman Sachs,Stock purchase,2024-10-01,656609.1,Professional,45
+J,JP77NISE1206039833,Canada,AstraZeneca,Medication purchase,2024-10-01,656614.28,Professional,45
+J,JP77NISE1206039833,NL,Mitsubishi,Conglomerate product order,2024-10-01,656626.26,Professional,45
+J,JP77NISE1206039833,NL,Mitsubishi,Corporate services payment,2024-10-01,656641.16,Professional,45
+J,JP77NISE1206039833,NL,Unilever,Product purchase,2024-10-01,656677.0,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 511be7e7-f6c7-40a7-9c3c-b5d2f3264060,2024-10-01,661497.0,Professional,45
+J,JP77NISE1206039833,Belgium,Ford Motor,Car purchase,2024-10-01,661513.66,Professional,45
+J,JP77NISE1206039833,NL,Allianz,Policy renewal fee,2024-10-01,661552.93,Professional,45
+J,JP77NISE1206039833,Great Britain,Mitsubishi,Diversified company fee,2024-10-01,661557.06,Professional,45
+J,JP77NISE1206039833,Japan,LVMH,Luxury item purchase,2024-10-01,661561.09,Professional,45
+J,JP77NISE1206039833,United States,Noud van Duivenvoorde,Split vacation cost,2024-10-01,661574.51,Professional,45
+J,JP77NISE1206039833,NL,Johnson & Johnson,Medication purchase,2024-10-01,661626.82,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 1df7d3c1-c440-4c1a-bf5d-d130ee2fad14,2024-10-01,666446.82,Professional,45
+J,JP77NISE1206039833,Germany,Dell Technologies,Cloud storage subscription,2024-10-01,666451.64,Professional,45
+J,JP77NISE1206039833,NL,Bart VI,Support money,2024-10-01,666481.23,Professional,45
+J,JP77NISE1206039833,NL,Alibaba,Online shopping,2024-10-01,666486.0,Professional,45
+J,JP77NISE1206039833,NL,PepsiCo,Restaurant bill,2024-10-01,666488.82,Professional,45
+J,JP77NISE1206039833,NL,DuPont,Conglomerate product order,2024-10-01,666494.71,Professional,45
+J,JP77NISE1206039833,Great Britain,Xavi Peters,School fees,2024-10-01,666499.49,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: 51e5ee6e-328f-46b7-9391-7db2a04d6f53,2024-10-01,671319.49,Professional,45
+J,JP77NISE1206039833,NL,Alphabet Inc.,Web hosting fee,2024-10-01,671428.92,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: b1a6ad1f-8b79-402e-9134-e81746694a3c,2024-10-01,676248.92,Professional,45
+J,JP77NISE1206039833,NL,Lize Persijn,Shared hotel room cost,2024-10-01,676255.98,Professional,45
+J,JP77NISE1206039833,NL,BASF,Chemical supply order,2024-10-01,676271.65,Professional,45
+J,JP77NISE1206039833,Spain,Lindsey van der Stael de Jonge,Reimbursement for groceries,2024-10-01,676290.26,Professional,45
+J,JP77NISE1206039833,Germany,Boeing,Aerospace parts purchase,2024-10-01,676323.34,Professional,45
+J,JP77NISE1206039833,NL,Matthias de Marduras-de Gruijl,Shared subscription,2024-10-01,676343.79,Professional,45
+J,JP77NISE1206039833,Great Britain,Airbus,Aerospace parts purchase,2024-10-01,676370.18,Professional,45
+J,JP77NISE1206039833,NL,Sil Prins,Reimbursement for bills,2024-10-01,676376.85,Professional,45
+J,JP77NISE1206039833,NL,Cisco Systems,Cloud storage subscription,2024-10-01,676386.52,Professional,45
+J,JP77NISE1206039833,Great Britain,Pfizer,Drug order payment,2024-10-01,676404.61,Professional,45
+J,JP77NISE1206039833,NL,Tata Consultancy Services,Technical service charge,2024-10-01,676457.23,Professional,45
+J,JP77NISE1206039833,NL,Geldmaat ATM,Geldmaat: bc2d92b7-e25e-4dca-962e-90a1dec78f61,2024-10-01,681277.23,Professional,45

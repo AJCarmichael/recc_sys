@@ -1,0 +1,569 @@
+acct_ccy,acct_id,ctpty_ctry,ctpty_nm,rmt_inf_ustrd1,year_month,bal_aftr,occupation,age
+GBP,GB45SCAM5315209473,Canada,Unilever,Product purchase,2024-06-01,2888.87,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Geldmaat ATM,Geldmaat: 9379a14f-59ce-48a8-9bd3-7e81e50c8afd,2024-06-01,3079.11,Retired,65
+GBP,GB45SCAM5315209473,NL,Amazon,Online shopping,2024-06-01,3112.41,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 3860e3eb-18f9-4f08-bc7b-6713c9aeb5a7,2024-06-01,6909.41,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f41c3280-652a-4034-9c68-f36ed8a0da64,2024-06-01,10706.41,Retired,65
+GBP,GB45SCAM5315209473,NL,Mara Zwart,Personal loan,2024-06-01,10745.37,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Jorn van Wallaert,Reimbursement for bills,2024-06-01,10748.95,Retired,65
+GBP,GB45SCAM5315209473,NL,Ford Motor,Car parts order,2024-06-01,10751.35,Retired,65
+GBP,GB45SCAM5315209473,NL,Ise Boudewijns-de Jonge,Personal loan,2024-06-01,10801.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Lisa Huel,Rent payment,2024-06-01,10802.56,Retired,65
+GBP,GB45SCAM5315209473,NL,Jacob Alpaidis,Anniversary gift,2024-06-01,10816.48,Retired,65
+GBP,GB45SCAM5315209473,Canada,Bayer,Medication purchase,2024-06-01,10882.39,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 79d5e40a-9abe-4636-8b2c-b7df0720a8ce,2024-06-01,14679.39,Retired,65
+GBP,GB45SCAM5315209473,Austria,BMW,Vehicle service charge,2024-06-01,14692.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Healthcare prescription,2024-06-01,14693.97,Retired,65
+GBP,GB45SCAM5315209473,United States,Lucy Fiere,Mortgage help,2024-06-01,14834.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 0c963a5a-178d-41d8-a2bc-7c500e15266b,2024-06-01,18631.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Bristol-Myers Squibb,Medication purchase,2024-06-01,18642.0,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 20030971-4a88-42e5-872e-e1c979314fef,2024-06-01,22439.0,Retired,65
+GBP,GB45SCAM5315209473,NL,Lize Huberts,Gas money,2024-06-01,22482.04,Retired,65
+GBP,GB45SCAM5315209473,NL,BASF,Industrial chemicals purchase,2024-06-01,22532.81,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,IBM,Web hosting fee,2024-06-01,22544.52,Retired,65
+GBP,GB45SCAM5315209473,Denmark,Fenna van der Noot,Medical bills,2024-06-01,22555.05,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e7b43657-b984-421e-be5e-9c1e33a0d8cf,2024-06-01,26352.05,Retired,65
+GBP,GB45SCAM5315209473,Germany,Dirk Holthuis,Split restaurant bill,2024-06-01,26359.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Pharmacy bill,2024-06-01,26438.45,Retired,65
+GBP,GB45SCAM5315209473,Belgium,Microsoft,Cloud storage subscription,2024-06-01,26439.36,Retired,65
+GBP,GB45SCAM5315209473,NL,Jacob Zuijdveld-Scharroo,Baby shower gift,2024-06-01,26529.28,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 047f9980-7b9b-4757-af54-29206a41c833,2024-06-01,30326.28,Retired,65
+GBP,GB45SCAM5315209473,NL,Accenture,Consulting fee,2024-06-01,30334.75,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Apparel shopping,2024-06-01,30397.81,Retired,65
+GBP,GB45SCAM5315209473,NL,Apple Inc.,Web hosting fee,2024-06-01,30486.68,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 0760cd4b-86b6-419b-93fe-015d89be7784,2024-06-01,34283.68,Retired,65
+GBP,GB45SCAM5315209473,Belgium,Demi van Kuijc,Medical bills,2024-06-01,34297.82,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,BMW,Auto repair bill,2024-06-01,34319.02,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 202ab16e-53da-4c24-a2e2-c8856ae288d7,2024-06-01,38116.02,Retired,65
+GBP,GB45SCAM5315209473,Hungary,Cisco Systems,Web hosting fee,2024-06-01,38237.43,Retired,65
+GBP,GB45SCAM5315209473,NL,Tata Consultancy Services,Software development bill,2024-06-01,38252.93,Retired,65
+GBP,GB45SCAM5315209473,NL,Bayer,Healthcare prescription,2024-06-01,38271.24,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b3f8affc-55d8-4bca-8710-b0138cb5767e,2024-06-01,42068.24,Retired,65
+GBP,GB45SCAM5315209473,NL,Berend Vermeulen-van der Loo,Household expenses,2024-06-01,42124.46,Retired,65
+GBP,GB45SCAM5315209473,NL,Merck & Co.,Drug order payment,2024-06-01,42170.27,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b0c24ed9-ee28-4d77-ac8e-2dd660af6df9,2024-06-01,45967.27,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Geldmaat ATM,Geldmaat: e5a34859-f0b2-4e55-973d-83e1d1af5712,2024-06-01,46038.39,Retired,65
+GBP,GB45SCAM5315209473,NL,Luc de Beer-Becht,Loan repayment,2024-06-01,46065.27,Retired,65
+GBP,GB45SCAM5315209473,United States,ByteDance,Web hosting fee,2024-06-01,46081.49,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 80439de1-41f5-4225-8a68-3973a03b3225,2024-06-01,49878.49,Retired,65
+GBP,GB45SCAM5315209473,NL,Alibaba,Marketplace seller fee,2024-06-01,49928.28,Retired,65
+GBP,GB45SCAM5315209473,NL,Bayer,Medication purchase,2024-06-01,50017.85,Retired,65
+GBP,GB45SCAM5315209473,NL,Unilever,Subscription box service,2024-06-01,50029.33,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 18621f88-78d0-4b21-a929-ee72fcd7e541,2024-06-01,53826.33,Retired,65
+GBP,GB45SCAM5315209473,NL,AT&T,Phone bill,2024-06-01,53956.83,Retired,65
+GBP,GB45SCAM5315209473,NL,AT&T,Phone bill,2024-06-01,53969.65,Retired,65
+GBP,GB45SCAM5315209473,NL,IBM,Web hosting fee,2024-06-01,53976.62,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 52e7bd80-7eb1-4689-89f6-1765328d76bc,2024-06-01,54108.53,Retired,65
+GBP,GB45SCAM5315209473,NL,GlaxoSmithKline,Healthcare prescription,2024-06-01,54113.06,Retired,65
+GBP,GB45SCAM5315209473,NL,BMW,Auto repair bill,2024-06-01,54154.5,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 64fe98f7-4439-45d3-9e30-fdf6ba4439a7,2024-06-01,57951.5,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,AstraZeneca,Pharmacy bill,2024-06-01,57958.39,Retired,65
+GBP,GB45SCAM5315209473,NL,Honeywell,Conglomerate product order,2024-06-01,58048.94,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b04a7bfa-b122-43d5-8aa8-d7bec117e3f1,2024-06-01,61845.94,Retired,65
+GBP,GB45SCAM5315209473,United States,Oracle,Technology services invoice payment,2024-06-01,61848.06,Retired,65
+GBP,GB45SCAM5315209473,United States,Meta Platforms,Software license fee payment,2024-06-01,61917.25,Retired,65
+GBP,GB45SCAM5315209473,France,Nike,Apparel shopping,2024-06-01,61940.6,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 8650f366-af46-4739-95db-e04a5f1cacef,2024-06-01,65737.6,Retired,65
+GBP,GB45SCAM5315209473,NL,Lina Arnold,Shared utilities,2024-06-01,65752.6,Retired,65
+GBP,GB45SCAM5315209473,NL,Stefan van Maaren,Shared meal cost,2024-06-01,65775.74,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Goldman Sachs,Stock purchase,2024-06-01,65818.26,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Stock purchase,2024-06-01,65830.52,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ffa07404-56b6-4605-87d1-4b49df9a1c35,2024-06-01,69627.52,Retired,65
+GBP,GB45SCAM5315209473,United States,Huawei,Web hosting fee,2024-06-01,69653.69,Retired,65
+GBP,GB45SCAM5315209473,NL,Berkshire Hathaway,Diversified company fee,2024-06-01,69662.61,Retired,65
+GBP,GB45SCAM5315209473,Germany,Accenture,Advisory session charge,2024-06-01,69714.99,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c8d8521f-4c82-44c0-891d-3a830f760b24,2024-06-01,73511.99,Retired,65
+GBP,GB45SCAM5315209473,Belgium,Olaf Frerichs,Reimbursement for dinner,2024-06-01,73512.64,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Clothing purchase,2024-06-01,73522.35,Retired,65
+GBP,GB45SCAM5315209473,NL,Ford Motor,Car purchase,2024-06-01,73568.48,Retired,65
+GBP,GB45SCAM5315209473,NL,Bradley Jdotte-van het Heerenveen,Mortgage help,2024-06-01,73613.77,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 8d55a4b5-66e6-43b2-954e-635e66e44338,2024-06-01,77410.77,Retired,65
+GBP,GB45SCAM5315209473,NL,BMW,Vehicle service charge,2024-06-01,77450.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 192b21a1-d20d-4bff-aa33-95c0524e7226,2024-06-01,81247.96,Retired,65
+GBP,GB45SCAM5315209473,NL,GlaxoSmithKline,Drug order payment,2024-06-01,81258.58,Retired,65
+GBP,GB45SCAM5315209473,NL,Naomi van den Nuwenhuysen,Split restaurant bill,2024-06-01,81269.72,Retired,65
+GBP,GB45SCAM5315209473,NL,Unilever,Product purchase,2024-06-01,81337.48,Retired,65
+GBP,GB45SCAM5315209473,NL,Cisco Systems,Web hosting fee,2024-06-01,81840.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d691eabd-c66b-46d0-a20d-39494eda6018,2024-06-01,85637.01,Retired,65
+GBP,GB45SCAM5315209473,France,PepsiCo,Beverage order,2024-06-01,85677.61,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Volkswagen,Vehicle service charge,2024-06-01,85760.75,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f7251129-b62b-4d9f-9e5f-1f326a81686b,2024-06-01,89557.75,Retired,65
+GBP,GB45SCAM5315209473,NL,Pfizer,Pharmacy bill,2024-06-01,89573.06,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Sportswear buy,2024-06-01,89627.94,Retired,65
+GBP,GB45SCAM5315209473,Germany,Volkswagen,Auto repair bill,2024-06-01,89634.47,Retired,65
+GBP,GB45SCAM5315209473,NL,Jens Tins,Funeral expenses,2024-06-01,89653.68,Retired,65
+GBP,GB45SCAM5315209473,NL,Mats Bastiaense,Loan to friend,2024-06-01,89656.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f9e35f66-fc73-4b8a-a605-dd84fa60d086,2024-06-01,93453.2,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Unilever,Order payment,2024-06-01,93454.0,Retired,65
+GBP,GB45SCAM5315209473,Canada,Duke Energy,Energy supply charge,2024-06-01,93455.5,Retired,65
+GBP,GB45SCAM5315209473,NL,BMW,Car parts order,2024-06-01,93458.01,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Airbus,Aerospace parts purchase,2024-06-01,93515.18,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 747c98cc-f218-4d46-8179-2bb717dfe454,2024-06-01,97312.18,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Meta Platforms,Web hosting fee,2024-06-01,97317.49,Retired,65
+GBP,GB45SCAM5315209473,NL,Johnson & Johnson,Pharmacy bill,2024-06-01,97333.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Cisco Systems,Software license fee payment,2024-06-01,97350.29,Retired,65
+GBP,GB45SCAM5315209473,NL,Yinthe Verda-Spanhaak,Gift,2024-06-01,97417.9,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 0cd514ab-524f-41e3-b1ef-8d0219be75c5,2024-06-01,101214.9,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Accenture,Advisory session charge,2024-06-01,101284.24,Retired,65
+GBP,GB45SCAM5315209473,NL,Justin Voortman-van Luin,Split restaurant bill,2024-06-01,101301.87,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Boeing,Aircraft maintenance,2024-06-01,101407.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 049650be-ce81-43b7-986c-fa080ec0b7fa,2024-06-01,105204.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Jayden Walsteijn-Belpere,Travel expenses,2024-06-01,105276.09,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 8d99c6a4-c887-4531-a5a9-4a1243701363,2024-06-01,109073.09,Retired,65
+GBP,GB45SCAM5315209473,Germany,Jelte Vignon-Borman,Reimbursement for shopping,2024-06-01,109123.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 59f4d917-3c10-40b8-b0e4-f7bc6704a13c,2024-06-01,112920.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Daimler,Car purchase,2024-06-01,112924.26,Retired,65
+GBP,GB45SCAM5315209473,Germany,Unilever,Order payment,2024-06-01,112948.24,Retired,65
+GBP,GB45SCAM5315209473,NL,Unilever,Order payment,2024-06-01,112965.53,Retired,65
+GBP,GB45SCAM5315209473,Germany,Meta Platforms,Technology services invoice payment,2024-06-01,113028.0,Retired,65
+GBP,GB45SCAM5315209473,NL,SoftBank,Corporate services payment,2024-06-01,113067.95,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ce48440a-6350-4f8c-8c7b-1340052bc948,2024-06-01,116864.95,Retired,65
+GBP,GB45SCAM5315209473,Hungary,Aimée Hondeveld-Smith,Reimbursement for groceries,2024-06-01,116872.06,Retired,65
+GBP,GB45SCAM5315209473,NL,Merck & Co.,Healthcare prescription,2024-06-01,116878.51,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Stock purchase,2024-06-01,116899.49,Retired,65
+GBP,GB45SCAM5315209473,France,Xavi van den Velden,New baby gift,2024-06-01,116949.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Dell Technologies,Software license fee payment,2024-06-01,116949.9,Retired,65
+GBP,GB45SCAM5315209473,NL,Phillips 66,Energy supply charge,2024-06-01,116959.34,Retired,65
+GBP,GB45SCAM5315209473,NL,AstraZeneca,Drug order payment,2024-06-01,116961.87,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 0a87177e-720d-4ef9-87a6-b63de31179e5,2024-06-01,120758.87,Retired,65
+GBP,GB45SCAM5315209473,NL,Johnson & Johnson,Drug order payment,2024-06-01,120782.4,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b49bc331-43d0-4a08-8b70-49e0f5b78421,2024-07-01,124579.4,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Volkswagen,Car parts order,2024-07-01,124710.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Isabel van Duyvenvoorde,Baby shower gift,2024-07-01,125195.7,Retired,65
+GBP,GB45SCAM5315209473,United States,Novartis,Medication purchase,2024-07-01,125211.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5ca2c01d-df6a-4a0e-be51-61a01f1c0f65,2024-07-01,129008.63,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Jip le Gallen,Dinner reimbursement,2024-07-01,129031.08,Retired,65
+GBP,GB45SCAM5315209473,Hungary,Gilead Sciences,Biotech research fee,2024-07-01,129142.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 644f8a7b-75f4-414d-84cc-2bdd6d880f2d,2024-07-01,132939.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Honeywell,Diversified company fee,2024-07-01,132969.64,Retired,65
+GBP,GB45SCAM5315209473,Canada,Jolie Manne,Vacation expenses,2024-07-01,132971.3,Retired,65
+GBP,GB45SCAM5315209473,NL,Gilead Sciences,Clinical trial payment,2024-07-01,132984.92,Retired,65
+GBP,GB45SCAM5315209473,NL,Apple Inc.,Technology services invoice payment,2024-07-01,133007.87,Retired,65
+GBP,GB45SCAM5315209473,NL,Jasper Dekker,Shared meal cost,2024-07-01,133025.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: dde1bb5a-6e54-4d15-9f94-de1e71fb3c5a,2024-07-01,136822.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Healthcare prescription,2024-07-01,136825.23,Retired,65
+GBP,GB45SCAM5315209473,NL,Bristol-Myers Squibb,Pharmacy bill,2024-07-01,136946.91,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e4dbe5ce-54e7-4a9d-bd27-8b9a19529072,2024-07-01,140743.91,Retired,65
+GBP,GB45SCAM5315209473,United States,Goldman Sachs,Stock purchase,2024-07-01,140762.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: a5bfdd79-2bd8-49f1-9377-35674cb918b1,2024-07-01,144559.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Sofia Laffray,Gas money,2024-07-01,144593.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Joël de Plantard,Reimbursement for medical expenses,2024-07-01,144656.54,Retired,65
+GBP,GB45SCAM5315209473,Hungary,Geldmaat ATM,Geldmaat: 31f1dbe1-82fb-4fd4-82ce-e422d267aba8,2024-07-01,144764.48,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 24fbaab8-a09d-4f22-8ae3-cfbe80d231ae,2024-07-01,148561.48,Retired,65
+GBP,GB45SCAM5315209473,NL,Berkshire Hathaway,Diversified company fee,2024-07-01,148577.93,Retired,65
+GBP,GB45SCAM5315209473,NL,Lorenzo Hoppenbrouwer,Rent deposit,2024-07-01,148588.24,Retired,65
+GBP,GB45SCAM5315209473,Canada,BASF,Laboratory reagents buy,2024-07-01,148594.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Guusje van Maaren,Reimbursement for groceries,2024-07-01,148637.28,Retired,65
+GBP,GB45SCAM5315209473,NL,Tata Consultancy Services,Software development bill,2024-07-01,148642.92,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 1f8abfad-ae4e-46ea-8cfd-6e1c23132fab,2024-07-01,152439.92,Retired,65
+GBP,GB45SCAM5315209473,NL,Daimler,Car parts order,2024-07-01,152473.53,Retired,65
+GBP,GB45SCAM5315209473,Canada,Mitsubishi,Conglomerate product order,2024-07-01,152478.04,Retired,65
+GBP,GB45SCAM5315209473,NL,Allianz,Claim settlement,2024-07-01,152525.11,Retired,65
+GBP,GB45SCAM5315209473,Denmark,Fenne van Breukelveen-Velderman,Graduation gift,2024-07-01,152549.03,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 05d50c07-0eeb-44dc-b041-69c919984ace,2024-07-01,156346.03,Retired,65
+GBP,GB45SCAM5315209473,Belgium,Tata Consultancy Services,System upgrade fee,2024-07-01,156364.81,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Investment fund entry,2024-07-01,156368.92,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,DuPont,Conglomerate product order,2024-07-01,156402.31,Retired,65
+GBP,GB45SCAM5315209473,Austria,ByteDance,Technology services invoice payment,2024-07-01,156415.92,Retired,65
+GBP,GB45SCAM5315209473,NL,Johnson & Johnson,Healthcare prescription,2024-07-01,156459.39,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: a47808cc-fa85-4e8a-90a6-b838d3ce6858,2024-07-01,160256.39,Retired,65
+GBP,GB45SCAM5315209473,Canada,Goldman Sachs,Brokerage fee,2024-07-01,160270.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Honeywell,Conglomerate product order,2024-07-01,160290.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Verizon,Data plan payment,2024-07-01,160298.11,Retired,65
+GBP,GB45SCAM5315209473,NL,Mitsubishi,Business unit invoice,2024-07-01,160346.76,Retired,65
+GBP,GB45SCAM5315209473,NL,Elisa Luboch-Schenkel,Personal loan,2024-07-01,160354.35,Retired,65
+GBP,GB45SCAM5315209473,Italy,Goldman Sachs,Stock purchase,2024-07-01,160355.04,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 91aff742-54db-48c9-a44c-06a9cb5ef208,2024-07-01,164152.04,Retired,65
+GBP,GB45SCAM5315209473,NL,AT&T,Cable service subscription,2024-07-01,164199.1,Retired,65
+GBP,GB45SCAM5315209473,NL,Volkswagen,Vehicle service charge,2024-07-01,164238.09,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5d6a1f23-18c0-4288-a258-a649c7db70c7,2024-07-01,168035.09,Retired,65
+GBP,GB45SCAM5315209473,Belgium,Duke Energy,Renewable energy subscription,2024-07-01,168049.92,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Novartis,Drug order payment,2024-07-01,168072.46,Retired,65
+GBP,GB45SCAM5315209473,NL,AstraZeneca,Medication purchase,2024-07-01,168140.88,Retired,65
+GBP,GB45SCAM5315209473,United States,Alphabet Inc.,Software license fee payment,2024-07-01,168175.34,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 14ad3eac-67df-435f-9802-58c5d8eca515,2024-07-01,171972.34,Retired,65
+GBP,GB45SCAM5315209473,NL,Alibaba,Marketplace seller fee,2024-07-01,171976.94,Retired,65
+GBP,GB45SCAM5315209473,NL,Sebastiaan Scuylenborchs,Reimbursement for travel,2024-07-01,172033.4,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Investment fund entry,2024-07-01,172035.64,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d2846d4e-1f42-45bc-bb8f-8aa062f1c4d1,2024-07-01,175832.64,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Brokerage fee,2024-07-01,175919.9,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Levi Geneart,New baby gift,2024-07-01,176001.29,Retired,65
+GBP,GB45SCAM5315209473,NL,Ashley Brandon,Support money,2024-07-01,176008.55,Retired,65
+GBP,GB45SCAM5315209473,NL,Bas van Mook,Grocery money,2024-07-01,176023.3,Retired,65
+GBP,GB45SCAM5315209473,Spain,IBM,Software license fee payment,2024-07-01,176027.05,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 910d9866-7c0d-4396-b83b-f85e3589eef0,2024-07-01,179824.05,Retired,65
+GBP,GB45SCAM5315209473,France,Zoey van den Heuvel,Birthday party expenses,2024-07-01,179825.67,Retired,65
+GBP,GB45SCAM5315209473,NL,Ford Motor,Car parts order,2024-07-01,179832.1,Retired,65
+GBP,GB45SCAM5315209473,NL,Dell Technologies,Cloud storage subscription,2024-07-01,179847.55,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: bfa2038d-5f37-4f01-b373-894673ea8e21,2024-07-01,183644.55,Retired,65
+GBP,GB45SCAM5315209473,NL,Gilead Sciences,Biotech research fee,2024-07-01,183685.56,Retired,65
+GBP,GB45SCAM5315209473,NL,Jolijn van Tuijl-van den Nuwenhuysen,Party contribution,2024-07-01,183702.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Verizon,Data plan payment,2024-07-01,183707.62,Retired,65
+GBP,GB45SCAM5315209473,NL,AstraZeneca,Pharmacy bill,2024-07-01,183754.61,Retired,65
+GBP,GB45SCAM5315209473,NL,Oracle,Cloud storage subscription,2024-07-01,183767.6,Retired,65
+GBP,GB45SCAM5315209473,Canada,DuPont,Conglomerate product order,2024-07-01,183833.45,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 1ba0a158-5473-406d-aeb3-1a2532761403,2024-07-01,187630.45,Retired,65
+GBP,GB45SCAM5315209473,NL,IBM,Software license fee payment,2024-07-01,187664.68,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 6ba8eb91-5622-4b1a-8703-a5333901c180,2024-07-01,191461.68,Retired,65
+GBP,GB45SCAM5315209473,NL,Berkshire Hathaway,Conglomerate product order,2024-07-01,191531.03,Retired,65
+GBP,GB45SCAM5315209473,Germany,Mart Hoekstra,Reimbursement for shopping,2024-07-01,191617.14,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e667addf-0115-40d4-b22c-552e75ffecc3,2024-07-01,195414.14,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Healthcare prescription,2024-07-01,195491.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Ford Motor,Vehicle service charge,2024-07-01,195688.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5f3c97aa-d71d-4cc8-a56c-fc475d9cc745,2024-07-01,199485.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Meta Platforms,Technology services invoice payment,2024-07-01,199501.85,Retired,65
+GBP,GB45SCAM5315209473,NL,Toyota,Vehicle service charge,2024-07-01,199509.87,Retired,65
+GBP,GB45SCAM5315209473,NL,IBM,Software license fee payment,2024-07-01,199542.32,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,General Electric,Business unit invoice,2024-07-01,199566.79,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 154db7a6-08fa-4fb9-af9d-27bdcc12bdde,2024-07-01,203363.79,Retired,65
+GBP,GB45SCAM5315209473,Hungary,General Electric,Business unit invoice,2024-07-01,203468.32,Retired,65
+GBP,GB45SCAM5315209473,United States,Duke Energy,Utility bill,2024-07-01,203513.69,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: bd5ddeed-f4dd-4b48-be57-92408dd7a2f4,2024-07-01,207310.69,Retired,65
+GBP,GB45SCAM5315209473,Germany,Daimler,Vehicle service charge,2024-07-01,207316.56,Retired,65
+GBP,GB45SCAM5315209473,Denmark,Berkshire Hathaway,Corporate services payment,2024-07-01,207322.13,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Merck & Co.,Pharmacy bill,2024-07-01,207373.62,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 8d37daf9-a72d-42d8-80c8-01158639806a,2024-07-01,211170.62,Retired,65
+GBP,GB45SCAM5315209473,NL,Oracle,Technology services invoice payment,2024-07-01,211208.52,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Kevin Melet,Child support,2024-07-01,211262.5,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 3685dfc9-1baf-4ff9-ba09-2fc6c3c4320f,2024-07-01,215059.5,Retired,65
+GBP,GB45SCAM5315209473,NL,Roan van Baalen,Reimbursement for groceries,2024-07-01,215164.06,Retired,65
+GBP,GB45SCAM5315209473,NL,Senn Dachgeldt,Travel expenses,2024-07-01,215169.67,Retired,65
+GBP,GB45SCAM5315209473,NL,Renault,Auto repair bill,2024-07-01,215196.82,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f8db18d2-2762-4eee-bdcd-df2b26381282,2024-07-01,218993.82,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,3M,Diversified company fee,2024-07-01,219034.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Finn Hollander,Birthday party expenses,2024-07-01,219038.07,Retired,65
+GBP,GB45SCAM5315209473,Canada,Jelte van Haspengouw Hesbaye-van Westfalen,Rent deposit,2024-07-01,219062.35,Retired,65
+GBP,GB45SCAM5315209473,United States,LVMH,Designer goods order,2024-07-01,219136.57,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 3f1ac825-b77d-47d8-8c4b-337aa0219596,2024-07-01,222933.57,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e5933868-376e-494e-a85e-78fee65a7175,2024-07-01,226730.57,Retired,65
+GBP,GB45SCAM5315209473,France,Jorn van Boven-Ariens Ansems,Birthday gift,2024-07-01,226835.44,Retired,65
+GBP,GB45SCAM5315209473,Canada,Fenne van Bunschoten,Reimbursement for groceries,2024-07-01,226839.66,Retired,65
+GBP,GB45SCAM5315209473,NL,Amazon,Marketplace seller fee,2024-07-01,226859.81,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d4ebe4d3-d088-46e3-971d-a752eef4609b,2024-07-01,230656.81,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Geldmaat ATM,Geldmaat: e4fc17f4-2746-4926-a16c-945695a22317,2024-07-01,230755.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Capital markets service,2024-07-01,231058.83,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 32051996-9e3b-4f73-85bb-1464c2045685,2024-07-01,234855.83,Retired,65
+GBP,GB45SCAM5315209473,NL,DuPont,Diversified company fee,2024-07-01,234926.26,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Investment fund entry,2024-07-01,234994.65,Retired,65
+GBP,GB45SCAM5315209473,Canada,Goldman Sachs,Stock purchase,2024-07-01,235008.25,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 4535e86c-7101-4722-a721-2ff4969a256c,2024-07-01,238805.25,Retired,65
+GBP,GB45SCAM5315209473,France,Cisco Systems,Software license fee payment,2024-07-01,238819.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e393baf1-7b59-4ada-bb0b-0ba1bab37352,2024-07-01,242616.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Sam Bakker-Stettyn,Rent assistance,2024-07-01,242670.56,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Medication purchase,2024-07-01,242715.56,Retired,65
+GBP,GB45SCAM5315209473,NL,Maarten Dirksen,Loan to family,2024-08-01,242724.18,Retired,65
+GBP,GB45SCAM5315209473,NL,Alphabet Inc.,Web hosting fee,2024-08-01,242748.39,Retired,65
+GBP,GB45SCAM5315209473,NL,Daimler,Auto repair bill,2024-08-01,242787.47,Retired,65
+GBP,GB45SCAM5315209473,United States,Toyota,Vehicle service charge,2024-08-01,242799.21,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: da063293-c54a-4203-86bf-f308aea787fc,2024-08-01,246596.21,Retired,65
+GBP,GB45SCAM5315209473,NL,Apple Inc.,Technology services invoice payment,2024-08-01,246629.55,Retired,65
+GBP,GB45SCAM5315209473,NL,AstraZeneca,Pharmacy bill,2024-08-01,246649.34,Retired,65
+GBP,GB45SCAM5315209473,Canada,Bayer,Drug order payment,2024-08-01,246665.44,Retired,65
+GBP,GB45SCAM5315209473,NL,Lina van Holland-Huijzing,Reimbursement for groceries,2024-08-01,246689.08,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9d98860c-98d5-4d8c-90d5-3f7856923ac4,2024-08-01,250486.08,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9efd5967-60dd-407d-8d7d-f22d144bc46a,2024-08-01,250489.83,Retired,65
+GBP,GB45SCAM5315209473,NL,Gilead Sciences,Laboratory service charge,2024-08-01,250569.38,Retired,65
+GBP,GB45SCAM5315209473,NL,Ford Motor,Vehicle service charge,2024-08-01,250632.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 47c2bc58-de71-497c-99b8-75611123fd28,2024-08-01,254429.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 08c2f8ae-80df-45d0-9190-3f688edc46bf,2024-08-01,258226.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Renske Hoogers,Gas money,2024-08-01,258322.7,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,BMW,Car parts order,2024-08-01,258328.65,Retired,65
+GBP,GB45SCAM5315209473,NL,Amélie van Mare-van Dagsburg,Split vacation cost,2024-08-01,258339.16,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Ford Motor,Vehicle service charge,2024-08-01,258358.75,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c1439c98-f866-42c8-a9a1-8bd8345f5110,2024-08-01,262155.75,Retired,65
+GBP,GB45SCAM5315209473,NL,Hanna van Hamaland,Christmas gift,2024-08-01,262223.13,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Boeing,Space exploration fee,2024-08-01,262346.95,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f0c834b9-3e6c-472a-abb1-f9125e3bd2a5,2024-08-01,266143.95,Retired,65
+GBP,GB45SCAM5315209473,NL,Berkshire Hathaway,Conglomerate product order,2024-08-01,266153.92,Retired,65
+GBP,GB45SCAM5315209473,NL,3M,Conglomerate product order,2024-08-01,266162.91,Retired,65
+GBP,GB45SCAM5315209473,NL,AT&T,Cable service subscription,2024-08-01,266170.34,Retired,65
+GBP,GB45SCAM5315209473,NL,Jonas Maas,Pet expenses,2024-08-01,266171.38,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 38f0a6b4-0af6-4acd-b6f7-006d174f7fd6,2024-08-01,269968.38,Retired,65
+GBP,GB45SCAM5315209473,NL,Tim van Oirschot,Christmas gift,2024-08-01,269993.51,Retired,65
+GBP,GB45SCAM5315209473,NL,Vigo Köster,Shared ride expenses,2024-08-01,270018.56,Retired,65
+GBP,GB45SCAM5315209473,NL,Oracle,Web hosting fee,2024-08-01,270024.6,Retired,65
+GBP,GB45SCAM5315209473,NL,Honeywell,Business unit invoice,2024-08-01,270036.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Bristol-Myers Squibb,Drug order payment,2024-08-01,270047.6,Retired,65
+GBP,GB45SCAM5315209473,Japan,Novartis,Drug order payment,2024-08-01,270110.53,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f5b63293-27ae-4026-8fc5-91b0e2dee0b6,2024-08-01,273907.53,Retired,65
+GBP,GB45SCAM5315209473,NL,Alphabet Inc.,Web hosting fee,2024-08-01,273914.83,Retired,65
+GBP,GB45SCAM5315209473,Austria,Dell Technologies,Cloud storage subscription,2024-08-01,273933.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Mitsubishi,Business unit invoice,2024-08-01,273969.68,Retired,65
+GBP,GB45SCAM5315209473,NL,Huawei,Cloud storage subscription,2024-08-01,274053.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5eb39865-47b4-4d51-9e67-902fcb42f44a,2024-08-01,277850.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Xavi de Wit,Reimbursement for travel,2024-08-01,277902.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Dell Technologies,Web hosting fee,2024-08-01,277911.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b3391b12-53c8-40a4-8f2b-88110d6c9d1f,2024-08-01,281708.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Facebook,Influencer collaboration fee,2024-08-01,281761.26,Retired,65
+GBP,GB45SCAM5315209473,NL,Elizabeth van der Horst,Child support,2024-08-01,281778.7,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Fashion brand order,2024-08-01,281781.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Mitsubishi,Conglomerate product order,2024-08-01,281798.79,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b3760d27-0b04-4d17-9a6f-10180ce815af,2024-08-01,281957.71,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 528be185-95e9-4b3e-9b7c-a141932c39b2,2024-08-01,285754.71,Retired,65
+GBP,GB45SCAM5315209473,NL,Annemijn Coreth von und zu Coredo und Starkenberg-Galijn,Graduation gift,2024-08-01,285767.47,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 99c9e4a5-4fe1-4185-ab0e-a8be59702f40,2024-08-01,289564.47,Retired,65
+GBP,GB45SCAM5315209473,NL,General Electric,Diversified company fee,2024-08-01,289566.66,Retired,65
+GBP,GB45SCAM5315209473,NL,Amazon,E-commerce order,2024-08-01,289646.82,Retired,65
+GBP,GB45SCAM5315209473,Canada,Bas Heymans-Feltzer,Grocery money,2024-08-01,289666.6,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9d248c3f-2f7f-4e03-af73-1b3e28262abe,2024-08-01,293463.6,Retired,65
+GBP,GB45SCAM5315209473,Canada,ByteDance,Software license fee payment,2024-08-01,294270.46,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Bayer,Drug order payment,2024-08-01,294286.03,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b9124d1b-b943-4152-9942-8ab2984e7878,2024-08-01,294296.82,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Goldman Sachs,Investment fund entry,2024-08-01,294307.49,Retired,65
+GBP,GB45SCAM5315209473,NL,Daimler,Car purchase,2024-08-01,294336.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 58c87650-79b1-4ef1-ae88-731d230b2e13,2024-08-01,298133.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Airbus,Aerospace parts purchase,2024-08-01,298155.92,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Novartis,Medication purchase,2024-08-01,298162.16,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Tata Consultancy Services,System upgrade fee,2024-08-01,298164.52,Retired,65
+GBP,GB45SCAM5315209473,NL,Procter & Gamble,Subscription box service,2024-08-01,298219.67,Retired,65
+GBP,GB45SCAM5315209473,NL,Alyssa Vertoor,Reimbursement for bills,2024-08-01,298469.21,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 88e97772-f3bf-4f62-9db7-ca1d010c284f,2024-08-01,302266.21,Retired,65
+GBP,GB45SCAM5315209473,NL,Unilever,Subscription box service,2024-08-01,302274.67,Retired,65
+GBP,GB45SCAM5315209473,NL,General Electric,Corporate services payment,2024-08-01,302278.99,Retired,65
+GBP,GB45SCAM5315209473,Canada,AstraZeneca,Pharmacy bill,2024-08-01,302281.34,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ca01249b-99ce-4ab3-9ea1-0bbd1ff33dfe,2024-08-01,306078.34,Retired,65
+GBP,GB45SCAM5315209473,NL,Cisco Systems,Cloud storage subscription,2024-08-01,306152.14,Retired,65
+GBP,GB45SCAM5315209473,NL,Tata Consultancy Services,System upgrade fee,2024-08-01,306226.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 1e34b569-c9fa-4f83-b303-f416517fc19b,2024-08-01,310023.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Toyota,Vehicle service charge,2024-08-01,310029.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Roche,Drug order payment,2024-08-01,310048.9,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 14149564-3d75-4fe5-9049-3efbf6881f58,2024-08-01,313845.9,Retired,65
+GBP,GB45SCAM5315209473,United States,Daimler,Vehicle service charge,2024-08-01,313884.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Clothing purchase,2024-08-01,313907.32,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Capital markets service,2024-08-01,313961.72,Retired,65
+GBP,GB45SCAM5315209473,Germany,BASF,Laboratory reagents buy,2024-08-01,313985.44,Retired,65
+GBP,GB45SCAM5315209473,United States,Meta Platforms,Cloud storage subscription,2024-08-01,314072.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ea13a3d7-3efb-4f3f-9316-4ac5a543607d,2024-08-01,317869.12,Retired,65
+GBP,GB45SCAM5315209473,United States,ByteDance,Web hosting fee,2024-08-01,318094.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Unilever,Order payment,2024-08-01,318098.28,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c8946ee6-04c0-425a-8020-cc97d6e322f3,2024-08-01,321895.28,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Drug order payment,2024-08-01,321913.72,Retired,65
+GBP,GB45SCAM5315209473,NL,Renault,Auto repair bill,2024-08-01,321923.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 097576fe-5175-4dc3-b453-e6ff10b2a1e5,2024-08-01,325720.17,Retired,65
+GBP,GB45SCAM5315209473,Canada,Accenture,Consulting fee,2024-08-01,325771.19,Retired,65
+GBP,GB45SCAM5315209473,NL,Verizon,Telecom invoice,2024-08-01,325811.83,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 190932b9-90c9-40fa-bbdc-33a3d8f8aac4,2024-08-01,329608.83,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Geldmaat ATM,Geldmaat: 94437cd0-853e-4f77-998f-b4578e6ed232,2024-08-01,329752.49,Retired,65
+GBP,GB45SCAM5315209473,NL,Accenture,Expert consultation fee,2024-08-01,329850.46,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 3d4a62dd-ba88-4ea7-9104-6a62e7ee060d,2024-08-01,333647.46,Retired,65
+GBP,GB45SCAM5315209473,Belgium,Tata Consultancy Services,IT support fee,2024-08-01,333648.69,Retired,65
+GBP,GB45SCAM5315209473,France,Romy Broeckx,Party contribution,2024-08-01,333662.62,Retired,65
+GBP,GB45SCAM5315209473,Italy,AstraZeneca,Drug order payment,2024-08-01,333668.9,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Apparel shopping,2024-08-01,333681.28,Retired,65
+GBP,GB45SCAM5315209473,Canada,DuPont,Business unit invoice,2024-08-01,333701.19,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 4ef45035-681b-4f06-916a-23cf67aa2a93,2024-08-01,337498.19,Retired,65
+GBP,GB45SCAM5315209473,NL,SoftBank,Corporate services payment,2024-08-01,337504.46,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Investment fund entry,2024-08-01,337542.38,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Sportswear buy,2024-08-01,337551.39,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Felix de Groot,Reimbursement for shopping,2024-08-01,337578.07,Retired,65
+GBP,GB45SCAM5315209473,NL,Jasmijn Wever,Christmas gift,2024-08-01,337592.93,Retired,65
+GBP,GB45SCAM5315209473,NL,Mitsubishi,Diversified company fee,2024-08-01,337608.23,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 25b48de8-6d75-41d3-9f84-4d14526616bb,2024-08-01,341405.23,Retired,65
+GBP,GB45SCAM5315209473,United States,Morgan Stanley,Brokerage fee,2024-08-01,341432.59,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Drug order payment,2024-08-01,341435.44,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 3db97c1b-b446-41d2-bdc0-a7c80d6e76ef,2024-08-01,345232.44,Retired,65
+GBP,GB45SCAM5315209473,Canada,Huawei,Web hosting fee,2024-08-01,345251.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Brokerage fee,2024-08-01,345291.2,Retired,65
+GBP,GB45SCAM5315209473,NL,Samuel de Hoogh,Rent deposit,2024-08-01,345296.91,Retired,65
+GBP,GB45SCAM5315209473,NL,PepsiCo,Food delivery,2024-08-01,345327.89,Retired,65
+GBP,GB45SCAM5315209473,NL,Bayer,Medication purchase,2024-08-01,345345.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 4cb9b028-e802-4884-bc9e-3d5894676a2d,2024-08-01,349142.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Ben Heribert van Laon,Shared hotel room cost,2024-08-01,349151.89,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Sanofi,Pharmacy bill,2024-08-01,349259.3,Retired,65
+GBP,GB45SCAM5315209473,NL,Max Mosley,School fees,2024-08-01,349302.46,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ef01a7da-ad7f-4675-b40c-554ea42ab36e,2024-08-01,353099.46,Retired,65
+GBP,GB45SCAM5315209473,United States,Accenture,Professional service invoice,2024-08-01,353120.45,Retired,65
+GBP,GB45SCAM5315209473,NL,Accenture,Professional service invoice,2024-08-01,353156.27,Retired,65
+GBP,GB45SCAM5315209473,Germany,3M,Corporate services payment,2024-08-01,353160.81,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Geldmaat ATM,Geldmaat: 7c0e1d6e-019a-47e9-88ce-4b1ea83849b2,2024-08-01,353221.37,Retired,65
+GBP,GB45SCAM5315209473,Germany,Vera van Luxemburg,School fees,2024-08-01,353228.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: df746cf3-bc28-4b30-a429-eac9154ea400,2024-08-01,357025.96,Retired,65
+GBP,GB45SCAM5315209473,Italy,Linn Wouters van Eijndhoven,Split vacation cost,2024-08-01,357044.83,Retired,65
+GBP,GB45SCAM5315209473,Spain,Volkswagen,Car purchase,2024-08-01,357051.56,Retired,65
+GBP,GB45SCAM5315209473,NL,Meta Platforms,Software license fee payment,2024-08-01,357055.72,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 78b587b1-6541-4b1a-a78a-2ae45ac80521,2024-08-01,360852.72,Retired,65
+GBP,GB45SCAM5315209473,Spain,Duke Energy,Electricity payment,2024-08-01,360882.75,Retired,65
+GBP,GB45SCAM5315209473,Canada,Duke Energy,Renewable energy subscription,2024-08-01,360915.37,Retired,65
+GBP,GB45SCAM5315209473,NL,Nike,Clothing purchase,2024-08-01,360921.3,Retired,65
+GBP,GB45SCAM5315209473,NL,Isis van Hemert,Graduation gift,2024-08-01,360924.4,Retired,65
+GBP,GB45SCAM5315209473,NL,IBM,Cloud storage subscription,2024-08-01,360938.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: fbf2f3bf-ce04-43c0-b0f4-7437d402546e,2024-08-01,364735.17,Retired,65
+GBP,GB45SCAM5315209473,United States,Boeing,Space exploration fee,2024-08-01,364796.85,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d1851636-e464-4a24-9ec7-a5e539e0212c,2024-09-01,364870.67,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 80484e40-86aa-40e8-9144-ba13ac644c40,2024-09-01,368667.67,Retired,65
+GBP,GB45SCAM5315209473,Germany,Airbus,Aircraft maintenance,2024-09-01,368732.59,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Goldman Sachs,Stock purchase,2024-09-01,368738.02,Retired,65
+GBP,GB45SCAM5315209473,NL,Oracle,Cloud storage subscription,2024-09-01,368743.47,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c03add1a-10ac-4ee1-b458-0dc19bb8e84b,2024-09-01,372540.47,Retired,65
+GBP,GB45SCAM5315209473,NL,Huawei,Cloud storage subscription,2024-09-01,372552.7,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Roche,Drug order payment,2024-09-01,372574.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Airbus,Aerospace parts purchase,2024-09-01,372632.77,Retired,65
+GBP,GB45SCAM5315209473,NL,Accenture,Advisory session charge,2024-09-01,372636.21,Retired,65
+GBP,GB45SCAM5315209473,NL,3M,Business unit invoice,2024-09-01,372671.91,Retired,65
+GBP,GB45SCAM5315209473,Germany,Verizon,Data plan payment,2024-09-01,372673.58,Retired,65
+GBP,GB45SCAM5315209473,NL,Alibaba,E-commerce order,2024-09-01,373137.13,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: f0ccf7f0-5fe3-4870-bd10-a50042f0e1a1,2024-09-01,376934.13,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9e3916bd-9068-4c5f-8fd7-99937500d090,2024-09-01,377071.52,Retired,65
+GBP,GB45SCAM5315209473,Spain,PepsiCo,Food delivery,2024-09-01,377111.43,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 090fa068-054e-4409-90e4-5fe33f25e6b5,2024-09-01,380908.43,Retired,65
+GBP,GB45SCAM5315209473,Italy,Oracle,Web hosting fee,2024-09-01,381007.71,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: aa083ad5-526d-43ce-88fd-41689608c5e4,2024-09-01,384804.71,Retired,65
+GBP,GB45SCAM5315209473,NL,Roche,Healthcare prescription,2024-09-01,384821.3,Retired,65
+GBP,GB45SCAM5315209473,Hungary,Facebook,Premium account upgrade,2024-09-01,384836.2,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,AT&T,Data plan payment,2024-09-01,384900.8,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 3cd2bfeb-76cd-406f-981d-618e4eddaa3d,2024-09-01,388697.8,Retired,65
+GBP,GB45SCAM5315209473,NL,Gilead Sciences,Clinical trial payment,2024-09-01,388741.41,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 7df88985-9724-44a2-abf4-2cac76813a2b,2024-09-01,392538.41,Retired,65
+GBP,GB45SCAM5315209473,NL,Jayson Bosch-van de Ven,Pet expenses,2024-09-01,392612.95,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 6e24e7a1-176a-4f5e-bfdc-d6bb50f330ea,2024-09-01,392735.46,Retired,65
+GBP,GB45SCAM5315209473,France,Procter & Gamble,Retail goods payment,2024-09-01,392759.29,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: cd25f600-09b8-424f-9f0d-18c1c19703f7,2024-09-01,396556.29,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Ise Strijker-Nijman,Reimbursement for shopping,2024-09-01,396562.86,Retired,65
+GBP,GB45SCAM5315209473,Canada,Accenture,Expert consultation fee,2024-09-01,396621.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9e802b8c-09b8-406f-975a-e4c2e1d90f81,2024-09-01,400418.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Oracle,Cloud storage subscription,2024-09-01,400451.86,Retired,65
+GBP,GB45SCAM5315209473,NL,Procter & Gamble,Order payment,2024-09-01,400493.29,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b47189fc-c301-4e8c-95cf-3a22bf6e2a12,2024-09-01,404290.29,Retired,65
+GBP,GB45SCAM5315209473,NL,Berkshire Hathaway,Corporate services payment,2024-09-01,404385.73,Retired,65
+GBP,GB45SCAM5315209473,NL,Bristol-Myers Squibb,Medication purchase,2024-09-01,404425.92,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Janne Karels,Baby shower gift,2024-09-01,404472.88,Retired,65
+GBP,GB45SCAM5315209473,NL,IBM,Software license fee payment,2024-09-01,404493.95,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b5ce7011-9bd8-47e3-b852-9cbf45790a26,2024-09-01,408290.95,Retired,65
+GBP,GB45SCAM5315209473,NL,DuPont,Business unit invoice,2024-09-01,408297.08,Retired,65
+GBP,GB45SCAM5315209473,Japan,Huawei,Technology services invoice payment,2024-09-01,408302.53,Retired,65
+GBP,GB45SCAM5315209473,NL,Annemijn Feltzer,Household expenses,2024-09-01,408305.93,Retired,65
+GBP,GB45SCAM5315209473,Canada,Verizon,Telecom invoice,2024-09-01,408351.49,Retired,65
+GBP,GB45SCAM5315209473,NL,Alibaba,Online shopping,2024-09-01,408379.43,Retired,65
+GBP,GB45SCAM5315209473,NL,Renault,Car purchase,2024-09-01,408392.08,Retired,65
+GBP,GB45SCAM5315209473,Japan,Berkshire Hathaway,Conglomerate product order,2024-09-01,408408.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: a2faa19d-ddb0-48e4-91bf-3de7ce6dbc2c,2024-09-01,412205.01,Retired,65
+GBP,GB45SCAM5315209473,Denmark,BASF,Cleaning products order,2024-09-01,412211.13,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Oracle,Web hosting fee,2024-09-01,412274.11,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Brokerage fee,2024-09-01,412291.18,Retired,65
+GBP,GB45SCAM5315209473,NL,Gerrit Tirie,Support money,2024-09-01,412314.8,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d653ccb6-5465-4858-ba86-c301a28ff6a0,2024-09-01,416111.8,Retired,65
+GBP,GB45SCAM5315209473,United States,Bryan Boogaerts-van Haeften,Reimbursement for medical expenses,2024-09-01,416116.42,Retired,65
+GBP,GB45SCAM5315209473,Italy,Allianz,Claim settlement,2024-09-01,416119.3,Retired,65
+GBP,GB45SCAM5315209473,NL,Allianz,Insurance premium,2024-09-01,416124.19,Retired,65
+GBP,GB45SCAM5315209473,NL,Dell Technologies,Software license fee payment,2024-09-01,416164.3,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 328406d3-4972-4496-a3cb-36150c4e8033,2024-09-01,419961.3,Retired,65
+GBP,GB45SCAM5315209473,NL,3M,Business unit invoice,2024-09-01,419997.88,Retired,65
+GBP,GB45SCAM5315209473,NL,BASF,Industrial chemicals purchase,2024-09-01,420014.92,Retired,65
+GBP,GB45SCAM5315209473,NL,BASF,Chemical supply order,2024-09-01,420050.86,Retired,65
+GBP,GB45SCAM5315209473,Spain,Honeywell,Business unit invoice,2024-09-01,420086.42,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e19eacf3-4d52-49bd-b5fd-82790bc255fc,2024-09-01,423883.42,Retired,65
+GBP,GB45SCAM5315209473,Denmark,Roche,Drug order payment,2024-09-01,423922.65,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 7e8926e7-0636-4402-9361-e6374eed1f96,2024-09-01,427719.65,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Duke Energy,Renewable energy subscription,2024-09-01,427749.46,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Dell Technologies,Cloud storage subscription,2024-09-01,427887.84,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 2e05730d-b873-46cb-b222-110a68c859e8,2024-09-01,431684.84,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: b2b538c2-6734-4fc7-9f24-eafb67933e28,2024-09-01,431765.58,Retired,65
+GBP,GB45SCAM5315209473,NL,Bayer,Medication purchase,2024-09-01,431778.0,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Morgan Stanley,Stock purchase,2024-09-01,431781.8,Retired,65
+GBP,GB45SCAM5315209473,France,ByteDance,Software license fee payment,2024-09-01,431802.14,Retired,65
+GBP,GB45SCAM5315209473,NL,General Electric,Business unit invoice,2024-09-01,431839.13,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 96d1c6e0-146f-4984-80a2-98e3a320c2ab,2024-09-01,435636.13,Retired,65
+GBP,GB45SCAM5315209473,Germany,3M,Diversified company fee,2024-09-01,435677.78,Retired,65
+GBP,GB45SCAM5315209473,NL,Alphabet Inc.,Web hosting fee,2024-09-01,435684.61,Retired,65
+GBP,GB45SCAM5315209473,Germany,AT&T,Data plan payment,2024-09-01,435708.63,Retired,65
+GBP,GB45SCAM5315209473,NL,Volkswagen,Car parts order,2024-09-01,435720.96,Retired,65
+GBP,GB45SCAM5315209473,NL,Elin Verhaar-Niermann,Shared subscription,2024-09-01,435754.17,Retired,65
+GBP,GB45SCAM5315209473,NL,Robin Klerks,Party contribution,2024-09-01,435757.62,Retired,65
+GBP,GB45SCAM5315209473,Spain,Verizon,Phone bill,2024-09-01,435759.74,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c69567fe-7e1c-47d0-b46d-f302b9353a5b,2024-09-01,439556.74,Retired,65
+GBP,GB45SCAM5315209473,Italy,Berkshire Hathaway,Corporate services payment,2024-09-01,439613.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Novartis,Drug order payment,2024-09-01,439635.06,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d991b917-9db8-4c91-962f-d40d0e4a50db,2024-09-01,443432.06,Retired,65
+GBP,GB45SCAM5315209473,NL,Verizon,Phone bill,2024-09-01,443441.18,Retired,65
+GBP,GB45SCAM5315209473,United States,Johnson & Johnson,Medication purchase,2024-09-01,443482.51,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Merck & Co.,Healthcare prescription,2024-09-01,443497.1,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9dd216d6-7e38-4834-b56f-667118748965,2024-09-01,447294.1,Retired,65
+GBP,GB45SCAM5315209473,Canada,Berat Cornelisse,Debt settlement,2024-09-01,447298.35,Retired,65
+GBP,GB45SCAM5315209473,Austria,Ford Motor,Vehicle service charge,2024-09-01,447363.77,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: a04dd384-c743-4414-a601-4569b6dfa0ce,2024-09-01,447470.0,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: fa7d895f-2e1b-489e-bcc4-f671e8aa59b0,2024-09-01,451267.0,Retired,65
+GBP,GB45SCAM5315209473,NL,Cisco Systems,Cloud storage subscription,2024-09-01,451323.06,Retired,65
+GBP,GB45SCAM5315209473,NL,Huawei,Software license fee payment,2024-09-01,451345.9,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Geldmaat ATM,Geldmaat: 3f7bf394-20b7-4afc-9332-26d21b522011,2024-09-01,451349.7,Retired,65
+GBP,GB45SCAM5315209473,NL,Fabiënne Rek-van Duivenvoorde,Loan repayment,2024-09-01,451404.03,Retired,65
+GBP,GB45SCAM5315209473,NL,Pfizer,Medication purchase,2024-09-01,451410.33,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 714b6ecc-ece3-496b-b656-b4b4699027bd,2024-09-01,455207.33,Retired,65
+GBP,GB45SCAM5315209473,NL,Meta Platforms,Web hosting fee,2024-09-01,455218.76,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 6f6cfffa-5f2e-425a-b252-d577d3925fbf,2024-09-01,459015.76,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: a0edad84-689b-488a-8cd5-3da9685ec586,2024-09-01,459140.76,Retired,65
+GBP,GB45SCAM5315209473,NL,SoftBank,Diversified company fee,2024-09-01,459146.88,Retired,65
+GBP,GB45SCAM5315209473,NL,Rens Schroeff-van Ommeren,Loan to family,2024-09-01,459182.91,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ab81ed5d-4054-4c92-b555-b5f7dbce0992,2024-09-01,462979.91,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Johnson & Johnson,Pharmacy bill,2024-09-01,463030.19,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,SoftBank,Business unit invoice,2024-09-01,463058.6,Retired,65
+GBP,GB45SCAM5315209473,United States,Morgan Stanley,Brokerage fee,2024-09-01,463113.02,Retired,65
+GBP,GB45SCAM5315209473,NL,Sanofi,Healthcare prescription,2024-09-01,463126.85,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c16f532b-8895-4a47-be6b-63febda710b9,2024-09-01,466923.85,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Huawei,Software license fee payment,2024-09-01,466944.26,Retired,65
+GBP,GB45SCAM5315209473,NL,Mike Totwiller,Reimbursement for shopping,2024-09-01,466974.11,Retired,65
+GBP,GB45SCAM5315209473,NL,Novartis,Pharmacy bill,2024-09-01,467010.04,Retired,65
+GBP,GB45SCAM5315209473,NL,Bayer,Pharmacy bill,2024-09-01,467013.72,Retired,65
+GBP,GB45SCAM5315209473,NL,Lieve van de Ven-van Stralen,Household expenses,2024-09-01,467048.98,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e22bf0f3-6adf-48fb-b82a-b9163a0a3d29,2024-09-01,470845.98,Retired,65
+GBP,GB45SCAM5315209473,NL,Oracle,Software license fee payment,2024-09-01,470865.3,Retired,65
+GBP,GB45SCAM5315209473,NL,Apple Inc.,Technology services invoice payment,2024-09-01,470870.23,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 2fd864b0-19a6-44d4-b520-1c8b0e6a7571,2024-09-01,474667.23,Retired,65
+GBP,GB45SCAM5315209473,Austria,Amy van Beek-Hoekstra,School fees,2024-09-01,474747.55,Retired,65
+GBP,GB45SCAM5315209473,NL,Novartis,Healthcare prescription,2024-09-01,474753.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 40e42a92-ec7b-46cc-93d4-800c5e188fe6,2024-09-01,474839.44,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: bd819c00-bf7e-4dbd-9600-b305ba6596d3,2024-09-01,478636.44,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Capital markets service,2024-09-01,478640.69,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Stock purchase,2024-09-01,478649.15,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Duke Energy,Electricity payment,2024-09-01,478691.34,Retired,65
+GBP,GB45SCAM5315209473,Spain,Sanofi,Medication purchase,2024-09-01,478735.99,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5f62cbfc-aa07-4720-9af3-a1e609da12b0,2024-09-01,482532.99,Retired,65
+GBP,GB45SCAM5315209473,NL,GlaxoSmithKline,Medication purchase,2024-10-01,482536.26,Retired,65
+GBP,GB45SCAM5315209473,NL,Daimler,Vehicle service charge,2024-10-01,482553.22,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e29caab9-7868-47a6-8ace-9749cc8bb7b7,2024-10-01,486350.22,Retired,65
+GBP,GB45SCAM5315209473,Germany,Xavi Timmermans,Shared hotel room cost,2024-10-01,486416.92,Retired,65
+GBP,GB45SCAM5315209473,NL,SoftBank,Corporate services payment,2024-10-01,486418.55,Retired,65
+GBP,GB45SCAM5315209473,NL,PepsiCo,Food delivery,2024-10-01,486484.13,Retired,65
+GBP,GB45SCAM5315209473,NL,Alphabet Inc.,Software license fee payment,2024-10-01,486500.4,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 9d6e70cc-52cc-43b5-900b-68e0d46767be,2024-10-01,490297.4,Retired,65
+GBP,GB45SCAM5315209473,NL,Honeywell,Corporate services payment,2024-10-01,490313.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Gilead Sciences,Laboratory service charge,2024-10-01,490418.08,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 1bf42a3a-2024-446d-baff-aab98da0ac09,2024-10-01,494215.08,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Cisco Systems,Software license fee payment,2024-10-01,494285.21,Retired,65
+GBP,GB45SCAM5315209473,France,Sanne Ridder-Koeman,Rent assistance,2024-10-01,494295.35,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: ed7d0f52-f9d3-48d9-a722-ce5d97a38f1d,2024-10-01,498092.35,Retired,65
+GBP,GB45SCAM5315209473,United States,Amin de Koning,Medical bills,2024-10-01,498141.87,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 26dbf40e-8880-4e4e-9fb2-6b4bcbe9f25c,2024-10-01,501938.87,Retired,65
+GBP,GB45SCAM5315209473,NL,Gilead Sciences,Genetic testing kit,2024-10-01,502388.85,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 4376844b-3751-4de6-9e8a-e7b29ed961e6,2024-10-01,506185.85,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 33343f68-0742-4d2b-ae03-6fcce033ba38,2024-10-01,506228.06,Retired,65
+GBP,GB45SCAM5315209473,NL,AT&T,Cable service subscription,2024-10-01,506298.13,Retired,65
+GBP,GB45SCAM5315209473,United States,Tata Consultancy Services,Technical service charge,2024-10-01,506307.08,Retired,65
+GBP,GB45SCAM5315209473,Canada,Johnson & Johnson,Drug order payment,2024-10-01,506362.44,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: bac47f9b-d518-447e-ab83-5bc6f6b3fd90,2024-10-01,510159.44,Retired,65
+GBP,GB45SCAM5315209473,NL,Cisco Systems,Software license fee payment,2024-10-01,510181.78,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 8a133f91-43dd-4809-85d5-23cf9a95c853,2024-10-01,513978.78,Retired,65
+GBP,GB45SCAM5315209473,Canada,Duke Energy,Utility bill,2024-10-01,514037.8,Retired,65
+GBP,GB45SCAM5315209473,Denmark,Sepp Veenstra-Wouters,New baby gift,2024-10-01,514068.66,Retired,65
+GBP,GB45SCAM5315209473,NL,Tobias Vervoort,Mortgage help,2024-10-01,514097.14,Retired,65
+GBP,GB45SCAM5315209473,NL,Ford Motor,Car purchase,2024-10-01,514174.31,Retired,65
+GBP,GB45SCAM5315209473,NL,Goldman Sachs,Capital markets service,2024-10-01,514186.05,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: d4164496-79be-41f7-a665-b06e1036685d,2024-10-01,517983.05,Retired,65
+GBP,GB45SCAM5315209473,NL,DuPont,Business unit invoice,2024-10-01,518016.36,Retired,65
+GBP,GB45SCAM5315209473,Japan,ByteDance,Technology services invoice payment,2024-10-01,518037.01,Retired,65
+GBP,GB45SCAM5315209473,NL,Jim van Leeuwen,Family loan repayment,2024-10-01,518045.57,Retired,65
+GBP,GB45SCAM5315209473,NL,Evelien van der Zijl,New baby gift,2024-10-01,518116.57,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: c777d2d5-a9c4-4820-9908-9e0cf4a02de0,2024-10-01,521913.57,Retired,65
+GBP,GB45SCAM5315209473,NL,Morgan Stanley,Stock purchase,2024-10-01,521970.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: e7fee6b5-dee7-4788-8a32-565995b38738,2024-10-01,525767.12,Retired,65
+GBP,GB45SCAM5315209473,NL,Airbus,Aircraft maintenance,2024-10-01,525828.28,Retired,65
+GBP,GB45SCAM5315209473,Great Britain,Roche,Drug order payment,2024-10-01,525862.0,Retired,65
+GBP,GB45SCAM5315209473,NL,Hendrik Matthews,Pet expenses,2024-10-01,525867.16,Retired,65
+GBP,GB45SCAM5315209473,United States,Toyota,Vehicle service charge,2024-10-01,525894.27,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5d11cdc1-a955-4fb9-9ed9-e12cf58f9d96,2024-10-01,529691.27,Retired,65
+GBP,GB45SCAM5315209473,NL,Lieve Scardino,Anniversary gift,2024-10-01,529730.11,Retired,65
+GBP,GB45SCAM5315209473,NL,Johnson & Johnson,Pharmacy bill,2024-10-01,529736.02,Retired,65
+GBP,GB45SCAM5315209473,NL,Mehmet Gerritsen,Shared subscription,2024-10-01,529762.09,Retired,65
+GBP,GB45SCAM5315209473,NL,Mitsubishi,Business unit invoice,2024-10-01,529772.15,Retired,65
+GBP,GB45SCAM5315209473,France,ByteDance,Technology services invoice payment,2024-10-01,529798.07,Retired,65
+GBP,GB45SCAM5315209473,United States,Pfizer,Medication purchase,2024-10-01,529842.9,Retired,65
+GBP,GB45SCAM5315209473,NL,Geldmaat ATM,Geldmaat: 5c3404dd-3cf1-4ba8-b40f-59023c142cfb,2024-10-01,533639.9,Retired,65
